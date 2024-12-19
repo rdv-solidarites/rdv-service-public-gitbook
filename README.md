@@ -86,22 +86,11 @@ Un agent peut être associé à plusieurs organisations. Cette association lui d
 
 <summary>Puis-je synchroniser l’agenda RDV Service Public avec un calendrier externe ?</summary>
 
-Vous disposez de deux moyens :
+Vous pouvez synchroniser les RDV pris via RDV Service Public dans votre calendrier externe via différentes méthodes : notifications emails avec pièces-jointes ICS ou lien Webcal fixe, ainsi qu’un prototype de synchronisation pour Microsoft 365 Outlook.
 
-*   **Une synchronisation par notifications email** : Vous pouvez activer ou désactiver des notifications d'informations sur votre adresse email. Vous trouverez ces options dans mon espace "mon compte" :&#x20;
+Voir plus d’informations sur cette page :
 
-    **→ cliquez sur votre prénom et nom en haut à droite de votre écran**
-
-    **→ cliquez sur "préférence de notifications"**&#x20;
-
-    Dans cet email, vous trouverez les informations du rendez-vous à chaque planification, modification ou annulation. Vous trouverez également dans la notification email un fichier .ics. Ce fichier permettra d'importer le rendez-vous dans un calendrier externe comme un calendrier Outlook.&#x20;
-*   **Une synchronisation par calendrier** : Le lien Webcal permet de connecter votre agenda RDV Service Public à un calendrier externe.Vous trouverez ces options dans mon espace "mon compte" :&#x20;
-
-    **→ cliquez sur votre prénom et nom en haut à droite de votre écran**
-
-    **→ cliquez sur "synchronisation calendrier"**&#x20;
-
-    Toutefois, cette méthode dépend du fonctionnement des calendrier externes. Si vous synchronisez votre agenda RDV Service Public avec Google Agenda, la mise à jour peut prendre jusqu'à 12 heures. **Avec le calendrier Outlook, l'affichage de votre rendez-vous est généralement plus rapide et peut apparaître dans l'heure suivant la prise de rendez-vous.**&#x20;
+[synchronisation-avec-un-logiciel-de-calendrier-externe.md](toutes-les-notions/synchronisation-avec-un-logiciel-de-calendrier-externe.md "mention")
 
 </details>
 

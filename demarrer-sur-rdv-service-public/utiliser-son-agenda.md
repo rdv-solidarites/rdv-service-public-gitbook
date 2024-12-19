@@ -42,8 +42,8 @@ Pour approfondir, vous trouverez des détails sur chaque fonctionnalité et conc
 [planifier-un-rendez-vous.md](../toutes-les-notions/planifier-un-rendez-vous.md)
 {% endcontent-ref %}
 
-{% content-ref url="../toutes-les-notions/la-synchronisation-calendrier.md" %}
-[la-synchronisation-calendrier.md](../toutes-les-notions/la-synchronisation-calendrier.md)
+{% content-ref url="../toutes-les-notions/synchronisation-avec-un-logiciel-de-calendrier-externe.md" %}
+[synchronisation-avec-un-logiciel-de-calendrier-externe.md](../toutes-les-notions/synchronisation-avec-un-logiciel-de-calendrier-externe.md)
 {% endcontent-ref %}
 
 {% content-ref url="../toutes-les-notions/gerer-les-fiches-usager.md" %}

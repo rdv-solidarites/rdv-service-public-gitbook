@@ -42,7 +42,7 @@
 * [Gérer les lieux](toutes-les-notions/gerer-les-lieux.md)
 * [Gérer les motifs](toutes-les-notions/gerer-les-motifs.md)
 * [Gérer les plages d’ouverture](toutes-les-notions/gerer-les-plages-douverture.md)
-* [La synchronisation calendrier](toutes-les-notions/la-synchronisation-calendrier.md)
+* [Synchronisation avec un logiciel de calendrier externe](toutes-les-notions/synchronisation-avec-un-logiciel-de-calendrier-externe.md)
 * [Gérer les services dans son territoire](toutes-les-notions/gerer-les-services-dans-son-territoire.md)
 * [Les droits d’accès des agents](toutes-les-notions/les-droits-dacces-des-agents.md)
 * [Les notifications SMS et emails](toutes-les-notions/les-notifications-sms-et-emails.md)
