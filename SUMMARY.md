@@ -8,16 +8,31 @@
 * [Configurer son organisation](demarrer-sur-rdv-service-public/configurer-son-organisation.md)
 * [Utiliser son agenda](demarrer-sur-rdv-service-public/utiliser-son-agenda.md)
 
+## DOCUMENTATION AGENTS
+
+* [Problèmes de réception des emails](documentation-agents/problemes-de-reception-des-emails.md)
+
 ## Documentation technique
 
 * [API](documentation-technique/api.md)
 * [Dépôt et Architecture](documentation-technique/depot-et-architecture.md)
+* [Informations pour les DSI](documentation-technique/informations-pour-les-dsi.md)
 
 ## Confidentialité et Sécurité
 
 * [Conditions générales d'utilisation](confidentialite-et-securite/conditions-generales-dutilisation.md)
 * [Politique de confidentialité](confidentialite-et-securite/politique-de-confidentialite.md)
 * [Mentions légales](confidentialite-et-securite/mentions-legales.md)
+
+## Documentation usagers
+
+* [Prendre un rendez-vous](documentation-usagers/prendre-un-rendez-vous.md)
+* [Comprendre les notifications de rendez-vous](documentation-usagers/comprendre-les-notifications-de-rendez-vous/README.md)
+  * [Exemple notification SMS ](documentation-usagers/comprendre-les-notifications-de-rendez-vous/exemple-notification-sms.md)
+  * [Exemple notification email](documentation-usagers/comprendre-les-notifications-de-rendez-vous/exemple-notification-email.md)
+* [Annuler un rendez-vous](documentation-usagers/annuler-un-rendez-vous/README.md)
+  * [exemple annulation SMS ](documentation-usagers/annuler-un-rendez-vous/exemple-annulation-sms.md)
+  * [exemple annulation email](documentation-usagers/annuler-un-rendez-vous/exemple-annulation-email.md)
 
 ## À propos
 
