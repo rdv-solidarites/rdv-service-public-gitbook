@@ -33,6 +33,7 @@
 * [Annuler un rendez-vous](documentation-usagers/annuler-un-rendez-vous/README.md)
   * [exemple annulation SMS ](documentation-usagers/annuler-un-rendez-vous/exemple-annulation-sms.md)
   * [exemple annulation email](documentation-usagers/annuler-un-rendez-vous/exemple-annulation-email.md)
+* [Transmettre un message ou un document à un agent](documentation-usagers/transmettre-un-message-ou-un-document-a-un-agent.md)
 
 ## À propos
 
