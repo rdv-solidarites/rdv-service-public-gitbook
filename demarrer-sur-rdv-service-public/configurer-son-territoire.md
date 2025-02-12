@@ -4,39 +4,19 @@ icon: map-location
 
 # Configurer son territoire
 
-Vous arrivez dans l'interface pour la première fois ? La création de votre compte fait suite à une prise de rendez-vous avec notre équipe. Vous êtes désormais <mark style="color:red;">**Agent Admin de Territoire**</mark> et vous devez réaliser les premières configurations pour déployer la solution dans vos services. Vous trouverez ci-après les premières étapes à réaliser :&#x20;
+## L’essentiel pas à pas
 
-{% stepper %}
-{% step %}
-### **Modifier les informations générales de votre territoire**
+Pour découvrir et comprendre l’essentiel des fonctionnalités d’un <mark style="color:red;">**Agent Admin de Territoire**</mark>, nous vous recommandons de consulter le tutoriel ci-dessous.
 
-**→** [Découvrir l'étape](https://scribehow.com/shared/Configurez_votre_territoire_sur_RDV_Service_Public__BCFQdTI3TGSzFSvWKWwV_g#98e1a48d)
-{% endstep %}
+Vous pouvez également cliquer directement sur la section qui vous intéresse :
 
-{% step %}
-### **Modifier et créer des organisations**
+* [_Modifier les informations générales de votre territoire_](https://scribehow.com/shared/Configurez_votre_territoire_sur_RDV_Service_Public__BCFQdTI3TGSzFSvWKWwV_g#98e1a48d)&#x20;
+* [_Modifier et créer des organisations_](https://scribehow.com/shared/Configurez_votre_territoire_sur_RDV_Service_Public__BCFQdTI3TGSzFSvWKWwV_g#57e65fe4)&#x20;
+* [_Activer des services_ ](https://scribehow.com/shared/Configurez_votre_territoire_sur_RDV_Service_Public__BCFQdTI3TGSzFSvWKWwV_g#cf3a76d2)
+* [_Créer des motifs à l'échelle du territoire_ ](https://scribehow.com/shared/Configurez_votre_territoire_sur_RDV_Service_Public__BCFQdTI3TGSzFSvWKWwV_g#f926a565)
+* [_Inviter vos agents_ ](https://scribehow.com/shared/Configurez_votre_territoire_sur_RDV_Service_Public__BCFQdTI3TGSzFSvWKWwV_g#8e97adb1)
 
-**→** [Découvrir l'étape](https://scribehow.com/shared/Configurez_votre_territoire_sur_RDV_Service_Public__BCFQdTI3TGSzFSvWKWwV_g#cf370531)
-{% endstep %}
-
-{% step %}
-### **Activer des services**
-
-**→** [Découvrir l'étape](https://scribehow.com/shared/Configurez_votre_territoire_sur_RDV_Service_Public__BCFQdTI3TGSzFSvWKWwV_g#4cc78e5c)
-{% endstep %}
-
-{% step %}
-### **Créer des motifs à l'échelle du territoire**
-
-**→** [Découvrir l'étape](https://scribehow.com/shared/Configurez_votre_territoire_sur_RDV_Service_Public__BCFQdTI3TGSzFSvWKWwV_g#7358593d)
-{% endstep %}
-
-{% step %}
-### **Inviter vos agents**
-
-**→** [Découvrir l'étape](https://scribehow.com/shared/Configurez_votre_territoire_sur_RDV_Service_Public__BCFQdTI3TGSzFSvWKWwV_g#f9a52d09)
-{% endstep %}
-{% endstepper %}
+{% embed url="https://scribehow.com/embed/Configurez_votre_territoire_sur_RDV_Service_Public__BCFQdTI3TGSzFSvWKWwV_g?as=scrollable" %}
 
 {% hint style="success" %}
 **Vous pouvez planifier un échange avec notre équipe pour vous aider dans votre configuration ! Pour réserver un créneau, cliquez** [**ici**](https://cal.com/team/rdv-service-public/aide-a-la-configuration)
