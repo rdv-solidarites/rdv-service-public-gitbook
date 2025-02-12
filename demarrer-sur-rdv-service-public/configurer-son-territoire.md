@@ -10,31 +10,31 @@ Vous arrivez dans l'interface pour la première fois ? La création de votre com
 {% step %}
 ### **Modifier les informations générales de votre territoire**
 
-→ [Découvrir étape](https://scribehow.com/shared/Configurez_votre_territoire_sur_RDV_Service_Public__BCFQdTI3TGSzFSvWKWwV_)
+→ [Découvrir l'étape](https://scribehow.com/shared/Configurez_votre_territoire_sur_RDV_Service_Public__BCFQdTI3TGSzFSvWKWwV_g#98e1a48d)
 {% endstep %}
 
 {% step %}
 ### **Modifier et créer des organisations**
 
-→ [Découvrir étape](https://scribehow.com/shared/Configurez_votre_territoire_sur_RDV_Service_Public__BCFQdTI3TGSzFSvWKWwV_g)
+→ [Découvrir l'étape](https://scribehow.com/shared/Configurez_votre_territoire_sur_RDV_Service_Public__BCFQdTI3TGSzFSvWKWwV_g#cf370531)
 {% endstep %}
 
 {% step %}
 ### **Activer des services**
 
-→ [Découvrir étape](https://scribehow.com/shared/Configurez_votre_territoire_sur_RDV_Service_Public__BCFQdTI3TGSzFSvWKWwV_g)
+→ [Découvrir l'étape](https://scribehow.com/shared/Configurez_votre_territoire_sur_RDV_Service_Public__BCFQdTI3TGSzFSvWKWwV_g)
 {% endstep %}
 
 {% step %}
 ### **Créer des motifs à l'échelle du territoire**
 
-→ [Découvrir étape](https://scribehow.com/shared/Configurez_votre_territoire_sur_RDV_Service_Public__BCFQdTI3TGSzFSvWKWwV_g#7358593d)
+→ [Découvrir l'étape](https://scribehow.com/shared/Configurez_votre_territoire_sur_RDV_Service_Public__BCFQdTI3TGSzFSvWKWwV_g#7358593d)
 {% endstep %}
 
 {% step %}
 ### **Inviter vos agents**
 
-→ [Découvrir étape](https://scribehow.com/shared/Configurez_votre_territoire_sur_RDV_Service_Public__BCFQdTI3TGSzFSvWKWwV_g#f9a52d09)
+→ [Découvrir l'étape](https://scribehow.com/shared/Configurez_votre_territoire_sur_RDV_Service_Public__BCFQdTI3TGSzFSvWKWwV_g#f9a52d09)
 {% endstep %}
 {% endstepper %}
 
