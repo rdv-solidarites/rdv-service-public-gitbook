@@ -4,7 +4,7 @@ icon: map-location
 
 # Configurer son territoire
 
-Vous arrivez dans l'interface pour la première fois ? Votre compte devrait faire suite à une prise de rendez-vous avec notre équipe pour créer votre compte. Vous êtes désormais <mark style="color:red;">**Agent Admin de Territoire**</mark> et vous devez réaliser les premières configurations pour déployer la solution dans vos services. Vous trouverez ci-après les premières étapes à réaliser :&#x20;
+Vous arrivez dans l'interface pour la première fois ? La création de votre compte fait suite à une prise de rendez-vous avec notre équipe. Vous êtes désormais <mark style="color:red;">**Agent Admin de Territoire**</mark> et vous devez réaliser les premières configurations pour déployer la solution dans vos services. Vous trouverez ci-après les premières étapes à réaliser :&#x20;
 
 {% stepper %}
 {% step %}
