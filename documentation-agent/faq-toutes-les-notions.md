@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # FAQ : toutes les notions
 
 ## Synchronisation calendrier
