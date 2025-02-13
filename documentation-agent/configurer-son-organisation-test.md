@@ -48,10 +48,6 @@ xxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x 
 
 </details>
 
-***
-
-
-
 ## Configuration générale
 
 En tant qu'**Agent Admin** le tutoriel vous guidera pour configurer votre organisation.  Vous pouvez également cliquer directement ci-dessous sur la section qui vous intéresse :
