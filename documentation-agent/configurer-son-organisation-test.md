@@ -8,7 +8,7 @@ icon: building-columns
 
 <details>
 
-<summary><mark style="color:purple;"><strong>France Titres</strong></mark><strong> - Branchement au portail ANTS</strong> </summary>
+<summary><mark style="color:purple;"><strong>France Titres</strong></mark><strong> &#x3C;> Branchement au portail ANTS</strong> </summary>
 
 xxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxx
 
@@ -18,7 +18,7 @@ xxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x 
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Conseiller Numérique</strong></mark><strong> -</strong> <strong>Branchement à la cartographie nationaleFrance Titres</strong> </summary>
+<summary><mark style="color:purple;"><strong>Conseiller Numérique</strong></mark><strong> &#x3C;></strong> <strong>Branchement à la cartographie nationale</strong></summary>
 
 xxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxx
 
@@ -28,7 +28,7 @@ xxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x 
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Mon Suivi Social</strong></mark><strong> - Intéropérabilité produit</strong></summary>
+<summary><mark style="color:purple;"><strong>Mon Suivi Social</strong></mark><strong> &#x3C;> Intéropérabilité produit</strong></summary>
 
 xxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxx
 
@@ -38,7 +38,7 @@ xxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x 
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Démarches Simplifiés</strong></mark><strong> - Interopérabiliré produit</strong> </summary>
+<summary><mark style="color:purple;"><strong>Démarches Simplifiés</strong></mark><strong> &#x3C;> Interopérabiliré produit</strong> </summary>
 
 
 
