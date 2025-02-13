@@ -18,7 +18,7 @@ xxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x 
 
 <details>
 
-<summary><mark style="color:purple;">Conseiller Numérique</mark> - <strong>Branchement à la cartographie nationaleFrance Titres</strong> </summary>
+<summary><mark style="color:purple;"><strong>Conseiller Numérique</strong></mark><strong> -</strong> <strong>Branchement à la cartographie nationaleFrance Titres</strong> </summary>
 
 xxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxx
 
