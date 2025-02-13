@@ -8,7 +8,7 @@ icon: building-columns
 
 <details>
 
-<summary>Branchement au portail ANTS - France Titres</summary>
+<summary><strong>Branchement au portail ANTS - France Titres</strong></summary>
 
 xxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxx
 
@@ -18,7 +18,7 @@ xxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x 
 
 <details>
 
-<summary>Branchement à la cartographie nationale des conseillers numériques </summary>
+<summary><strong>Branchement à la cartographie nationale des conseillers numériques</strong> </summary>
 
 xxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxxxxx x xxxxxx xx x x  xxxxxxxxx
 
