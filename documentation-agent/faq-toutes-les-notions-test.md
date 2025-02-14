@@ -10,6 +10,8 @@ icon: message-question
 
 <summary>Comment recevoir des notifications d’alertes de rendez-vous ?</summary>
 
+<mark style="background-color:green;">**Cette fonctionnalité permet de recevoir des email de notification quand un rendez-vous est planifié dans un agenda. Elle répond au besoin des agents qui souhaitent être alertés quand une modification est effectuée dans leur agenda. De cette manière, chaque agent est informé quand une modification est réalisée dans leur agenda.**</mark>&#x20;
+
 Vous pouvez modifier vos préférences de notifications email dans l’espace « Mon Compte » accessible en cliquant sur votre prénom en haut à droite depuis votre vue calendrier.
 
 Cette synchronisation envoie un email pour chaque création, modification ou annulation de RDV.&#x20;
