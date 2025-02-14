@@ -24,7 +24,7 @@ Chaque email contient une pièce jointe au format ICS, un format largement suppo
 
 <summary><strong>Comment synchroniser avec mon agenda ?</strong></summary>
 
-#### <mark style="background-color:green;">Cette fonctionnalité permet d'envoyer les informations des rendez-vous planifié dans un agenda extérieur à RDV Service Public. Elle répond au besoin de faire afficher les rendez-vous planifié dans un agenda du quotidien, souvent utilisé dans les administrations pour gérer leur quotidien métier en dehors des rendez-vous (réunion d'équipe etc ...)</mark>
+<mark style="background-color:green;">**Cette fonctionnalité permet d'envoyer les informations des rendez-vous planifié dans un agenda extérieur à RDV Service Public. Elle répond au besoin de faire afficher les rendez-vous planifié dans un agenda du quotidien, souvent utilisé dans les administrations pour gérer leur quotidien métier en dehors des rendez-vous (réunion d'équipe etc ...)**</mark>
 
 #### Notes générales&#x20;
 
@@ -80,7 +80,7 @@ Vous trouverez des informations techniques ici : [https://github.com/betagouv/rd
 
 <details>
 
-<summary>Comment mettre en place de la prise de rende-vous en ligne ?</summary>
+<summary><strong>Comment mettre en place de la prise de rende-vous en ligne ?</strong></summary>
 
 <mark style="background-color:green;">**Cette fonctionnalité permet de rendre accessible les disponiblités de votre organisation en ligne. Elle répond au besoin d'offrir la possibilité aux usager d'être autonomes quant à la planification de leur rendez-vous. Ainsi, les usagers pourront accéder à vos disponiblités et planifier des rendez-vous depuis leur ordinateur ou leur téléphone.**</mark>&#x20;
 
@@ -110,7 +110,7 @@ Vous pouvez ensuite communiquer ce lien aux prescripteurs de votre territoire ou
 
 <details>
 
-<summary>Comment les usagers prennent-ils rendez-vous ?</summary>
+<summary><strong>Comment les usagers prennent-ils rendez-vous ?</strong></summary>
 
 
 
@@ -120,7 +120,7 @@ Vous pouvez ensuite communiquer ce lien aux prescripteurs de votre territoire ou
 
 <details>
 
-<summary>Quand sont envoyées les notifications SMS et email des usagers ?</summary>
+<summary><strong>Quand sont envoyées les notifications SMS et email des usagers ?</strong></summary>
 
 <mark style="background-color:green;">**Cette fonctionnalité permet d'automatiser les informations de rendez-vous à vos usagers. Elle répond à plusieurs besoins agents et usagers. Elle permet de diminuer l'absentéisme et d'éviter les manipulation de rappel chronophage pour les agents. Elle permet aussi à l'usager de garder une trace des informations du rendez-vous dans son téléphone.**</mark>&#x20;
 
@@ -135,7 +135,7 @@ Plusieurs actions déclenchent l'envoi de SMS :&#x20;
 
 <details>
 
-<summary>Qu’est-ce que peut faire un usager depuis ces notification SMS et email ?</summary>
+<summary><strong>Qu’est-ce que peut faire un usager depuis ces notification SMS et email ?</strong></summary>
 
 
 
@@ -145,7 +145,7 @@ Plusieurs actions déclenchent l'envoi de SMS :&#x20;
 
 <details>
 
-<summary>Comment utiliser les plages d’ouvertures ?</summary>
+<summary><strong>Comment utiliser les plages d’ouvertures ?</strong></summary>
 
 <mark style="background-color:green;">**Les plages d'ouvertures permettent de renseigner les disponiblités d'un agent. Une fois configurées, les agents pourront planifier des rendez-vous simplement en recherchant des disponiblités depuis le bouton Trouver un RDV. C'est un gage de simplicité et d'efficacité dans les organisations. Cette fonctionnalité permet d'éviter la recherche chronophage dans les agendas individuels des agents**</mark>**.**&#x20;
 
@@ -165,7 +165,7 @@ Une plage d'ouverture peut être exceptionnelle (un jour unique) ou récurrente 
 
 <details>
 
-<summary>Comment gérer une indisponibilité ponctuelle ?</summary>
+<summary><strong>Comment gérer une indisponibilité ponctuelle ?</strong></summary>
 
 <mark style="background-color:green;">**Les indisponibilités permettent de signaler vos absences ponctuelles ou régulières à vos collègues et aux usagers. Cette fonctionnalité évite de modifier les plages d'ouvertures en cas d'indisponiblité ponctuelle des agents. Si une indisponibilité couvre la période d'une plage d'ouverture, les disponibilités de cette période seront supprimées.**</mark>
 
@@ -186,7 +186,7 @@ Les indisponibilités apparaissent en gris sur votre agenda et ceux de vos coll�
 
 <details>
 
-<summary>Comment trouver une disponibilité dans mon organisation ?</summary>
+<summary><strong>Comment trouver une disponibilité dans mon organisation ?</strong></summary>
 
 <mark style="background-color:green;">**Le bouton trouver un rendez-vous est un moteur de recherche permettant de trouver les disponibilités au sein de votre organisation ou de votre service. Cette fonctionnalité est un gage de simplicité et d'efficacité dans les organisations. Elle permet d'éviter la recherche chronophage dans les agendas individuels des agents en affichant les disponiblités selon vos critères de recherche dans toutes les disponiblités de votre organisation.**</mark>&#x20;
 
@@ -202,7 +202,7 @@ Cette fonctionnalité n'est disponible que si les agents ont configuré leurs pl
 
 <details>
 
-<summary>Comment planifier un rendez-vous ?</summary>
+<summary><strong>Comment planifier un rendez-vous ?</strong></summary>
 
 Après avoir sélectionné une disponibilité via le parcours _**Trouver un RDV**_, vous entrerez dans le parcours de planification du rendez-vous. Plusieurs informations vous seront demandées :
 
@@ -220,7 +220,7 @@ Enfin, vous arriverez dans un récap du comportement des notifications. Vous pou
 
 <details>
 
-<summary>Comment exporter une liste de rendez-vous ?</summary>
+<summary><strong>Comment exporter une liste de rendez-vous ?</strong></summary>
 
 
 
@@ -228,7 +228,7 @@ Enfin, vous arriverez dans un récap du comportement des notifications. Vous pou
 
 <details>
 
-<summary>Comment trouver une disponiblités dans d’autres organisations ?</summary>
+<summary><strong>Comment trouver une disponiblités dans d’autres organisations ?</strong></summary>
 
 
 
@@ -238,7 +238,7 @@ Enfin, vous arriverez dans un récap du comportement des notifications. Vous pou
 
 <details>
 
-<summary>Comment créer une fiche usager ?</summary>
+<summary><strong>Comment créer une fiche usager ?</strong></summary>
 
 
 
@@ -246,7 +246,7 @@ Enfin, vous arriverez dans un récap du comportement des notifications. Vous pou
 
 <details>
 
-<summary>Comment gérer un doublon de fiche usager ?</summary>
+<summary><strong>Comment gérer un doublon de fiche usager ?</strong></summary>
 
 
 
@@ -256,7 +256,7 @@ Enfin, vous arriverez dans un récap du comportement des notifications. Vous pou
 
 <details>
 
-<summary>Quels sont les différents droits d’accès des agents ?</summary>
+<summary><strong>Quels sont les différents droits d’accès des agents ?</strong></summary>
 
 
 
@@ -264,7 +264,7 @@ Enfin, vous arriverez dans un récap du comportement des notifications. Vous pou
 
 <details>
 
-<summary>Comment inviter des agents dans mon organisations ?</summary>
+<summary><strong>Comment inviter des agents dans mon organisations ?</strong></summary>
 
 
 
@@ -272,7 +272,7 @@ Enfin, vous arriverez dans un récap du comportement des notifications. Vous pou
 
 <details>
 
-<summary>Comment modifier le services d’un agent ?</summary>
+<summary><strong>Comment modifier le services d’un agent ?</strong></summary>
 
 
 
@@ -282,7 +282,7 @@ Enfin, vous arriverez dans un récap du comportement des notifications. Vous pou
 
 <details>
 
-<summary>Comment créer et configurer un motif ?</summary>
+<summary><strong>Comment créer et configurer un motif ?</strong></summary>
 
 
 
@@ -290,7 +290,7 @@ Enfin, vous arriverez dans un récap du comportement des notifications. Vous pou
 
 <details>
 
-<summary>Comment gérer en masse des motifs à l’échelle de mon territoire ?</summary>
+<summary><strong>Comment gérer en masse des motifs à l’échelle de mon territoire ?</strong></summary>
 
 
 
@@ -300,7 +300,7 @@ Enfin, vous arriverez dans un récap du comportement des notifications. Vous pou
 
 <details>
 
-<summary>À quoi sert les organisations ?</summary>
+<summary><strong>À quoi sert les organisations ?</strong></summary>
 
 
 
@@ -308,7 +308,7 @@ Enfin, vous arriverez dans un récap du comportement des notifications. Vous pou
 
 <details>
 
-<summary>Comment créer des organisations ?</summary>
+<summary><strong>Comment créer des organisations ?</strong></summary>
 
 
 
