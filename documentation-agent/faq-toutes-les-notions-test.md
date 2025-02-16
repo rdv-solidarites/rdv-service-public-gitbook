@@ -122,7 +122,7 @@ Vous pouvez ensuite communiquer ce lien aux prescripteurs de votre territoire ou
 
 <summary><strong>Quand sont envoyées les notifications SMS et email des usagers ?</strong></summary>
 
-<mark style="background-color:green;">**Cette fonctionnalité permet d'automatiser les informations de rendez-vous à vos usagers. Elle répond à plusieurs besoins agents et usagers. Elle permet de diminuer l'absentéisme et d'éviter les manipulation de rappel chronophage pour les agents. Elle permet aussi à l'usager de garder une trace des informations du rendez-vous dans son téléphone.**</mark>&#x20;
+<mark style="color:purple;">**Cette fonctionnalité permet d'automatiser les informations de rendez-vous à vos usagers. Elle répond à plusieurs besoins agents et usagers. Elle permet de diminuer l'absentéisme et d'éviter les manipulation de rappel chronophage pour les agents. Elle permet aussi à l'usager de garder une trace des informations du rendez-vous dans son téléphone.**</mark>&#x20;
 
 Plusieurs actions déclenchent l'envoi de SMS :&#x20;
 
@@ -147,7 +147,7 @@ Plusieurs actions déclenchent l'envoi de SMS :&#x20;
 
 <summary><strong>Comment utiliser les plages d’ouvertures ?</strong></summary>
 
-<mark style="color:green;">**Les plages d’ouverture permettent de définir les disponibilités d’un agent. Une fois configurées, elles simplifient la prise de rendez-vous : les agents peuvent directement rechercher un créneau via le bouton "Trouver un RDV", évitant ainsi une consultation fastidieuse des agendas individuels.**</mark>
+<mark style="color:blue;">**Les plages d’ouverture permettent de définir les disponibilités d’un agent. Une fois configurées, elles simplifient la prise de rendez-vous : les agents peuvent directement rechercher un créneau via le bouton "Trouver un RDV", évitant ainsi une consultation fastidieuse des agendas individuels.**</mark>
 
 #### Création d’une plage d’ouverture
 
