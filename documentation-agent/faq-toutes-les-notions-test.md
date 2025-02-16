@@ -147,7 +147,7 @@ Plusieurs actions déclenchent l'envoi de SMS :&#x20;
 
 <summary><strong>Comment utiliser les plages d’ouvertures ?</strong></summary>
 
-<mark style="color:green;background-color:green;">**Les plages d’ouverture permettent de définir les disponibilités d’un agent. Une fois configurées, elles simplifient la prise de rendez-vous : les agents peuvent directement rechercher un créneau via le bouton "Trouver un RDV", évitant ainsi une consultation fastidieuse des agendas individuels.**</mark>
+<mark style="color:green;">**Les plages d’ouverture permettent de définir les disponibilités d’un agent. Une fois configurées, elles simplifient la prise de rendez-vous : les agents peuvent directement rechercher un créneau via le bouton "Trouver un RDV", évitant ainsi une consultation fastidieuse des agendas individuels.**</mark>
 
 #### Création d’une plage d’ouverture
 
