@@ -10,13 +10,11 @@ icon: message-question
 
 <summary><strong>Comment recevoir des notifications d’alertes de rendez-vous ?</strong></summary>
 
-<mark style="background-color:purple;">**Cette fonctionnalité permet de recevoir des email de notification quand un rendez-vous est planifié dans un agenda. Elle répond au besoin des agents qui souhaitent être alertés quand une modification est effectuée dans leur agenda. De cette manière, chaque agent est informé quand une modification est réalisée dans leur agenda.**</mark>&#x20;
+<mark style="background-color:purple;">**Cette fonctionnalité permet de recevoir des notifications par email lorsqu’un rendez-vous est ajouté, modifié ou annulé dans un agenda. Elle répond au besoin des agents souhaitant être alertés en cas de changement dans leur planning.**</mark>
 
-Vous pouvez modifier vos préférences de notifications email dans l’espace « Mon Compte » accessible en cliquant sur votre prénom en haut à droite depuis votre vue calendrier.
+Vous pouvez personnaliser vos préférences de notification dans l’onglet **"Mon Compte"**, accessible en cliquant sur votre prénom en haut à droite de votre calendrier.
 
-Cette synchronisation envoie un email pour chaque création, modification ou annulation de RDV.&#x20;
-
-Chaque email contient une pièce jointe au format ICS, un format largement supporté. Votre logiciel de calendrier externe reconnaîtra ces emails et mettra automatiquement à jour les évènements dans votre calendrier. Certains logiciels de calendrier demandent « d’accepter » chaque modification.
+Chaque email contient une pièce jointe au format **ICS**, compatible avec la plupart des logiciels de calendrier. Votre calendrier externe reconnaîtra automatiquement ces mises à jour, bien que certains logiciels demandent une validation manuelle des modifications.
 
 </details>
 
@@ -24,7 +22,7 @@ Chaque email contient une pièce jointe au format ICS, un format largement suppo
 
 <summary><strong>Comment synchroniser avec mon agenda ?</strong></summary>
 
-<mark style="background-color:green;">**Cette fonctionnalité permet d'envoyer les informations des rendez-vous planifié dans un agenda extérieur à RDV Service Public. Elle répond au besoin de faire afficher les rendez-vous planifié dans un agenda du quotidien, souvent utilisé dans les administrations pour gérer leur quotidien métier en dehors des rendez-vous (réunion d'équipe etc ...)**</mark>
+**Cette fonctionnalité permet d'envoyer les informations des rendez-vous planifié dans un&#x20;**<mark style="background-color:purple;">**agenda extérieur à RDV Service Public. Elle répond au besoin de faire afficher les rendez-vous planifié dans un agenda du quotidien, souvent utilisé dans les administrations pour gérer leur quotidien métier en dehors des rendez-vous (réunion d'équipe etc ...)**</mark>
 
 #### Notes générales&#x20;
 
@@ -82,29 +80,28 @@ Vous trouverez des informations techniques ici : [https://github.com/betagouv/rd
 
 <summary><strong>Comment mettre en place de la prise de rende-vous en ligne ?</strong></summary>
 
-<mark style="background-color:green;">**Cette fonctionnalité permet de rendre accessible les disponiblités de votre organisation en ligne. Elle répond au besoin d'offrir la possibilité aux usager d'être autonomes quant à la planification de leur rendez-vous. Ainsi, les usagers pourront accéder à vos disponiblités et planifier des rendez-vous depuis leur ordinateur ou leur téléphone.**</mark>&#x20;
+<mark style="background-color:purple;">**Cette fonctionnalité permet aux usagers d’accéder aux disponibilités de votre organisation et de planifier un rendez-vous en toute autonomie, depuis un ordinateur ou un téléphone.**</mark>
 
-Pour activer la prise de rendez-vous en ligne, il est nécessaire de réaliser 3 actions :
+Pour activer cette option, trois étapes sont nécessaires :
 
-* Configurer des motifs « ouverts aux agents, aux prescripteurs et aux usagers »
-* Associer ces motifs à des plages d'ouverture dans les agendas des agents
-* Partager votre URL de prise de rendez-vous en ligne
+* **Configurer des motifs ouverts aux agents, prescripteurs et usagers**
+* **Associer ces motifs à des plages d’ouverture dans les agendas des agents**
+* **Partager l’URL de prise de rendez-vous en ligne**
 
-#### Configurer des motifs ouvert à la réservation en ligne
+**1. Configurer des motifs ouverts à la réservation en ligne**
 
-Vous devez configurer au moins un motif dans les paramètres en activant l'option _**ouvert aux agents et aux usagers**_. Vous pouvez personnaliser ce champ en indiquant un délai minimum et un délai maximum de réservation. De plus, vous pouvez ajouter des instructions depuis l'onglet "instruction et notification".&#x20;
+Dans les paramètres des motifs, sélectionnez au moins un motif et activez l’option **"Ouvert aux agents et aux usagers"**. Vous pouvez également :
 
-#### Configurer une plage d’ouverture
+* Définir un délai minimum et maximum de réservation.
+* Ajouter des instructions personnalisées dans l’onglet **"Instruction et notification"**.
 
-Vous devez créer une _**plage d'ouverture**_ avec des motifs configurés comme _**ouverts à la réservation en ligne**_.
+**2. Configurer une plage d’ouverture**
 
-**Les motifs configurés comme ouverts à la réservation en ligne sont identifiés par une pastille en ligne depuis l'écran de suivi des motifs.**&#x20;
+Créez une plage d’ouverture en y associant des motifs configurés pour la réservation en ligne. Ces motifs sont identifiés par une pastille spécifique dans l’écran de suivi des motifs.
 
-#### Partager votre URL de prise de rendez-vous
+**3. Partager votre URL de prise de rendez-vous**
 
-Vous pouvez extraire un lien URL depuis le menu _**Réservation en ligne**_ qui dirigera l'usager ou le prescripteur vers la page de vos disponibilités via un navigateur web.
-
-Vous pouvez ensuite communiquer ce lien aux prescripteurs de votre territoire ou l'intégrer dans divers supports (site internet, plaquette numérique).
+Un lien URL est disponible dans le menu **"Réservation en ligne"**. Ce lien permet aux usagers et prescripteurs d’accéder directement à vos disponibilités via un navigateur web. Vous pouvez partager cette URL ou l’intégrer dans différents supports, tels que votre site internet ou une plaquette numérique.
 
 </details>
 
