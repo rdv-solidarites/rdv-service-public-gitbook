@@ -147,19 +147,18 @@ Plusieurs actions déclenchent l'envoi de SMS :&#x20;
 
 <summary><strong>Comment utiliser les plages d’ouvertures ?</strong></summary>
 
-<mark style="background-color:green;">**Les plages d'ouvertures permettent de renseigner les disponiblités d'un agent. Une fois configurées, les agents pourront planifier des rendez-vous simplement en recherchant des disponiblités depuis le bouton Trouver un RDV. C'est un gage de simplicité et d'efficacité dans les organisations. Cette fonctionnalité permet d'éviter la recherche chronophage dans les agendas individuels des agents**</mark>**.**&#x20;
+<mark style="color:green;background-color:green;">**Les plages d’ouverture permettent de définir les disponibilités d’un agent. Une fois configurées, elles simplifient la prise de rendez-vous : les agents peuvent directement rechercher un créneau via le bouton "Trouver un RDV", évitant ainsi une consultation fastidieuse des agendas individuels.**</mark>
 
-Pour créer une plage d'ouverture, accédez au menu _**plages d'ouverture**_ depuis le menu _**planning**_.
+#### Création d’une plage d’ouverture
 
-Vous y verrez vos différentes plages d'ouverture existantes ainsi qu'un bouton _**créer une plage d'ouverture**_.
+Pour ajouter une plage d’ouverture, accédez au menu **"Plages d’ouverture"** dans l’onglet **"Planning"**. Vous y trouverez vos plages existantes ainsi qu’un bouton **"Créer une plage d’ouverture"**.
 
-Lors de la création, vous devez sélectionner un ou plusieurs motifs. Cette fonctionnalité permet de préciser votre disponibilité pour différents types de rendez-vous sur une période donnée, particulièrement utile si certains nécessitent un matériel spécifique.
+Lors de la création, sélectionnez un ou plusieurs motifs pour indiquer les types de rendez-vous possibles. Cette option est particulièrement utile si certains motifs nécessitent du matériel spécifique.
 
-**Si vous sélectionnez un motif ouvert à la réservation en ligne, votre plage d'ouverture sera accessible à la réservation en ligne.**&#x20;
+* Si un motif est ouvert à la réservation en ligne, la plage d’ouverture sera accessible aux réservations en ligne.
+* Vous pouvez créer une plage exceptionnelle (pour un jour unique) ou récurrente (tous les jours de la semaine). Pour une répétition, indiquez d’abord les horaires, puis cochez l’option **"Répéter"**.
 
-Une plage d'ouverture peut être exceptionnelle (un jour unique) ou récurrente (tous les jours de la semaine). Si vous souhaitez une répétition, indiquez d'abord la plage horaire, puis cochez la case _**Répéter**_.
-
-**Conservation des données : les plages d'ouverture de plus d'un an sont automatiquement supprimée**
+Les plages d’ouverture de plus d’un an sont automatiquement supprimées.
 
 </details>
 
