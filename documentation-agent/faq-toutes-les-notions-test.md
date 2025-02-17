@@ -395,7 +395,27 @@ Pour inviter un agent :&#x20;
 
 <summary><strong>Comment modifier le services d’un agent ?</strong></summary>
 
+Pour modifier le service d'un agent :&#x20;
 
+* Accéder à votre espace Admin de Territoire&#x20;
+* Cliquer sur "agent" et sélectionner "modifier".&#x20;
+* Associer l'agent à un ou plusieurs services pour définir ses droits d'accès.&#x20;
+
+**💡 Seul un agent admin de territoire pour modifier les services d'un agent.**&#x20;
+
+</details>
+
+<details>
+
+<summary>Comment supprimer un agent ? </summary>
+
+Pour supprimer un agent :&#x20;
+
+1. Allez dans **"Paramètres"**, puis **"Agents"**.
+2. Cliquez sur l’icône **"Supprimer"** à côté de l'agent.
+3. Si l'agent a des rendez-vous à venir, une alerte vous empêchera de le supprimer. Vous devrez réaffecter ces rendez-vous avant de supprimer l'agent.
+
+**💡 Les agents inactifs (non connectés depuis 30 jours) auront l’étiquette "inactif" à côté de leur nom.**
 
 </details>
 
@@ -418,14 +438,6 @@ Pour inviter un agent :&#x20;
 </details>
 
 ## Les organisations
-
-<details>
-
-<summary></summary>
-
-
-
-</details>
 
 <details>
 
