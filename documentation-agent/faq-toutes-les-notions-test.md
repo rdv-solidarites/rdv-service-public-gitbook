@@ -74,24 +74,6 @@ Vous trouverez des informations techniques ici : [https://github.com/betagouv/rd
 
 </details>
 
-## Interopérabilité&#x20;
-
-<details>
-
-<summary><strong>France Titres portail ANTS &#x3C;> Commune avec dispositif de recueil (DR)</strong> </summary>
-
-
-
-</details>
-
-<details>
-
-<summary> <strong>Cartographie nationale médiateur numérique &#x3C;> Conseillers Numériques</strong></summary>
-
-
-
-</details>
-
 ## Prise de rendez-vous en ligne
 
 <details>
@@ -306,7 +288,20 @@ Si des motifs ouverts aux prescripteurs ont été configurés, vous pouvez accé
 
 <summary><strong>Comment créer une fiche usager ?</strong></summary>
 
+Pour créer une fiche :&#x20;
 
+1. Dans le menu **"Usager"**, cliquez sur **"Créer un usager"** ou depuis le parcours **"Trouver un RDV"** cliquer sur **"Créer un usager"**
+2. Seuls le nom et le prénom sont obligatoires.
+3. La fiche sera rattachée à **l’organisation de l’agent** qui l’a créée.
+4. Cliquez sur **"Créer usager"** pour valider.
+
+**💡 Vérifiez l’orthographe des noms et prénoms pour éviter les doublons.**
+
+Une fois créée, la fiche contient :
+
+* Les **informations générales** de l’usager.
+* Son **historique** et le **statut de ses rendez-vous**.
+* Une option pour l’**inviter à créer un compte**, afin qu’il puisse **modifier ses infos** et **gérer ses rendez-vous** en autonomie depuis son esapce personnel.&#x20;
 
 </details>
 
@@ -314,7 +309,22 @@ Si des motifs ouverts aux prescripteurs ont été configurés, vous pouvez accé
 
 <summary><strong>Comment gérer un doublon de fiche usager ?</strong></summary>
 
+Les doublons peuvent apparaître lorsque :
 
+* Un professionnel crée une fiche **sans e-mail**, puis l’usager crée un compte avec une adresse e-mail.
+* Une faute de frappe lors d’une recherche fait croire qu’aucune fiche n’existe.
+
+**💡 L’outil ne fusionne pas automatiquement les fiches, car l’unicité repose uniquement sur l’e-mail.**
+
+Pour fusionner des fiches usagers :&#x20;
+
+1. Allez dans le menu **"Usagers"**.
+2. Cliquez sur **"Fusionner deux usagers"**.
+3. Entrez le nom de l’usager en double dans chaque colonne.
+4. Comparez les fiches :
+   * **Différences en orange**, **similitudes en vert**.
+   * Sélectionnez les informations à conserver.
+5. Validez pour créer une **fiche unique fusionnée**.
 
 </details>
 
@@ -324,7 +334,43 @@ Si des motifs ouverts aux prescripteurs ont été configurés, vous pouvez accé
 
 <summary><strong>Quels sont les différents droits d’accès des agents ?</strong></summary>
 
+#### **Agent Basique**
 
+L'**Agent Basique** a accès aux fonctionnalités de planification de rendez-vous. Il peut :
+
+* Créer des fiches usagers,
+* Planifier des rendez-vous
+* Créer des plages d'ouvertures&#x20;
+* Rechercher des disponibilités dans les agendas de ses collègues
+
+💡 **Sa visibilité est limitée aux agents de son service et de son organisation. Pour associer un agent à plusieurs services ou organisations.**&#x20;
+
+#### **Agent Admin**
+
+L'**Agent Admin** a une **visibilité étendue** sur toutes les organisations auxquelles il est associé. Il peut :
+
+* Rechercher des disponibilités dans tous les services de son organisation,
+* Accéder à l'onglet **Paramètres** pour créer des motifs, lieux et inviter des agents,
+* Être associé à plusieurs organisations.
+
+#### **Agent Admin de Territoire**
+
+L'**Agent Admin de Territoire** a une **visibilité totale** sur tous les agendas du territoire et tous les services/organisations. Il a également accès aux paramètres de tous les services et organisations du territoire et peut :
+
+* Modifier les droits d'accès des agents,
+* Créer des organisations et former des équipes.
+
+💡 **Plusieurs Agents Admin de Territoire peuvent être définis.**&#x20;
+
+#### **Agent Secrétariat**
+
+Un **Agent du service secrétariat** bénéficie de droits de visibilité supérieurs. Il peut :
+
+* Rechercher des disponibilités sur tous les agendas de l'organisation mais avec des droits d'un agent basique.&#x20;
+* Planifier des rendez-vous dans n'importe quel agenda de l'organisation (tous services confondus).\
+  Sa principale fonction est de planifier des rendez-vous, mais il peut aussi planifier dans son propre agenda.
+
+💡 **Un Agent Admin doit ouvrir les motifs de prise de rendez-vous pour les agents du service secrétariat s'ils doivent réaliser des rendez-vous.**&#x20;
 
 </details>
 
@@ -332,7 +378,16 @@ Si des motifs ouverts aux prescripteurs ont été configurés, vous pouvez accé
 
 <summary><strong>Comment inviter des agents dans mon organisations ?</strong></summary>
 
+Pour inviter un agent :&#x20;
 
+1. Allez dans **"Paramètres"**, puis **"Agents"**.
+2. Cliquez sur **"Inviter un agent"**.
+3. Choisissez un niveau d'accès.&#x20;
+4. Entrez l’adresse e-mail de l'agent.&#x20;
+5. Enfin, sélectionnez un service auquel associer l'agent.&#x20;
+6. Il recevra une invitation pour créer son compte. Une fois l’invitation acceptée, l'agent devra créer un mot de passe pour se connecter.&#x20;
+
+💡 **Si vous invitez un agent dans plusieurs organisations, chaque invitation sera validée automatiquement après la première, sans nouvel email d'invitation.**&#x20;
 
 </details>
 
@@ -363,6 +418,14 @@ Si des motifs ouverts aux prescripteurs ont été configurés, vous pouvez accé
 </details>
 
 ## Les organisations
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
 
 <details>
 
