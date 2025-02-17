@@ -10,7 +10,7 @@ icon: message-question
 
 <summary><strong>Comment recevoir des notifications d’alertes de rendez-vous ?</strong></summary>
 
-<mark style="background-color:purple;">**Cette fonctionnalité permet de recevoir des notifications par email lorsqu’un rendez-vous est ajouté, modifié ou annulé dans un agenda. Elle répond au besoin des agents souhaitant être alertés en cas de changement dans leur planning.**</mark>
+Cette fonctionnalité permet de recevoir des notifications par email lorsqu’un rendez-vous est ajouté, modifié ou annulé dans un agenda. Elle répond au besoin des agents souhaitant être alertés en cas de changement dans leur planning.
 
 Vous pouvez personnaliser vos préférences de notification dans l’onglet **"Mon Compte"**, accessible en cliquant sur votre prénom en haut à droite de votre calendrier.
 
@@ -22,7 +22,7 @@ Chaque email contient une pièce jointe au format **ICS**, compatible avec la pl
 
 <summary><strong>Comment synchroniser avec mon agenda ?</strong></summary>
 
-**Cette fonctionnalité permet d'envoyer les informations des rendez-vous planifié dans un&#x20;**<mark style="background-color:purple;">**agenda extérieur à RDV Service Public. Elle répond au besoin de faire afficher les rendez-vous planifié dans un agenda du quotidien, souvent utilisé dans les administrations pour gérer leur quotidien métier en dehors des rendez-vous (réunion d'équipe etc ...)**</mark>
+Cette fonctionnalité permet d'envoyer les informations des rendez-vous planifié dans un agenda extérieur à RDV Service Public. Elle répond au besoin de faire afficher les rendez-vous planifié dans un agenda du quotidien, souvent utilisé dans les administrations pour gérer leur quotidien métier en dehors des rendez-vous (réunion d'équipe etc ...)
 
 #### Notes générales&#x20;
 
@@ -80,7 +80,7 @@ Vous trouverez des informations techniques ici : [https://github.com/betagouv/rd
 
 <summary><strong>Comment mettre en place de la prise de rende-vous en ligne ?</strong></summary>
 
-<mark style="background-color:purple;">**Cette fonctionnalité permet aux usagers d’accéder aux disponibilités de votre organisation et de planifier un rendez-vous en toute autonomie, depuis un ordinateur ou un téléphone.**</mark>
+Cette fonctionnalité permet aux usagers d’accéder aux disponibilités de votre organisation et de planifier un rendez-vous en toute autonomie, depuis un ordinateur ou un téléphone.
 
 Pour activer cette option, trois étapes sont nécessaires :
 
@@ -152,7 +152,7 @@ La fonctionnalité **prescripteur** permet à un partenaire extérieur (ex. : as
 
 <summary><strong>Quand sont envoyées les notifications SMS et email des usagers ?</strong></summary>
 
-**Cette fonctionnalité permet d'automatiser les informations de rendez-vous à vos usagers. Elle répond à plusieurs besoins agents et usagers. Elle permet de diminuer l'absentéisme et d'éviter les manipulation de rappel chronophage pour les agents. Elle permet aussi à l'usager de garder une trace des informations du rendez-vous dans son téléphone.**&#x20;
+Cette fonctionnalité permet d'automatiser les informations de rendez-vous à vos usagers. Elle répond à plusieurs besoins agents et usagers. Elle permet de diminuer l'absentéisme et d'éviter les manipulation de rappel chronophage pour les agents. Elle permet aussi à l'usager de garder une trace des informations du rendez-vous dans son téléphone.&#x20;
 
 Plusieurs actions déclenchent l'envoi de SMS :&#x20;
 
@@ -183,7 +183,7 @@ Un bouton "Annuler le rendez-vous" lui permettra d’annuler sans vous contacter
 
 <summary><strong>Comment utiliser les plages d’ouvertures ?</strong></summary>
 
-**Les plages d’ouverture permettent de définir les disponibilités d’un agent. Une fois configurées, elles simplifient la prise de rendez-vous : les agents peuvent directement rechercher un créneau via le bouton "Trouver un RDV", évitant ainsi une consultation fastidieuse des agendas individuels.**
+Les plages d’ouverture permettent de définir les disponibilités d’un agent. Une fois configurées, elles simplifient la prise de rendez-vous : les agents peuvent directement rechercher un créneau via le bouton "Trouver un RDV", évitant ainsi une consultation fastidieuse des agendas individuels.
 
 Pour créer une plage d’ouverture :&#x20;
 
@@ -204,7 +204,7 @@ Les plages d’ouverture de plus d’un an sont automatiquement supprimées.
 
 <summary><strong>Comment gérer une indisponibilité ponctuelle ?</strong></summary>
 
-**Les indisponibilités permettent de signaler vos absences ponctuelles ou régulières à vos collègues et aux usagers. Cette fonctionnalité évite de modifier les plages d'ouvertures en cas d'indisponiblité ponctuelle des agents. Si une indisponibilité couvre la période d'une plage d'ouverture, les disponibilités de cette période seront supprimées.**
+Les indisponibilités permettent de signaler vos absences ponctuelles ou régulières à vos collègues et aux usagers. Cette fonctionnalité évite de modifier les plages d'ouvertures en cas d'indisponiblité ponctuelle des agents. Si une indisponibilité couvre la période d'une plage d'ouverture, les disponibilités de cette période seront supprimées.
 
 Pour créer une indisponibilité :
 
@@ -217,7 +217,7 @@ Vous pouvez configurer des absences ponctuelles ou récurrentes en utilisant l'o
 
 Les indisponibilités apparaissent en gris sur votre agenda et ceux de vos collègues.&#x20;
 
-**Pour une indisponibilité récurrente, il n'est pas possible de supprimer une seule occurrence. Vous devrez supprimer l'indisponibilité récurrente entière et en créer une nouvelle excluant l'occurrence non désirée.**
+Pour une indisponibilité récurrente, il n'est pas possible de supprimer une seule occurrence. Vous devrez supprimer l'indisponibilité récurrente entière et en créer une nouvelle excluant l'occurrence non désirée.
 
 </details>
 
