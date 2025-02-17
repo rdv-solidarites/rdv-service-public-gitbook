@@ -78,7 +78,7 @@ Vous trouverez des informations techniques ici : [https://github.com/betagouv/rd
 
 <details>
 
-<summary><mark style="color:purple;"><strong>France Titres</strong></mark> <mark style="color:purple;"><strong>portail ANTS</strong></mark><strong> &#x3C;> Commune avec dispositif de recueil (DR)</strong> </summary>
+<summary><strong>France Titres portail ANTS &#x3C;> Commune avec dispositif de recueil (DR)</strong> </summary>
 
 
 
@@ -86,23 +86,7 @@ Vous trouverez des informations techniques ici : [https://github.com/betagouv/rd
 
 <details>
 
-<summary> <mark style="color:purple;"><strong>Cartographie nationale médiateur numérique</strong></mark><strong> &#x3C;> Conseillers Numériques</strong></summary>
-
-
-
-</details>
-
-<details>
-
-<summary><mark style="color:purple;"><strong>Mon Suivi Social</strong></mark><strong> &#x3C;> CCAS</strong> </summary>
-
-
-
-</details>
-
-<details>
-
-<summary><mark style="color:purple;"><strong>Démarches Simplifiés</strong></mark><strong> &#x3C;> Administration de l'État</strong></summary>
+<summary> <strong>Cartographie nationale médiateur numérique &#x3C;> Conseillers Numériques</strong></summary>
 
 
 
@@ -117,10 +101,6 @@ Vous trouverez des informations techniques ici : [https://github.com/betagouv/rd
 <mark style="background-color:purple;">**Cette fonctionnalité permet aux usagers d’accéder aux disponibilités de votre organisation et de planifier un rendez-vous en toute autonomie, depuis un ordinateur ou un téléphone.**</mark>
 
 Pour activer cette option, trois étapes sont nécessaires :
-
-* **Configurer des motifs ouverts aux agents, prescripteurs et usagers**
-* **Associer ces motifs à des plages d’ouverture dans les agendas des agents**
-* **Partager l’URL de prise de rendez-vous en ligne**
 
 **1. Configurer des motifs ouverts à la réservation en ligne**
 
@@ -143,7 +123,18 @@ Un lien URL est disponible dans le menu **"Réservation en ligne"**. Ce lien per
 
 <summary><strong>Comment les usagers prennent-ils rendez-vous ?</strong></summary>
 
+Les usagers peuvent prendre rendez-vous en ligne si cette option est activée et que vous avez partagé votre lien de réservation. Ce lien peut être diffusé sur votre site web ou tout autre support.
 
+Une fois sur la plateforme, ils pourront :
+
+1. Choisir un service et un motif de rendez-vous.&#x20;
+2. Sélectionner un créneau disponible
+3. S’identifier pour confirmer leur rendez-vous.
+
+Deux options d’identification :
+
+1. **FranceConnect** : les informations de contact sont récupérées automatiquement. C'est le parcours le plus rapide et sécurisé.&#x20;
+2. **Création de compte** : si l’usager ne passe pas par FranceConnect, il doit renseigner son nom, prénom, email et (optionnellement) son numéro de téléphone. Un email de vérification lui sera envoyé, et en cliquant sur le lien de vérificatio présent dans le mail, il sera redirigé vers son parcours et pourra finaliser son rendez-vous.&#x20;
 
 </details>
 
@@ -153,7 +144,7 @@ Un lien URL est disponible dans le menu **"Réservation en ligne"**. Ce lien per
 
 <summary><strong>Quand sont envoyées les notifications SMS et email des usagers ?</strong></summary>
 
-<mark style="color:purple;">**Cette fonctionnalité permet d'automatiser les informations de rendez-vous à vos usagers. Elle répond à plusieurs besoins agents et usagers. Elle permet de diminuer l'absentéisme et d'éviter les manipulation de rappel chronophage pour les agents. Elle permet aussi à l'usager de garder une trace des informations du rendez-vous dans son téléphone.**</mark>&#x20;
+**Cette fonctionnalité permet d'automatiser les informations de rendez-vous à vos usagers. Elle répond à plusieurs besoins agents et usagers. Elle permet de diminuer l'absentéisme et d'éviter les manipulation de rappel chronophage pour les agents. Elle permet aussi à l'usager de garder une trace des informations du rendez-vous dans son téléphone.**&#x20;
 
 Plusieurs actions déclenchent l'envoi de SMS :&#x20;
 
@@ -166,9 +157,15 @@ Plusieurs actions déclenchent l'envoi de SMS :&#x20;
 
 <details>
 
-<summary><strong>Qu’est-ce que peut faire un usager depuis ces notification SMS et email ?</strong></summary>
+<summary><strong>Qu’est-ce que peut faire un usager depuis ces notification SMS ?</strong></summary>
 
+Chaque usager recevra une notification par SMS et/ou email.
 
+* Le SMS contiendra un lien "Infos/Annulation".
+* En cliquant dessus, il accèdera à une page web où il devra saisir les trois premières lettres de son nom de famille.
+* S'il les saisit correctement, il verra un récapitulatif de son rendez-vous avec les instructions associées ainsi que les informations de contact de votre organisation.&#x20;
+
+Un bouton "Annuler le rendez-vous" lui permettra d’annuler sans vous contacter, jusqu’à **4 heures avant** l’heure prévue. Au-delà, il devra vous contacter via les informations de contact disponible dans le récapitulatif de rendez-vous. &#x20;
 
 </details>
 
@@ -178,16 +175,18 @@ Plusieurs actions déclenchent l'envoi de SMS :&#x20;
 
 <summary><strong>Comment utiliser les plages d’ouvertures ?</strong></summary>
 
-<mark style="color:blue;">**Les plages d’ouverture permettent de définir les disponibilités d’un agent. Une fois configurées, elles simplifient la prise de rendez-vous : les agents peuvent directement rechercher un créneau via le bouton "Trouver un RDV", évitant ainsi une consultation fastidieuse des agendas individuels.**</mark>
+**Les plages d’ouverture permettent de définir les disponibilités d’un agent. Une fois configurées, elles simplifient la prise de rendez-vous : les agents peuvent directement rechercher un créneau via le bouton "Trouver un RDV", évitant ainsi une consultation fastidieuse des agendas individuels.**
 
-#### Création d’une plage d’ouverture
+Pour créer une plage d’ouverture :&#x20;
 
-Pour ajouter une plage d’ouverture, accédez au menu **"Plages d’ouverture"** dans l’onglet **"Planning"**. Vous y trouverez vos plages existantes ainsi qu’un bouton **"Créer une plage d’ouverture"**.
+* &#x20;Accédez au menu **"Plages d’ouverture"** dans l’onglet **"Planning"**.&#x20;
+* Cliquer sur **"Créer une plage d’ouverture"**.
 
 Lors de la création, sélectionnez un ou plusieurs motifs pour indiquer les types de rendez-vous possibles. Cette option est particulièrement utile si certains motifs nécessitent du matériel spécifique.
 
-* Si un motif est ouvert à la réservation en ligne, la plage d’ouverture sera accessible aux réservations en ligne.
-* Vous pouvez créer une plage exceptionnelle (pour un jour unique) ou récurrente (tous les jours de la semaine). Pour une répétition, indiquez d’abord les horaires, puis cochez l’option **"Répéter"**.
+Si un motif est ouvert à la réservation en ligne, la plage d’ouverture sera accessible aux réservations en ligne depuis votre url de prise de rendez-vous en ligne.&#x20;
+
+Vous pouvez créer une plage exceptionnelle (pour un jour unique) ou récurrente (tous les jours de la semaine). Pour une répétition, indiquez d’abord les horaires, puis cochez l’option **"Répéter"**.
 
 Les plages d’ouverture de plus d’un an sont automatiquement supprimées.
 
@@ -197,7 +196,7 @@ Les plages d’ouverture de plus d’un an sont automatiquement supprimées.
 
 <summary><strong>Comment gérer une indisponibilité ponctuelle ?</strong></summary>
 
-<mark style="background-color:green;">**Les indisponibilités permettent de signaler vos absences ponctuelles ou régulières à vos collègues et aux usagers. Cette fonctionnalité évite de modifier les plages d'ouvertures en cas d'indisponiblité ponctuelle des agents. Si une indisponibilité couvre la période d'une plage d'ouverture, les disponibilités de cette période seront supprimées.**</mark>
+**Les indisponibilités permettent de signaler vos absences ponctuelles ou régulières à vos collègues et aux usagers. Cette fonctionnalité évite de modifier les plages d'ouvertures en cas d'indisponiblité ponctuelle des agents. Si une indisponibilité couvre la période d'une plage d'ouverture, les disponibilités de cette période seront supprimées.**
 
 Pour créer une indisponibilité :
 
@@ -218,15 +217,21 @@ Les indisponibilités apparaissent en gris sur votre agenda et ceux de vos coll�
 
 <summary><strong>Comment trouver une disponibilité dans mon organisation ?</strong></summary>
 
-<mark style="background-color:green;">**Le bouton trouver un rendez-vous est un moteur de recherche permettant de trouver les disponibilités au sein de votre organisation ou de votre service. Cette fonctionnalité est un gage de simplicité et d'efficacité dans les organisations. Elle permet d'éviter la recherche chronophage dans les agendas individuels des agents en affichant les disponiblités selon vos critères de recherche dans toutes les disponiblités de votre organisation.**</mark>&#x20;
+Le bouton **"Trouver un rendez-vous"** permet de rechercher rapidement des disponibilités dans votre organisation ou service, évitant ainsi une consultation manuelle des agendas.
 
-En cliquant sur le bouton _**trouver un rendez-vous**_, vous accéderez à un moteur de recherche. Vous serez invité à spécifier les critères de la disponibilité souhaitée : le service, le motif, l'agent, le lieu et la date. Une fois ces informations saisies, cliquez sur _**Afficher les créneaux**_. Un écran affichera alors les disponibilités correspondant aux critères que vous avez indiqués.
+Pour utiliser cette fonctionnalité :&#x20;
 
-Cette fonctionnalité n'est disponible que si les agents ont configuré leurs plages d'ouverture.
+1. Cliquez sur **"Trouver un rendez-vous"** pour accéder au moteur de recherche.
+2. Spécifiez vos critères : service, motif, agent, lieu et date.
+3. Cliquez sur **"Afficher les créneaux"** pour voir les disponibilités correspondantes.
 
-**Le statut d'agent administrateur et le service de secrétariat permettent d'accéder aux disponibilités des agents de toute l'organisation. En revanche, le statut d'agent simple vous donne uniquement la visibilité sur les disponibilités des agents de votre service.**
+Conditions d’accès :
 
-**Si plusieurs agents indiquent des disponibilités sur le même créneau pour le même motif, la solution sélectionnera la première disponibilité enregistrée.**
+* Disponible uniquement si les agents ont configuré leurs plages d’ouverture.
+* **Administrateurs et secrétariats** : accès à toutes les disponibilités.
+* **Agents simples** : accès uniquement aux créneaux de leur service.
+
+Si plusieurs agents sont disponibles sur le même créneau et motif, la première disponibilité enregistrée sera sélectionnée.
 
 </details>
 
@@ -234,17 +239,24 @@ Cette fonctionnalité n'est disponible que si les agents ont configuré leurs pl
 
 <summary><strong>Comment planifier un rendez-vous ?</strong></summary>
 
-Après avoir sélectionné une disponibilité via le parcours _**Trouver un RDV**_, vous entrerez dans le parcours de planification du rendez-vous. Plusieurs informations vous seront demandées :
+Après avoir sélectionné une disponibilité via **"Trouver un RDV"**, vous passerez à la planification du rendez-vous :&#x20;
 
-La première étape sera d'associer un usager au rendez-vous. Vous devez indiquer l'usager concerné par le rendez-vous en utilisant le moteur de recherche en saisissant les premières lettres du nom ou du prénom de l'usager.
+1. **Associer un usager** :&#x20;
 
-**Les fiches usagers proposées seront celles créées dans votre organisation. Vous verrez également s'afficher les fiches usagers créées dans d'autres organisations de votre territoire. Par respect pour la confidentialité des données, les informations personnelles des fiches usagers d'autres organisations de votre territoire seront partiellement masquées.**
+* Recherchez l’usager en tapant les premières lettres de son nom ou prénom.
+* Vous verrez les fiches usagers de votre organisation et, de façon partiellement masquée, celles d’autres organisations de votre territoire
 
-💡Vous pouvez ajouter plusieurs usagers à un rendez-vous.
+💡 **Plusieurs usagers peuvent être ajoutés à un rendez-vous.**
 
-Vous arrivez dans un récap des informations du rendez-vous concernant la date, l'heure, l'agent d'affectation et le lieux de rendez-vous d'après votre sélection suite au parcours _**Trouver un RDV**_. Vous pouvez, au besoin, modifier chaque champ si nécesaire. &#x20;
+2. **Vérifier et modifier les informations** :
 
-Enfin, vous arriverez dans un récap du comportement des notifications. Vous pouvez désactiver les notifications pour ce rendez-vous au besoin?&#x20;
+* Un récapitulatif s’affiche avec la date, l’heure, l’agent et le lieu du rendez-vous.
+
+💡 **Chaque champ peut être modifié si nécessaire.**
+
+3. **Gérer les notifications** :
+
+* Un dernier récap vous permet d’activer ou désactiver les notifications pour ce rendez-vous.
 
 </details>
 
@@ -252,7 +264,17 @@ Enfin, vous arriverez dans un récap du comportement des notifications. Vous pou
 
 <summary><strong>Comment exporter une liste de rendez-vous ?</strong></summary>
 
+Le **statut d’agent administrateur** permet d’extraire les statistiques de votre organisation au format **.xls**, en complément de leur visualisation dans l’onglet **Statistiques**.
 
+#### Pour exporter les données :
+
+1. Accédez au menu **"Liste des RDV"**.
+2. Compléter les différents champ pour affiner les critères de votre export&#x20;
+3. Cliquer sur **"rafraichir la liste"**&#x20;
+4. Cliquez sur **"Exporter"** après avoir renseigné vos critères.
+5. Retrouvez vos exports dans la page **"Vos exports"**, accessible depuis votre compte (en haut à droite).
+
+💡 **L’extraction se fait par organisation. Si vous en gérez plusieurs, vous devez effectuer une exportation pour chacune.**
 
 </details>
 
@@ -260,7 +282,21 @@ Enfin, vous arriverez dans un récap du comportement des notifications. Vous pou
 
 <summary><strong>Comment trouver une disponiblités dans d’autres organisations ?</strong></summary>
 
+Vous pouvez permettre aux agents de planifier des rendez-vous dans d'autres organisations si vous disposez de plusieurs organisations. Ce parcours est possible par la fonctionnalité **"prescripteur".**&#x20;
 
+Elle permet aux agents de partager leurs disponibilités et de planifier des rendez-vous dans **toutes les organisations** de leur territoire.
+
+Pour configurer :&#x20;
+
+Il est nécessaire de configurer vos motifs **"ouvert aux prescripteur"** depuis l'écran de configuration des motifs. Plus précisément, depuis l'onglet "réservation en ligne" présent dans l'écran de configuration des motifs.&#x20;
+
+Pour l’utiliser :&#x20;
+
+Si des motifs ouverts aux prescripteurs ont été configurés, vous pouvez accéder aux disponibilités d’autres organisations via **"Trouver un rendez-vous"** :
+
+1. Cliquez sur **"Élargir votre recherche"**.
+2. Sélectionnez les informations du rendez-vous (motif, lieu, créneau, usagers).
+3. Cliquez sur **"Confirmer le RDV"** pour finaliser le rendez-vous.&#x20;
 
 </details>
 
