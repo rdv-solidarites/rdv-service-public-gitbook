@@ -433,7 +433,7 @@ Pour modifier le service d'un agent :&#x20;
 
 <details>
 
-<summary>Comment supprimer un agent ? </summary>
+<summary><strong>Comment supprimer un agent ?</strong> </summary>
 
 Pour supprimer un agent :&#x20;
 
