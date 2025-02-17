@@ -20,9 +20,3 @@ Vous pouvez également cliquer directement sur la section qui vous intéresse :
 
 {% embed url="https://scribehow.com/embed/Utilisez_votre_agenda_RDV_Service_Public__Mo5_ymKyQACNnCSVyvZOQg?as=scrollable" %}
 
-{% hint style="success" %}
-**Vous pouvez planifier un échange avec notre équipe pour vous aider dans votre configuration ! Pour réserver un créneau, cliquez** [**ici**](https://cal.com/team/rdv-service-public/aide-a-la-configuration)
-{% endhint %}
-
-
-

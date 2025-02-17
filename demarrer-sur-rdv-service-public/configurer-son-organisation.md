@@ -18,7 +18,3 @@ Les fonctionnalités de RDV Service Public s'adaptent à vos cas d'usage. Il exi
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><mark style="background-color:blue;"><strong>Mairie avec un Dispositif de Recueil</strong></mark></td><td></td><td></td><td><a href="../toutes-les-notions/mairie-avec-un-dispositif-de-recueil.md">mairie-avec-un-dispositif-de-recueil.md</a></td></tr><tr><td></td><td><mark style="background-color:red;"><strong>Médiation Numérique</strong></mark> </td><td></td><td></td><td><a href="../toutes-les-notions/mediation-numerique.md">mediation-numerique.md</a></td></tr></tbody></table>
 
-{% hint style="success" %}
-**Vous pouvez planifier un échange avec notre équipe pour vous aider dans votre configuration ! Pour réserver un créneau, cliquez** [**ici**](https://cal.com/team/rdv-service-public/aide-a-la-configuration)
-{% endhint %}
-

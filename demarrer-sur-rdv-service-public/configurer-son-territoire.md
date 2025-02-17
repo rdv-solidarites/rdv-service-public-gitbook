@@ -17,7 +17,3 @@ Vous pouvez également cliquer directement sur la section qui vous intéresse :
 * [_Inviter vos agents_ ](https://scribehow.com/shared/Configurez_votre_territoire_sur_RDV_Service_Public__BCFQdTI3TGSzFSvWKWwV_g#8e97adb1)
 
 {% embed url="https://scribehow.com/embed/Configurez_votre_territoire_sur_RDV_Service_Public__BCFQdTI3TGSzFSvWKWwV_g?as=scrollable" %}
-
-{% hint style="success" %}
-**Vous pouvez planifier un échange avec notre équipe pour vous aider dans votre configuration ! Pour réserver un créneau, cliquez** [**ici**](https://cal.com/team/rdv-service-public/aide-a-la-configuration)
-{% endhint %}
