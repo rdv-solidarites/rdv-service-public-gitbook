@@ -255,7 +255,7 @@ Un bouton "Annuler le rendez-vous" lui permettra d’annuler sans vous contacter
 
 </details>
 
-## Les rendez-vous
+## Les agendas et les rendez-vous
 
 <details>
 
