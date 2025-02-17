@@ -137,7 +137,7 @@ Vous trouverez des informations techniques ici : [https://github.com/betagouv/rd
 
 <details>
 
-<summary><strong>Comment mettre en place de la prise de rende-vous en ligne ?</strong></summary>
+<summary><strong>Comment mettre en place de la prise de rendez-vous en ligne ?</strong></summary>
 
 Cette fonctionnalité permet aux usagers d’accéder aux disponibilités de votre organisation et de planifier un rendez-vous en toute autonomie, depuis un ordinateur ou un téléphone.
 
@@ -157,6 +157,22 @@ Créez une plage d’ouverture en y associant des motifs configurés pour la ré
 **3. Partager votre URL de prise de rendez-vous**
 
 Un lien URL est disponible dans le menu **"Réservation en ligne"**. Ce lien permet aux usagers et prescripteurs d’accéder directement à vos disponibilités via un navigateur web. Vous pouvez partager cette URL ou l’intégrer dans différents supports, tels que votre site internet ou une plaquette numérique.
+
+</details>
+
+<details>
+
+<summary><strong>Est-il possible d'intégrer un formulaire à remplir dans le parcours en ligne ?</strong></summary>
+
+Il n'est pas possible d'intégrer de formulaire ou de questionnaire en amont du chois du créneaux. Cette fonctionnalité n'exsite pas encore dans notre solution. Toutefois, vous pouvez personnaliser un message d'instruction qui s'affichera dans le parcours de prise de rendez-vous en ligne. Ce message est personnalisable motif par motif.&#x20;
+
+Pour ajouter un message d'instructions :&#x20;
+
+* Sélectionner un motif à modifier depuis paramètre > motif&#x20;
+* Accéder à l'onglet "notifications et instructions"&#x20;
+* Compléter le champ "instructions affichées avant la prise de rendez-vous"&#x20;
+
+Ces informations apparaîtront entre la sélection du lieu de rendez-vous et du créneau de rendez-vous dans le parcours en ligne.&#x20;
 
 </details>
 
@@ -238,6 +254,26 @@ Plusieurs actions déclenchent l'envoi de SMS :&#x20;
 * Une notification de **rappel** est envoyée à l'usager 48h avant le rendez-vous (hors jours fériés et dimanches).
 * Une notification de **rendez-vous modifié** : l'usager reçoit immédiatement une notification en cas de modification du rendez-vous.
 * Une notification de **rendez-vous annulé** : l'usager reçoit immédiatement une notification en cas d'annulation du rendez-vous. Si l'usager est à l'origine de l'annulation, il doit le faire au moins 4 heures avant l'heure prévue du rendez-vous.
+
+</details>
+
+<details>
+
+<summary><strong>Puis-je ajouter des instructions dans les notifications des usagers ?</strong> </summary>
+
+Vous pouvez ajouter des instructions dans les notifications emails que recevront les usagers. Ces instructions peuvent être personnalisées motif par motif.&#x20;
+
+Pour ajouter des instructions dans les notification email :&#x20;
+
+* Sélectionner un motif à modifier depuis paramètre > motif&#x20;
+* Accéder à l'onglet "notifications et instructions"&#x20;
+* Compléter le champ "instructions affichées après la prise de rendez-vous"&#x20;
+
+Ces informations apparaîtront à 3 niveaux :&#x20;
+
+1. Dans le dernier écran de confirmation du parcours usager&#x20;
+2. Dans la notification email de création et de rappel usager
+3. Dans la note d'information accessible depuis l'URL du SMS
 
 </details>
 
@@ -560,14 +596,6 @@ Pour supprimer un agent :&#x20;
 <summary><strong>À</strong> <strong>quoi servent les motifs ?</strong> </summary>
 
 Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de rendez-vous, d’informer l’agent sur le contenu attendu et d’affiner les options (présentiel, téléphone, visio, option de prise de rendez-vous en ligne). Il permet également une configuration fine des disponibilités des agents selon leurs compétences ou capacités dans leurs plages d'ouverture.&#x20;
-
-</details>
-
-<details>
-
-<summary><strong>Comment créer et configurer un motif ?</strong></summary>
-
-
 
 </details>
 
