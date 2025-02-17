@@ -8,18 +8,6 @@ icon: message-question
 
 <details>
 
-<summary><strong>Comment recevoir des notifications d’alertes de rendez-vous ?</strong></summary>
-
-Cette fonctionnalité permet de recevoir des notifications par email lorsqu’un rendez-vous est ajouté, modifié ou annulé dans un agenda. Elle répond au besoin des agents souhaitant être alertés en cas de changement dans leur planning.
-
-Vous pouvez personnaliser vos préférences de notification dans l’onglet **"Mon Compte"**, accessible en cliquant sur votre prénom en haut à droite de votre calendrier.
-
-Chaque email contient une pièce jointe au format **ICS**, compatible avec la plupart des logiciels de calendrier. Votre calendrier externe reconnaîtra automatiquement ces mises à jour, bien que certains logiciels demandent une validation manuelle des modifications.
-
-</details>
-
-<details>
-
 <summary><strong>Comment synchroniser avec mon agenda ?</strong></summary>
 
 Cette fonctionnalité permet d'envoyer les informations des rendez-vous planifié dans un agenda extérieur à RDV Service Public. Elle répond au besoin de faire afficher les rendez-vous planifié dans un agenda du quotidien, souvent utilisé dans les administrations pour gérer leur quotidien métier en dehors des rendez-vous (réunion d'équipe etc ...)
@@ -71,6 +59,77 @@ Les webhooks sont une manière de communiquer entre deux systèmes d’informati
 Il est possible de développer un logiciel dans votre SI pour recevoir ces webhooks et mettre à jour les calendriers des agents en conséquence. Cette solution est déjà en place dans plusieurs structures utilisant RDV Service Public.
 
 Vous trouverez des informations techniques ici : [https://github.com/betagouv/rdv-service-public/blob/production/docs/api/webhooks/api-notifications-webhooks.md](https://github.com/betagouv/rdv-service-public/blob/production/docs/api/webhooks/api-notifications-webhooks.md)
+
+</details>
+
+## Notification agents
+
+<details>
+
+<summary><strong>Comment recevoir des notifications d’alertes de rendez-vous ?</strong></summary>
+
+Cette fonctionnalité permet de recevoir des notifications par email lorsqu’un rendez-vous est ajouté, modifié ou annulé dans un agenda. Elle répond au besoin des agents souhaitant être alertés en cas de changement dans leur planning.
+
+Vous pouvez personnaliser vos préférences de notification dans l’onglet **"Mon Compte"**, accessible en cliquant sur votre prénom en haut à droite de votre calendrier.
+
+Chaque email contient une pièce jointe au format **ICS**, compatible avec la plupart des logiciels de calendrier. Votre calendrier externe reconnaîtra automatiquement ces mises à jour, bien que certains logiciels demandent une validation manuelle des modifications.
+
+</details>
+
+<details>
+
+<summary>Je ne reçois pas les emails de RDV·SP. Comment y remédier ?</summary>
+
+### Votre client mail classe nos emails en spam
+
+Les emails provenant de l’adresse RDV Service Public peuvent être classifiés à tort comme du spam par votre client mail (Outlook, Thunderbird, etc).
+
+**Solution** : Dans votre boîte e-mail, vérifiez les dossiers « spam » ou « indésirables ». En complément, vous pouvez signaler l’adresse RDV Service Public comme n’étant pas un spam. De cette façon, vous recevrez les e-mails RDV Services Publics directement
+
+### Un autre logiciel de filtrage d’email classe nos emails en spam
+
+Le domaine RDV Service Public peut être bloqué par un outil de protection des e-mails, tel que **MailinBlack**.
+
+**Solution** : Autorisez notre adresse e-mail en suivant ces étapes :
+
+* Connectez-vous à votre interface MailinBlack.
+* Sur la page principale, sélectionnez l’onglet « Newsletter »
+* Cliquez sur l’icône de droite et autorisez les adresses du domaine @rdv-solidarites.fr / @rdv-service-public.fr / @rdv-aide-numerique.fr
+* Confirmez en validant le message "Autoriser les messages de ces domaines".
+
+Cette autorisation est appliquée à titre individuel et vos collègues auront potentiellement le même problème. Vous pouvez suggérer au responsable technique de votre administration de consulter [cette page](../documentation-technique/informations-pour-les-dsi.md) pour corriger ce problème pour tout le monde.
+
+### Un problème temporaire sur les serveurs de RDV Service Public empêche l’envoi des emails
+
+Il arrive que les serveurs de RDV Service Public rencontrent des ralentissements ou soient temporairement inaccessibles.
+
+**Solution** :  Vous pouvez suivre en temps réel l'évolution du dysfonctionnement sur notre [page de statut](https://rdv-service-public.instatus.com).
+
+### Un problème temporaire sur les serveurs de votre système informatique (SI) empêche la réception des emails
+
+Il peut arriver que le système d’information ou le réseau interne sur lequel vous naviguez rencontre des ralentissements ou soit inacessible temporairement.
+
+**Solution** :&#x20;
+
+* Contactez le service informatique
+* Vous pouvez effectuer les tests suivants pour comprendre si le problème vient du SI de votre service ou de RDV Service Public :
+  * Demander à un collègue de vous envoyer un e-mail
+  * Envoyez-vous un e-mail depuis une adresse personnelle (Gmail, Outlook, etc.)
+
+Si le problème est lié au SI de votre service, nous ne pourrons malheureusement pas intervenir directement.
+
+### Votre adresse a été bloquée par notre fournisseur d’envoi d’e-mails
+
+Votre adresse e-mail peut être bloquée par notre fournisseur d’envoi.&#x20;
+
+Cette situation peut se produire dans deux cas :&#x20;
+
+* vous avez cliqué sur les liens de nos e-mails qui vous permettent de vous désabonner
+* le serveur mail de votre SI a refusé la réception des emails envoyés par RDV Service Public car il les considérant comme du spam. Cela se produit suite à une classification manuelle d’un de nos mails comme du spam par un agent au sein de votre SI, ou par une classification automatique.
+
+**Solution** :  Envoyez-nous un e-mail à [support@rdv-service-public.fr](mailto:support@rdv-service-public.fr)
+
+Si vous vous retrouvez dans cette situation, il est probable que plusieurs de vos collègues soient dans la même situation. Vous pouvez suggérer aux responsables techniques de votre SI de consulter [cette page](../documentation-technique/informations-pour-les-dsi.md) pour corriger le problème durablement et à l’échelle de tout votre service.
 
 </details>
 
@@ -150,6 +209,14 @@ La fonctionnalité **prescripteur** permet à un partenaire extérieur (ex. : as
 
 <details>
 
+<summary><strong>Puis-je modifier les informations du SMS ?</strong> </summary>
+
+Il n’est pas possible de modifier le modèle SMS : le nombre de caractères pour les SMS est limité. Aussi certaines informations comme le nom du motif peut porter atteinte à l’usager. Nous avons donc fait le choix de limiter les informations.
+
+</details>
+
+<details>
+
 <summary><strong>Quand sont envoyées les notifications SMS et email des usagers ?</strong></summary>
 
 Cette fonctionnalité permet d'automatiser les informations de rendez-vous à vos usagers. Elle répond à plusieurs besoins agents et usagers. Elle permet de diminuer l'absentéisme et d'éviter les manipulation de rappel chronophage pour les agents. Elle permet aussi à l'usager de garder une trace des informations du rendez-vous dans son téléphone.&#x20;
@@ -178,6 +245,14 @@ Un bouton "Annuler le rendez-vous" lui permettra d’annuler sans vous contacter
 </details>
 
 ## Les rendez-vous
+
+<details>
+
+<summary><strong>Qui peut voir et modifier mon agenda ?</strong> </summary>
+
+Par défaut, seuls les agents de votre service et de votre organisation peuvent consulter et planifier des rendez-vous dans votre agenda. De plus, les agents du service secrétariat de votre organisation ont un accès étendu : ils peuvent voir, modifier et planifier des rendez-vous de tous les agendas.&#x20;
+
+</details>
 
 <details>
 
@@ -312,6 +387,14 @@ Si des motifs ouverts aux prescripteurs ont été configurés, vous pouvez accé
 
 <details>
 
+<summary><strong>Puis-je modifier ou supprimer les données des usagers ?</strong> </summary>
+
+Vous pouvez supprimer ou modifier les données des usagers. Sur la fiche des usagers, des options Modifier et Supprimer sont prévues à cet effet. Si aucunes modifications n’est apportée et que l’usager n’a pris aucun RDV durant deux ans, alors ses données seront supprimées automatiquement.
+
+</details>
+
+<details>
+
 <summary><strong>Comment créer une fiche usager ?</strong></summary>
 
 Pour créer une fiche :&#x20;
@@ -355,6 +438,20 @@ Pour fusionner des fiches usagers :&#x20;
 </details>
 
 ## Les agents
+
+<details>
+
+<summary><strong>Puis-je associer un agent à plusieurs organisations ?</strong> </summary>
+
+Un agent peut être associé à plusieurs organisations. Cette association lui donnera accès aux agendas des agents rattachés à son service dans chacune de ces organisations. Seul un agent administrateur de territoire peut associer un agent à plusieurs organisations.
+
+Pour ajouter un agent à plusieurs organisations :&#x20;
+
+* Accéder à votre Espace Admin&#x20;
+* Sélectionner "Agent"&#x20;
+* Choisissez l'agent à modifier. Vous trouverez en bas de page les options d'affectations à de nouvelles organisations.
+
+</details>
 
 <details>
 
@@ -471,9 +568,23 @@ Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de r
 
 </details>
 
+## Les services&#x20;
+
+<details>
+
+<summary>Comment activer un nouveau service ? </summary>
+
+Par défaut, lors de la création de votre compte, un seul service sera actif dans votre territoire. Vous pourrez activer d'autres services pour y associer des agents selon vos besoins.
+
+Pour activer un nouveau service, rendez-vous dans le menu _**espace admin**_ accessible depuis le menu _**paramètres**_. Vous y trouverez un menu _**services**_ où vous pourrez activer des services à partir d'une liste préétablie.
+
+**-> Sélectionnez le service que vous souhaitez activer sur votre territoire.**
+
+</details>
+
+
+
 ## Les organisations
-
-
 
 <details>
 
