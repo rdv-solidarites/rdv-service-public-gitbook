@@ -2,9 +2,9 @@
 icon: message-question
 ---
 
-# FAQ : toutes les notions (test)
+# Trouver vos réponses
 
-## Synchronisation calendrier
+Synchronisation calendrier
 
 <details>
 
@@ -449,6 +449,14 @@ Pour supprimer un agent :&#x20;
 
 <details>
 
+<summary><strong>À</strong> <strong>quoi servent les motifs ?</strong> </summary>
+
+Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de rendez-vous, d’informer l’agent sur le contenu attendu et d’affiner les options (présentiel, téléphone, visio). Il permet également une configuration fine des disponibilités des agents selon leurs compétences et ou plage d'ouverture.&#x20;
+
+</details>
+
+<details>
+
 <summary><strong>Comment créer et configurer un motif ?</strong></summary>
 
 
@@ -457,7 +465,7 @@ Pour supprimer un agent :&#x20;
 
 <details>
 
-<summary><strong>Comment gérer en masse des motifs à l’échelle de mon territoire ?</strong></summary>
+<summary>Puis-je modifier des motifs en masse ? </summary>
 
 
 
@@ -479,7 +487,7 @@ En effet, créer plusieurs organisations permet de **cloisonner** vos agents sel
 
 <summary><strong>Comment créer des organisations ?</strong></summary>
 
-**Pour créer une nouvelle organisation :**&#x20;
+Pour créer une nouvelle organisation :&#x20;
 
 1. Allez dans le **menu "Espace Admin"** depuis **Paramètres**.
 2. Cliquez sur **"Organisations"**, puis sur **"Créer une organisation"**.
