@@ -120,6 +120,32 @@ Deux options d’identification :
 
 </details>
 
+<details>
+
+<summary><strong>Comment donner accès à mes disponiblités à des partenaires ?</strong> </summary>
+
+La fonctionnalité **prescripteur** permet à un partenaire extérieur (ex. : association, administration, collectivité) de planifier des rendez-vous pour un usager dans vos disponibilités. Cela facilite le parcours des usagers en permettant à différentes entités administratives de rediriger les usagers vers un rendez-vous dans votre structure.&#x20;
+
+#### **Comment ça fonctionne ?**
+
+1. **Configuration** : Activez des motifs de rendez-vous ouverts à la réservation en ligne dans vos disponibilités.
+2. **Partage de l'URL** : Envoyez l'URL de réservation en ligne à vos partenaires.&#x20;
+3. **Notifications** :
+   * **Prescripteur** : Reçoit un e-mail de confirmation du rendez-vous.
+   * **Usager** : Reçoit une confirmation et un rappel 48 heures avant le rendez-vous.
+   * **Professionnel** : Le rendez-vous apparaît dans son agenda, avec synchronisation possible.
+
+**Que doit faire un prescripteur ?**
+
+1. Accédez à la **prise de rendez-vous en ligne** et sélectionnez :
+   * **Motif du rendez-vous**
+   * **Créneau de rendez-vous**
+2. Cliquez sur **"Je suis un prescripteur qui oriente un bénéficiaire"**.
+3. Saisissez vos coordonnées et celles de l'usager.
+4. Confirmez le rendez-vous. Un récapitulatif sera généré à la fin.
+
+</details>
+
 ## Notification usagers
 
 <details>
@@ -443,7 +469,9 @@ Pour supprimer un agent :&#x20;
 
 <summary><strong>À quoi sert les organisations ?</strong></summary>
 
+Les organisations permettent de gérer différents sites de rendez-vous au sein de la même entité administrative. Par exemple, une commune peut avoir plusieurs organisations : mairie, CCAS, médiathèque, etc. Cette fonctionnalité est utile si vous souhaitez créer des cloisonnements entre les agents de votre structure.&#x20;
 
+En effet, créer plusieurs organisations permet de **cloisonner** vos agents selon le lieu d'exercice de leurs missions. Un agent d'une organisation (A) n’aura pas accès aux agendas ni aux options d’une autre organisation (B). Bien que vous pouvez, au besoin, associer un agent à plusieurs organisations.&#x20;
 
 </details>
 
@@ -451,7 +479,14 @@ Pour supprimer un agent :&#x20;
 
 <summary><strong>Comment créer des organisations ?</strong></summary>
 
+**Pour créer une nouvelle organisation :**&#x20;
 
+1. Allez dans le **menu "Espace Admin"** depuis **Paramètres**.
+2. Cliquez sur **"Organisations"**, puis sur **"Créer une organisation"**.
+3. L'agent admin de territoire qui crée l'organisation devient automatiquement le premier agent associé.
+4. Cet agent admin pourra ensuite inviter d'autres agents dans cette organisation si nécessaire.
+
+**💡 Seul un agent admin de territoire pour créer des organisations.**&#x20;
 
 </details>
 
