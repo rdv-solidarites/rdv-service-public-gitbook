@@ -4,7 +4,7 @@ icon: message-question
 
 # Trouver vos réponses
 
-Synchronisation calendrier
+## Synchronisation calendrier
 
 <details>
 
