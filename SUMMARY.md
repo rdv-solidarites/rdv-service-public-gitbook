@@ -76,5 +76,5 @@
 
 ## DOCUMENTATION AGENT
 
-* [FAQ : toutes les notions (test)](documentation-agent/faq-toutes-les-notions-test.md)
+* [Toutes les notions](documentation-agent/toutes-les-notions.md)
 * [Configurer son organisation (test)](documentation-agent/configurer-son-organisation-test.md)
