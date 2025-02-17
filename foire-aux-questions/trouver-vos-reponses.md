@@ -78,7 +78,7 @@ Chaque email contient une pièce jointe au format **ICS**, compatible avec la pl
 
 <details>
 
-<summary>Je ne reçois pas les emails de RDV·SP. Comment y remédier ?</summary>
+<summary><strong>Je ne reçois pas les emails de RDV·SP. Comment y remédier ?</strong></summary>
 
 ### Votre client mail classe nos emails en spam
 
@@ -157,6 +157,17 @@ Créez une plage d’ouverture en y associant des motifs configurés pour la ré
 **3. Partager votre URL de prise de rendez-vous**
 
 Un lien URL est disponible dans le menu **"Réservation en ligne"**. Ce lien permet aux usagers et prescripteurs d’accéder directement à vos disponibilités via un navigateur web. Vous pouvez partager cette URL ou l’intégrer dans différents supports, tels que votre site internet ou une plaquette numérique.
+
+</details>
+
+<details>
+
+<summary><strong>Puis-je utiliser une solution d'intégration type iFrame sur mon site internet ?</strong> </summary>
+
+Nous ne proposons pas encore ce type d'ingtégration. Nous proposons une intégration simple via un URL à intégrer dans votre site internet :&#x20;
+
+* soit directement en corps de texte d'une page web
+* soit via un bouton CTA avec l'URL en hyperlien.&#x20;
 
 </details>
 
@@ -572,7 +583,7 @@ Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de r
 
 <details>
 
-<summary>Comment activer un nouveau service ? </summary>
+<summary><strong>Comment activer un nouveau service ?</strong> </summary>
 
 Par défaut, lors de la création de votre compte, un seul service sera actif dans votre territoire. Vous pourrez activer d'autres services pour y associer des agents selon vos besoins.
 
@@ -581,8 +592,6 @@ Pour activer un nouveau service, rendez-vous dans le menu _**espace admin**_ acc
 **-> Sélectionnez le service que vous souhaitez activer sur votre territoire.**
 
 </details>
-
-
 
 ## Les organisations
 
