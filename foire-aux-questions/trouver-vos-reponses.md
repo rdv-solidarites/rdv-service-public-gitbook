@@ -487,7 +487,7 @@ En effet, créer plusieurs organisations permet de **cloisonner** vos agents sel
 
 <details>
 
-<summary>À quoi servent les options de configuration d'une organisation ? </summary>
+<summary><strong>À quoi servent les options de configuration d'une organisation ?</strong> </summary>
 
 Une fois l'organisation créée, vous allez pouvoir compléter plusieurs informations depuis le menu paramètre > organisation :&#x20;
 
@@ -497,7 +497,9 @@ Une fois l'organisation créée, vous allez pouvoir compléter plusieurs informa
 * **Site web :**&#x20;
 * **Horaires :**&#x20;
 
-Seul le nom est obligatoire. Toutefois, vous pouvez enrichir ces informations. Elles apparaîtront dans le parcours des prises de rendez-vous en ligne des usagers ainsi que dans le racapitualtif des informations du rendez-vous accessible depuis le SMS ou l'email reçu par les usagers.&#x20;
+Seul le nom est obligatoire. Toutefois, vous pouvez enrichir ces informations. Elles apparaîtront dans le parcours des prises de rendez-vous en ligne des usagers ainsi que dans le récapitualtif des informations du rendez-vous accessible depuis le SMS ou l'email reçu par les usagers.&#x20;
+
+Ces informations aideront l'usager à vous contacter s'il veut annuler son rendez-vous au moins 4 heures à l'avance. En effet, passé ce délai, l'annulation n'est plus possible.
 
 </details>
 
