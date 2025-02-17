@@ -164,7 +164,7 @@ Un lien URL est disponible dans le menu **"Réservation en ligne"**. Ce lien per
 
 <summary><strong>Est-il possible d'intégrer un formulaire à remplir dans le parcours en ligne ?</strong></summary>
 
-Il n'est pas possible d'intégrer de formulaire ou de questionnaire en amont du chois du créneaux. Cette fonctionnalité n'exsite pas encore dans notre solution. Toutefois, vous pouvez personnaliser un message d'instruction qui s'affichera dans le parcours de prise de rendez-vous en ligne. Ce message est personnalisable motif par motif.&#x20;
+Il n'est pas possible d'intégrer de formulaire ou de questionnaire en amont du choix du créneaux. Cette fonctionnalité n'exsite pas encore dans notre solution. Toutefois, vous pouvez personnaliser un message d'instruction qui s'affichera dans le parcours de prise de rendez-vous en ligne. Ce message est personnalisable motif par motif.&#x20;
 
 Pour ajouter un message d'instructions :&#x20;
 
