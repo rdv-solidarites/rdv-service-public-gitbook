@@ -192,7 +192,7 @@ Deux options d’identification :
 
 <details>
 
-<summary><strong>Comment donner accès à mes disponiblités à des partenaires ?</strong> </summary>
+<summary><strong>Comment rendre accessible mes disponiblités à des partenaires ?</strong> </summary>
 
 La fonctionnalité **prescripteur** permet à un partenaire extérieur (ex. : association, administration, collectivité) de planifier des rendez-vous pour un usager dans vos disponibilités. Cela facilite le parcours des usagers en permettant à différentes entités administratives de rediriger les usagers vers un rendez-vous dans votre structure.&#x20;
 
