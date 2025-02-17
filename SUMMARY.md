@@ -7,11 +7,10 @@
 * [Configurer son territoire](demarrer-sur-rdv-service-public/configurer-son-territoire.md)
 * [Configurer son organisation](demarrer-sur-rdv-service-public/configurer-son-organisation.md)
 * [Utiliser son agenda](demarrer-sur-rdv-service-public/utiliser-son-agenda.md)
-* [FAQ - tout savoir](demarrer-sur-rdv-service-public/faq-tout-savoir.md)
 
-## DOCUMENTATION AGENTS
+## FOIRE AUX QUESTIONS
 
-* [Problèmes de réception des emails](documentation-agents/problemes-de-reception-des-emails.md)
+* [Trouver vos réponses](foire-aux-questions/trouver-vos-reponses.md)
 
 ## Documentation technique
 
@@ -25,16 +24,17 @@
 * [Politique de confidentialité](confidentialite-et-securite/politique-de-confidentialite.md)
 * [Mentions légales](confidentialite-et-securite/mentions-legales.md)
 
-## Documentation usagers
+## Archives
 
-* [Prendre un rendez-vous](documentation-usagers/prendre-un-rendez-vous.md)
-* [Comprendre les notifications de rendez-vous](documentation-usagers/comprendre-les-notifications-de-rendez-vous/README.md)
-  * [Exemple notification SMS ](documentation-usagers/comprendre-les-notifications-de-rendez-vous/exemple-notification-sms.md)
-  * [Exemple notification email](documentation-usagers/comprendre-les-notifications-de-rendez-vous/exemple-notification-email.md)
-* [Annuler un rendez-vous](documentation-usagers/annuler-un-rendez-vous/README.md)
-  * [exemple annulation SMS ](documentation-usagers/annuler-un-rendez-vous/exemple-annulation-sms.md)
-  * [exemple annulation email](documentation-usagers/annuler-un-rendez-vous/exemple-annulation-email.md)
-* [Transmettre un message ou un document à un agent](documentation-usagers/transmettre-un-message-ou-un-document-a-un-agent.md)
+* [Problèmes de réception des emails](archives/problemes-de-reception-des-emails.md)
+* [Prendre un rendez-vous](archives/prendre-un-rendez-vous.md)
+* [Comprendre les notifications de rendez-vous](archives/comprendre-les-notifications-de-rendez-vous/README.md)
+  * [Exemple notification SMS ](archives/comprendre-les-notifications-de-rendez-vous/exemple-notification-sms.md)
+  * [Exemple notification email](archives/comprendre-les-notifications-de-rendez-vous/exemple-notification-email.md)
+* [Annuler un rendez-vous](archives/annuler-un-rendez-vous/README.md)
+  * [exemple annulation SMS ](archives/annuler-un-rendez-vous/exemple-annulation-sms.md)
+  * [exemple annulation email](archives/annuler-un-rendez-vous/exemple-annulation-email.md)
+* [Transmettre un message ou un document à un agent](archives/transmettre-un-message-ou-un-document-a-un-agent.md)
 
 ## À propos
 

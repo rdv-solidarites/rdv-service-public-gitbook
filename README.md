@@ -1,6 +1,6 @@
 ---
-description: Vous disposez d’une barre de recherche en haut à droite de votre écran
 icon: hand-wave
+description: Vous disposez d’une barre de recherche en haut à droite de votre écran
 layout:
   title:
     visible: true
@@ -118,7 +118,7 @@ Il n’est pas possible de modifier le modèle SMS : le nombre de caractères po
 
 <summary>Je ne reçois pas les e-mails de RDV Service Public. Comment y remédier ? </summary>
 
-De nombreuses raisons peuvent expliquer que vous ne recevez pas nos emails. Veuillez consulter [cette page](documentation-agents/problemes-de-reception-des-emails.md) qui vous permettra de comprendre et débloquer la réception de nos emails.
+De nombreuses raisons peuvent expliquer que vous ne recevez pas nos emails. Veuillez consulter [cette page](archives/problemes-de-reception-des-emails.md) qui vous permettra de comprendre et débloquer la réception de nos emails.
 
 </details>
 

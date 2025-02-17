@@ -22,33 +22,3 @@ Les fonctionnalités de RDV Service Public s'adaptent à vos cas d'usage. Il exi
 **Vous pouvez planifier un échange avec notre équipe pour vous aider dans votre configuration ! Pour réserver un créneau, cliquez** [**ici**](https://cal.com/team/rdv-service-public/aide-a-la-configuration)
 {% endhint %}
 
-***
-
-## Pour aller plus loin
-
-Pour approfondir, vous trouverez des détails sur chaque fonctionnalité et concept dans les pages ci-dessous :&#x20;
-
-{% content-ref url="../toutes-les-notions/gerer-les-motifs.md" %}
-[gerer-les-motifs.md](../toutes-les-notions/gerer-les-motifs.md)
-{% endcontent-ref %}
-
-{% content-ref url="../toutes-les-notions/gerer-les-lieux.md" %}
-[gerer-les-lieux.md](../toutes-les-notions/gerer-les-lieux.md)
-{% endcontent-ref %}
-
-{% content-ref url="../toutes-les-notions/gerer-les-agents.md" %}
-[gerer-les-agents.md](../toutes-les-notions/gerer-les-agents.md)
-{% endcontent-ref %}
-
-{% content-ref url="../toutes-les-notions/les-notifications-sms-et-emails.md" %}
-[les-notifications-sms-et-emails.md](../toutes-les-notions/les-notifications-sms-et-emails.md)
-{% endcontent-ref %}
-
-{% content-ref url="../toutes-les-notions/activer-la-prise-de-rendez-vous-en-ligne.md" %}
-[activer-la-prise-de-rendez-vous-en-ligne.md](../toutes-les-notions/activer-la-prise-de-rendez-vous-en-ligne.md)
-{% endcontent-ref %}
-
-{% content-ref url="../toutes-les-notions/les-statistiques.md" %}
-[les-statistiques.md](../toutes-les-notions/les-statistiques.md)
-{% endcontent-ref %}
-

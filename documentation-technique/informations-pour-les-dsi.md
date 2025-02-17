@@ -12,8 +12,8 @@ description: >-
 
 Veuillez dans un premier temps prendre connaissance de cette page qui explique les problèmes fréquents pour les agents et les solutions :&#x20;
 
-{% content-ref url="../documentation-agents/problemes-de-reception-des-emails.md" %}
-[problemes-de-reception-des-emails.md](../documentation-agents/problemes-de-reception-des-emails.md)
+{% content-ref url="../archives/problemes-de-reception-des-emails.md" %}
+[problemes-de-reception-des-emails.md](../archives/problemes-de-reception-des-emails.md)
 {% endcontent-ref %}
 
 Si un des agents de votre service rencontre ce genre de problèmes de réception d’emails, il est probable que d’autres le rencontrent à leur tour. En tant que responsable technique vous avez la possibilité de configurer le SI pour corriger ces problèmes pour tous les agents.
