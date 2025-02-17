@@ -451,7 +451,7 @@ Pour supprimer un agent :&#x20;
 
 <summary><strong>À</strong> <strong>quoi servent les motifs ?</strong> </summary>
 
-Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de rendez-vous, d’informer l’agent sur le contenu attendu et d’affiner les options (présentiel, téléphone, visio). Il permet également une configuration fine des disponibilités des agents selon leurs compétences et ou plage d'ouverture.&#x20;
+Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de rendez-vous, d’informer l’agent sur le contenu attendu et d’affiner les options (présentiel, téléphone, visio, option de prise de rendez-vous en ligne). Il permet également une configuration fine des disponibilités des agents selon leurs compétences ou capacités dans leurs plages d'ouverture.&#x20;
 
 </details>
 
@@ -465,7 +465,7 @@ Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de r
 
 <details>
 
-<summary>Puis-je modifier des motifs en masse ? </summary>
+<summary><strong>Puis-je modifier des motifs en masse ?</strong> </summary>
 
 
 
@@ -473,13 +473,31 @@ Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de r
 
 ## Les organisations
 
+
+
 <details>
 
-<summary><strong>À quoi sert les organisations ?</strong></summary>
+<summary><strong>À quoi servent les organisations ?</strong></summary>
 
 Les organisations permettent de gérer différents sites de rendez-vous au sein de la même entité administrative. Par exemple, une commune peut avoir plusieurs organisations : mairie, CCAS, médiathèque, etc. Cette fonctionnalité est utile si vous souhaitez créer des cloisonnements entre les agents de votre structure.&#x20;
 
 En effet, créer plusieurs organisations permet de **cloisonner** vos agents selon le lieu d'exercice de leurs missions. Un agent d'une organisation (A) n’aura pas accès aux agendas ni aux options d’une autre organisation (B). Bien que vous pouvez, au besoin, associer un agent à plusieurs organisations.&#x20;
+
+</details>
+
+<details>
+
+<summary>À quoi servent les options de configuration d'une organisation ? </summary>
+
+Une fois l'organisation créée, vous allez pouvoir compléter plusieurs informations depuis le menu paramètre > organisation :&#x20;
+
+* **Nom :**&#x20;
+* **Téléphone :**&#x20;
+* **Email :**&#x20;
+* **Site web :**&#x20;
+* **Horaires :**&#x20;
+
+Seul le nom est obligatoire. Toutefois, vous pouvez enrichir ces informations. Elles apparaîtront dans le parcours des prises de rendez-vous en ligne des usagers ainsi que dans le racapitualtif des informations du rendez-vous accessible depuis le SMS ou l'email reçu par les usagers.&#x20;
 
 </details>
 
