@@ -7,6 +7,7 @@
 * [Configurer son territoire](demarrer-sur-rdv-service-public/configurer-son-territoire.md)
 * [Configurer son organisation](demarrer-sur-rdv-service-public/configurer-son-organisation.md)
 * [Utiliser son agenda](demarrer-sur-rdv-service-public/utiliser-son-agenda.md)
+* [FAQ - tout savoir](demarrer-sur-rdv-service-public/faq-tout-savoir.md)
 
 ## DOCUMENTATION AGENTS
 
@@ -76,5 +77,4 @@
 
 ## DOCUMENTATION AGENT
 
-* [Toutes les notions](documentation-agent/toutes-les-notions.md)
 * [Configurer son organisation (test)](documentation-agent/configurer-son-organisation-test.md)
