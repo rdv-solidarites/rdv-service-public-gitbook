@@ -2,9 +2,13 @@
 icon: building-columns
 ---
 
-# Configurer son organisation (test)
+# Copy of Configurer son organisation (test)
 
-## Configuration générale
+
+
+<details>
+
+<summary>Configuration générale de l'organisation </summary>
 
 En tant qu'**Agent Admin** le tutoriel vous guidera pour configurer votre organisation.  Vous pouvez également cliquer directement ci-dessous sur la section qui vous intéresse :
 
@@ -13,7 +17,19 @@ En tant qu'**Agent Admin** le tutoriel vous guidera pour configurer votre organi
 * ​[_Créer vos motifs de rendez-vous_](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public__iyJaZ74LRjmcZXAa1IbpGg#5e4bffd7)
 * ​[_Publier les disponibilités de votre organisation en lig_](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public__iyJaZ74LRjmcZXAa1IbpGg#f0ebfacc)_ne_
 
+
+
+
+
+
+
+</details>
+
+
+
 {% embed url="https://scribehow.com/embed/Configurez_votre_organisation_sur_RDV_Service_Public__iyJaZ74LRjmcZXAa1IbpGg?as=scrollable" %}
+
+
 
 <details>
 
