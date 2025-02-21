@@ -34,6 +34,12 @@ hidden: true
 
 → [Regarder le tutoriel ](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public__iyJaZ74LRjmcZXAa1IbpGg#5e4bffd7)(x mins)
 {% endstep %}
+
+{% step %}
+#### **Publier les disponibilités de votre organisation**&#x20;
+
+→ [Regarder le tutoriel ](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public_DR__Xjgc9TCtSaSmotYxkSguPg)
+{% endstep %}
 {% endstepper %}
 
 ## 2. Connexion avec des outils externes
@@ -66,13 +72,5 @@ Relier vos motifs RDV Service Public au portail France Titres&#x20;
 
 </details>
 
-## **3. Publier les disponibilités de votre organisation**&#x20;
-
-Maintenant que votre organisation est correctement paramétrée, vous pouvez choisir de publier les disponibilités de votre organisation auprès des usagers (sur votre site, par mail, à la suite d'un formulaire...).&#x20;
-
-→ [Regarder le tutoriel ](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public_DR__Xjgc9TCtSaSmotYxkSguPg)
-
-
-
-## &#x20;**4.** Vous avez terminé de configurer votre organisation ! 🎉
+## &#x20;**3.** Vous avez terminé de configurer votre organisation ! 🎉
 
