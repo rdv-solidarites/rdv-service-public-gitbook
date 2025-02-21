@@ -1,8 +1,8 @@
 ---
-icon: building-columns
 description: >-
   Bienvenue dans l’espace d’aide de RDV Service Public. Suivez nos tutoriels pas
   à pas pour configurer votre organisation en tant qu'agent administrateur.
+icon: building-columns
 ---
 
 # Configurer son organisation (retour matis)
@@ -11,25 +11,25 @@ description: >-
 
 {% stepper %}
 {% step %}
-**Modifier les informations de votre organisation**
+#### **Modifier les informations de votre organisation**
 
 → [Regarder le tutoriel](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public__iyJaZ74LRjmcZXAa1IbpGg) (x mins)
 {% endstep %}
 
 {% step %}
-**Gérer les lieux liés à votre organisation**
+#### **Gérer les lieux liés à votre organisation**
 
 → [Regarder le tutoriel](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public__iyJaZ74LRjmcZXAa1IbpGg)[ ](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public__iyJaZ74LRjmcZXAa1IbpGg#e547c8a4)(x mins)
 {% endstep %}
 
 {% step %}
-**Inviter les agents de votre organisation**
+#### **Inviter les agents de votre organisation**
 
 → [Regarder le tutoriel ](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public__iyJaZ74LRjmcZXAa1IbpGg)(x mins)
 {% endstep %}
 
 {% step %}
-**Créer vos motifs de rendez-vous**
+#### **Créer vos motifs de rendez-vous**
 
 → [Regarder le tutoriel ](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public__iyJaZ74LRjmcZXAa1IbpGg#5e4bffd7)(x mins)
 {% endstep %}
