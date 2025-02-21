@@ -344,13 +344,13 @@ Pour une indisponibilité récurrente, il n'est pas possible de supprimer une se
 
 <summary><strong>Comment trouver une disponibilité chez les agents de mon organisation ?</strong></summary>
 
-Le bouton **"Trouver un rendez-vous"** permet de rechercher rapidement des disponibilités dans votre organisation ou service, évitant ainsi une consultation manuelle des agendas.
+Le bouton _**Trouver un rendez-vous**_ permet de rechercher rapidement des disponibilités dans votre organisation ou service, évitant ainsi une consultation manuelle des agendas.
 
 Pour utiliser cette fonctionnalité :&#x20;
 
-* Cliquez sur **"Trouver un rendez-vous"** pour accéder au moteur de recherche.
+* Cliquez sur _**Trouver un rendez-vous**_ pour accéder au moteur de recherche.
 * Spécifiez vos critères : service, motif, agent, lieu et date.
-* Cliquez sur **"Afficher les créneaux"** pour voir les disponibilités correspondantes.
+* Cliquez sur _**Afficher les créneaux**_ pour voir les disponibilités correspondantes.
 
 Conditions d’accès :
 
@@ -366,7 +366,7 @@ Si plusieurs agents sont disponibles sur le même créneau et motif, la premièr
 
 <summary><strong>Comment planifier un rendez-vous ?</strong></summary>
 
-Après avoir sélectionné une disponibilité via **"Trouver un RDV"**, vous passerez à la planification du rendez-vous :&#x20;
+Après avoir sélectionné une disponibilité via _**Trouver un RDV**_, vous passerez à la planification du rendez-vous :&#x20;
 
 * **Associer un usager** :&#x20;
 
@@ -386,15 +386,15 @@ Un dernier récap vous permet d’activer ou désactiver les notifications pour 
 
 <summary><strong>Comment exporter une liste de rendez-vous ?</strong></summary>
 
-Le **statut d’agent administrateur** permet d’extraire les statistiques de votre organisation au format **.xls**, en complément de leur visualisation dans l’onglet **Statistiques**.
+Le **statut d’agent administrateur** permet d’extraire les statistiques de votre organisation au format **.xls**, en complément de leur visualisation dans l’onglet _**Statistiques**_.
 
 #### Pour exporter les données :
 
-* Accédez au menu **"Liste des RDV"**.
+* Accédez au menu _**Liste des RDV**_.
 * Compléter les différents champ pour affiner les critères de votre export&#x20;
-* Cliquer sur **"rafraichir la liste"**&#x20;
-* Cliquez sur **"Exporter"** après avoir renseigné vos critères.
-* Retrouvez vos exports dans la page **"Vos exports"**, accessible depuis votre compte (en haut à droite).
+* Cliquer sur _**rafraichir la liste**_&#x20;
+* Cliquez sur _**Exporter**_ après avoir renseigné vos critères.
+* Retrouvez vos exports dans la page _**Vos exports**_, accessible depuis votre compte (en haut à droite).
 
 **L’extraction se fait par organisation. Si vous en gérez plusieurs, vous devez effectuer une exportation pour chacune.**
 
@@ -404,21 +404,21 @@ Le **statut d’agent administrateur** permet d’extraire les statistiques de v
 
 <summary><strong>Comment trouver une disponiblités dans d’autres organisations ?</strong></summary>
 
-Vous pouvez permettre aux agents de planifier des rendez-vous dans d'autres organisations si vous disposez de plusieurs organisations. Ce parcours est possible par la fonctionnalité **"prescripteur".**&#x20;
+Vous pouvez permettre aux agents de planifier des rendez-vous dans d'autres organisations si vous disposez de plusieurs organisations. Ce parcours est possible par la fonctionnalité _**prescripteur**_**.**&#x20;
 
 Elle permet aux agents de partager leurs disponibilités et de planifier des rendez-vous dans **toutes les organisations** de leur territoire.
 
 Pour configurer :&#x20;
 
-Il est nécessaire de configurer vos motifs **"ouvert aux prescripteur"** depuis l'écran de configuration des motifs. Plus précisément, depuis l'onglet "réservation en ligne" présent dans l'écran de configuration des motifs.&#x20;
+Il est nécessaire de configurer vos motifs _**ouvert aux prescripteur**_ depuis l'écran de configuration des motifs. Plus précisément, depuis l'onglet _**réservation en ligne**_ présent dans l'écran de configuration des motifs.&#x20;
 
 Pour l’utiliser :&#x20;
 
-Si des motifs ouverts aux prescripteurs ont été configurés, vous pouvez accéder aux disponibilités d’autres organisations via **"Trouver un rendez-vous"** :
+Si des motifs ouverts aux prescripteurs ont été configurés, vous pouvez accéder aux disponibilités d’autres organisations via _**Trouver un rendez-vous**_ :
 
-* Cliquez sur **"Élargir votre recherche"**.
-* Sélectionnez les informations du rendez-vous (motif, lieu, créneau, usagers).
-* Cliquez sur **"Confirmer le RDV"** pour finaliser le rendez-vous.&#x20;
+* Cliquer sur _**Élargir votre recherche**_.
+* Sélectionner les informations du rendez-vous (motif, lieu, créneau, usagers).
+* Cliquer sur **C**_**onfirmer le RDV**_ pour finaliser le rendez-vous.&#x20;
 
 </details>
 
@@ -438,10 +438,10 @@ Vous pouvez supprimer ou modifier les données des usagers. Sur la fiche des usa
 
 Pour créer une fiche :&#x20;
 
-* Dans le menu **"Usager"**, cliquez sur **"Créer un usager"** ou depuis le parcours **"Trouver un RDV"** cliquer sur **"Créer un usager"**
+* Dans le menu _**Usager**_, cliquez sur _**Créer un usager**_ ou depuis le parcours _**Trouver un RDV**_ cliquer sur _**Créer un usager**_
 * Seuls le nom et le prénom sont obligatoires.
 * La fiche sera rattachée à **l’organisation de l’agent** qui l’a créée.
-* Cliquez sur **"Créer usager"** pour valider.
+* Cliquez sur _**Créer usager**_ pour valider.
 
 **Pensez à vérifier l’orthographe des noms et prénoms pour éviter les doublons !**&#x20;
 
@@ -466,9 +466,9 @@ Les doublons peuvent apparaître lorsque :
 
 Pour fusionner des fiches usagers :&#x20;
 
-* Allez dans le menu **"Usagers"**.
-* Cliquez sur **"Fusionner deux usagers"**.
-* Entrez le nom de l’usager en double dans chaque colonne.
+* Accéder au menu _**Usagers**_.
+* Cliquer sur _**Fusionner deux usagers**_.
+* Entrer le nom de l’usager en double dans chaque colonne.
 * Comparez les fiches : **Différences en orange**, **similitudes en vert**.
 * Sélectionnez les informations à conserver.
 * Validez pour créer une **fiche unique fusionnée**.
@@ -485,8 +485,8 @@ Un agent peut être associé à plusieurs organisations. Cette association lui d
 
 Pour ajouter un agent à plusieurs organisations :&#x20;
 
-* Accéder à votre Espace Admin&#x20;
-* Sélectionner "Agent"&#x20;
+* Accéder à votre _**Espace Admin**_&#x20;
+* Sélectionner _**Agent**_&#x20;
 * Choisissez l'agent à modifier. Vous trouverez en bas de page les options d'affectations à de nouvelles organisations.
 
 </details>
@@ -541,12 +541,12 @@ Un **Agent du service secrétariat** bénéficie de droits de visibilité supér
 
 Pour inviter un agent :&#x20;
 
-* Allez dans **"Paramètres"**, puis **"Agents"**.
-* Cliquez sur **"Inviter un agent"**.
-* Choisissez un niveau d'accès.&#x20;
-* Entrez l’adresse e-mail de l'agent.&#x20;
-* Enfin, sélectionnez un service auquel associer l'agent.&#x20;
-* Il recevra une invitation pour créer son compte. Une fois l’invitation acceptée, l'agent devra créer un mot de passe pour se connecter.&#x20;
+* Allez dans _**Paramètres**_ puis _**Agents**_
+* Cliquez sur _**Inviter un agent**_
+* Choisissez un niveau d'accès
+* Entrez l’adresse e-mail de l'agent
+* Enfin, sélectionnez un service auquel associer l'agent
+* Il recevra une invitation pour créer son compte. Une fois l’invitation acceptée, l'agent devra créer un mot de passe pour se connecter
 
 **Si vous invitez un agent dans plusieurs organisations, chaque invitation sera validée automatiquement après la première, sans nouvel email d'invitation.**&#x20;
 
@@ -558,9 +558,9 @@ Pour inviter un agent :&#x20;
 
 Pour modifier le service d'un agent :&#x20;
 
-* Accéder à votre espace Admin de Territoire&#x20;
-* Cliquer sur "agent" et sélectionner "modifier".&#x20;
-* Associer l'agent à un ou plusieurs services pour définir ses droits d'accès.&#x20;
+* Accéder à votre _**Espace Admin**_
+* Cliquer sur _**agent**_ et sélectionner _**modifier**_&#x20;
+* Associer l'agent à un ou plusieurs services pour définir ses droits d'accès
 
 **Seul un agent admin de territoire pour modifier les services d'un agent.**&#x20;
 
@@ -572,8 +572,8 @@ Pour modifier le service d'un agent :&#x20;
 
 Pour supprimer un agent :&#x20;
 
-* Allez dans **"Paramètres"**, puis **"Agents"**.
-* Cliquez sur l’icône **"Supprimer"** à côté de l'agent.
+* Allez dans _**Paramètres**_ puis _**Agents**_.
+* Cliquez sur l’icône _**Supprimer**_ à côté de l'agent.
 * Si l'agent a des rendez-vous à venir, une alerte vous empêchera de le supprimer. Vous devrez réaffecter ces rendez-vous avant de supprimer l'agent.
 
 **Les agents inactifs (non connectés depuis 30 jours) auront l’étiquette "inactif" à côté de leur nom.**
@@ -598,8 +598,8 @@ Vous pouvez dupliquer des motifs déjà créé dans une autre organisation. Cett
 
 Pour dupliquer un motif :&#x20;
 
-* Accéder à vos motifs depuis paramètre > motifs&#x20;
-* Cliquer sur l'émoticône "dupliquer" à droite de chaque motif
+* Accéder à vos motifs depuis _**paramètres**_ puis _**motifs**_&#x20;
+* Cliquer sur l'émoticône _**dupliquer**_ à droite de chaque motif
 * Sélectionner l'organisation dans laquelle dupliquer le motif
 * Au besoin, modifier des configurations du motif&#x20;
 
@@ -613,10 +613,10 @@ Vous pouvez modifier des par lot. Cette fonctionnalité permet de changer des co
 
 Pour modifier des motifs en masse :&#x20;
 
-* Accéder à votre Espace Admin&#x20;
-* Sélectionner motif&#x20;
+* Accéder à votre _**Espace Admin**_&#x20;
+* Sélectionner _**motif**_&#x20;
 * Filtrer et rechercher les motifs à modifier et sélectionner les par lot.&#x20;
-* Cliquer sur "modifier les motifs"&#x20;
+* Cliquer sur _**modifier les motifs**_&#x20;
 
 **Seul un agent admin de territoire peut modifier des motif en masse.**&#x20;
 
@@ -632,10 +632,10 @@ Par défaut, lors de la création de votre compte, un seul service sera actif da
 
 Pour activer un nouveau service :&#x20;
 
-* Accéder à votre Espace Admin&#x20;
-* Sélectionner "service"
+* Accéder à votre _**Espace Admin**_&#x20;
+* Sélectionner _**services**_
 * Sélectionner les services que vous souhaitez activer parmi la liste&#x20;
-* Cliquer sur enregistrer en bas de page
+* Cliquer sur _**enregistrer**_ en bas de page
 
 **Seul un agent admin de territoire peut activer de nouveaux services.** &#x20;
 
@@ -677,10 +677,10 @@ Ces informations aideront l'usager à vous contacter s'il veut annuler son rende
 
 Pour créer une nouvelle organisation :&#x20;
 
-1. Allez dans le **menu "Espace Admin"** depuis **Paramètres**.
-2. Cliquez sur **"Organisations"**, puis sur **"Créer une organisation"**.
-3. L'agent admin de territoire qui crée l'organisation devient automatiquement le premier agent associé.
-4. Cet agent admin pourra ensuite inviter d'autres agents dans cette organisation si nécessaire.
+* Allez dans le menu _**Espace Admin**_
+* Cliquez sur _**Organisations**_ puis sur _**Créer une organisation**_.
+* L'agent admin de territoire qui crée l'organisation devient automatiquement le premier agent associé.
+* Cet agent admin pourra ensuite inviter d'autres agents dans cette organisation si nécessaire.
 
 **Seul un agent admin de territoire peut créer des organisations.**&#x20;
 

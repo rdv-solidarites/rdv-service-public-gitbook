@@ -3,7 +3,6 @@ icon: building-columns
 description: >-
   Bienvenue dans l’espace d’aide de RDV Service Public. Suivez nos tutoriels pas
   à pas pour configurer votre organisation en tant qu'agent administrateur.
-hidden: true
 ---
 
 # Configurer son organisation (retour matis)
@@ -43,8 +42,6 @@ hidden: true
 
 {% step %}
 #### Vous avez terminé de configurer votre organisation ! 🎉
-
-
 {% endstep %}
 {% endstepper %}
 

@@ -42,6 +42,7 @@
 * [Qui nous utilise ?](a-propos/qui-nous-utilise.md)
 * [À quoi ça sert ?](a-propos/a-quoi-ca-sert.md)
 * [Comment ça marche ?](a-propos/comment-ca-marche.md)
+* [Configurer son organisation (retour matis)](a-propos/configurer-son-organisation-retour-matis.md)
 * [Qui finance ?](a-propos/qui-finance.md)
 
 ## Toutes les notions
@@ -80,4 +81,3 @@
 * [Configurer son organisation (test)](documentation-agent/configurer-son-organisation-test.md)
 * [Copy of Configurer son organisation (test)](documentation-agent/copy-of-configurer-son-organisation-test.md)
 * [Configurer son organisation](documentation-agent/configurer-son-organisation.md)
-* [Configurer son organisation (retour matis)](documentation-agent/configurer-son-organisation-retour-matis.md)
