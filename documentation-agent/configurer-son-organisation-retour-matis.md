@@ -38,7 +38,7 @@ hidden: true
 
 ## 2. Connexion avec des outils externes
 
-Les fonctionnalités de RDV Service Public s'adaptent à vos besoins. Ainsi, des connexions avec d'autres plateformes sont disponibles pour mieux répondre à vos usages spécifiques.
+Les fonctionnalités de RDV Service Public s'adaptent à vos cas d'usage. La solution propose plusieurs connexions avec d'autres plateformes pour mieux répondre à vos usages spécifiques :&#x20;
 
 <details>
 
