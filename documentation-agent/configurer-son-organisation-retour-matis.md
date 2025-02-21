@@ -38,7 +38,7 @@ hidden: true
 {% step %}
 #### **Publier les disponibilités de votre organisation**&#x20;
 
-→ [Regarder le tutoriel ](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public_DR__Xjgc9TCtSaSmotYxkSguPg)
+→ [Regarder le tutoriel ](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public_DR__Xjgc9TCtSaSmotYxkSguPg)(x mins)
 {% endstep %}
 
 {% step %}
