@@ -40,6 +40,12 @@ hidden: true
 
 → [Regarder le tutoriel ](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public_DR__Xjgc9TCtSaSmotYxkSguPg)
 {% endstep %}
+
+{% step %}
+#### Vous avez terminé de configurer votre organisation ! 🎉
+
+
+{% endstep %}
 {% endstepper %}
 
 ## 2. Connexion avec des outils externes
@@ -72,5 +78,5 @@ Relier vos motifs RDV Service Public au portail France Titres&#x20;
 
 </details>
 
-## &#x20;**3.** Vous avez terminé de configurer votre organisation ! 🎉
+
 
