@@ -8,31 +8,33 @@ hidden: true
 
 # Configurer son organisation
 
-## 1. Les premiers pas pour configurer votre organisation
+## 1. Les premiers pas pour configurer votre organisation&#x20;
+
+(Durée des tutoriels - 4 minutes)
 
 {% stepper %}
 {% step %}
 **Modifier les informations de votre organisation**
 
-➡️ [Regarder le tutoriel](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public__iyJaZ74LRjmcZXAa1IbpGg) (Durée : X min)
+➡️ [Regarder le tutoriel](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public__iyJaZ74LRjmcZXAa1IbpGg)&#x20;
 {% endstep %}
 
 {% step %}
 **Gérer les lieux liés à votre organisation**
 
-➡️ [Regarder le tutoriel](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public__iyJaZ74LRjmcZXAa1IbpGg)[ ](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public__iyJaZ74LRjmcZXAa1IbpGg#e547c8a4)(Durée : X min)
+➡️ [Regarder le tutoriel](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public__iyJaZ74LRjmcZXAa1IbpGg)[ ](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public__iyJaZ74LRjmcZXAa1IbpGg#e547c8a4)
 {% endstep %}
 
 {% step %}
 **Inviter les agents de votre organisation**
 
-➡️[ Regarder le tutoriel ](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public__iyJaZ74LRjmcZXAa1IbpGg)(Durée : X min)
+➡️[ Regarder le tutoriel ](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public__iyJaZ74LRjmcZXAa1IbpGg)
 {% endstep %}
 
 {% step %}
 **Créer vos motifs de rendez-vous**
 
-➡️[ Regarder le tutoriel ](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public__iyJaZ74LRjmcZXAa1IbpGg#5e4bffd7)(Durée : X min)
+➡️[ Regarder le tutoriel ](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public__iyJaZ74LRjmcZXAa1IbpGg#5e4bffd7)
 {% endstep %}
 {% endstepper %}
 
@@ -44,7 +46,7 @@ Les fonctionnalités de RDV Service Public s'adaptent à vos besoins. Ainsi, des
 
 <summary>🔗 Connexion avec la <strong>Cartographie Nationale des Conseillers Numériques</strong> </summary>
 
-Blablabla
+Lorsque la prise de rendez-vous en ligne est activée dans vos motifs sur RDV Service Public, vos disponibilités apparaitront automatiquement sur la [Cartographie](https://www.conseiller-numerique.gouv.fr/).&#x20;
 
 </details>
 
