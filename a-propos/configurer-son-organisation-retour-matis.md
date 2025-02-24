@@ -51,7 +51,7 @@ Les fonctionnalités de RDV Service Public s'adaptent à vos cas d'usage. La sol
 
 <details>
 
-<summary>Connexion avec la <strong>Cartographie Nationale des Conseillers Numériques</strong> </summary>
+<summary>Connexion avec la <mark style="color:blue;"><strong>Cartographie Nationale des Conseillers Numériques</strong></mark> </summary>
 
 Blablabla
 
@@ -59,7 +59,7 @@ Blablabla
 
 <details>
 
-<summary>Connexion avec <strong>France Titres</strong> </summary>
+<summary>Connexion avec <mark style="color:blue;"><strong>France Titres</strong></mark> </summary>
 
 Relier vos motifs RDV Service Public au portail France Titres&#x20;
 
@@ -69,7 +69,7 @@ Relier vos motifs RDV Service Public au portail France Titres&#x20;
 
 <details>
 
-<summary>Connexion avec <strong>Mon Suivi Social</strong> </summary>
+<summary>Connexion avec <mark style="color:blue;"><strong>Mon Suivi Social</strong></mark> </summary>
 
 [➡️ Consulter le tutoriel](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public_DR__Xjgc9TCtSaSmotYxkSguPg)
 
