@@ -7,33 +7,37 @@ icon: building-columns
 
 ## Configuration générales
 
-Vous êtes **Agent Admin** et disposez alors d'un accès à au menu Configuration permettant de paramétrer votre compte RDV Service Public. Ce premier niveau de configuration permettra à tous les **Agent Basique** de votre structure d'[utiliser leur agenda](../demarrer-sur-rdv-service-public/utiliser-son-agenda.md) et de planifier des rendez-vous.&#x20;
+Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_ permettant de paramétrer votre compte RDV Service Public. Ce premier niveau de configuration permettra à tous les **Agent Basique** de votre structure d'utiliser leur agenda et de planifier des rendez-vous.&#x20;
+
+***
 
 {% stepper %}
 {% step %}
 **Inviter vos agents**&#x20;
 
-
+test
 {% endstep %}
 
 {% step %}
 **Créer vos motifs**&#x20;
 
-
+test
 {% endstep %}
 
 {% step %}
 **Créer vos lieux**&#x20;
 
-
+test
 {% endstep %}
 
 {% step %}
 **Configurer vos informations de contacts**
 
-
+test
 {% endstep %}
 {% endstepper %}
+
+***
 
 ## Configuration par synchronisation
 
