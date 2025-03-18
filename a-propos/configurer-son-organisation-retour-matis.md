@@ -1,8 +1,9 @@
 ---
-icon: building-columns
 description: >-
   Bienvenue dans l’espace d’aide de RDV Service Public. Suivez nos tutoriels pas
   à pas pour configurer votre organisation en tant qu'agent administrateur.
+hidden: true
+icon: building-columns
 ---
 
 # Configurer son organisation (retour matis)

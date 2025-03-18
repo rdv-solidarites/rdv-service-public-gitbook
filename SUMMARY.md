@@ -81,3 +81,4 @@
 * [Copy of Configurer son organisation (test)](documentation-agent/copy-of-configurer-son-organisation-test.md)
 * [Configurer son organisation (retour matis)](a-propos/configurer-son-organisation-retour-matis.md)
 * [Configurer son organisation](documentation-agent/configurer-son-organisation.md)
+* [Configurer son organisation](documentation-agent/configurer-son-organisation-1.md)
