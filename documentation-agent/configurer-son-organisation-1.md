@@ -61,9 +61,23 @@ test
 
 Maintenant que votre organisation configuré, vous pouvez choisir de publier les disponibilités de votre structure auprès des usagers (sur votre site, par mail, à la suite d'un formulaire...).&#x20;
 
+***
+
+{% stepper %}
+{% step %}
+###
 
 
+{% endstep %}
 
+{% step %}
+###
+
+
+{% endstep %}
+{% endstepper %}
+
+***
 
 Les fonctionnalités de RDV Service Public s'adaptent à vos besoins. Ainsi, des connexions avec d'autres plateformes sont disponibles pour mieux répondre à vos usages spécifiques.
 
