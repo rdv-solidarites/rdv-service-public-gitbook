@@ -9,25 +9,25 @@ icon: building-columns
 
 {% stepper %}
 {% step %}
-### **Inviter vos agents**&#x20;
+**Inviter vos agents**&#x20;
 
 
 {% endstep %}
 
 {% step %}
-### **Créer vos motifs**&#x20;
+**Créer vos motifs**&#x20;
 
 
 {% endstep %}
 
 {% step %}
-### **Créer vos lieux**&#x20;
+**Créer vos lieux**&#x20;
 
 
 {% endstep %}
 
 {% step %}
-### **Configurer vos informations de contacts**
+**Configurer vos informations de contacts**
 
 
 {% endstep %}
@@ -37,7 +37,7 @@ icon: building-columns
 
 <details>
 
-<summary>Synchronisation avec <strong>Mon Suivi Social</strong> </summary>
+<summary>Synchronisation avec <mark style="color:purple;"><strong>Mon Suivi Social</strong></mark> </summary>
 
 
 
@@ -45,7 +45,7 @@ icon: building-columns
 
 <details>
 
-<summary>Synchronisation avec Démarches Simplifiés</summary>
+<summary>Synchronisation avec <mark style="color:purple;"><strong>Démarches Simplifiés</strong></mark></summary>
 
 
 
