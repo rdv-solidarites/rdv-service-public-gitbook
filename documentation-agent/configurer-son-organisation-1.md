@@ -15,31 +15,31 @@ Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_
 {% step %}
 **Inviter vos agents**&#x20;
 
-test
+xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxx
 {% endstep %}
 
 {% step %}
 **Créer vos motifs**&#x20;
 
-test
+xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxx
 {% endstep %}
 
 {% step %}
 **Créer vos lieux**&#x20;
 
-test
+xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxx
 {% endstep %}
 
 {% step %}
 **Configurer vos informations de contacts**
 
-test
+xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxx
 {% endstep %}
 
 {% step %}
 **Activer la prise de rendez-vous en ligne**&#x20;
 
-
+xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxx
 {% endstep %}
 {% endstepper %}
 
@@ -47,7 +47,9 @@ test
 
 ## Configurations spécifiques
 
-#### Synchronisation produit&#x20;
+### Synchronisation produit
+
+&#x20;RDV Service Public est intéropérable avec d'autres produit numérique de l'État. Vous trouverez ci-dessus des éléments d'explication pour configurer une synchronisation avec un produit extérieur.&#x20;
 
 <details>
 
@@ -65,9 +67,9 @@ test
 
 </details>
 
-#### Synchronisation site&#x20;
+### Synchronisation site&#x20;
 
-Les fonctionnalités de RDV Service Public s'adaptent à vos besoins. Ainsi, des connexions avec d'autres plateformes sont disponibles pour mieux répondre à vos usages spécifiques.
+RDV Service Public propose un branchement des disponiblités avec des sites de l'État. Vous trouverez ci-dessous des éléments d'explication pour configurer une synchrnoisation avec un site extérieur.&#x20;
 
 <details>
 
@@ -81,7 +83,7 @@ Relier vos motifs RDV Service Public au portail France Titres&#x20;
 
 <details>
 
-<summary>Conseillers Numériques avec la <mark style="color:purple;"><strong>Cartographie Nationale</strong></mark></summary>
+<summary>Conseillers Numériques avec la <mark style="color:purple;"><strong>Cartographie Nationale des lieux d'inclusion numérique</strong></mark></summary>
 
 Lorsque la prise de rendez-vous en ligne est activée dans vos motifs sur RDV Service Public, vos disponibilités apparaitront automatiquement sur la [Cartographie](https://www.conseiller-numerique.gouv.fr/).&#x20;
 
