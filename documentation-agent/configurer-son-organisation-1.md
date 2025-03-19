@@ -5,7 +5,7 @@ icon: building-columns
 
 # Configurer son organisation
 
-## Configuration générales
+
 
 Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_ permettant de paramétrer votre compte RDV Service Public. Ce premier niveau de configuration permettra à tous les **Agent Basique** de votre structure d'utiliser leur agenda et de planifier des rendez-vous.&#x20;
 
@@ -45,11 +45,9 @@ xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xx
 
 ***
 
-## Configurations spécifiques
+## Interconnexion produit
 
-### Synchronisation produit
-
-_RDV Service Public_ propose des interopérabilités avec d'autres produit numérique de l'État. Vous trouverez ci-dessus des éléments d'explication pour configurer une synchronisation avec un produit extérieur.&#x20;
+_RDV Service Public_ propose des interopérabilités avec d'autres produit numérique de l'État. Vous trouverez ci-dessus des éléments d'explication pour configurer une synchronisation avec un **produit extérieur**.&#x20;
 
 <details>
 
@@ -67,9 +65,9 @@ xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xx
 
 </details>
 
-### Synchronisation site&#x20;
+## Interconnexion site&#x20;
 
-_RDV Service Public_ propose un branchement des disponiblités avec des sites de l'État. Vous trouverez ci-dessous des éléments d'explication pour configurer une synchrnoisation avec un site extérieur.&#x20;
+_RDV Service Public_ propose un branchement des disponiblités avec des sites de l'État. Vous trouverez ci-dessous des éléments d'explication pour configurer une synchrnoisation avec un **site extérieur**.&#x20;
 
 <details>
 
@@ -87,5 +85,5 @@ xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xx
 
 </details>
 
-
+***
 
