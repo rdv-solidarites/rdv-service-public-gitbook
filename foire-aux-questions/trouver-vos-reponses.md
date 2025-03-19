@@ -342,7 +342,7 @@ Pour une indisponibilité récurrente, il n'est pas possible de supprimer une se
 
 <details>
 
-<summary><strong>Comment trouver une disponibilité chez les agents de mon organisation ?</strong></summary>
+<summary><strong>Comment trouver une disponibilité auprès des agents de mon organisation ?</strong></summary>
 
 Le bouton _**Trouver un rendez-vous**_ permet de rechercher rapidement des disponibilités dans votre organisation ou service, évitant ainsi une consultation manuelle des agendas.
 

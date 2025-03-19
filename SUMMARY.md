@@ -82,3 +82,4 @@
 * [Configurer son organisation (retour matis)](a-propos/configurer-son-organisation-retour-matis.md)
 * [Configurer son organisation](documentation-agent/configurer-son-organisation.md)
 * [Configurer son organisation](documentation-agent/configurer-son-organisation-1.md)
+* [Configurer le parcours en ligne](documentation-agent/configurer-le-parcours-en-ligne.md)
