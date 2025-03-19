@@ -77,13 +77,7 @@
 
 ## DOCUMENTATION AGENT
 
-* [Configurer son organisation (test)](documentation-agent/configurer-son-organisation-test.md)
-* [Copy of Configurer son organisation (test)](documentation-agent/copy-of-configurer-son-organisation-test.md)
-* [Configurer son organisation (retour matis)](a-propos/configurer-son-organisation-retour-matis.md)
 * [Configurer son organisation](documentation-agent/configurer-son-organisation.md)
-* [Utiliser son agenda](documentation-agent/utiliser-son-agenda/README.md)
-  * [J'utilise RDV Service Public](documentation-agent/utiliser-son-agenda/jutilise-rdv-service-public.md)
-  * [Je viens de Démarches Simplifiés](documentation-agent/utiliser-son-agenda/je-viens-de-demarches-simplifies.md)
-  * [Je viens de Mon Suivi Social](documentation-agent/utiliser-son-agenda/je-viens-de-mon-suivi-social.md)
-* [Configurer son organisation](documentation-agent/configurer-son-organisation-1.md)
+* [Utiliser son agenda](documentation-agent/utiliser-son-agenda.md)
 * [Configurer le parcours en ligne](documentation-agent/configurer-le-parcours-en-ligne.md)
+* [Configurer son organisation](documentation-agent/configurer-son-organisation-1.md)

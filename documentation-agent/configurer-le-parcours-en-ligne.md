@@ -6,7 +6,7 @@ icon: building-columns
 
 # Configurer le parcours en ligne
 
-## **Configuration générales**&#x20;
+## **Parcours**&#x20;
 
 Maintenant que votre organisation est configurée, vous pouvez choisir de publier les disponibilités de votre structure auprès des usagers (sur votre site, par mail, à la suite d'un formulaire...).&#x20;
 

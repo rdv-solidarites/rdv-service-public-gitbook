@@ -1,89 +1,80 @@
 ---
+description: >-
+  Bienvenue dans l’espace d’aide de RDV Service Public. Suivez nos tutoriels pas
+  à pas pour configurer votre organisation en tant qu'agent administrateur.
 hidden: true
 icon: building-columns
 ---
 
 # Configurer son organisation
 
+## 1. Les premiers pas pour configurer votre organisation&#x20;
 
-
-Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_ permettant de paramétrer votre compte RDV Service Public. Ce premier niveau de configuration permettra à tous les **Agent Basique** de votre structure d'utiliser leur agenda et de planifier des rendez-vous.&#x20;
-
-***
+(Durée des tutoriels - 4 minutes)
 
 {% stepper %}
 {% step %}
 **Inviter vos agents**&#x20;
 
-xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxx
+➡️ [Regarder le tutoriel](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public__iyJaZ74LRjmcZXAa1IbpGg)&#x20;
 {% endstep %}
 
 {% step %}
 **Créer vos motifs**&#x20;
 
-xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxx
+➡️ [Regarder le tutoriel](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public__iyJaZ74LRjmcZXAa1IbpGg)[ ](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public__iyJaZ74LRjmcZXAa1IbpGg#e547c8a4)
 {% endstep %}
 
 {% step %}
 **Créer vos lieux**&#x20;
 
-xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxx
+➡️[ Regarder le tutoriel ](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public__iyJaZ74LRjmcZXAa1IbpGg)
 {% endstep %}
 
 {% step %}
-**Configurer vos informations de contacts**
+**Configurer vos informations de contacts**&#x20;
 
-xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxx
-{% endstep %}
-
-{% step %}
-**Activer la prise de rendez-vous en ligne**&#x20;
-
-xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxx
+➡️[ Regarder le tutoriel ](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public__iyJaZ74LRjmcZXAa1IbpGg#5e4bffd7)
 {% endstep %}
 {% endstepper %}
 
-***
+## 2. Connexion avec des outils externes
 
-## Interconnexion produit
-
-_RDV Service Public_ propose des interopérabilités avec d'autres produit numérique de l'État. Vous trouverez ci-dessus des éléments d'explication pour configurer une synchronisation avec un **produit extérieur**.&#x20;
+Les fonctionnalités de RDV Service Public s'adaptent à vos besoins. Ainsi, des connexions avec d'autres plateformes sont disponibles pour mieux répondre à vos usages spécifiques.
 
 <details>
 
-<summary>Synchronisation avec <mark style="color:purple;"><strong>Mon Suivi Social</strong></mark> </summary>
+<summary>🔗 Connexion avec la <strong>Cartographie Nationale des Conseillers Numériques</strong> </summary>
 
-xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxx
+Lorsque la prise de rendez-vous en ligne est activée dans vos motifs sur RDV Service Public, vos disponibilités apparaitront automatiquement sur la [Cartographie](https://www.conseiller-numerique.gouv.fr/).&#x20;
 
 </details>
 
 <details>
 
-<summary>Synchronisation avec <mark style="color:purple;"><strong>Démarches Simplifiés</strong></mark></summary>
+<summary>🔗 Connexion avec <strong>France Titres</strong> </summary>
 
-xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxx
+Relier vos motifs RDV Service Public au portail France Titres&#x20;
 
-</details>
-
-## Interconnexion site&#x20;
-
-_RDV Service Public_ propose un branchement des disponiblités avec des sites de l'État. Vous trouverez ci-dessous des éléments d'explication pour configurer une synchrnoisation avec un **site extérieur**.&#x20;
-
-<details>
-
-<summary>Commune avec <mark style="color:purple;"><strong>France Titres</strong></mark></summary>
-
-xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxx
+[➡️ Consulter le tutoriel](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public_DR__Xjgc9TCtSaSmotYxkSguPg)
 
 </details>
 
 <details>
 
-<summary>Conseillers Numériques avec la <mark style="color:purple;"><strong>Cartographie Nationale des lieux d'inclusion numérique</strong></mark></summary>
+<summary>🔗 Connexion avec <strong>Mon Suivi Social</strong> </summary>
 
-xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxx
+[➡️ Consulter le tutoriel](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public_DR__Xjgc9TCtSaSmotYxkSguPg)
 
 </details>
 
-***
+## **3. Publier les disponibilités de votre organisation**&#x20;
+
+Maintenant que votre organisation est correctement paramétrée, vous pouvez choisir de publier les disponibilités de votre organisation auprès des usagers (sur votre site, par mail, à la suite d'un formulaire...).&#x20;
+
+➡️ [Regarder le tutoriel ](https://scribehow.com/shared/Configurez_votre_organisation_sur_RDV_Service_Public_DR__Xjgc9TCtSaSmotYxkSguPg)
+
+
+
+## &#x20;➡️ Vous avez terminé de configurer votre organisation ! 🎉
 
