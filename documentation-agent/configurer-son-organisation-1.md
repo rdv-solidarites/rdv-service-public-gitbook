@@ -45,9 +45,9 @@ test
 
 ***
 
-## Cas spécifiques
+## Configurations spécifiques
 
-#### Configuration pour synchronisation produit&#x20;
+#### Synchronisation produit&#x20;
 
 <details>
 
@@ -65,7 +65,7 @@ test
 
 </details>
 
-#### Configuration pour synchronisation site
+#### Synchronisation site&#x20;
 
 Les fonctionnalités de RDV Service Public s'adaptent à vos besoins. Ainsi, des connexions avec d'autres plateformes sont disponibles pour mieux répondre à vos usages spécifiques.
 
