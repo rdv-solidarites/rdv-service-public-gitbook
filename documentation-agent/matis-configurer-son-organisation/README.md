@@ -9,7 +9,7 @@ Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_
 
 {% stepper %}
 {% step %}
-[Inviter vos agents](./#creer-vos-motifs)
+[Inviter vos agents](./#inviter-vos-agents)
 {% endstep %}
 
 {% step %}
@@ -28,6 +28,10 @@ Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_
 [Activer la prise de rendez-vous en ligne](./#activer-la-prise-de-rendez-vous-en-ligne)
 {% endstep %}
 {% endstepper %}
+
+{% content-ref url="inviter-vos-agents.md" %}
+[inviter-vos-agents.md](inviter-vos-agents.md)
+{% endcontent-ref %}
 
 
 
