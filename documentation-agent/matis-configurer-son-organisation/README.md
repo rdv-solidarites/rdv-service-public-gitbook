@@ -19,10 +19,6 @@ Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_
 
 <summary><strong>Créer vos motifs</strong></summary>
 
-&#x20;                                            <img src="../../.gitbook/assets/RDVSP (6).gif" alt="" data-size="original">
-
-
-
 Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de rendez-vous, d’informer l’agent sur le contenu attendu et d’affiner les options (présentiel, téléphone, visio, option de prise de rendez-vous en ligne). **Les motifs sont nécessaires pour la planification d'un rendez-vous.**
 
 {% hint style="warning" %}
@@ -31,7 +27,11 @@ Les Agents Basique ne pourront utiliser que les motifs associés à leur service
 
 Une fois configurés, tous vos motifs seront alors accessibles aux agents des services associés. Les agents pourront créer des plages de disponibilités avec des motifs configurés et ainsi faciliter la recherche de créneaux dans votre organisation. Ils pourront également planifier des rendez-vous directement dans leur agenda en sélectionnant un motif.&#x20;
 
-Pour créer un motif, vous pouvez cliquer sur le bouton _**créer un motif**_.&#x20;
+***
+
+Pour créer un motif, vous pouvez cliquer sur le bouton _**créer un motif**_ depuis le menu _**configuration**_ puis _**motif**_ :&#x20;
+
+&#x20;                                         ![](<../../.gitbook/assets/RDVSP (7).gif>)
 
 ***
 
@@ -61,10 +61,6 @@ Vous pouvez personnaliser des instructions de rendez-vous motif par motif. Vous 
 
 Vous trouverez un champ libre&#x20;
 
-
-
-
-
 </details>
 
 <details>
@@ -79,9 +75,13 @@ Vous trouverez un champ libre&#x20;
 
 <summary><strong>Configurer vos informations de contacts</strong></summary>
 
-Vous pouvez personnaliser les informations de contacts de votre administration. Ces champs libre à compléter apparaîtront dans les **notifications email** et **SMS** des usagers.&#x20;
+Vous pouvez personnaliser les informations de contacts de votre administration.&#x20;
 
 Cette fonctionnalité répond à un besoin usager. Celui de pouvoir facilement contacter son administration en cas de besoin (difficultés à annuler son rendez-vous en autonomie, besoin d'informations complémentaires au rendez-vous, demande de modification de rendez-vous etc ...)
+
+***
+
+
 
 Ces informations apparaîtront ainsi dans les récapitulatif de rendez-vous accessible depuis les notifications email ou SMS :&#x20;
 
