@@ -15,13 +15,13 @@ Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_
 
 </details>
 
-<figure><img src="../../.gitbook/assets/RDVSP (5).gif" alt=""><figcaption></figcaption></figure>
-
 <details>
 
 <summary><strong>Créer vos motifs</strong></summary>
 
 &#x20;                                            <img src="../../.gitbook/assets/RDVSP (6).gif" alt="" data-size="original">
+
+
 
 Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de rendez-vous, d’informer l’agent sur le contenu attendu et d’affiner les options (présentiel, téléphone, visio, option de prise de rendez-vous en ligne). **Les motifs sont nécessaires pour la planification d'un rendez-vous.**
 
