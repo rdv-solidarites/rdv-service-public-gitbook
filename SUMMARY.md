@@ -78,7 +78,12 @@
 ## DOCUMENTATION AGENT
 
 * [Configurer son organisation](documentation-agent/configurer-son-organisation.md)
-* [(Matis) Configurer son organisation](documentation-agent/matis-configurer-son-organisation.md)
+* [(Matis) Configurer son organisation](documentation-agent/matis-configurer-son-organisation/README.md)
+  * [Inviter vos agents](documentation-agent/matis-configurer-son-organisation/inviter-vos-agents.md)
+  * [Motifs](documentation-agent/matis-configurer-son-organisation/motifs.md)
+  * [Lieux](documentation-agent/matis-configurer-son-organisation/lieux.md)
+  * [Informations de contacts](documentation-agent/matis-configurer-son-organisation/informations-de-contacts.md)
+  * [Réservation en ligne](documentation-agent/matis-configurer-son-organisation/reservation-en-ligne.md)
 * [Utiliser son agenda](documentation-agent/utiliser-son-agenda.md)
 * [Configurer le parcours en ligne](documentation-agent/configurer-le-parcours-en-ligne.md)
 * [Configurer son organisation](documentation-agent/configurer-son-organisation-1.md)

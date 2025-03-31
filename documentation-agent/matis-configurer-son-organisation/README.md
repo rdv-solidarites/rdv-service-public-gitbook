@@ -9,25 +9,31 @@ Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_
 
 {% stepper %}
 {% step %}
-&#x20;[Inviter vos agents](matis-configurer-son-organisation.md#creer-vos-motifs)
+[Inviter vos agents](./#creer-vos-motifs)
 {% endstep %}
 
 {% step %}
-[Créer vos motifs](matis-configurer-son-organisation.md#creer-vos-motifs)
+[Créer vos motifs](./#creer-vos-motifs)
 {% endstep %}
 
 {% step %}
-[Créer vos lieux ](matis-configurer-son-organisation.md#creer-vos-lieux)
+[Créer vos lieux ](./#creer-vos-lieux)
 {% endstep %}
 
 {% step %}
-[Configurer vos informations de contacts](matis-configurer-son-organisation.md#configurer-vos-informations-de-contacts)
+[Configurer vos informations de contacts](./#configurer-vos-informations-de-contacts)
 {% endstep %}
 
 {% step %}
-[Activer la prise de rendez-vous en ligne](matis-configurer-son-organisation.md#activer-la-prise-de-rendez-vous-en-ligne)
+[Activer la prise de rendez-vous en ligne](./#activer-la-prise-de-rendez-vous-en-ligne)
 {% endstep %}
 {% endstepper %}
+
+
+
+
+
+
 
 ***
 
@@ -143,7 +149,7 @@ Cette fonctionnalité répond à un besoin usager. Celui de pouvoir facilement c
 
 Ces informations apparaîtront ainsi dans les récapitulatif de rendez-vous accessible depuis les notifications email ou SMS :&#x20;
 
-&#x20;![](<../.gitbook/assets/Capture d’écran 2025-03-31 à 13.33.51.png>)
+&#x20;![](<../../.gitbook/assets/Capture d’écran 2025-03-31 à 13.33.51.png>)
 
 </details>
 
