@@ -14,6 +14,30 @@ Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_
 
 {% step %}
 [Créer vos motifs](./#creer-vos-motifs)
+
+Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de rendez-vous, d’informer l’agent sur le contenu attendu et d’affiner les options (présentiel, téléphone, visio, option de prise de rendez-vous en ligne). **Les motifs sont nécessaires pour la planification d'un rendez-vous.**&#x20;
+
+<figure><img src="../../.gitbook/assets/RDVSP (4).gif" alt=""><figcaption></figcaption></figure>
+
+<mark style="background-color:purple;">Les</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">**Agents Basique**</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">ne pourront utiliser que les motifs associés à leur service 💡</mark>
+
+Une fois configurés, tous vos motifs seront alors accessibles aux agents des services associés. Les agents pourront créer des plages de disponibilités avec des motifs configurés et ainsi faciliter la recherche de créneaux dans votre organisation. Ils pourront également planifier des rendez-vous directement dans leur agenda en sélectionnant un motif.&#x20;
+
+#### **Information générale**&#x20;
+
+Un motif est avant tout un objet de rendez-vous qui se configure par un nom, une durée par défaut, un type et un service associé.&#x20;
+
+Si vous souhaitez proposer plusieurs modalités de rendez-vous (sur place, par téléphone, par visioconférence ou à domicile) ou plusieurs durée par défaut (30 minutes ou 60 minutes) pour un même motif, il sera nécessaire de dupliquer et créer plusieurs motifs.&#x20;
+
+#### **Réservation en ligne**&#x20;
+
+Un motif peut-être ouvert ou non à la prise de rendez-vous en ligne. Vous pouvez sélectionner cette option depuis l'onglet réservation en ligne en cochant _ouvert aux usagers_.&#x20;
+
+Dès lors que vous ouvrez la prise de rendez-vous en ligne pour un motif, vous accéderez à des options de configurations supplémentaires liées au délais minimum et maximum de réservation. En configurant ces options, vous pouvez limiter la visibilités des disponibilités des plages de disponibilités des agents dans le parcours de prise de rendez-vous en ligne.&#x20;
+
+Aussi, vous pouvez offrir la possibilité à vos usagers de modifier leur créneau de rendez-vous en autonomie. Un bouton déplacer le RDV s'affichera depuis leur récapitulatif de rendez-vous accessible depuis les notifications **email** et **SMS** :&#x20;
+
+**Instruction et notification**
 {% endstep %}
 
 {% step %}
@@ -48,6 +72,8 @@ Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_
 ## Configurer vos motifs&#x20;
 
 Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de rendez-vous, d’informer l’agent sur le contenu attendu et d’affiner les options (présentiel, téléphone, visio, option de prise de rendez-vous en ligne). **Les motifs sont nécessaires pour la planification d'un rendez-vous.**&#x20;
+
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/RDVSP.gif" alt=""><figcaption></figcaption></figure></div>
 
 <mark style="background-color:purple;">Les</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">**Agents Basique**</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">ne pourront utiliser que les motifs associés à leur service 💡</mark>
 
