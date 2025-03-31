@@ -29,17 +29,17 @@ Pour créer un motif, vous pouvez cliquer sur le bouton _**créer un motif**_.&#
 
 _<mark style="background-color:purple;">Vous disposez d'une navigation par onglet 💡</mark>_
 
+***
 
-
-* **Information générale**&#x20;
+**Information générale**&#x20;
 
 Un motif est avant tout un objet de rendez-vous qui se configure par un nom, une durée par défaut, un type et un service associé.&#x20;
 
 Si vous souhaitez proposer plusieurs modalités de rendez-vous (sur place, par téléphone, par visioconférence ou à domicile) ou plusieurs durée par défaut (30 minutes ou 60 minutes) pour un même motif, il sera nécessaire de dupliquer et créer plusieurs motifs.&#x20;
 
+***
 
-
-* **Réservation en ligne**&#x20;
+**Réservation en ligne**&#x20;
 
 Un motif peut-être ouvert ou non à la prise de rendez-vous en ligne. Vous pouvez sélectionner cette option depuis l'onglet _**réservation en ligne.**_&#x20;
 
@@ -49,13 +49,17 @@ Dès lors que vous ouvrez la prise de rendez-vous en ligne pour un motif, vous a
 
 Aussi, vous pouvez offrir la possibilité à vos usagers de modifier leur créneau de rendez-vous en autonomie. Un bouton déplacer le RDV s'affichera depuis leur récapitulatif de rendez-vous accessible depuis les notifications **email** et **SMS.**&#x20;
 
+***
 
-
-* **Instruction et notification**
+**Instruction et notification**
 
 Vous pouvez personnaliser des instructions de rendez-vous motif par motif. Vous pouvez personnaliser ces instructions depuis l'onglet _**notification et instruction**_
 
 Vous trouverez un champ libre&#x20;
+
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>Test</td></tr><tr><td>Test</td></tr></tbody></table>
+
+
 
 
 
