@@ -19,7 +19,7 @@ Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_
 
 <summary><strong>Créer vos motifs</strong> </summary>
 
-Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de rendez-vous, d’informer l’agent sur le contenu attendu et d’affiner les options (présentiel, téléphone, visio, option de prise de rendez-vous en ligne). Les motifs sont indispensables pour la planification d'un rendez-vous.&#x20;
+Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de rendez-vous, d’informer l’agent sur le contenu attendu et d’affiner les options (présentiel, téléphone, visio, option de prise de rendez-vous en ligne). **Les motifs sont nécessaires pour la planification d'un rendez-vous.**&#x20;
 
 <mark style="background-color:purple;">Les</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">**Agents Basique**</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">ne pourront utiliser que les motifs associés à leur service 💡</mark>
 
@@ -33,9 +33,15 @@ Si vous souhaitez proposer plusieurs modalités de rendez-vous (sur place, par t
 
 #### **Réservation en ligne**&#x20;
 
-Un motif peut-être ouvert ou non à la prise de rendez-vous en ligne. Vous pouvez sélectionner cette option dep
+Un motif peut-être ouvert ou non à la prise de rendez-vous en ligne. Vous pouvez sélectionner cette option depuis l'onglet réservation en ligne en cochant "ouvert aux usagers".&#x20;
 
-Instruction et notification
+<mark style="background-color:purple;">Une pastille</mark> <mark style="background-color:purple;"></mark>_<mark style="background-color:purple;">en ligne</mark>_ <mark style="background-color:purple;"></mark><mark style="background-color:purple;">apparaîtra pour ce motif 💡</mark>
+
+Dès lors que vous ouvrez la prise de rendez-vous en ligne pour un motif, vous accéderez à des options de configurations supplémentaires liées au délais minimum et maximum de réservation. En configurant ces options, vous pouvez limiter la visibilités des disponibilités des plages de disponibilités des agents dans le parcours de prise de rendez-vous en ligne.&#x20;
+
+Aussi, vous pouve
+
+**Instruction et notification**
 
 
 
