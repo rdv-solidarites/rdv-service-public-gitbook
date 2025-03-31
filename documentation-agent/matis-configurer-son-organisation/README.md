@@ -21,13 +21,13 @@ Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_
 
 Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de rendez-vous, d’informer l’agent sur le contenu attendu et d’affiner les options (présentiel, téléphone, visio, option de prise de rendez-vous en ligne). **Les motifs sont nécessaires pour la planification d'un rendez-vous.**&#x20;
 
-_<mark style="background-color:purple;">Les Agents Basique ne pourront utiliser que les motifs associés à leur service 💡</mark>_
+{% hint style="warning" %}
+Les Agents Basique ne pourront utiliser que les motifs associés à leur service.
+{% endhint %}
 
 Une fois configurés, tous vos motifs seront alors accessibles aux agents des services associés. Les agents pourront créer des plages de disponibilités avec des motifs configurés et ainsi faciliter la recherche de créneaux dans votre organisation. Ils pourront également planifier des rendez-vous directement dans leur agenda en sélectionnant un motif.&#x20;
 
 Pour créer un motif, vous pouvez cliquer sur le bouton _**créer un motif**_.&#x20;
-
-_<mark style="background-color:purple;">Vous disposez d'une navigation par onglet 💡</mark>_
 
 ***
 
@@ -56,8 +56,6 @@ Aussi, vous pouvez offrir la possibilité à vos usagers de modifier leur créne
 Vous pouvez personnaliser des instructions de rendez-vous motif par motif. Vous pouvez personnaliser ces instructions depuis l'onglet _**notification et instruction**_
 
 Vous trouverez un champ libre&#x20;
-
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>Test</td></tr><tr><td>Test</td></tr></tbody></table>
 
 
 
