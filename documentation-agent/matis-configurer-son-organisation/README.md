@@ -17,7 +17,7 @@ Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_
 
 <details>
 
-<summary>Créer vos motifs</summary>
+<summary><a data-footnote-ref href="#user-content-fn-1"><strong>Créer vos motifs</strong></a></summary>
 
 Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de rendez-vous, d’informer l’agent sur le contenu attendu et d’affiner les options (présentiel, téléphone, visio, option de prise de rendez-vous en ligne). **Les motifs sont nécessaires pour la planification d'un rendez-vous.**&#x20;
 
@@ -159,3 +159,6 @@ xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xx
 
 ***
 
+
+
+[^1]: test
