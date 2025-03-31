@@ -15,11 +15,15 @@ Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_
 
 </details>
 
+<figure><img src="../../.gitbook/assets/RDVSP (5).gif" alt=""><figcaption></figcaption></figure>
+
 <details>
 
 <summary><strong>Créer vos motifs</strong></summary>
 
-Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de rendez-vous, d’informer l’agent sur le contenu attendu et d’affiner les options (présentiel, téléphone, visio, option de prise de rendez-vous en ligne). **Les motifs sont nécessaires pour la planification d'un rendez-vous.**&#x20;
+&#x20;                                            <img src="../../.gitbook/assets/RDVSP (6).gif" alt="" data-size="original">
+
+Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de rendez-vous, d’informer l’agent sur le contenu attendu et d’affiner les options (présentiel, téléphone, visio, option de prise de rendez-vous en ligne). **Les motifs sont nécessaires pour la planification d'un rendez-vous.**
 
 {% hint style="warning" %}
 Les Agents Basique ne pourront utiliser que les motifs associés à leur service.
@@ -113,48 +117,6 @@ Ces informations apparaîtront ainsi dans les récapitulatif de rendez-vous acce
 
 </details>
 
-
-
-
-
-
-
-***
-
-{% stepper %}
-{% step %}
-**Inviter vos agents**&#x20;
-
-xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxx
-{% endstep %}
-
-{% step %}
-**Créer vos motifs**&#x20;
-
-xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxx
-{% endstep %}
-
-{% step %}
-**Créer vos lieux**&#x20;
-
-xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxx
-{% endstep %}
-
-{% step %}
-**Configurer vos informations de contacts**
-
-xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxx
-{% endstep %}
-
-{% step %}
-**Activer la prise de rendez-vous en ligne**&#x20;
-
-xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxx
-{% endstep %}
-{% endstepper %}
-
-***
-
 ## Interconnexion produit
 
 _RDV Service Public_ propose des interopérabilités avec d'autres produit numérique de l'État. Vous trouverez ci-dessus des éléments d'explication pour configurer une **interconnexion produit.**
@@ -174,6 +136,4 @@ xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xx
 xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxx
 
 </details>
-
-***
 
