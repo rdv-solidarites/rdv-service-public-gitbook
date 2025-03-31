@@ -1,6 +1,5 @@
 ---
 description: '#AgentAdmin #AgentAdminTerritoire'
-hidden: true
 icon: building-columns
 ---
 
