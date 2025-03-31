@@ -5,21 +5,31 @@ icon: building-columns
 
 # (Matis) Configurer son organisation
 
-Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_ permettant de paramétrer votre compte RDV Service Public. Ce premier niveau de configuration permettra à tous les **Agent Basique** de votre structure d'utiliser leur agenda et de planifier des rendez-vous.&#x20;
+Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_ permettant de paramétrer votre compte RDV Service Public. Ce premier niveau de configuration permettra à tous les **Agent Basique** de votre structure d'utiliser leur agenda et de planifier des rendez-vous. &#x20;
 
+{% stepper %}
+{% step %}
+&#x20;[Inviter vos agents](matis-configurer-son-organisation.md#creer-vos-motifs)
+{% endstep %}
 
+{% step %}
+[Créer vos motifs](matis-configurer-son-organisation.md#creer-vos-motifs)
+{% endstep %}
 
-* [Créer vos motifs](matis-configurer-son-organisation.md#creer-vos-motifs)
-* [Inviter vos agents ](matis-configurer-son-organisation.md#creer-vos-motifs)
-* [Créer vos lieux ](matis-configurer-son-organisation.md#creer-vos-lieux)
-* [Configurer vos informations de contacts](matis-configurer-son-organisation.md#configurer-vos-informations-de-contacts)
-* [Activer la prise de rendez-vous en ligne](matis-configurer-son-organisation.md#activer-la-prise-de-rendez-vous-en-ligne)
+{% step %}
+[Créer vos lieux ](matis-configurer-son-organisation.md#creer-vos-lieux)
+{% endstep %}
 
+{% step %}
+[Configurer vos informations de contacts](matis-configurer-son-organisation.md#configurer-vos-informations-de-contacts)
+{% endstep %}
 
+{% step %}
+[Activer la prise de rendez-vous en ligne](matis-configurer-son-organisation.md#activer-la-prise-de-rendez-vous-en-ligne)
+{% endstep %}
+{% endstepper %}
 
-
-
-
+***
 
 ## Inviter vos agents <a href="#creer-vos-motifs" id="creer-vos-motifs"></a>
 
@@ -47,9 +57,21 @@ Aussi, vous pouvez offrir la possibilité à vos usagers de modifier leur créne
 
 **Instruction et notification**
 
+
+
+***
+
 ## Créer vos lieux
 
-## Configurer vos informations de contacts&#x20;
+
+
+***
+
+## Configurer vos informations de contacts
+
+
+
+***
 
 ## Activer la prise de rendez-vous en ligne
 
@@ -60,6 +82,8 @@ Cette fonctionnalité répond à un besoin usager. Celui de pouvoir facilement c
 Ces informations apparaîtront ainsi dans les récapitulatif de rendez-vous accessible depuis les notifications email ou SMS :&#x20;
 
 
+
+***
 
 
 
