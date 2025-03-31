@@ -33,7 +33,9 @@ Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_
 [inviter-vos-agents.md](inviter-vos-agents.md)
 {% endcontent-ref %}
 
-
+{% content-ref url="motifs.md" %}
+[motifs.md](motifs.md)
+{% endcontent-ref %}
 
 
 
