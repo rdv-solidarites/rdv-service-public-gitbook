@@ -73,7 +73,7 @@ Aussi, vous pouvez offrir la possibilité à vos usagers de modifier leur créne
 
 Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de rendez-vous, d’informer l’agent sur le contenu attendu et d’affiner les options (présentiel, téléphone, visio, option de prise de rendez-vous en ligne). **Les motifs sont nécessaires pour la planification d'un rendez-vous.**&#x20;
 
-<div data-full-width="true"><figure><img src="../../.gitbook/assets/RDVSP.gif" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/RDVSP (1).gif" alt=""><figcaption></figcaption></figure></div>
 
 <mark style="background-color:purple;">Les</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">**Agents Basique**</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">ne pourront utiliser que les motifs associés à leur service 💡</mark>
 
@@ -138,6 +138,8 @@ Ces informations apparaîtront ainsi dans les récapitulatif de rendez-vous acce
 <summary><strong>Créer vos motifs</strong> </summary>
 
 Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de rendez-vous, d’informer l’agent sur le contenu attendu et d’affiner les options (présentiel, téléphone, visio, option de prise de rendez-vous en ligne). **Les motifs sont nécessaires pour la planification d'un rendez-vous.**&#x20;
+
+<img src="../../.gitbook/assets/RDVSP.gif" alt="" data-size="original">
 
 <mark style="background-color:purple;">Les</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">**Agents Basique**</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">ne pourront utiliser que les motifs associés à leur service 💡</mark>
 
