@@ -31,9 +31,7 @@ Un motif est avant tout un objet de rendez-vous qui se configure par un nom, une
 
 Une fois configurés, tous vos motifs seront alors accessibles aux agents des services associés. Les agents pourront créer des plages de disponibilités avec des motifs configurés et ainsi faciliter la recherche de créneaux dans votre organisation. Ils pourront également planifier des rendez-vous.&#x20;
 
-Si vous souhaitez proposer plusieurs modalités de rendez-vous (sur place, par téléphone, par visioconférence ou à domicile) ou plusieurs durée par défaut (30 minutes ou 60 minutes) pour un même motif, il sera nécessaire de dupliquer et créer plusieurs motifs :&#x20;
-
-&#x20;                                          ![](<../../.gitbook/assets/RDVSP (7).gif>)
+Si vous souhaitez proposer plusieurs modalités de rendez-vous (sur place, par téléphone, par visioconférence ou à domicile) ou plusieurs durée par défaut (30 minutes ou 60 minutes) pour un même motif, il sera nécessaire de dupliquer et créer plusieurs motifs.&#x20;
 
 ***
 
@@ -41,21 +39,11 @@ Si vous souhaitez proposer plusieurs modalités de rendez-vous (sur place, par t
 
 Un motif peut-être ouvert ou non à la prise de rendez-vous en ligne. Vous pouvez sélectionner cette option depuis l'onglet _**réservation en ligne**_ de l'écran de configuration des motifs.&#x20;
 
-Vous devez cocher la case _ouvert aux usagers_. Elle viendra activer une pastille _en ligne_ pour chaque motif :&#x20;
+Vous devez cocher la case _ouvert aux usagers_. Elle viendra activer une pastille _en ligne_ pour chaque motif.&#x20;
 
-&#x20;                                             ![](<../../.gitbook/assets/RDVSP (13).gif>)&#x20;
+Dès lors que vous ouvrez la prise de rendez-vous en ligne pour un motif, vous accéderez à des options de configurations supplémentaires liées au **délais minimum et maximum de réservation**. En configurant ces options, vous pouvez limiter la visibilités des disponibilités des plages de disponibilités des agents dans le parcours de prise de rendez-vous en ligne.
 
-
-
-Dès lors que vous ouvrez la prise de rendez-vous en ligne pour un motif, vous accéderez à des options de configurations supplémentaires liées au **délais minimum et maximum de réservatio**n. En configurant ces options, vous pouvez limiter la visibilités des disponibilités des plages de disponibilités des agents dans le parcours de prise de rendez-vous en ligne :&#x20;
-
-&#x20;                                            ![](<../../.gitbook/assets/RDVSP (14).gif>)
-
-
-
-Aussi, vous pouvez offrir la possibilité à vos usagers de **modifier leur créneau de rendez-vous en autonomie**. Un bouton déplacer le RDV s'affichera depuis leur récapitulatif de rendez-vous accessible depuis les notifications email et SMS. Vos usagers pourront ainsi déplacer leur rendez-vous :&#x20;
-
-&#x20;                                            ![](<../../.gitbook/assets/RDVSP (12).gif>)
+Aussi, vous pouvez offrir la possibilité à vos usagers de **modifier leur créneau de rendez-vous en autonomie**. Un bouton déplacer le RDV s'affichera depuis leur récapitulatif de rendez-vous accessible depuis les notifications email et SMS :&#x20;
 
 ***
 
@@ -63,9 +51,7 @@ Aussi, vous pouvez offrir la possibilité à vos usagers de **modifier leur cré
 
 Vous pouvez personnaliser des instructions de rendez-vous motif par motif. Vous pouvez personnaliser ces instructions depuis l'onglet _**notification et instruction.**_&#x20;
 
-Ces informations apparaîtront ainsi dans les récapitulatif de rendez-vous accessible depuis les notifications **email** ou **SMS** :&#x20;
-
-&#x20;                                           ![](<../../.gitbook/assets/RDVSP (11).gif>)
+Ces informations apparaîtront ainsi dans les récapitulatif de rendez-vous accessible depuis les notifications **email** ou **SMS.**&#x20;
 
 </details>
 
