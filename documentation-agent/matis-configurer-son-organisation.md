@@ -7,6 +7,78 @@ icon: building-columns
 
 Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_ permettant de paramétrer votre compte RDV Service Public. Ce premier niveau de configuration permettra à tous les **Agent Basique** de votre structure d'utiliser leur agenda et de planifier des rendez-vous.&#x20;
 
+<details>
+
+<summary><strong>Inviter vos agents</strong> </summary>
+
+
+
+</details>
+
+<details>
+
+<summary><strong>Créer vos motifs</strong> </summary>
+
+Vous pouvez créer plusieurs motifs de rendez-vous. Créer plusieurs motifs, c'est permettre à vos agents de catégoriser leur rendez-vous pour qualifier la demande. C'est aussi permettre de configurer des options fines autours de chaque catégorie de rendez-vous.&#x20;
+
+Cette fonctionnalité répond au besoin des administrations de pouvoir finemen
+
+
+
+</details>
+
+<details>
+
+<summary><strong>Créer vos lieux</strong> </summary>
+
+
+
+</details>
+
+<details>
+
+<summary><strong>Configurer vos informations de contacts</strong></summary>
+
+Vous pouvez personnaliser les informations de contacts de votre administration. Ces champs libre à compléter apparaîtront dans les **notifications email** et **SMS** des usagers. Vos usagers pourront ainsi facilement vous contacter en cas de besoin (difficultés à annuler son rendez-vous en autonomie, besoin d'informations complémentaires au rendez-vous, demande de modification de rendez-vous etc ...)
+
+<img src="../.gitbook/assets/Capture d’écran 2025-03-31 à 11.19.16.png" alt="" data-size="original">
+
+</details>
+
+<details>
+
+<summary><strong>Activer la prise de rendez-vous en ligne</strong> </summary>
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Commune avec <mark style="color:purple;">**France Titres**</mark>
+
+
+
+
+
+* Conseillers Numériques avec la <mark style="color:purple;">**Cartographie Nationale des lieux d'inclusion numérique**</mark>
+
+
+
+</details>
+
+
+
+
+
+
+
 ***
 
 {% stepper %}
@@ -58,26 +130,6 @@ xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xx
 <details>
 
 <summary>Synchronisation avec <mark style="color:purple;"><strong>Démarches Simplifiés</strong></mark></summary>
-
-xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxx
-
-</details>
-
-## Interconnexion site externe&#x20;
-
-_RDV Service Public_ propose un branchement des disponiblités avec des sites de l'État. Vous trouverez ci-dessous des éléments d'explication pour configurer une synchrnoisation avec un **site externe**.&#x20;
-
-<details>
-
-<summary>Commune avec <mark style="color:purple;"><strong>France Titres</strong></mark></summary>
-
-xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxx
-
-</details>
-
-<details>
-
-<summary>Conseillers Numériques avec la <mark style="color:purple;"><strong>Cartographie Nationale des lieux d'inclusion numérique</strong></mark></summary>
 
 xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxx
 
