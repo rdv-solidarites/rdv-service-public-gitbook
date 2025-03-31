@@ -1,5 +1,4 @@
 ---
-hidden: true
 icon: building-columns
 ---
 
@@ -14,6 +13,10 @@ Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_
 * [Créer vos lieux ](matis-configurer-son-organisation.md#creer-vos-lieux)
 * [Configurer vos informations de contacts](matis-configurer-son-organisation.md#configurer-vos-informations-de-contacts)
 * [Activer la prise de rendez-vous en ligne](matis-configurer-son-organisation.md#activer-la-prise-de-rendez-vous-en-ligne)
+
+
+
+
 
 
 
