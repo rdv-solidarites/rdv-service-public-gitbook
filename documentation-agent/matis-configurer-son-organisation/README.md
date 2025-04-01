@@ -23,6 +23,10 @@ Vous pouvez créer ou modifier des motifs depuis le menu _**configuration**_ pui
 
 Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de rendez-vous, d’informer l’agent sur le contenu attendu et d’affiner les options (présentiel, téléphone, visio, option de prise de rendez-vous en ligne).&#x20;
 
+Vous trouverez des options de configurations organisées sous 3 onglet :&#x20;
+
+&#x20;                                           ![](../../.gitbook/assets/RDVSP.gif)
+
 ***
 
 **Information générale**&#x20;
