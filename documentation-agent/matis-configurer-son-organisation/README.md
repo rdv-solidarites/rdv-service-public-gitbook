@@ -105,23 +105,5 @@ Ces informations apparaîtront ainsi dans les récapitulatif de rendez-vous acce
 
 </details>
 
-## Interconnexion produit
 
-_RDV Service Public_ propose des interopérabilités avec d'autres produit numérique de l'État. Vous trouverez ci-dessus des éléments d'explication pour configurer une **interconnexion produit.**
-
-<details>
-
-<summary>Synchronisation avec <mark style="color:purple;"><strong>Mon Suivi Social</strong></mark> </summary>
-
-xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxx
-
-</details>
-
-<details>
-
-<summary>Synchronisation avec <mark style="color:purple;"><strong>Démarches Simplifiés</strong></mark></summary>
-
-xxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxxxxxxxxx xxx xxx x xxxxxxxx xxxx xx x xxxx xxxxxxxxx
-
-</details>
 
