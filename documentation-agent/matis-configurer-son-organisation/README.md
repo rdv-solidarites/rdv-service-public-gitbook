@@ -11,7 +11,56 @@ Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_
 
 <summary><strong>Inviter vos agents</strong> </summary>
 
+Pour inviter des agents à rejoindre votre organisation sur **RDV Service Public**, rendez-vous dans le menu _**Configuration**_, puis cliquez sur l’onglet _**Agents**_.
 
+**Choix du niveau de permission**
+
+Lors de l’invitation d’un agent, vous devez définir son niveau de permission. Trois niveaux sont disponibles :
+
+*   **Basique** :\
+    Ce niveau permet à l’agent de :
+
+    * Gérer ses propres plages d’ouverture, indisponibilités et rendez-vous ;
+    * Gérer les rendez-vous des agents appartenant au **même service**.
+
+    L’agent **basique n’a pas accès à l’onglet "Configuration"**, et ne peut donc pas modifier les paramètres de l’organisation.
+
+
+
+* **Administrateur** :\
+  Ce niveau donne à l’agent des droits étendus :
+  * Accès à l’agenda **de tous les agents** de l’organisation, quel que soit leur service ;
+  * Possibilité de modifier les plages d’ouverture, les indisponibilités et les rendez-vous de tous les agents ;
+  *   Accès au menu _**Configuration**_, lui permettant de :
+
+      * Inviter d'autres agents.
+      * Créer et modifier des motifs de rendez-vous ;
+      * Ajouter des lieux de permanences;
+      * Modifier les informations de l'organisation (nom, contact, etc.)
+
+
+*   **Intervenant** :\
+    Le statut **intervenant** fonctionne différemment des deux précédents :
+
+    * Il **n’est pas lié à une adresse e-mail** ;
+    * Sa création génère un **agenda autonome**, que vous pouvez nommer librement ;
+    * Cet agenda est ensuite **géré par les autres agents** de l’organisation.
+
+    Ce statut est idéal pour des **partenaires externes** effectuant des permanences ponctuelles dans votre structure. Bien qu’ils ne possèdent pas de compte **RDV Service Public**, les rendez-vous peuvent tout de même être pris sur cet agenda intervenant.
+
+**Association à un ou plusieurs services**
+
+Après avoir défini le niveau de droit et renseigné l’adresse e-mail de l’agent (sauf pour un intervenant), vous devez l’associer au(x) service(s) auquel(s) il est rattaché.
+
+✅ Il est possible de rattacher un agent à **plusieurs services**.\
+⚠️ Attention : **une fois cette étape validée, il ne sera plus possible de modifier les services associés à l’agent**.
+
+Si un changement est nécessaire :
+
+* Contactez l’**Administrateur de Territoire** de votre compte **RDV Service Public** ;
+* Supprimez l’agent concerné, puis recommencez l’invitation avec les bons paramètres.
+
+***
 
 </details>
 
