@@ -142,7 +142,19 @@ Ces informations apparaîtront ainsi dans les récapitulatif de rendez-vous acce
 
 <summary><strong>Activer la prise de rendez-vous en ligne</strong> </summary>
 
+Pour permettre la **prise de rendez-vous en ligne**, deux conditions doivent être remplies :
 
+1. Avoir un ou plusieurs **motifs de rendez-vous en ligne** ;
+2. **Associer ces motifs** à des **plages d’ouverture**.
+
+Une fois ces conditions remplies, rendez-vous dans le **menu&#x20;**_**Configuration**_, onglet _**Réservation en ligne**._\
+Vous y trouverez un **lien URL unique** : c’est par ce lien que les usagers pourront prendre rendez-vous avec votre organisation.
+
+👉 Vous pouvez diffuser cet URL sur :
+
+* Votre **site internet** ;
+* Vos communications par **e-mail** ;
+* Tout autre support destiné à informer les usagers.
 
 
 
