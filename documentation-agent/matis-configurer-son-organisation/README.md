@@ -144,7 +144,7 @@ Ces informations apparaîtront ainsi dans les récapitulatif de rendez-vous acce
 
 Pour permettre la **prise de rendez-vous en ligne**, deux conditions doivent être remplies :
 
-1. Avoir un ou plusieurs **motifs de rendez-vous en ligne** ;
+1. Avoir créé un ou plusieurs **motifs de rendez-vous en ligne** ;
 2. **Associer ces motifs** à des **plages d’ouverture**.
 
 Une fois ces conditions remplies, rendez-vous dans le **menu&#x20;**_**Configuration**_, onglet _**Réservation en ligne**._\
