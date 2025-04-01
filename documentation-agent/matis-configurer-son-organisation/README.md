@@ -23,7 +23,7 @@ Lors de l’invitation d’un agent, vous devez définir son niveau de permissio
     * Gérer ses propres plages d’ouverture, indisponibilités et rendez-vous ;
     * Gérer les rendez-vous des agents appartenant au **même service**.
 
-    L’agent **basique n’a pas accès à l’onglet "Configuration"**, et ne peut donc pas modifier les paramètres de l’organisation.
+    L’agent **basique n’a pas accès au menu&#x20;**_**Configuration**_, et ne peut donc pas modifier les paramètres de l’organisation.
 
 
 
@@ -58,7 +58,7 @@ Après avoir défini le niveau de droit et renseigné l’adresse e-mail de l’
 Si un changement est nécessaire :
 
 * Contactez l’**Administrateur de Territoire** de votre compte **RDV Service Public** ;
-* Supprimez l’agent concerné, puis recommencez l’invitation avec les bons paramètres.
+* Ou supprimez l’agent concerné, puis recommencez l’invitation avec les bons paramètres.
 
 ***
 
@@ -112,7 +112,15 @@ Ces informations apparaîtront ainsi dans les récapitulatif de rendez-vous acce
 
 <summary><strong>Créer vos lieux</strong> </summary>
 
+Vous pouvez créer **autant de lieux que nécessaire** pour votre organisation.\
+Cette fonctionnalité vous permet d’ajouter des lieux **supplémentaires**, en plus du **lieu principal** déjà défini lors de la création de votre compte.&#x20;
 
+Cela est particulièrement utile si :
+
+* Vos agents sont en **itinérance** ;
+* Vous disposez de **plusieurs points d’accueil** pour les usagers.
+
+Une fois les lieux créés, les agents pourront **associer leurs plages d’ouverture** aux différents lieux configurés.
 
 </details>
 
