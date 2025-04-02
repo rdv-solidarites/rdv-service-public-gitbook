@@ -7,6 +7,10 @@ icon: building-columns
 
 Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_ permettant de paramétrer votre compte RDV Service Public. Ce premier niveau de configuration permettra à tous les **Agent Basique** de votre structure d'utiliser leur agenda et de planifier des rendez-vous. &#x20;
 
+***
+
+Pour faciliter le déploiement, vous trouverez ci-dessous des informations sur le options de configuration de votre organisation :&#x20;
+
 <details>
 
 <summary><strong>Inviter vos agents</strong> </summary>
@@ -47,6 +51,8 @@ Lors de l’invitation d’un agent, vous devez définir son niveau de permissio
     * Cet agenda est ensuite **géré par les autres agents** de l’organisation.
 
     Ce statut est idéal pour des **partenaires externes** effectuant des permanences ponctuelles dans votre structure. Bien qu’ils ne possèdent pas de compte **RDV Service Public**, les rendez-vous peuvent tout de même être pris sur cet agenda intervenant.
+
+
 
 **Association à un ou plusieurs services**
 
