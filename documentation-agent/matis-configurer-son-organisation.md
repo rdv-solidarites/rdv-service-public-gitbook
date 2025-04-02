@@ -7,8 +7,6 @@ icon: building-columns
 
 Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_ permettant de paramétrer votre compte RDV Service Public. Ce premier niveau de configuration permettra à tous les [**Agent Basique**](matis-utiliser-son-agenda.md) de votre structure d'utiliser leur agenda et de planifier des rendez-vous. &#x20;
 
-<div data-full-width="false"><figure><img src="../.gitbook/assets/Capture d’écran 2025-04-02 à 12.52.56.png" alt=""><figcaption><p><em>Interface de l'espace configuration</em></p></figcaption></figure></div>
-
 ***
 
 Pour faciliter le déploiement, vous trouverez ci-dessous des informations sur les options de configuration de votre organisation :&#x20;
@@ -59,6 +57,8 @@ Lors de l’invitation d’un agent, vous devez définir son niveau de permissio
 **Association à un ou plusieurs services**
 
 Après avoir défini le niveau de droit et renseigné l’adresse e-mail de l’agent (sauf pour un intervenant), vous devez l’associer au(x) service(s) auquel(s) il est rattaché.
+
+
 
 ✅ Il est possible de rattacher un agent à **plusieurs services**.\
 ⚠️ Attention : **une fois cette étape validée, il ne sera plus possible de modifier les services associés à l’agent**.
@@ -138,9 +138,7 @@ Vous pouvez personnaliser les informations de contacts de votre administration d
 
 Cette fonctionnalité répond à un besoin usager. Celui de pouvoir facilement contacter son administration en cas de besoin (difficultés à annuler son rendez-vous en autonomie, besoin d'informations complémentaires au rendez-vous, demande de modification de rendez-vous etc ...).&#x20;
 
-Ces informations apparaîtront ainsi dans les récapitulatif de rendez-vous accessible depuis les notifications **email** ou **SMS** :&#x20;
-
-&#x20;                                              ![](<../.gitbook/assets/RDVSP (9).gif>)
+Ces informations apparaîtront ainsi dans les récapitulatif de rendez-vous accessible depuis les notifications **email** ou **SMS** .&#x20;
 
 </details>
 
