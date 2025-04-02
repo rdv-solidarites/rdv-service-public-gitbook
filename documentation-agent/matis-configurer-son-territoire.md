@@ -8,6 +8,8 @@ Vous êtes **Agent Admin** **de Territoire** et disposez alors d'un accès au me
 
 Votre espace repose sur des concepts et notions pour déployer RDV Service Public dans plusieurs services et plusieurs sites de votre structure : _Espace_ ; &#x4F;_&#x72;ganisation_ ; _Service_ ; _Agent_. Vous trouverez plus d'informations sur ces concepts depuis [**ici**](../a-propos/comment-ca-marche.md).&#x20;
 
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-04-02 à 12.57.20.png" alt=""><figcaption><p><em>Interface de l'Espace Admin</em></p></figcaption></figure>
+
 ***
 
 Pour faciliter le déploiement, vous trouverez ci-dessous des informations sur le options de configuration de votre espace :&#x20;

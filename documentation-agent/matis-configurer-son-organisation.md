@@ -7,7 +7,7 @@ icon: building-columns
 
 Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_ permettant de paramétrer votre compte RDV Service Public. Ce premier niveau de configuration permettra à tous les **Agent Basique** de votre structure d'utiliser leur agenda et de planifier des rendez-vous. &#x20;
 
-<div data-full-width="false"><figure><img src="../../.gitbook/assets/Capture d’écran 2025-04-02 à 12.52.56.png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../.gitbook/assets/Capture d’écran 2025-04-02 à 12.52.56.png" alt=""><figcaption><p><em>Interface de l'espace configuration</em></p></figcaption></figure></div>
 
 ***
 
@@ -82,7 +82,7 @@ Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de r
 
 Vous trouverez des options de configurations organisées sous 3 onglets :&#x20;
 
-&#x20;                                           ![](../../.gitbook/assets/RDVSP.gif)
+&#x20;                                           ![](../.gitbook/assets/RDVSP.gif)
 
 ***
 
@@ -142,7 +142,7 @@ Cette fonctionnalité répond à un besoin usager. Celui de pouvoir facilement c
 
 Ces informations apparaîtront ainsi dans les récapitulatif de rendez-vous accessible depuis les notifications **email** ou **SMS** :&#x20;
 
-&#x20;                                              ![](<../../.gitbook/assets/RDVSP (9).gif>)
+&#x20;                                              ![](<../.gitbook/assets/RDVSP (9).gif>)
 
 </details>
 
