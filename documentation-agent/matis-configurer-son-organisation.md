@@ -5,7 +5,7 @@ icon: building-columns
 
 # (Matis) Configurer son organisation
 
-Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_ permettant de paramétrer votre compte RDV Service Public. Ce premier niveau de configuration permettra à tous les **Agent Basique** de votre structure d'utiliser leur agenda et de planifier des rendez-vous. &#x20;
+Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_ permettant de paramétrer votre compte RDV Service Public. Ce premier niveau de configuration permettra à tous les [**Agent Basique**](matis-utiliser-son-agenda.md) de votre structure d'utiliser leur agenda et de planifier des rendez-vous. &#x20;
 
 <div data-full-width="false"><figure><img src="../.gitbook/assets/Capture d’écran 2025-04-02 à 12.52.56.png" alt=""><figcaption><p><em>Interface de l'espace configuration</em></p></figcaption></figure></div>
 
@@ -81,8 +81,6 @@ Vous pouvez créer ou modifier des motifs depuis le menu _**configuration**_ pui
 Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de rendez-vous, d’informer l’agent sur le contenu attendu et d’affiner les options (présentiel, téléphone, visio, option de prise de rendez-vous en ligne).&#x20;
 
 Vous trouverez des options de configurations organisées sous 3 onglets :&#x20;
-
-&#x20;                                           ![](../.gitbook/assets/RDVSP.gif)
 
 ***
 
