@@ -10,9 +10,7 @@ Vous êtes **Agent Admin** **de Territoire** et disposez alors d'un accès au me
 
 ***
 
-RDV Service Public repose sur des concepts et notions pour être déployé dans plusieurs services et plusieurs sites de votre structure : _Espace_ ; &#x4F;_&#x72;ganisation_ ; _Service_ ; _Agent_. Vous trouverez plus d'informations sur ces concepts depuis [**ici**](../a-propos/comment-ca-marche.md). Cette structure est à configurer par un agent **Admin de Territoire**.&#x20;
-
-Pour faciliter le déploiement, vous trouverez ci-dessous des informations sur le options de configuration de votre espace :&#x20;
+RDV Service Public repose sur des concepts et notions pour être déployé dans plusieurs services et plusieurs sites de votre structure : _Espace_ ; &#x4F;_&#x72;ganisation_ ; _Service_ ; _Agent_. Vous trouverez plus d'informations sur ces concepts depuis [**ici**](../a-propos/comment-ca-marche.md). Cette structure est à configurer par un agent **Admin de Territoire** :&#x20;
 
 <details>
 
