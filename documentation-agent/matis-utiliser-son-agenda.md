@@ -11,7 +11,7 @@ Vous êtes **Agent** et disposez alors d'un accès pour utiliser votre compte _R
 
 ***
 
-Pour faciliter l'utilisation de la solution, vous trouverez ci-dessous des informations sur les fonctionnalités pour gérer ses disponiblités et ses rendez-vous :&#x20;
+Pour faciliter l'utilisation de la solution, vous trouverez ci-dessous des informations sur les fonctionnalités pour gérer vos disponiblités et vos rendez-vous :&#x20;
 
 <details>
 
@@ -40,6 +40,14 @@ Pour faciliter l'utilisation de la solution, vous trouverez ci-dessous des infor
 <details>
 
 <summary>Gérer les fiches usagers </summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Gérer vos exports de rendez-vous</summary>
 
 
 
