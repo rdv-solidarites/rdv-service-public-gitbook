@@ -7,13 +7,15 @@ icon: building-columns
 
 Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_ permettant de paramétrer votre compte RDV Service Public. Ce premier niveau de configuration permettra à tous les **Agent Basique** de votre structure d'utiliser leur agenda et de planifier des rendez-vous. &#x20;
 
+<div data-full-width="false"><figure><img src="../../.gitbook/assets/Capture d’écran 2025-04-02 à 12.52.56.png" alt=""><figcaption></figcaption></figure></div>
+
 ***
 
-Pour faciliter le déploiement, vous trouverez ci-dessous des informations sur le options de configuration de votre organisation :&#x20;
+Pour faciliter le déploiement, vous trouverez ci-dessous des informations sur les options de configuration de votre organisation :&#x20;
 
 <details>
 
-<summary><strong>Inviter vos agents</strong> </summary>
+<summary><strong>Agents</strong></summary>
 
 Pour inviter des agents à rejoindre votre organisation sur **RDV Service Public**, rendez-vous dans le menu _**Configuration**_, puis cliquez sur l’onglet _**Agents**_.
 
@@ -72,13 +74,13 @@ Si un changement est nécessaire :
 
 <details>
 
-<summary><strong>Créer vos motifs</strong></summary>
+<summary><strong>Motifs de rendez-vous</strong></summary>
 
 Vous pouvez créer ou modifier des motifs depuis le menu _**configuration**_ puis _**motifs**_.&#x20;
 
 Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de rendez-vous, d’informer l’agent sur le contenu attendu et d’affiner les options (présentiel, téléphone, visio, option de prise de rendez-vous en ligne).&#x20;
 
-Vous trouverez des options de configurations organisées sous 3 onglet :&#x20;
+Vous trouverez des options de configurations organisées sous 3 onglets :&#x20;
 
 &#x20;                                           ![](../../.gitbook/assets/RDVSP.gif)
 
@@ -102,7 +104,7 @@ Vous devez cocher la case _ouvert aux usagers_. Elle viendra activer une pastill
 
 Dès lors que vous ouvrez la prise de rendez-vous en ligne pour un motif, vous accéderez à des options de configurations supplémentaires liées au **délais minimum et maximum de réservation**. En configurant ces options, vous pouvez limiter la visibilités des disponibilités des plages de disponibilités des agents dans le parcours de prise de rendez-vous en ligne.
 
-Aussi, vous pouvez offrir la possibilité à vos usagers de **modifier leur créneau de rendez-vous en autonomie**. Un bouton déplacer le RDV s'affichera depuis leur récapitulatif de rendez-vous accessible depuis les notifications email et SMS :&#x20;
+Aussi, vous pouvez offrir la possibilité à vos usagers de **modifier leur créneau de rendez-vous en autonomie**. Un bouton déplacer le RDV s'affichera depuis leur récapitulatif de rendez-vous accessible depuis les notifications email et SMS.&#x20;
 
 ***
 
@@ -116,7 +118,7 @@ Ces informations apparaîtront ainsi dans les récapitulatif de rendez-vous acce
 
 <details>
 
-<summary><strong>Créer vos lieux</strong> </summary>
+<summary><strong>Lieux</strong></summary>
 
 Vous pouvez créer **autant de lieux que nécessaire** pour votre organisation.\
 Cette fonctionnalité vous permet d’ajouter des lieux **supplémentaires**, en plus du **lieu principal** déjà défini lors de la création de votre compte.&#x20;
@@ -132,7 +134,7 @@ Une fois les lieux créés, les agents pourront **associer leurs plages d’ouve
 
 <details>
 
-<summary><strong>Configurer vos informations de contacts</strong></summary>
+<summary><strong>Informations de contacts</strong></summary>
 
 Vous pouvez personnaliser les informations de contacts de votre administration depuis le menu _**configuration**_ puis _**informations de contacts.**_&#x20;
 
@@ -146,7 +148,7 @@ Ces informations apparaîtront ainsi dans les récapitulatif de rendez-vous acce
 
 <details>
 
-<summary><strong>Activer la prise de rendez-vous en ligne</strong> </summary>
+<summary><strong>Réservation en ligne</strong></summary>
 
 Pour permettre la **prise de rendez-vous en ligne**, deux conditions doivent être remplies :
 
@@ -183,6 +185,3 @@ Vous y trouverez un **lien URL unique** : c’est par ce lien que les usagers po
 
 
 </details>
-
-
-
