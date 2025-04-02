@@ -88,3 +88,8 @@
   * [Réservation en ligne](documentation-agent/lea-configurer-son-organisation/reservation-en-ligne.md)
 * [test 1](documentation-agent/test-1.md)
 * [Test 2](documentation-agent/test-2.md)
+
+## Interopérabilité
+
+* [Démarches Simplifiés](interoperabilite/demarches-simplifies.md)
+* [Mo Suivi Social](interoperabilite/mo-suivi-social.md)
