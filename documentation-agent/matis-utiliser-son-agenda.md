@@ -15,7 +15,7 @@ Pour faciliter l'utilisation de la solution, vous trouverez ci-dessous des infor
 
 <details>
 
-<summary>Créer et gérer vos plages d'ouverture</summary>
+<summary><strong>Créer et gérer vos plages d'ouverture</strong></summary>
 
 
 
@@ -23,7 +23,7 @@ Pour faciliter l'utilisation de la solution, vous trouverez ci-dessous des infor
 
 <details>
 
-<summary>Planifier des rendez-vous</summary>
+<summary><strong>Planifier des rendez-vous</strong></summary>
 
 
 
@@ -31,7 +31,7 @@ Pour faciliter l'utilisation de la solution, vous trouverez ci-dessous des infor
 
 <details>
 
-<summary>Gérer des indisponibilités </summary>
+<summary><strong>Gérer des indisponibilités</strong> </summary>
 
 
 
@@ -39,7 +39,7 @@ Pour faciliter l'utilisation de la solution, vous trouverez ci-dessous des infor
 
 <details>
 
-<summary>Gérer les fiches usagers </summary>
+<summary><strong>Gérer les fiches usagers</strong> </summary>
 
 
 
@@ -47,7 +47,7 @@ Pour faciliter l'utilisation de la solution, vous trouverez ci-dessous des infor
 
 <details>
 
-<summary>Gérer vos exports de rendez-vous</summary>
+<summary><strong>Gérer vos exports de rendez-vous</strong></summary>
 
 
 
