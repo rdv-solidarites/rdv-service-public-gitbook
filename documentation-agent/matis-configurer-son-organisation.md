@@ -185,3 +185,8 @@ Vous y trouverez un **lien URL unique** : c’est par ce lien que les usagers po
 
 
 </details>
+
+{% hint style="info" %}
+Vous trouverez également des informations complémentaire dans la [**Foire Aux Questions**](../foire-aux-questions/trouver-vos-reponses.md)
+{% endhint %}
+

@@ -4,7 +4,7 @@ icon: message-question
 
 # Trouver vos réponses
 
-## Notification agents
+## Notifications agent
 
 <details>
 
