@@ -6,8 +6,6 @@ icon: map-location
 
 Vous êtes **Agent Admin** **de Territoire** et disposez alors d'un accès au menu _Espace Admin_ permettant de paramétrer votre espace _RDV Service Public_.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-04-02 à 12.57.20.png" alt=""><figcaption><p><em>Interface de l'Espace Admin</em></p></figcaption></figure>
-
 ***
 
 RDV Service Public repose sur des concepts et notions pour être déployé dans plusieurs services et plusieurs sites de votre structure : _Espace_ ; &#x4F;_&#x72;ganisation_ ; _Service_ ; _Agent_. Vous trouverez plus d'informations sur ces concepts depuis [**ici**](../a-propos/comment-ca-marche.md). Cette structure est à configurer par un agent **Admin de Territoire** :&#x20;
