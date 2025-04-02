@@ -45,7 +45,7 @@ Pour faciliter l'utilisation de la solution, vous trouverez ci-dessous des infor
 
 </details>
 
-{% hint style="info" %}
-Vous trouverez également des informations complémentaire dans la [**Foire Aux Questions**](../foire-aux-questions/trouver-vos-reponses.md)
+{% hint style="success" %}
+Vous trouverez également des informations complémentaires dans la [**Foire Aux Questions**](../foire-aux-questions/trouver-vos-reponses.md)
 {% endhint %}
 

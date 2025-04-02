@@ -56,6 +56,6 @@ Pour faciliter le déploiement, vous trouverez ci-dessous des informations sur l
 
 </details>
 
-{% hint style="info" %}
-Vous trouverez également des informations complémentaire dans la [**Foire Aux Questions**](../foire-aux-questions/trouver-vos-reponses.md)
+{% hint style="success" %}
+Vous trouverez également des informations complémentaires dans la [**Foire Aux Questions**](../foire-aux-questions/trouver-vos-reponses.md)
 {% endhint %}
