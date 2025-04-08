@@ -7,7 +7,7 @@ Il est possible qu'une administration locale près de chez vous (une mairie, une
 Notre proposition de contact est uniquement à destination des administrations publiques pour les aider à prendre en main l'application **RDV Service Public**.&#x20;
 
 {% hint style="danger" %}
-**Nous ne sommes donc pas un service public pour les particuliers.**
+Ce site d’aide s’adresse aux agents publics et non pas aux particuliers.
 {% endhint %}
 
 ## **Peut-être cherchez-vous à contacter une administration ?**&#x20;
