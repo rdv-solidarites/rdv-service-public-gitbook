@@ -137,7 +137,7 @@ Vous trouverez des informations techniques ici : [https://github.com/betagouv/rd
 
 <details>
 
-<summary>Pourquoi certains RDV ne sont pas synchronisés dans mon calendrier externe ?</summary>
+<summary><strong>Pourquoi certains RDV ne sont pas synchronisés dans mon calendrier externe ?</strong></summary>
 
 Les raisons de ce genre de problèmes dépendent du type de synchronisation avec votre calendrier externe (voir question précédente).
 
