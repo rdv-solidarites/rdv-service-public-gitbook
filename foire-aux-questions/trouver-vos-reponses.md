@@ -14,6 +14,8 @@ Cette fonctionnalité permet de recevoir des notifications par email lorsqu’un
 
 Vous pouvez personnaliser vos préférences de notification dans l’onglet _**Mon Compte**_, accessible en cliquant sur votre prénom en haut à droite de votre calendrier.
 
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 Chaque email contient une pièce jointe au format **ICS**, compatible avec la plupart des logiciels de calendrier. Votre calendrier externe reconnaîtra automatiquement ces mises à jour, bien que certains logiciels demandent une validation manuelle des modifications.
 
 </details>
@@ -130,6 +132,22 @@ Les webhooks sont une manière de communiquer entre deux systèmes d’informati
 Il est possible de développer un logiciel dans votre SI pour recevoir ces webhooks et mettre à jour les calendriers des agents en conséquence. Cette solution est déjà en place dans plusieurs structures utilisant RDV Service Public.
 
 Vous trouverez des informations techniques ici : [https://github.com/betagouv/rdv-service-public/blob/production/docs/api/webhooks/api-notifications-webhooks.md](https://github.com/betagouv/rdv-service-public/blob/production/docs/api/webhooks/api-notifications-webhooks.md)
+
+</details>
+
+<details>
+
+<summary>Pourquoi certains RDV ne sont pas synchronisés dans mon calendrier externe ?</summary>
+
+Les raisons de ce genre de problèmes dépendent du type de synchronisation avec votre calendrier externe (voir question précédente).
+
+Le mécanisme de synchronisation le plus répandu est celui utilisant les emails avec des pièces-jointes ICS. Dans ce cas, la raison la plus fréquente pour laquelle une partie des RDV ne se synchronisent pas c’est que vos préférences de notifications par mail sont trop restrictives.
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+cf cette question pour apprendre à modifier ces préférences :
+
+[#comment-recevoir-des-notifications-dalertes-de-rendez-vous](trouver-vos-reponses.md#comment-recevoir-des-notifications-dalertes-de-rendez-vous "mention")
 
 </details>
 
