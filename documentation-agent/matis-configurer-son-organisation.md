@@ -5,7 +5,7 @@ icon: building-columns
 
 # (Matis) Configurer son organisation
 
-Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_ permettant de paramétrer votre compte RDV Service Public. Ce premier niveau de configuration permettra à tous les [**Agent Basique**](matis-utiliser-son-agenda.md) de votre structure d'utiliser leur agenda et de planifier des rendez-vous. &#x20;
+Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_ permettant de paramétrer votre organisation. Ce premier niveau de configuration permettra à tous les [**Agent Basique**](matis-utiliser-son-agenda.md) de votre structure d'utiliser leur agenda et de planifier des rendez-vous. &#x20;
 
 ***
 
@@ -88,7 +88,11 @@ Vous trouverez des options de configurations organisées sous 3 onglets :&#x20;
 
 Un motif est avant tout un objet de rendez-vous qui se configure par un nom, une durée par défaut, un type et un service associé.&#x20;
 
-Une fois configurés, tous vos motifs seront alors accessibles aux agents des services associés. Les agents pourront créer des plages de disponibilités avec des motifs configurés et ainsi faciliter la recherche de créneaux dans votre organisation. Ils pourront également planifier des rendez-vous.&#x20;
+{% hint style="success" %}
+**Vos motifs seront accessibles par les agents des services associés**
+{% endhint %}
+
+Les agents pourront créer des plages de disponibilités avec des motifs configurés et ainsi faciliter la recherche de créneaux dans votre organisation et planifier des rendez-vous.
 
 Si vous souhaitez proposer plusieurs modalités de rendez-vous (sur place, par téléphone, par visioconférence ou à domicile) ou plusieurs durée par défaut (30 minutes ou 60 minutes) pour un même motif, il sera nécessaire de dupliquer et créer plusieurs motifs.&#x20;
 
@@ -96,9 +100,11 @@ Si vous souhaitez proposer plusieurs modalités de rendez-vous (sur place, par t
 
 **Réservation en ligne**&#x20;
 
-Un motif peut-être ouvert ou non à la prise de rendez-vous en ligne. Vous pouvez sélectionner cette option depuis l'onglet _**réservation en ligne**_ de l'écran de configuration des motifs.&#x20;
+Un motif peut-être ouvert ou non à la prise de rendez-vous en ligne. Vous pouvez sélectionner cette option depuis l'onglet _**réservation en ligne**_ de l'écran de configuration des motifs. Vous devez cocher la case _ouvert aux usagers_.&#x20;
 
-Vous devez cocher la case _ouvert aux usagers_. Elle viendra activer une pastille _en ligne_ pour chaque motif.&#x20;
+{% hint style="success" %}
+**Une pastille&#x20;**_**en ligne**_**&#x20;s'affichera pour chaque motif.**&#x20;
+{% endhint %}
 
 Dès lors que vous ouvrez la prise de rendez-vous en ligne pour un motif, vous accéderez à des options de configurations supplémentaires liées au **délais minimum et maximum de réservation**. En configurant ces options, vous pouvez limiter la visibilités des disponibilités des plages de disponibilités des agents dans le parcours de prise de rendez-vous en ligne.
 
@@ -108,9 +114,13 @@ Aussi, vous pouvez offrir la possibilité à vos usagers de **modifier leur cré
 
 **Instruction et notification**
 
-Vous pouvez personnaliser des instructions de rendez-vous motif par motif. Vous pouvez personnaliser ces instructions depuis l'onglet _**notification et instruction.**_&#x20;
+Vous pouvez personnaliser des instructions de rendez-vous, motif par motif. Vous pouvez personnaliser ces instructions depuis l'onglet _**notification et instruction.**_&#x20;
 
-Ces informations apparaîtront ainsi dans les récapitulatif de rendez-vous accessible depuis les notifications **email** ou **SMS.**&#x20;
+Cette fonctionnalité permet de faire afficher ces instructions :&#x20;
+
+* **Avant le rendez-vous** : dans le parcours en ligne, avant qu'un usager sélectionne un créneau
+
+- **Après le rendez-vous** : dans l'écran de confirmation du rendez-vous ainsi que dans la notification SMS, via l'URL _info/annulation_ et dans la notification email, via le champ _information supplémentaires_
 
 </details>
 
