@@ -68,7 +68,7 @@ Si un changement est nécessaire :
 
 <details>
 
-<summary><strong>Créer vos motifs</strong></summary>
+<summary><strong>Créer vos motifs</strong> </summary>
 
 Vous pouvez créer ou modifier des motifs depuis le menu _**configuration**_ puis _**motifs**_.&#x20;
 
