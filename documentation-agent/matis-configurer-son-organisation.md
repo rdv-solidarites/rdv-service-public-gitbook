@@ -84,7 +84,7 @@ Vous trouverez des options de configurations organisées sous 3 onglets :&#x20;
 
 ***
 
-### **Information générale**&#x20;
+#### **Information générale**&#x20;
 
 Un motif est avant tout un objet de rendez-vous qui se configure par un nom, une durée par défaut, un type et un service associé.&#x20;
 
@@ -98,7 +98,7 @@ Si vous souhaitez proposer plusieurs modalités de rendez-vous (sur place, par t
 
 ***
 
-### **Réservation en ligne**&#x20;
+#### **Réservation en ligne**&#x20;
 
 Un motif peut-être ouvert ou non à la prise de rendez-vous en ligne. Vous pouvez sélectionner cette option depuis l'onglet _**réservation en ligne**_ de l'écran de configuration des motifs. Vous devez cocher la case _ouvert aux usagers_.&#x20;
 
@@ -112,7 +112,7 @@ Aussi, vous pouvez offrir la possibilité à vos usagers de **modifier leur cré
 
 ***
 
-### **Instruction et notification**
+#### **Instruction et notification**
 
 Vous pouvez personnaliser des instructions de rendez-vous, motif par motif. Vous pouvez personnaliser ces instructions depuis l'onglet _**notification et instruction.**_&#x20;
 
