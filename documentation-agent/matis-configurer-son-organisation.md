@@ -15,7 +15,7 @@ Pour faciliter le déploiement, vous trouverez ci-dessous des informations sur l
 
 <summary><strong>Agents</strong></summary>
 
-Pour inviter des agents à rejoindre votre organisation sur **RDV Service Public**, rendez-vous dans le menu _**Configuration**_, puis cliquez sur l’onglet _**Agents**_.
+Vous pouvez ouvrir des accès aux agents de votre administration. Les agents pourront alors disposer d'un compte RDV Service Public on se connectant via un email et un mot de passe ou en utilisant ProConnect.&#x20;
 
 Vous trouverez des options de configurations organisées en 3 étapes :&#x20;
 
@@ -24,8 +24,6 @@ Vous trouverez des options de configurations organisées en 3 étapes :&#x20;
 #### **Choix du niveau de permission**
 
 Lors de l’invitation d’un agent, vous devez définir son niveau de permission. Trois niveaux sont disponibles :&#x20;
-
-
 
 **1. Basique**\
 Ce niveau permet à l’agent de :
