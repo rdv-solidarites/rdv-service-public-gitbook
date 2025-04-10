@@ -25,7 +25,7 @@ Vous trouverez des options de configurations organisées en 3 étapes :&#x20;
 
 Lors de l’invitation d’un agent, vous devez définir son niveau de permission. Trois niveaux sont disponibles :&#x20;
 
-**1. Basique**\
+**Basique**\
 Ce niveau permet à l’agent de :
 
 * Gérer ses propres plages d’ouverture, indisponibilités et rendez-vous ;
@@ -35,7 +35,7 @@ Ce niveau permet à l’agent de :
 **L’agent basique n’a pas accès au menu&#x20;**_**Configuration**_**, et ne peut donc pas modifier les paramètres de l’organisation.**
 {% endhint %}
 
-**2. Administrateur**\
+**Administrateur**\
 Ce niveau donne à l’agent des droits étendus :
 
 * Accès à l’agenda **de tous les agents** de l’organisation, quel que soit leur service ;
@@ -49,7 +49,7 @@ Ce niveau donne à l’agent des droits étendus :
 
 
 
-**3. Intervenant** \
+**Intervenant** \
 Le statut intervenant fonctionne différemment des deux précédents :
 
 * Il **n’est pas lié à une adresse e-mail** ;
