@@ -17,42 +17,60 @@ Pour faciliter le déploiement, vous trouverez ci-dessous des informations sur l
 
 Pour inviter des agents à rejoindre votre organisation sur **RDV Service Public**, rendez-vous dans le menu _**Configuration**_, puis cliquez sur l’onglet _**Agents**_.
 
+Vous trouverez des options de configurations organisées en 3 étapes :&#x20;
+
+***
+
 **Choix du niveau de permission**
 
 Lors de l’invitation d’un agent, vous devez définir son niveau de permission. Trois niveaux sont disponibles :
 
-*   **Basique** :\
-    Ce niveau permet à l’agent de :
+**Basique** :\
+Ce niveau permet à l’agent de :
 
-    * Gérer ses propres plages d’ouverture, indisponibilités et rendez-vous ;
-    * Gérer les rendez-vous des agents appartenant au **même service**.
+* Gérer ses propres plages d’ouverture, indisponibilités et rendez-vous ;
+* Gérer les rendez-vous des agents appartenant au **même service**.
 
-    L’agent **basique n’a pas accès au menu&#x20;**_**Configuration**_, et ne peut donc pas modifier les paramètres de l’organisation.
+{% hint style="warning" %}
+L’agent **basique n’a pas accès au menu&#x20;**_**Configuration**_, et ne peut donc pas modifier les paramètres de l’organisation.
+{% endhint %}
 
-
-
-* **Administrateur** :\
-  Ce niveau donne à l’agent des droits étendus :
-  * Accès à l’agenda **de tous les agents** de l’organisation, quel que soit leur service ;
-  * Possibilité de modifier les plages d’ouverture, les indisponibilités et les rendez-vous de tous les agents ;
-  *   Accès au menu _**Configuration**_, lui permettant de :
-
-      * Inviter d'autres agents.
-      * Créer et modifier des motifs de rendez-vous ;
-      * Ajouter des lieux de permanences;
-      * Modifier les informations de l'organisation (nom, contact, etc.)
+L’agent **basique n’a pas accès au menu&#x20;**_**Configuration**_, et ne peut donc pas modifier les paramètres de l’organisation.
 
 
-*   **Intervenant** :\
-    Le statut **intervenant** fonctionne différemment des deux précédents :
 
-    * Il **n’est pas lié à une adresse e-mail** ;
-    * Sa création génère un **agenda autonome**, que vous pouvez nommer librement ;
-    * Cet agenda est ensuite **géré par les autres agents** de l’organisation.
+**Administrateur** :\
+Ce niveau donne à l’agent des droits étendus :
 
-    Ce statut est idéal pour des **partenaires externes** effectuant des permanences ponctuelles dans votre structure. Bien qu’ils ne possèdent pas de compte **RDV Service Public**, les rendez-vous peuvent tout de même être pris sur cet agenda intervenant.
+* Accès à l’agenda **de tous les agents** de l’organisation, quel que soit leur service ;
+* Possibilité de modifier les plages d’ouverture, les indisponibilités et les rendez-vous de tous les agents ;
+*   Accès au menu _**Configuration**_, lui permettant de :
+
+    * Inviter d'autres agents.
+    * Créer et modifier des motifs de rendez-vous ;
+    * Ajouter des lieux de permanences;
+    * Modifier les informations de l'organisation (nom, contact, etc.)
 
 
+
+**Intervenant** :\
+Le statut **intervenant** fonctionne différemment des deux précédents :
+
+* Il **n’est pas lié à une adresse e-mail** ;
+* Sa création génère un **agenda autonome**, que vous pouvez nommer librement ;
+* Cet agenda est ensuite **géré par les autres agents** de l’organisation.
+
+Ce statut est idéal pour des **partenaires externes** effectuant des permanences ponctuelles dans votre structure. Bien qu’ils ne possèdent pas de compte **RDV Service Public**, les rendez-vous peuvent tout de même être pris sur cet agenda intervenant.
+
+***
+
+
+
+
+
+
+
+***
 
 **Association à un ou plusieurs services**
 
@@ -147,15 +165,21 @@ Une fois les lieux créés, les agents pourront **associer leurs plages d’ouve
 
 <summary><strong>Informations de contacts</strong></summary>
 
-Cette fonctionnalité répond à un besoin usager. Celui de pouvoir facilement contacter son administration en cas de besoin (difficultés à annuler son rendez-vous en autonomie, besoin d'informations complémentaires au rendez-vous, demande de modification de rendez-vous etc ...).&#x20;
+Cette fonctionnalité répond des usagers qui souhaitent facilement vous contacter en cas de besoin (difficultés à annuler son rendez-vous en autonomie, besoin d'informations complémentaires au rendez-vous, demande de modification de rendez-vous etc ...).&#x20;
 
-Ces informations apparaîtront ainsi dans les récapitulatif de rendez-vous accessible depuis les notifications **email** ou **SMS** .&#x20;
+Ces informations apparaîtront ainsi dans les récapitulatif de rendez-vous accessible depuis les notifications **email** ou **SMS.**&#x20;
 
 </details>
 
 <details>
 
 <summary><strong>Réservation en ligne</strong></summary>
+
+Cette fonctionnalité permet à vos usagers de planifier des rendez-vous en autonomie depuis leur ordinateur ou téléphone avec vos services.&#x20;
+
+{% hint style="success" %}
+**Cette fonctionnalité est désactivée par défaut. Vous pouvez l'activer motif par motif.**&#x20;
+{% endhint %}
 
 Pour permettre la **prise de rendez-vous en ligne**, deux conditions doivent être remplies :
 
@@ -165,29 +189,11 @@ Pour permettre la **prise de rendez-vous en ligne**, deux conditions doivent êt
 Une fois ces conditions remplies, rendez-vous dans le **menu&#x20;**_**Configuration**_, onglet _**Réservation en ligne**._\
 Vous y trouverez un **lien URL unique** : c’est par ce lien que les usagers pourront prendre rendez-vous avec votre organisation.
 
-👉 Vous pouvez diffuser cet URL sur :
+Vous pouvez diffuser cet URL sur :
 
 * Votre **site internet** ;
 * Vos communications par **e-mail** ;
 * Tout autre support destiné à informer les usagers.
-
-
-
-
-
-
-
-
-
-
-
-* Commune avec <mark style="color:purple;">**France Titres**</mark>
-
-
-
-
-
-* Conseillers Numériques avec la <mark style="color:purple;">**Cartographie Nationale des lieux d'inclusion numérique**</mark>
 
 
 
