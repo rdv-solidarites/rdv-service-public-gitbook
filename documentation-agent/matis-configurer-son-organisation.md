@@ -21,7 +21,7 @@ Vous trouverez des options de configurations organisées en 3 étapes :&#x20;
 
 ***
 
-#### **Choix du niveau de permission**
+#### Niveau de permissions
 
 Lors de l’invitation d’un agent, vous devez définir son niveau de permission. Trois niveaux sont disponibles :&#x20;
 
@@ -68,9 +68,9 @@ Ce statut est idéal pour des **partenaires externes** effectuant des permanence
 
 ***
 
-#### **Association à un ou plusieurs services**
+#### **Services**
 
-Après avoir défini le niveau de droit et renseigné l’adresse e-mail de l’agent (sauf pour un intervenant), vous devez l’associer au(x) service(s) auquel(s) il est rattaché.
+Après avoir défini le niveau de droit et renseigné l’adresse e-mail ou un nom, vous devez l’associer au service auquel il est rattaché. Ratacher un agent à un service, c'est lui donner accès aux motifs et aux agendas agents associés à ce service.&#x20;
 
 {% hint style="success" %}
 **Il est possible de rattacher un agent à plusieurs services**.
