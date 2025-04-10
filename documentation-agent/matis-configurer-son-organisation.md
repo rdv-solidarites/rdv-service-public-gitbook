@@ -21,40 +21,38 @@ Vous trouverez des options de configurations organisées en 3 étapes :&#x20;
 
 ***
 
-**Choix du niveau de permission**
+#### **Choix du niveau de permission**
 
-Lors de l’invitation d’un agent, vous devez définir son niveau de permission. Trois niveaux sont disponibles :
+Lors de l’invitation d’un agent, vous devez définir son niveau de permission. Trois niveaux sont disponibles :&#x20;
 
-**Basique** :\
+
+
+**→ Basique**\
 Ce niveau permet à l’agent de :
 
 * Gérer ses propres plages d’ouverture, indisponibilités et rendez-vous ;
 * Gérer les rendez-vous des agents appartenant au **même service**.
 
 {% hint style="warning" %}
-L’agent **basique n’a pas accès au menu&#x20;**_**Configuration**_, et ne peut donc pas modifier les paramètres de l’organisation.
+**L’agent basique n’a pas accès au menu&#x20;**_**Configuration**_**, et ne peut donc pas modifier les paramètres de l’organisation.**
 {% endhint %}
 
-L’agent **basique n’a pas accès au menu&#x20;**_**Configuration**_, et ne peut donc pas modifier les paramètres de l’organisation.
-
-
-
-**Administrateur** :\
+**→ Administrateur**\
 Ce niveau donne à l’agent des droits étendus :
 
 * Accès à l’agenda **de tous les agents** de l’organisation, quel que soit leur service ;
 * Possibilité de modifier les plages d’ouverture, les indisponibilités et les rendez-vous de tous les agents ;
 *   Accès au menu _**Configuration**_, lui permettant de :
 
-    * Inviter d'autres agents.
+    * Inviter d'autres agents ;
     * Créer et modifier des motifs de rendez-vous ;
-    * Ajouter des lieux de permanences;
-    * Modifier les informations de l'organisation (nom, contact, etc.)
+    * Ajouter des lieux de permanences;&#x20;
+    * Modifier les informations de l'organisation.
 
 
 
-**Intervenant** :\
-Le statut **intervenant** fonctionne différemment des deux précédents :
+**→ Intervenant** \
+Le statut intervenant fonctionne différemment des deux précédents :
 
 * Il **n’est pas lié à une adresse e-mail** ;
 * Sa création génère un **agenda autonome**, que vous pouvez nommer librement ;
@@ -64,7 +62,7 @@ Ce statut est idéal pour des **partenaires externes** effectuant des permanence
 
 ***
 
-
+#### Email ou Nom&#x20;
 
 
 
@@ -72,14 +70,17 @@ Ce statut est idéal pour des **partenaires externes** effectuant des permanence
 
 ***
 
-**Association à un ou plusieurs services**
+#### **Association à un ou plusieurs services**
 
 Après avoir défini le niveau de droit et renseigné l’adresse e-mail de l’agent (sauf pour un intervenant), vous devez l’associer au(x) service(s) auquel(s) il est rattaché.
 
+{% hint style="success" %}
+Il est possible de rattacher un agent à **plusieurs services**.
+{% endhint %}
 
-
-✅ Il est possible de rattacher un agent à **plusieurs services**.\
-⚠️ Attention : **une fois cette étape validée, il ne sera plus possible de modifier les services associés à l’agent**.
+{% hint style="danger" %}
+**Une fois cette étape validée, il ne sera plus possible de modifier les services associés à l’agent.**
+{% endhint %}
 
 Si un changement est nécessaire :
 
