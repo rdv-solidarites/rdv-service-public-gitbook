@@ -76,8 +76,6 @@ Si un changement est nécessaire :
 
 <summary><strong>Motifs de rendez-vous</strong></summary>
 
-Vous pouvez créer ou modifier des motifs depuis le menu _**configuration**_ puis _**motifs**_.&#x20;
-
 Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de rendez-vous, d’informer l’agent sur le contenu attendu et d’affiner les options (présentiel, téléphone, visio, option de prise de rendez-vous en ligne).&#x20;
 
 Vous trouverez des options de configurations organisées sous 3 onglets :&#x20;
@@ -128,8 +126,13 @@ Cette fonctionnalité permet de faire afficher ces instructions :&#x20;
 
 <summary><strong>Lieux</strong></summary>
 
-Vous pouvez créer **autant de lieux que nécessaire** pour votre organisation.\
-Cette fonctionnalité vous permet d’ajouter des lieux **supplémentaires**, en plus du **lieu principal** déjà défini lors de la création de votre compte.&#x20;
+Les lieux permettent d'associer les disponiblités des plages d'ouvertures des agents à des adresses de rendez-vous.&#x20;
+
+{% hint style="success" %}
+**L'adresse du rendez-vous est communiquée dans chaque notification SMS et emails**
+{% endhint %}
+
+Vous pouvez créer **autant de lieux que nécessaire** pour votre organisation. Cette fonctionnalité vous permet d’ajouter des lieux **supplémentaires**, en plus du **lieu principal** déjà défini lors de la création de votre compte.&#x20;
 
 Cela est particulièrement utile si :
 
@@ -143,8 +146,6 @@ Une fois les lieux créés, les agents pourront **associer leurs plages d’ouve
 <details>
 
 <summary><strong>Informations de contacts</strong></summary>
-
-Vous pouvez personnaliser les informations de contacts de votre administration depuis le menu _**configuration**_ puis _**informations de contacts.**_&#x20;
 
 Cette fonctionnalité répond à un besoin usager. Celui de pouvoir facilement contacter son administration en cas de besoin (difficultés à annuler son rendez-vous en autonomie, besoin d'informations complémentaires au rendez-vous, demande de modification de rendez-vous etc ...).&#x20;
 
