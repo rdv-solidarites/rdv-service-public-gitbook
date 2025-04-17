@@ -15,7 +15,7 @@ Pour faciliter le déploiement, vous trouverez ci-dessous des informations sur l
 
 <summary><strong>Agents</strong></summary>
 
-Vous pouvez ouvrir des accès aux agents de votre administration. Les agents pourront alors disposer d'un compte RDV Service Public on se connectant via un email et un mot de passe ou en utilisant ProConnect.&#x20;
+Vous pouvez ouvrir des accès aux agents de votre administration. Les agents pourront alors disposer d'un compte RDV Service Public on se connectant via un email et un mot de passe ou en utilisant [ProConnect](https://www.proconnect.gouv.fr).&#x20;
 
 Vous trouverez des options de configurations organisées en 2 étapes :&#x20;
 
@@ -23,7 +23,7 @@ Vous trouverez des options de configurations organisées en 2 étapes :&#x20;
 
 #### Niveau de permissions
 
-Lors de l’invitation d’un agent, vous devez définir son niveau de permission. Trois niveaux sont disponibles :&#x20;
+Lors de l’invitation d’un agent, vous devez définir son niveau de permission :&#x20;
 
 **Basique**\
 Ce niveau permet à l’agent de :
