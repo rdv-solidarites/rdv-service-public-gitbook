@@ -121,7 +121,7 @@ Aussi, vous pouvez offrir la possibilité à vos usagers de **modifier leur cré
 
 Si votre organisation est dispose d'un **Dispositif de Recueil**, vous pouvez également raccorder vos disponibilités au moteur [France Titres](https://rendezvouspasseport.ants.gouv.fr/) (ANTS).&#x20;
 
-Dans l’onglet **Réservation en ligne**, un menu déroulant intitulé **Catégorie** vous permet de sélectionner le motif du rendez-vous (CNI, Passeport ou CNI + Passeport). Une fois la catégorie choisie et les modifications enregistrées, les administrés pourront prendre rendez-vous directement via le moteur France Titres.
+Un menu déroulant intitulé _**catégorie**_ vous permet de sélectionner le motif du rendez-vous (CNI, Passeport ou CNI + Passeport). Une fois la catégorie choisie et les modifications enregistrées, les administrés pourront prendre rendez-vous directement via le moteur France Titres.
 
 {% hint style="warning" %}
 **Cette fonctionnalité est disponible uniquement si votre organisation dispose d’un Dispositif de Recueil (DR). Elle est activée lors de la création de votre compte. Si ce n’est pas le cas, n’hésitez pas à contacter notre équipe pour en demander l’activation.**
