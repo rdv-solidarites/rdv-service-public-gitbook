@@ -17,7 +17,7 @@ Pour faciliter le déploiement, vous trouverez ci-dessous des informations sur l
 
 Vous pouvez ouvrir des accès aux agents de votre administration. Les agents pourront alors disposer d'un compte RDV Service Public on se connectant via un email et un mot de passe ou en utilisant ProConnect.&#x20;
 
-Vous trouverez des options de configurations organisées en 3 étapes :&#x20;
+Vous trouverez des options de configurations organisées en 2 étapes :&#x20;
 
 ***
 
@@ -57,14 +57,6 @@ Le statut intervenant fonctionne différemment des deux précédents :
 * Cet agenda est ensuite **géré par les autres agents** de l’organisation.
 
 Ce statut est idéal pour des **partenaires externes** effectuant des permanences ponctuelles dans votre structure. Bien qu’ils ne possèdent pas de compte **RDV Service Public**, les rendez-vous peuvent tout de même être pris sur cet agenda intervenant.
-
-***
-
-#### Email ou Nom&#x20;
-
-
-
-
 
 ***
 
