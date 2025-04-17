@@ -20,7 +20,7 @@ Les financements interministériels des deux sponsors **DINUM** et **ANCT** gara
 
 ## Grande administration
 
-Là aussi, les financements interministériels des deux sponsors **DINUM** et **ANCT** garantissent la pérennité et la gratuité pour les administrations utilisatrices concernant les coût d’investissement. Toutefois, à partir d’un certain volume de rendez-vous (environ 10 000 à 20 000 rendez-vous par an) une participation financière est demandée pour contribuer au fond de concours commun finançant les coût de fonctionnement notamment ceux liés au coût des SMS envoyés par la solution. Cette participation au frais de fonctionnement engagera la signature d'une convention pour définir le montant annuel.&#x20;
+Là aussi, les financements interministériels des deux sponsors **DINUM** et **ANCT** garantissent la pérennité et la gratuité pour les administrations utilisatrices concernant les coût d’investissement. Toutefois, à partir d’un certain volume de rendez-vous (10 000 rendez-vous par an) une participation financière est demandée pour contribuer au fond de concours commun finançant les coût de fonctionnement notamment ceux liés au coût des SMS envoyés par la solution. Cette participation au frais de fonctionnement engagera la signature d'une convention pour définir le montant annuel.&#x20;
 
 * Pas de frais d’**investissement** ❌
 * Des frais de **fonctionnement** ✅
