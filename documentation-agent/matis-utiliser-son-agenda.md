@@ -5,7 +5,7 @@ icon: calendar
 
 # (Matis) Utiliser son agenda
 
-Vous êtes **Agent** et disposez alors d'un accès pour utiliser votre compte _RDV Service Public_. Vous pouvez utiliser la solution sur la base d'une confiugration réalisée par des [**Agents Admin**](matis-configurer-son-organisation.md) ou des [**Agents Admin de Territoire**](matis-configurer-son-territoire.md).&#x20;
+Vous êtes **Agent** et disposez alors d'un accès pour utiliser votre compte _RDV Service Public_. Vous pouvez utiliser la solution sur la base d'une confiugration réalisée par des [**Agents Admin**](../demarrer-sur-rdv-service-public/configurer-son-organisation.md) ou des [**Agents Admin de Territoire**](matis-configurer-son-territoire.md).&#x20;
 
 ***
 
