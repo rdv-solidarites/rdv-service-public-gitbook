@@ -15,7 +15,7 @@ Afin de faciliter votre utilisation de la solution, vous trouverez ci-dessous de
 <summary>Plages d'ouverture</summary>
 
 Les plages d'ouverture vous permettent de définir vos disponibilités.\
-Ces plages d'ouverture permettent aux autres agents de votre organisation de prendre des rendez-vous pour les usagers sur vos disponiblités via le bouton _**Trouver un RDV**_. Si votre organisation publie ses disponibilités en ligne, ces créneaux seront également visibles pour les usagers.
+Ces plages d'ouverture permettent aux autres agents de votre organisation de prendre des rendez-vous pour les usagers sur vos disponibilités via le bouton _**Trouver un RDV**_. Si votre organisation publie ses disponibilités en ligne, ces créneaux seront également visibles pour les usagers.
 
 {% hint style="success" %}
 Chaque plage d'ouverture doit être associée à un ou plusieurs motifs de rendez-vous préalablement créés par les <mark style="color:blue;">**Agents Administrateurs**</mark> liés à votre service.
