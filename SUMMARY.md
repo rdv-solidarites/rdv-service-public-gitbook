@@ -79,8 +79,8 @@
 
 * [(Matis) Configurer son territoire](documentation-agent/matis-configurer-son-territoire.md)
 * [(Matis) Utiliser son agenda](documentation-agent/matis-utiliser-son-agenda.md)
-* [Utiliser son agenda](documentation-agent/utiliser-son-agenda.md)
 * [Configurer son organisation](documentation-agent/configurer-son-organisation.md)
+* [Utiliser son agenda](documentation-agent/utiliser-son-agenda.md)
 * [ (Léa) Configurer son organisation](documentation-agent/lea-configurer-son-organisation/README.md)
   * [Inviter vos agents](documentation-agent/lea-configurer-son-organisation/inviter-vos-agents.md)
   * [Motifs](documentation-agent/lea-configurer-son-organisation/motifs.md)
