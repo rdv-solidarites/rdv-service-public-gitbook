@@ -15,9 +15,11 @@ Afin de faciliter votre utilisation de la solution, vous trouverez ci-dessous de
 <summary>Plages d'ouverture</summary>
 
 Les plages d'ouverture vous permettent de définir vos disponibilités.\
-Ces disponibilités permettent aux autres agents de votre organisation de prendre des rendez-vous pour les usagers sur les créneaux indiqués. Si votre organisation publie ses disponibilités en ligne, ces créneaux seront également visibles pour les usagers.
+Ces plages d'ouverture permettent aux autres agents de votre organisation de prendre des rendez-vous pour les usagers sur vos disponiblités via le bouton _**Trouver un RDV**_. Si votre organisation publie ses disponibilités en ligne, ces créneaux seront également visibles pour les usagers.
 
-Chaque plage d'ouverture doit être associée à un ou plusieurs motifs de rendez-vous (préalablement créés par les <mark style="color:blue;">**Agents Administrateurs**</mark>) liés à votre service.
+{% hint style="success" %}
+Chaque plage d'ouverture doit être associée à un ou plusieurs motifs de rendez-vous préalablement créés par les <mark style="color:blue;">**Agents Administrateurs**</mark> liés à votre service.
+{% endhint %}
 
 Vous pouvez créer :
 
@@ -50,7 +52,7 @@ Vous avez également la possibilité de programmer des indisponibilités récurr
 
 <summary>Trouver un rendez-vous </summary>
 
-Pour prendre un rendez-vous pour un usager, cliquez sur le bouton "_Trouver un rendez-vous_" depuis l'interface.
+Pour prendre un rendez-vous pour un usager, cliquez sur le bouton _**Trouver un RDV**_ depuis l'interface.
 
 Ce parcours vous permet d'accéder aux disponibilités de l'ensemble des agents pour un motif de rendez-vous donné.\
 Vous pouvez affiner votre recherche à l'aide des filtres disponibles (agents, lieux, dates, etc.).
@@ -58,7 +60,7 @@ Vous pouvez affiner votre recherche à l'aide des filtres disponibles (agents, l
 Lors de la prise de rendez-vous :
 
 * Si le rendez-vous concerne un nouvel usager, vous devez "_Créer un usager_".
-* Si l'usager existe déjà, vous pouvez le retrouver en effectuant une recherche par nom.
+* Si l'usager existe déjà, vous pouvez le retrouver en effectuant une recherche par nom ou une information de contact.&#x20;
 
 Pour que l'usager reçoive les notifications de rendez-vous (par SMS et par email), assurez-vous que ses coordonnées sont correctement renseignées.
 
@@ -71,7 +73,7 @@ Cette fonctionnalité vous permet d'accéder aux créneaux disponibles dans d'au
 
 <summary>Usagers</summary>
 
-L’onglet _Usagers_ vous permet de rechercher, par nom, les usagers ayant eu ou ayant un rendez-vous à venir au sein de votre service.
+Le menu _Usagers_ vous permet de rechercher, par nom, les usagers ayant eu ou ayant un rendez-vous à venir au sein de votre service.
 
 En accédant à la fiche d’un usager, vous pourrez consulter :
 
