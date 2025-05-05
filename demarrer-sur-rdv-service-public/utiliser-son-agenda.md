@@ -12,7 +12,7 @@ Afin de faciliter votre utilisation de la solution, vous trouverez ci-dessous de
 
 <details>
 
-<summary>Plages d'ouverture</summary>
+<summary><strong>Plages d'ouverture</strong></summary>
 
 Les plages d'ouverture vous permettent de définir vos disponibilités.\
 Ces plages d'ouverture permettent aux autres agents de votre organisation de prendre des rendez-vous pour les usagers sur vos disponibilités via le bouton _**Trouver un RDV**_. Si votre organisation publie ses disponibilités en ligne, ces créneaux seront également visibles pour les usagers.
@@ -30,7 +30,7 @@ Vous pouvez créer :
 
 <details>
 
-<summary>Indisponibilités</summary>
+<summary><strong>Indisponibilités</strong></summary>
 
 Les indisponibilités vous permettent de fermer vos permanences de manière ponctuelle, par exemple en cas de congés, de formation ou d'absence exceptionnelle.
 
@@ -50,7 +50,7 @@ Vous avez également la possibilité de programmer des indisponibilités récurr
 
 <details>
 
-<summary>Trouver un rendez-vous </summary>
+<summary><strong>Trouver un rendez-vous</strong> </summary>
 
 Pour prendre un rendez-vous pour un usager, cliquez sur le bouton _**Trouver un RDV**_ depuis l'interface.
 
@@ -71,7 +71,7 @@ Cette fonctionnalité vous permet d'accéder aux créneaux disponibles dans d'au
 
 <details>
 
-<summary>Usagers</summary>
+<summary><strong>Usagers</strong></summary>
 
 Le menu _Usagers_ vous permet de rechercher, par nom, les usagers ayant eu ou ayant un rendez-vous à venir au sein de votre service.
 
@@ -86,7 +86,7 @@ En accédant à la fiche d’un usager, vous pourrez consulter :
 
 <details>
 
-<summary>Liste des RDV</summary>
+<summary><strong>Liste des RDV</strong></summary>
 
 En tant qu’agent, vous avez accès à deux types de rendez-vous :
 
