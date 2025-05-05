@@ -6,7 +6,7 @@ icon: hexagon-exclamation
 # Problèmes de réception des emails
 
 {% hint style="info" %}
-Si vous êtes responsable technique du Système d’Information, pensez à consulter [cette page](../documentation-technique/informations-pour-les-dsi.md) qui contient des informations pour corriger les problèmes plus globalement.
+Si vous êtes responsable technique du Système d’Information, pensez à consulter [cette page](../toutes-les-notions/informations-pour-les-dsi.md) qui contient des informations pour corriger les problèmes plus globalement.
 {% endhint %}
 
 ### Votre client mail classe nos emails en spam
@@ -27,7 +27,7 @@ Le domaine RDV Service Public peut être bloqué par un outil de protection des 
 * Confirmez en validant le message "Autoriser les messages de ces domaines".
 
 {% hint style="info" %}
-Cette autorisation est appliquée à titre individuel et vos collègues auront potentiellement le même problème. Vous pouvez suggérer au responsable technique de votre administration de consulter [cette page](../documentation-technique/informations-pour-les-dsi.md) pour corriger ce problème pour tout le monde.
+Cette autorisation est appliquée à titre individuel et vos collègues auront potentiellement le même problème. Vous pouvez suggérer au responsable technique de votre administration de consulter [cette page](../toutes-les-notions/informations-pour-les-dsi.md) pour corriger ce problème pour tout le monde.
 {% endhint %}
 
 ### Un problème temporaire sur les serveurs de RDV Service Public empêche l’envoi des emails
@@ -61,7 +61,7 @@ Cette situation peut se produire dans deux cas :&#x20;
 **Solution** :  Envoyez-nous un e-mail à [support@rdv-service-public.fr](mailto:support@rdv-service-public.fr)
 
 {% hint style="info" %}
-Si vous vous retrouvez dans cette situation, il est probable que plusieurs de vos collègues soient dans la même situation. Vous pouvez suggérer aux responsables techniques de votre SI de consulter [cette page](../documentation-technique/informations-pour-les-dsi.md) pour corriger le problème durablement et à l’échelle de tout votre service.
+Si vous vous retrouvez dans cette situation, il est probable que plusieurs de vos collègues soient dans la même situation. Vous pouvez suggérer aux responsables techniques de votre SI de consulter [cette page](../toutes-les-notions/informations-pour-les-dsi.md) pour corriger le problème durablement et à l’échelle de tout votre service.
 {% endhint %}
 
 

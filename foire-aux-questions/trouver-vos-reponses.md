@@ -41,7 +41,7 @@ Le domaine RDV Service Public peut être bloqué par un outil de protection des 
 * Cliquez sur l’icône de droite et autorisez les adresses du domaine @rdv-solidarites.fr / @rdv-service-public.fr / @rdv-aide-numerique.fr
 * Confirmez en validant le message "Autoriser les messages de ces domaines".
 
-Cette autorisation est appliquée à titre individuel et vos collègues auront potentiellement le même problème. Vous pouvez suggérer au responsable technique de votre administration de consulter [cette page](../documentation-technique/informations-pour-les-dsi.md) pour corriger ce problème pour tout le monde.
+Cette autorisation est appliquée à titre individuel et vos collègues auront potentiellement le même problème. Vous pouvez suggérer au responsable technique de votre administration de consulter [cette page](../toutes-les-notions/informations-pour-les-dsi.md) pour corriger ce problème pour tout le monde.
 
 ### Un problème temporaire sur les serveurs de RDV Service Public empêche l’envoi des emails
 
@@ -73,7 +73,42 @@ Cette situation peut se produire dans deux cas :&#x20;
 
 **Solution** :  Envoyez-nous un e-mail à [support@rdv-service-public.fr](mailto:support@rdv-service-public.fr)
 
-Si vous vous retrouvez dans cette situation, il est probable que plusieurs de vos collègues soient dans la même situation. Vous pouvez suggérer aux responsables techniques de votre SI de consulter [cette page](../documentation-technique/informations-pour-les-dsi.md) pour corriger le problème durablement et à l’échelle de tout votre service.
+Si vous vous retrouvez dans cette situation, il est probable que plusieurs de vos collègues soient dans la même situation. Vous pouvez suggérer aux responsables techniques de votre SI de consulter le sinformations ci-dessous pour corriger le problème durablement et à l’échelle de tout votre service :&#x20;
+
+### Les emails de RDV Service Public ne sont pas reçus par les agents
+
+Si un des agents de votre service rencontre ce genre de problèmes de réception d’emails, il est probable que d’autres le rencontrent à leur tour. En tant que responsable technique vous avez la possibilité de configurer le SI pour corriger ces problèmes pour tous les agents.
+
+Le but est de faire en sorte que les serveurs mails du SI ne refusent jamais les emails envoyés par RDV Service Public. L’idée est de mettre dans des listes d’acceptations tous les emails émis par RDV Service Public (on parle aussi de _whitelists_).
+
+Il faut le cas échéant faire cette configuration à deux niveaux :&#x20;
+
+* le système de détection de spam natif du serveur mail de votre SI
+* le(s) logiciel(s) de filtrage d’email branchés sur votre serveur comme MailInBlack
+
+Le plus robuste est d’ajouter dans les listes d’acceptations l’adresse IP suivante,  nous envoyons tous nos emails depuis cette adresse :
+
+```
+212.146.241.127
+```
+
+Si vous ne trouvez pas l’option pour ajouter une IP dans une liste d’acceptation, vous pouvez en repli ajouter les domaines émetteurs suivants comme domaines de confiance  :&#x20;
+
+```
+reply.demo.rdv-solidarites.fr
+reply.staging.rdv-service-public.fr
+reply.rdv-service-public.fr
+reply.demo.rdv-aide-numerique.fr
+reply.demo.rdv-service-public.fr
+reply.rdv-aide-numerique.fr
+rdv-aide-numerique.fr
+rdv-service-public.fr
+reply.rdv-solidarites.fr
+email.rdv-solidarites.fr
+rdv-solidarites.fr
+```
+
+N’hésitez pas à nous contacter à support@rdv-service-public.fr pour que nous puissions vous aider à faire ces configurations.
 
 </details>
 

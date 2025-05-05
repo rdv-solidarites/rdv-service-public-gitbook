@@ -16,7 +16,6 @@
 
 * [API](documentation-technique/api.md)
 * [Dépôt et Architecture](documentation-technique/depot-et-architecture.md)
-* [Informations pour les DSI](documentation-technique/informations-pour-les-dsi.md)
 
 ## Confidentialité et Sécurité
 
@@ -49,6 +48,7 @@
 * [Utiliser la prescription externe](toutes-les-notions/utiliser-la-prescription-externe.md)
 * [Activer la prise de rendez-vous en ligne](toutes-les-notions/activer-la-prise-de-rendez-vous-en-ligne.md)
 * [Branchement ANTS](toutes-les-notions/branchement-ants.md)
+* [Informations pour les DSI](toutes-les-notions/informations-pour-les-dsi.md)
 * [Branchement cartographie CNFS](toutes-les-notions/branchement-cartographie-cnfs.md)
 * [Créer des organisations dans son territoire](toutes-les-notions/creer-des-organisations-dans-son-territoire.md)
 * [Gérer la sectorisation dans son territoire](toutes-les-notions/gerer-la-sectorisation-dans-son-territoire.md)
