@@ -2,9 +2,15 @@
 icon: map-location
 ---
 
-# (Léa) Configurer son territoire
+# (Léa) Configurer son Espace
 
-Pour découvrir et comprendre l’essentiel des fonctionnalités d’un <mark style="color:red;">**Agent Admin de Territoire**</mark>, nous vous recommandons de consulter le tutoriel ci-dessous.
+En tant qu’<mark style="color:red;">**Agent Administrateur d’Espace**</mark>, vous disposez d’un accès au menu **Espace**, qui vous permet de paramétrer et administrer votre **espace RDV Service Public**.\
+Ce niveau de configuration vous donne la possibilité de gérer vos organisations, vos services, vos agents et l’ensemble des paramètres généraux.\
+Il vous permet ainsi de mettre en place les éléments nécessaires pour que tous les agents puissent utiliser leurs agendas et planifier des rendez-vous.
+
+***
+
+Pour faciliter le déploiement, vous trouverez ci-dessous des informations sur les options de configuration de votre espace :&#x20;
 
 <details>
 
@@ -23,13 +29,13 @@ Pour inviter un agent :
 {% hint style="danger" %}
 **Vous devez inviter les agents individuellement. Il n'est pas possible d'envoyer des invitations à plusieurs adresses e-mail simultanément.**
 
-**L’invitation doit être validée par l’agent dans un délai de 48 heures. Passé ce délai, vous devrez procéder à une nouvelle invitation.**
+**L’invitation doit être validée par l’agent dans un délai de 48 heures (je sais plus). Passé ce délai, vous devrez procéder à une nouvelle invitation.**
 {% endhint %}
 
 Une fois l’invitation envoyée, l’agent recevra un e-mail contenant un lien lui permettant de rejoindre votre espace.\
 L’agent devra obligatoirement valider cette invitation avant que vous puissiez gérer ses paramètres.
 
-#### Gérer les agents
+#### Gérer les droits d'accès des agents
 
 Après validation de l’invitation par l’agent, vous pourrez :
 
@@ -42,7 +48,27 @@ Après validation de l’invitation par l’agent, vous pourrez :
 
 <summary>Webhook </summary>
 
+Les **webhooks** permettent à **RDV Service Public** de communiquer automatiquement avec le système d’information (SI) de votre organisation.
 
+&#x20;**RDV Service Public peut envoyer des notifications à votre SI lorsqu’un événement a lieu**, comme :
+
+* La création d’un rendez-vous.
+* La modification d’un rendez-vous.
+* L’annulation d’un rendez-vous.
+
+Votre équipe informatique peut développer un module dans votre SI pour :
+
+* **Recevoir ces notifications en temps réel.**
+* **Mettre à jour automatiquement vos calendriers internes, logiciels métiers, etc.**
+
+Cette intégration vous permet de :
+
+* Automatiser certaines tâches (mise à jour de calendriers, notifications internes, etc).
+* Réduire les saisies manuelles.
+* Offrir une meilleure synchronisation entre **RDV Service Public** et vos outils internes.
+
+Pour les détails techniques et la mise en place, vous pouvez consulter la documentation dédiée :\
+[Accéder à la documentation technique - Notifications Webhooks](https://github.com/betagouv/rdv-service-public/blob/production/docs/api/webhooks/api-notifications-webhooks.md)
 
 </details>
 
@@ -55,7 +81,7 @@ En tant qu’**Administrateur d’Espace**, vous pouvez personnaliser les inform
 Vous avez la possibilité :
 
 * D’**ajouter des champs personnalisés** qui seront visibles dans les fiches usagers.
-* De **masquer certains champs standards** que vous ne souhaitez pas afficher.
+* De **masquer certains champs** que vous ne souhaitez pas afficher.
 
 Ces ajustements vous permettent d’adapter les fiches aux besoins spécifiques de votre organisation et de vos agents.
 
@@ -91,8 +117,6 @@ Ces informations sont :
 Vous pouvez également configurer les paramètres liés à la **salle d’attente**, notamment :
 
 * Définir le **mode de notification des agents** lorsqu’un usager est présent en salle d’attente (notification visuelle, par mail).
-
-Ces options vous permettent d’adapter l’organisation de la prise en charge selon les pratiques internes de votre structure.
 
 </details>
 
@@ -160,7 +184,9 @@ Vous avez la possibilité d’**activer un service** pour qu’il soit disponibl
 
 Vous pouvez également **désactiver un service**. Les agents ne pourront alors plus être affectés à ce service.
 
-Si le service souhaité n’apparaît pas dans la liste proposée, vous pouvez **en faire la demande en nous contactant via ce** [**formulaire**](https://rdv.anct.gouv.fr/aide/demande_support/new?role=agent\&sujet=Ajout+d%E2%80%99un+service).
+{% hint style="info" %}
+**Si le service souhaité n’apparaît pas dans la liste proposée, vous pouvez en faire la demande en nous contactant via ce** [**formulaire**](https://rdv.anct.gouv.fr/aide/demande_support/new?role=agent\&sujet=Ajout+d%E2%80%99un+service)**.**
+{% endhint %}
 
 </details>
 
@@ -173,3 +199,4 @@ En tant qu’administrateur, vous pouvez accéder à la liste de vos organisatio
 Vous avez également la possibilité d’ajouter une nouvelle organisation à votre espace.
 
 </details>
+
