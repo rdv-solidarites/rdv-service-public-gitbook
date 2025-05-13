@@ -4,7 +4,7 @@ icon: calendar
 
 # Utiliser son agenda
 
-En tant qu'**Agent**, vous avez accès à un compte _RDV Service Public_. La configuration de votre espace a été réalisée par des <mark style="color:blue;">**Agents Admin**</mark> ou des <mark style="color:blue;">**Agents Admin de Territoire**</mark>.
+En tant qu'**Agent**, vous avez accès à un compte _RDV Service Public_. La configuration de votre espace a été réalisée par des <mark style="color:blue;">**Agents Admin**</mark> ou des <mark style="color:red;">**Agents Admin d'Espace**</mark>.
 
 ***
 
