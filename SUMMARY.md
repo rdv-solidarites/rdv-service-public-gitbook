@@ -4,7 +4,7 @@
 
 ## Démarrer sur RDV Service Public
 
-* [Configurer son territoire](demarrer-sur-rdv-service-public/configurer-son-territoire.md)
+* [Configurer son Espace](demarrer-sur-rdv-service-public/configurer-son-espace.md)
 * [Configurer son organisation](demarrer-sur-rdv-service-public/configurer-son-organisation.md)
 * [Utiliser son agenda](demarrer-sur-rdv-service-public/utiliser-son-agenda.md)
 
@@ -81,7 +81,7 @@
 * [(Matis) Utiliser son agenda](documentation-agent/matis-utiliser-son-agenda.md)
 * [Configurer son organisation](documentation-agent/configurer-son-organisation.md)
 * [Utiliser son agenda](documentation-agent/utiliser-son-agenda.md)
-* [(Léa) Configurer son Espace](documentation-agent/lea-configurer-son-espace.md)
+* [Configurer son territoire](documentation-agent/configurer-son-territoire.md)
 * [ (Léa) Configurer son organisation](documentation-agent/lea-configurer-son-organisation/README.md)
   * [Inviter vos agents](documentation-agent/lea-configurer-son-organisation/inviter-vos-agents.md)
   * [Motifs](documentation-agent/lea-configurer-son-organisation/motifs.md)
