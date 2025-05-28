@@ -139,7 +139,7 @@ Vous pouvez modifier vos préférences de notifications email dans l’espace «
 
 Une application Microsoft 365 permet de synchroniser vos RDV vers votre agenda Outlook. Cette application ne fonctionne que pour les versions d’Outlook hébergées par Microsoft, pas pour les versions hébergées sur site.
 
-Plus d’information dans la documentation :&#x20;
+Vous trouverez plus d’informations sur cette page :&#x20;
 
 [synchronisation-outlook-microsoft-365.md](../toutes-les-notions/synchronisation-outlook-microsoft-365.md "mention")
 
