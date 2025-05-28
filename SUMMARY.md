@@ -46,6 +46,7 @@
 ## Toutes les notions
 
 * [Utiliser la prescription externe](toutes-les-notions/utiliser-la-prescription-externe.md)
+* [Synchronisation Outlook (Microsoft 365)](toutes-les-notions/synchronisation-outlook-microsoft-365.md)
 * [Activer la prise de rendez-vous en ligne](toutes-les-notions/activer-la-prise-de-rendez-vous-en-ligne.md)
 * [Branchement ANTS](toutes-les-notions/branchement-ants.md)
 * [Informations pour les DSI](toutes-les-notions/informations-pour-les-dsi.md)

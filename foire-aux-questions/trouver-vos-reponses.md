@@ -135,6 +135,14 @@ Chaque email contient une pièce jointe au format ICS, un format largement suppo
 
 Vous pouvez modifier vos préférences de notifications email dans l’espace « Mon Compte » accessible en cliquant sur votre prénom en haut à droite depuis votre vue calendrier.
 
+#### **Synchronisation Outlook (Microsoft 365)**
+
+Une application Microsoft 365 permet de synchroniser vos RDV vers votre agenda Outlook. Cette application ne fonctionne que pour les versions d’Outlook hébergées par Microsoft, pas pour les versions hébergées sur site.
+
+Plus d’information dans la documentation :&#x20;
+
+[synchronisation-outlook-microsoft-365.md](../toutes-les-notions/synchronisation-outlook-microsoft-365.md "mention")
+
 #### **Synchronisation Webcal**
 
 Webcal est un protocole largement supporté par les logiciels de calendrier.&#x20;
