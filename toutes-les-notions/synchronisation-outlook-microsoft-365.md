@@ -41,7 +41,7 @@ Cette procédure doit être effectuée une seule fois pour tout un compte Micros
 
 **Étape 3** : L’administrateur·ice doit accepter les permissions. Il faut nécessairement cocher la case **“Consentement pour le compte de votre organisation”** pour que les agents non-administrateur·ices puissent à leur tour utiliser l’application.
 
-![L’application Oauth est actuellement indiquée comme “non vérifiée” car le processus de validation avec Microsoft n’a pas encore été finalisé.](https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/padnumerique/uploads/5b1f4ee7-053c-4e50-8082-96ac7779913d.png)
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p><em>L’application Oauth est actuellement indiquée comme “non vérifiée” car le processus de validation avec Microsoft n’a pas encore été finalisé.</em></p></figcaption></figure>
 
 ### Sécurité et code source <a href="#securite-et-code-source" id="securite-et-code-source"></a>
 
