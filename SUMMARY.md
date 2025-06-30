@@ -68,9 +68,6 @@
 * [Planifier un rendez vous](toutes-les-notions/planifier-un-rendez-vous.md)
 * [Trouver une disponibilité](toutes-les-notions/trouver-une-disponibilite.md)
 * [Utiliser la prescription interne](toutes-les-notions/utiliser-la-prescription-interne.md)
-* [Mairie avec un dispositif de recueil](toutes-les-notions/mairie-avec-un-dispositif-de-recueil.md)
-* [Configuration de l'organisation](toutes-les-notions/configuration-de-lorganisation.md)
-* [Médiation numérique](toutes-les-notions/mediation-numerique.md)
 
 ## Documentation pour les particuliers
 
