@@ -4,7 +4,7 @@ icon: circle-check
 
 # Les statistiques
 
-Il existe 3 niveaux pour exporter les statistiques d’utilisation : au niveau de l’agent, de l’organisation ou du territoire.
+Il existe 3 niveaux pour exporter les statistiques d’utilisation : au niveau de l’agent, de l’organisation ou de l'espace.
 
 ## Statistiques par agent
 
@@ -30,10 +30,10 @@ Pour extraire les statistiques, rendez-vous dans le menu _**Liste des RDV**_. Su
 
 ***
 
-## Statistiques par territoire
+## Statistiques par espace
 
-Le statut _**agent administrateur de territoire**_ vous permet d'extraire des statistiques à l'échelle de votre territoire, en utilisant les fiches usagers comme point d'entrée. L'extraction génère un fichier **.xls**, pratique pour manipuler les données de votre territoire.
+Le statut _**agent administrateur d'espace**_ vous permet d'extraire des statistiques à l'échelle de votre espace, en utilisant les fiches usagers comme point d'entrée. L'extraction génère un fichier **.xls**, pratique pour manipuler les données de votre espace.
 
 Pour extraire les statistiques, rendez-vous dans le menu _**Liste des RDV**_. Sur cette page, vous trouverez un bouton _**"exporter les fiches usagers"**_.
 
-Cette action vous fournira les données de chaque fiche usager de votre territoire, présentées ligne par ligne.
+Cette action vous fournira les données de chaque fiche usager de votre espace, présentées ligne par ligne.
