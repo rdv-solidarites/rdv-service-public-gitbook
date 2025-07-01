@@ -542,7 +542,7 @@ Pour fusionner des fiches usagers :&#x20;
 
 <summary><strong>Puis-je associer un agent à plusieurs organisations ?</strong> </summary>
 
-Un agent peut être associé à plusieurs organisations. Cette association lui donnera accès aux agendas des agents rattachés à son service dans chacune de ces organisations. Seul un agent administrateur de territoire peut associer un agent à plusieurs organisations.
+Un agent peut être associé à plusieurs organisations. Cette association lui donnera accès aux agendas des agents rattachés à son service dans chacune de ces organisations. Seul un agent administrateur d'espace peut associer un agent à plusieurs organisations.
 
 Pour ajouter un agent à plusieurs organisations :&#x20;
 
@@ -575,14 +575,14 @@ L'**Agent Admin** a une **visibilité étendue** sur toutes les organisations au
 * Accéder à l'onglet **Paramètres** pour créer des motifs, lieux et inviter des agents,
 * Être associé à plusieurs organisations.
 
-#### **Agent Admin de Territoire**
+#### **Agent Admin d'Espace**
 
-L'**Agent Admin de Territoire** a une **visibilité totale** sur tous les agendas du territoire et tous les services/organisations. Il a également accès aux paramètres de tous les services et organisations du territoire et peut :
+L'**Agent Admin d'Espace** a une **visibilité totale** sur tous les agendas de l'espace et tous les services/organisations. Il a également accès aux paramètres de tous les services et organisations de l'espace et peut :
 
 * Modifier les droits d'accès des agents,
 * Créer des organisations et former des équipes.
 
-**Plusieurs Agents Admin de Territoire peuvent être définis.**&#x20;
+**Plusieurs Agents Admin d'Espace peuvent être définis.**&#x20;
 
 #### **Agent Secrétariat**
 
@@ -623,7 +623,7 @@ Pour modifier le service d'un agent :&#x20;
 * Cliquer sur _**agent**_ et sélectionner _**modifier**_&#x20;
 * Associer l'agent à un ou plusieurs services pour définir ses droits d'accès
 
-**Seul un agent admin de territoire pour modifier les services d'un agent.**&#x20;
+**Seul un agent admin d'espace pour modifier les services d'un agent.**&#x20;
 
 </details>
 
@@ -689,7 +689,7 @@ Pour modifier des motifs en masse :&#x20;
 
 <summary><strong>Comment activer un nouveau service ?</strong> </summary>
 
-Par défaut, lors de la création de votre compte, un seul service sera actif dans votre territoire. Vous pourrez activer d'autres services pour y associer des agents selon vos besoins.
+Par défaut, lors de la création de votre compte, un seul service sera actif dans votre espace. Vous pourrez activer d'autres services pour y associer des agents selon vos besoins.
 
 Pour activer un nouveau service :&#x20;
 
@@ -698,7 +698,7 @@ Pour activer un nouveau service :&#x20;
 * Sélectionner les services que vous souhaitez activer parmi la liste&#x20;
 * Cliquer sur _**enregistrer**_ en bas de page
 
-**Seul un agent admin de territoire peut activer de nouveaux services.** &#x20;
+**Seul un agent admin d'espace peut activer de nouveaux services.** &#x20;
 
 </details>
 
@@ -743,7 +743,7 @@ Pour créer une nouvelle organisation :&#x20;
 * L'agent admin de territoire qui crée l'organisation devient automatiquement le premier agent associé.
 * Cet agent admin pourra ensuite inviter d'autres agents dans cette organisation si nécessaire.
 
-**Seul un agent admin de territoire peut créer des organisations.**&#x20;
+**Seul un agent admin d'espace peut créer des organisations.**&#x20;
 
 </details>
 

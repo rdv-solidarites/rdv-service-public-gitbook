@@ -26,14 +26,14 @@ Un Agent Admin a accès à l'onglet _**paramètres**_. Cela lui permet de créer
 
 ***
 
-## Agent Admin de Territoire
+## Agent Admin d'Espace
 
-Un Agent Admin de Territoire a accès et visibilité sur tous les agendas du territoire, tous services et toutes organisations confondus. Il a également accès aux paramètres de tous les services de toutes les organisations du territoire.
+Un Agent Admin d'Espace a accès et visibilité sur tous les agendas de l'espace, tous services et toutes organisations confondus. Il a également accès aux paramètres de tous les services de toutes les organisations de l'espace.
 
-Un Agent Admin de Territoire a accès à l'_**espace admin**_. Cet espace lui permet de modifier les droits d'accès de certains agents, de créer des organisations et de former des équipes.
+Un Agent Admin d'Espace a accès aux paramètres de l'espace. Celalui permet de modifier les droits d'accès de certains agents, de créer des organisations et de former des équipes.
 
 {% hint style="info" %}
-**Vous pouvez disposer de plusieurs Agents Admin de Territoire dans votre territoire.**
+**Vous pouvez disposer de plusieurs Agents Admin d'Espace dans votre territoire.**
 {% endhint %}
 
 ## Agent basique du service secrétariat
@@ -46,7 +46,7 @@ Un Agent Admin de Territoire a accès à l'_**espace admin**_. Cet espace lui pe
 **Par exemple, il peut planifier un rendez-vous avec un usager dans l'agenda d'un agent du service A de l'organisation 1 et dans l'agenda d'un agent du service B de la même organisation.**
 {% endhint %}
 
-La fonction principale d'un agent rattaché au service _**secrétariat**_ est de planifier des rendez-vous sur les agendas des agents du _**territoire**_. Toutefois, il peut également planifier des rendez-vous dans son propre agenda.
+La fonction principale d'un agent rattaché au service _**secrétariat**_ est de planifier des rendez-vous sur les agendas des agents de l'**espace**. Toutefois, il peut également planifier des rendez-vous dans son propre agenda.
 
 {% hint style="info" %}
 **Un Agent Admin doit ouvrir les motifs à la prise de rendez-vous par les agents du service secrétariat**&#x20;
