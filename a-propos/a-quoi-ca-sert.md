@@ -83,6 +83,6 @@ Notre plateforme propose une solution intégrée pour rationaliser ces processus
 
 **Les données des rendez-vous, centralisées sur la plateforme, permettent de générer des statistiques précises. Ces analyses vous aident à mesurer votre activité et à prendre des décisions éclairées :**
 
-* Des statistiques à l’échelles des agents, des organisations ou du territoire
+* Des statistiques à l’échelles des agents, des organisations ou de l'espace
 * Des exports en fichier .xls
 * Possibilité d’un dashboard personnalisé sur demande

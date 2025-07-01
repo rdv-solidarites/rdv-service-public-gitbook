@@ -431,7 +431,7 @@ Après avoir sélectionné une disponibilité via _**Trouver un RDV**_, vous pas
 
 * **Associer un usager** :&#x20;
 
-Recherchez l’usager en tapant les premières lettres de son nom ou prénom. Vous verrez les fiches usagers de votre organisation et, de façon partiellement masquée, celles d’autres organisations de votre territoire. **Plusieurs usagers peuvent être ajoutés à un rendez-vous.**
+Recherchez l’usager en tapant les premières lettres de son nom ou prénom. Vous verrez les fiches usagers de votre organisation et, de façon partiellement masquée, celles d’autres organisations de votre espace. **Plusieurs usagers peuvent être ajoutés à un rendez-vous.**
 
 * **Vérifier et modifier les informations** :
 
@@ -467,7 +467,7 @@ Le **statut d’agent administrateur** permet d’extraire les statistiques de v
 
 Vous pouvez permettre aux agents de planifier des rendez-vous dans d'autres organisations si vous disposez de plusieurs organisations. Ce parcours est possible par la fonctionnalité _**prescripteur**_**.**&#x20;
 
-Elle permet aux agents de partager leurs disponibilités et de planifier des rendez-vous dans **toutes les organisations** de leur territoire.
+Elle permet aux agents de partager leurs disponibilités et de planifier des rendez-vous dans **toutes les organisations** de leur espace.
 
 Pour configurer :&#x20;
 

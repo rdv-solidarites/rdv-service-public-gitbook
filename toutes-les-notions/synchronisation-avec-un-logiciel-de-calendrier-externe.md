@@ -1,9 +1,9 @@
 ---
-icon: circle-check
 description: >-
   Cette page détaille les différentes manières de synchroniser vos RDV pris via
   RDV Service Public dans un logiciel de calendrier externe (Outlook,
   Thunderbird…)
+icon: circle-check
 ---
 
 # Synchronisation avec un logiciel de calendrier externe
@@ -44,7 +44,7 @@ Il existe deux grandes versions d'Outlook :&#x20;
 * Outlook hébergé à distance, aussi appelé Microsoft 365
 * Outlook hébergé sur place par l’administration, aussi appelé Microsoft Exchange
 
-Nous avons un prototype de synchronisation spécifique pour la version hébergée à distance (Microsoft 365). N’hésitez pas à nous contacter si vous souhaitez l’expérimenter sur votre territoire.&#x20;
+Nous avons un prototype de synchronisation spécifique pour la version hébergée à distance (Microsoft 365). N’hésitez pas à nous contacter si vous souhaitez l’expérimenter sur votre espace.&#x20;
 
 Nous ne fournissons pour l’instant pas de solution spécifique pour Outlook hébergé sur place (Microsoft Exchange). Certaines structures utilisant RDV Service Public et ce type d’Outlook ont cependant mis en place des solutions via webhooks (voir ci-dessous).
 
