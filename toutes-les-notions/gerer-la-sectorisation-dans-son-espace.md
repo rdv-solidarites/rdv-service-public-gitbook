@@ -2,9 +2,9 @@
 icon: circle-check
 ---
 
-# Gérer la sectorisation dans son territoire
+# Gérer la sectorisation dans son espace
 
-La sectorisation est utile si vous utilisez la prise de rendez-vous en ligne et que vous possédez plusieurs organisations dans votre territoire. L'objectif est d'associer des agents ou des organisations à un secteur géographique. Lorsqu'un usager cherche une adresse couverte par ce secteur, les disponibilités des organisations ou des agents attribués lui seront proposées. Pour effectuer une sectorisation, il est nécessaire de configurer le trio suivant :
+La sectorisation est utile si vous utilisez la prise de rendez-vous en ligne et que vous possédez plusieurs organisations dans votre espace. L'objectif est d'associer des agents ou des organisations à un secteur géographique. Lorsqu'un usager cherche une adresse couverte par ce secteur, les disponibilités des organisations ou des agents attribués lui seront proposées. Pour effectuer une sectorisation, il est nécessaire de configurer le trio suivant :
 
 * secteur
 * organisation / agent
