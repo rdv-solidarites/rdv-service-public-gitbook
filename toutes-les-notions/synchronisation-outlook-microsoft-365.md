@@ -13,7 +13,7 @@ Il existe deux versions d’Outlook :
 **Nous proposons une solution de synchronisation uniquement pour la première version : Outlook hébergé à distance (Microsoft 365)**.
 {% endhint %}
 
-Ce guide décrit cette solution. N’hésitez pas à nous contacter si vous avez besoin d’aide pour la mettre en place sur votre territoire.
+Ce guide décrit cette solution. N’hésitez pas à nous contacter si vous avez besoin d’aide pour la mettre en place sur votre espace.
 
 RDV Service Public ne propose pour l’instant pas de solution de synchronisation clé en main pour Outlook hébergé sur place. Certaines structures utilisant RDV Service Public et ce type d’Outlook ont mis en place des solutions via webhooks, qui nécessitent du développement en interne.
 

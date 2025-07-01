@@ -679,7 +679,7 @@ Pour modifier des motifs en masse :&#x20;
 * Filtrer et rechercher les motifs à modifier et sélectionner les par lot.&#x20;
 * Cliquer sur _**modifier les motifs**_&#x20;
 
-**Seul un agent admin de territoire peut modifier des motif en masse.**&#x20;
+**Seul un agent admin d'espace peut modifier des motif en masse.**&#x20;
 
 </details>
 
@@ -740,7 +740,7 @@ Pour créer une nouvelle organisation :&#x20;
 
 * Allez dans le menu _**Espace Admin**_
 * Cliquez sur _**Organisations**_ puis sur _**Créer une organisation**_.
-* L'agent admin de territoire qui crée l'organisation devient automatiquement le premier agent associé.
+* L'agent admin d'espace qui crée l'organisation devient automatiquement le premier agent associé.
 * Cet agent admin pourra ensuite inviter d'autres agents dans cette organisation si nécessaire.
 
 **Seul un agent admin d'espace peut créer des organisations.**&#x20;

@@ -21,7 +21,7 @@ Sélectionnez un motif dans la liste proposée pour le service associé à l'age
 Dans ce champ, vous devez indiquer l'usager concerné par le rendez-vous. Utilisez le moteur de recherche en saisissant les premières lettres du nom ou du prénom de l'usager.
 
 {% hint style="warning" %}
-**Les fiches usagers proposées seront celles créées dans votre organisation. Vous verrez également s'afficher les fiches usagers créées dans d'autres organisations de votre territoire. Par respect pour la confidentialité des données, les informations personnelles des fiches usagers d'autres organisations de votre territoire seront partiellement masquées.**
+**Les fiches usagers proposées seront celles créées dans votre organisation. Vous verrez également s'afficher les fiches usagers créées dans d'autres organisations de votre espace. Par respect pour la confidentialité des données, les informations personnelles des fiches usagers d'autres organisations de votre espace seront partiellement masquées.**
 {% endhint %}
 
 ***
