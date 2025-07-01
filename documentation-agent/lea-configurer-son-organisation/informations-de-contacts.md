@@ -1,2 +1,0 @@
-# Informations de contacts
-

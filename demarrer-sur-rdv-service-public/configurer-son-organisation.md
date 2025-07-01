@@ -4,7 +4,7 @@ icon: building-columns
 
 # Configurer son organisation
 
-Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_ permettant de paramétrer votre organisation. Ce premier niveau de configuration permettra à tous les [**Agent Basique**](../documentation-agent/utiliser-son-agenda.md) de votre structure d'utiliser leur agenda et de planifier des rendez-vous. &#x20;
+Vous êtes **Agent Admin** et disposez alors d'un accès au menu _Configuration_ permettant de paramétrer votre organisation. Ce premier niveau de configuration permettra à tous les [**Agent Basique**](broken-reference) de votre structure d'utiliser leur agenda et de planifier des rendez-vous. &#x20;
 
 ***
 

@@ -4,7 +4,7 @@
 
 ## Démarrer sur RDV Service Public
 
-* [Configurer son Espace](demarrer-sur-rdv-service-public/configurer-son-espace.md)
+* [Configurer son espace](demarrer-sur-rdv-service-public/configurer-son-espace.md)
 * [Configurer son organisation](demarrer-sur-rdv-service-public/configurer-son-organisation.md)
 * [Utiliser son agenda](demarrer-sur-rdv-service-public/utiliser-son-agenda.md)
 
@@ -54,7 +54,7 @@
 * [Créer des organisations dans son espace](toutes-les-notions/creer-des-organisations-dans-son-espace.md)
 * [Gérer la sectorisation dans son espace](toutes-les-notions/gerer-la-sectorisation-dans-son-espace.md)
 * [Gérer les agents](toutes-les-notions/gerer-les-agents.md)
-* [Gérer les agents de son territoire](toutes-les-notions/gerer-les-agents-de-son-territoire.md)
+* [Gérer les agents de son espace](toutes-les-notions/gerer-les-agents-de-son-espace.md)
 * [Gérer les fiches usager](toutes-les-notions/gerer-les-fiches-usager.md)
 * [Les indisponibilités](toutes-les-notions/les-indisponibilites.md)
 * [Gérer les lieux](toutes-les-notions/gerer-les-lieux.md)
@@ -72,22 +72,6 @@
 ## Documentation pour les particuliers
 
 * [Vous êtes un·e particulier ?](documentation-pour-les-particuliers/vous-etes-un-e-particulier.md)
-
-## DOCUMENTATION AGENT
-
-* [(Matis) Configurer son territoire](documentation-agent/matis-configurer-son-territoire.md)
-* [(Matis) Utiliser son agenda](documentation-agent/matis-utiliser-son-agenda.md)
-* [Configurer son organisation](documentation-agent/configurer-son-organisation.md)
-* [Utiliser son agenda](documentation-agent/utiliser-son-agenda.md)
-* [Configurer son territoire](documentation-agent/configurer-son-territoire.md)
-* [ (Léa) Configurer son organisation](documentation-agent/lea-configurer-son-organisation/README.md)
-  * [Inviter vos agents](documentation-agent/lea-configurer-son-organisation/inviter-vos-agents.md)
-  * [Motifs](documentation-agent/lea-configurer-son-organisation/motifs.md)
-  * [Lieux](documentation-agent/lea-configurer-son-organisation/lieux.md)
-  * [Informations de contacts](documentation-agent/lea-configurer-son-organisation/informations-de-contacts.md)
-  * [Réservation en ligne](documentation-agent/lea-configurer-son-organisation/reservation-en-ligne.md)
-* [test 1](documentation-agent/test-1.md)
-* [Test 2](documentation-agent/test-2.md)
 
 ## Interopérabilité
 
