@@ -6,9 +6,9 @@ icon: circle-check
 
 ## Qu’est-ce qu’est la prescription interne ?
 
-La prescription interne permet aux agents de partager leurs disponibilités et de planifier des rendez-vous dans toutes les organisations de votre territoire.
+La prescription interne permet aux agents de partager leurs disponibilités et de planifier des rendez-vous dans toutes les organisations de votre espace.
 
-Par exemple, si votre territoire dispose de deux organisations — _**MDS de Beaulieu**_ et _**MDS de Boudon**_ — les agents pourront planifier des rendez-vous dans ces deux organisations.
+Par exemple, si votre espace dispose de deux organisations — _**MDS de Beaulieu**_ et _**MDS de Boudon**_ — les agents pourront planifier des rendez-vous dans ces deux organisations.
 
 {% hint style="info" %}
 **Par défaut, un agent peut planifier des rendez-vous uniquement dans les plannings des agents de son service**&#x20;
