@@ -49,69 +49,69 @@ Un Agent Admin a accès à l'onglet _**paramètres**_. Cela lui permet de créer
 **Vous pouvez associer un** **Agent Admin** **à plusieurs organisations.**&#x20;
 {% endhint %}
 
-### <mark style="color:red;">Agent Admin de Territoire</mark>
+### <mark style="color:red;">Agent Admin d'Espace</mark>
 
-Un Agent Admin de Territoire a visibilité et a accès aux options de configuration sur tous les _**services**_ et toutes _<mark style="color:purple;">**o**</mark>**rganisations**_ du _**territoire**_.&#x20;
+Un Agent Admin d'Espace a visibilité et a accès aux options de configuration sur tous les _**services**_ et toutes _<mark style="color:purple;">**o**</mark>**rganisations**_ de l'_**espace**_.&#x20;
 
-Un Agent Admin de Territoire a accès à l'_**espace admin**_. Cet espace lui permet de modifier les droits d'accès de certains agents, de créer des organisations et de former des équipes.
+Un Agent Admin d'Espace a accès à l'_**espace admin**_. Cet espace lui permet de modifier les droits d'accès de certains agents, de créer des organisations et de former des équipes.
 
 {% hint style="info" %}
-**Vous pouvez disposer de plusieurs Agents Admin de Territoire dans votre territoire.**
+**Vous pouvez disposer de plusieurs Agents Admin d'Espace dans votre espace.**
 {% endhint %}
 
 ***
 
 ## L'architecture
 
-### Le territoire
+### L'Espace
 
-Le _**territoire**_ est votre espace dans RDV Service Public où vous intégrez vos _**organisations**_, vos _**services**_ et vos _**agents**_.&#x20;
+L'Espace est votre compte dans RDV Service Public où vous intégrez vos _**organisations**_, vos _**services**_ et vos _**agents**_.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2024-04-05 à 09.15.23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-07-01 à 14.49.54.png" alt=""><figcaption></figcaption></figure>
 
 ### Les organisations
 
-Les _**organisations**_ sont les structures physiques, les sites dans lesquels sont planifiés les rendez-vous et où travaillent les agents. Chaque _**organisation**_ est donc obligatoirement associée à un territoire, c'est-à-dire à une entité administrative.
+Les _**organisations**_ sont les structures physiques, les sites dans lesquels sont planifiés les rendez-vous et où travaillent les agents. Chaque _**organisation**_ est donc obligatoirement associée à un espace, c'est-à-dire à une entité administrative.
 
 {% hint style="info" %}
 **Une organisation symbolise un lieu où des agents travaillent et planifient des rendez-vous.**
 {% endhint %}
 
-Par exemple, la Maison des Solidarités de Vernoux et la Maison des Solidarités d'Annonay sont deux organisations du département de l'Ardèche (territoire). Vous pouvez créer autant d'organisations que nécessaire !
+Par exemple, la Maison des Solidarités de Vernoux et la Maison des Solidarités d'Annonay sont deux organisations du département de l'Ardèche (espace). Vous pouvez créer autant d'organisations que nécessaire !
 
 {% hint style="warning" %}
 **Chaque organisation peut créer plusieurs lieux. Par défaut, chaque organisation aura un seul lieu (l'adresse de l'organisation). Toutefois, si votre organisation gère des permanences ou des antennes à l'extérieur, vous pouvez créer des lieux supplémentaires**
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2024-04-05 à 09.15.34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-07-01 à 14.50.06.png" alt=""><figcaption></figcaption></figure>
 
 ### Les services
 
-Les services sont rattachés au _**territoire**_, c'est-à-dire à l'entité administrative. Les administrations sont généralement organisées en différentes verticales, appelées _**services**_ dans RDV Service Public.
+Les services sont rattachés à l'**espace**, c'est-à-dire à l'entité administrative. Les administrations sont généralement organisées en différentes verticales, appelées _**services**_ dans RDV Service Public.
 
 {% hint style="info" %}
-**Toutes les organisations de votre territoire ont accès aux mêmes services. Une organisation ne peut pas avoir de service qui lui soit propre**.
+**Toutes les organisations de votre espace ont accès aux mêmes services. Une organisation ne peut pas avoir de service qui lui soit propre**.
 {% endhint %}
 
 Cette structure permet une organisation plus fine des agents au sein de l'entité administrative globale. Chaque agent est ainsi rattaché à un ou plusieurs _**services**_.
 
 {% hint style="info" %}
-**Vous avez la possibilité d'activer ou de désactiver des services dans votre territoire.**&#x20;
+**Vous avez la possibilité d'activer ou de désactiver des services dans votre espace.**&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2024-04-05 à 09.16.20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-07-01 à 14.50.31.png" alt=""><figcaption></figcaption></figure>
 
 ### Les agents
 
-Les agents sont les utilisateurs de RDV Service Public. Chaque agent obtient un compte utilisateur après avoir été invité par un <mark style="color:green;">Agent Admin</mark> ou un <mark style="color:red;">Agent Admin de Territoire</mark>.&#x20;
+Les agents sont les utilisateurs de RDV Service Public. Chaque agent obtient un compte utilisateur après avoir été invité par un <mark style="color:green;">Agent Admin</mark> ou un <mark style="color:red;">Agent Admin d'Espace</mark>.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2024-04-05 à 09.16.29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-07-01 à 14.50.41.png" alt=""><figcaption></figcaption></figure>
 
 ### Exemple 💡
 
 Voici un exemple concret de configuration pour une commune.
 
-La commune de Saint-Péron possède un compte (son territoire) et utilise la solution pour gérer ses rendez-vous dans trois sites (ses organisations).
+La commune de Saint-Péron possède un compte (son espace) et utilise la solution pour gérer ses rendez-vous dans trois sites (ses organisations).
 
 Chaque agent est rattaché à son service au sein de son organisation, ce qui permet de cloisonner l'accès aux informations des usagers et des rendez-vous.&#x20;
 
