@@ -61,7 +61,7 @@ Ce statut est idéal pour des **partenaires externes** effectuant des permanence
 
 #### **Services**
 
-Après avoir défini le niveau de droit et renseigné l’adresse e-mail ou un nom, vous devez l’associer au service auquel il est rattaché. Ratacher un agent à un service, c'est lui donner accès aux motifs et aux agendas agents associés à ce service.&#x20;
+Après avoir défini le niveau de droit et renseigné l’adresse e-mail ou un nom, vous devez l’associer au service auquel il est rattaché. Rattacher un agent à un service, c'est lui donner accès aux motifs et aux agendas agents associés à ce service.&#x20;
 
 {% hint style="success" %}
 **Il est possible de rattacher un agent à plusieurs services**.
@@ -73,7 +73,7 @@ Après avoir défini le niveau de droit et renseigné l’adresse e-mail ou un n
 
 Si un changement est nécessaire :
 
-* Contactez l’**Administrateur de Territoire** de votre compte **RDV Service Public** ;
+* Contactez l’**Administrateur d'Espace** de votre compte **RDV Service Public** ;
 * Ou supprimez l’agent concerné, puis recommencez l’invitation avec les bons paramètres.
 
 ***

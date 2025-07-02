@@ -9,7 +9,7 @@ icon: circle-check
 Le statut Agent Basique est le premier niveau d'accès. Il permet d'utiliser toutes les fonctionnalités de planification de rendez-vous. L'agent peut créer des fiches usagers, planifier des rendez-vous et rechercher des disponibilités dans les agendas de ses collègues. Cependant, sa visibilité est limitée aux agendas des agents de son service et de son organisation. Vous trouverez ci-dessous une vidéo qui résume les parcours et fonctionnalités du statut Agent Basique :
 
 {% hint style="info" %}
-**Un Agent Basique a une vue limitée aux agents des organisations et des services auxquels il est associé. Pour associer un agent à plusieurs organisations ou services, consultez : Gérer les agents de son territoire.**
+**Un Agent Basique a une vue limitée aux agents des organisations et des services auxquels il est associé. Pour associer un agent à plusieurs organisations ou services, consultez : Gérer les agents de son espace.**
 {% endhint %}
 
 ***
@@ -33,7 +33,7 @@ Un Agent Admin d'Espace a accès et visibilité sur tous les agendas de l'espace
 Un Agent Admin d'Espace a accès aux paramètres de l'espace. Celalui permet de modifier les droits d'accès de certains agents, de créer des organisations et de former des équipes.
 
 {% hint style="info" %}
-**Vous pouvez disposer de plusieurs Agents Admin d'Espace dans votre territoire.**
+**Vous pouvez disposer de plusieurs Agents Admin d'Espace dans votre espace.**
 {% endhint %}
 
 ## Agent basique du service secrétariat

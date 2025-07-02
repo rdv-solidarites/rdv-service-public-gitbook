@@ -36,4 +36,4 @@ Vous devez créer une _**plage d'ouverture**_ avec des motifs configurés comme 
 
 Vous pouvez extraire un lien URL depuis le menu _**Réservation en ligne**_ qui dirigera l'usager ou le prescripteur vers la page de vos disponibilités via un navigateur web.
 
-Vous pouvez ensuite communiquer ce lien aux prescripteurs de votre territoire ou l'intégrer dans divers supports (site internet, plaquette numérique).
+Vous pouvez ensuite communiquer ce lien aux prescripteurs de votre espace ou l'intégrer dans divers supports (site internet, plaquette numérique).
