@@ -1,25 +1,11 @@
 ---
+hidden: true
 icon: message-exclamation
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # À quoi ça sert ?
 
 Vous pouvez **consulter** et **partager** la plaquette de présentation **💡**
-
-```
-https://www.canva.com/design/DAF7cZT3uYc/XO4Gau3d_6OXE1Ip883U0w/view?utm_content=DAF7cZT3uYc&utm_campaign=designshare&utm_medium=link&utm_source=editor
-```
 
 ***
 

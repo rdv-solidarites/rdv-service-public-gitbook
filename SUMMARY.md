@@ -27,6 +27,7 @@
 
 * [Problèmes de réception des emails](archives/problemes-de-reception-des-emails.md)
 * [Prendre un rendez-vous](archives/prendre-un-rendez-vous.md)
+* [À quoi ça sert ?](archives/a-quoi-ca-sert.md)
 * [Comprendre les notifications de rendez-vous](archives/comprendre-les-notifications-de-rendez-vous/README.md)
   * [Exemple notification SMS ](archives/comprendre-les-notifications-de-rendez-vous/exemple-notification-sms.md)
   * [Exemple notification email](archives/comprendre-les-notifications-de-rendez-vous/exemple-notification-email.md)
@@ -39,7 +40,6 @@
 
 * [Qui sommes-nous ?](a-propos/qui-sommes-nous.md)
 * [Qui nous utilise ?](a-propos/qui-nous-utilise.md)
-* [À quoi ça sert ?](a-propos/a-quoi-ca-sert.md)
 * [Comment ça marche ?](a-propos/comment-ca-marche.md)
 * [Qui finance ?](a-propos/qui-finance.md)
 
