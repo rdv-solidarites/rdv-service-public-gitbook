@@ -6,7 +6,7 @@ description: RDV Service Public <> Démarches Simplifiés
 
 **Besoin de planifier des rendez-vous à partir des informations recueillies d'un formulaire ? Centralisez la gestion des dossiers et la planification des rendez-vous.**
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><h2><mark style="color:blue;"><strong>Tutoriel complet 🧑‍🔧</strong></mark></h2></td><td><a href="https://www.demarches-simplifiees.fr/">https://www.demarches-simplifiees.fr/</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><h2><mark style="color:blue;"><strong>Tutoriel ⚙️</strong></mark></h2></td><td><a href="https://www.demarches-simplifiees.fr/">https://www.demarches-simplifiees.fr/</a></td></tr></tbody></table>
 
 Avant de planifier un rendez-vous, les administrations doivent fréquemment collecter des informations auprès des usagers : informations d'un appel à projets, transmission de justificatifs, données pour orientation vers le bon service...&#x20;
 
@@ -48,7 +48,7 @@ Vous gérez ainsi un parcours administratif simplifié, en tirant parti de deux 
 
 Vous pouvez retrouver le détails des fonctionnalités et les modalités de sa mise en oeuvre depuis le tutoriel :&#x20;
 
-<table data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><h3><mark style="color:blue;"><strong>Tutoriel complet 🧑‍🔧</strong></mark></h3></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><h3><mark style="color:blue;"><strong>Tutoriel 🧑‍🔧</strong></mark></h3></td></tr></tbody></table>
 
 
 
