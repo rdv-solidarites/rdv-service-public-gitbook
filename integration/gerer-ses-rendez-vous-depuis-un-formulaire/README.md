@@ -28,9 +28,7 @@ Avec notre intégration à _Démarches Simplifieés_ vous pouvez **ajouter un fo
 
 _Démarches Simplifiées_ permet aux services publics de créer et publier des démarches administratives en ligne en quelques minutes, puis de **collecter**, **suivre** et **instruire** les réponses des usagers. Grâce à l'intégration avec _RDV Service Public_, vous pouvez désormais **planifiez des rendez-vous** en aval d'un dossier réceptionné sans quitter la solution _Démarches Simplifiées_. &#x20;
 
-L’intégration des deux solutions vous offre une gestion fluide du parcours administratif : du dépôt du dossier jusqu’à l’accueil de l’usager en rendez-vous… sans double saisie.&#x20;
-
-En 4 étapes clefs :&#x20;
+Vous gérez ainsi un parcours administratif complet, en tirant parti de deux solutions interconnectées, qui facilitent le travail des agents et éliminent la double saisie.
 
 {% stepper %}
 {% step %}
@@ -58,9 +56,7 @@ Vous pouvez ouvrir un module de prise de rendez-vous depuis chaque dossier réce
 {% endstep %}
 {% endstepper %}
 
-Vous gérez ainsi un parcours administratif complet, en tirant parti de deux solutions inconnectées, qui facilitent le travail des agents et éliminent la double saisie.
-
-#### Découvrez des cas d'usage déployé !&#x20;
+#### Découvrez des cas d'usage déployés !&#x20;
 
 <details>
 
@@ -94,11 +90,25 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </details>
 
+<details>
+
+<summary>Le bidule</summary>
 
 
 
+</details>
 
-Vous pouvez retrouver le détails des fonctionnalités et les modalités de sa mise en oeuvre depuis le tutoriel :&#x20;
+<details>
+
+<summary>Et le chouette</summary>
+
+
+
+</details>
+
+#### Comment le mettre en place ?&#x20;
+
+Vous pouvez retrouver le détails des fonctionnalités et les modalités de sa mise en oeuvre depuis le tutoriel ci dessous.&#x20;
 
 <table data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><h4><mark style="color:blue;"><strong>Tutoriel ⚙️</strong></mark></h4></td></tr></tbody></table>
 
