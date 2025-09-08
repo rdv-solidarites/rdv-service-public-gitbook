@@ -20,7 +20,7 @@ layout:
 
 #### **Besoin de planifier des rendez-vous à partir des informations recueillies d'un formulaire ? Centralisez la gestion des dossiers et la planification des rendez-vous.**
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><h4><mark style="color:blue;"><strong>Tutoriel ⚙️</strong></mark></h4></td><td><a href="https://www.demarches-simplifiees.fr/">https://www.demarches-simplifiees.fr/</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><h4>➜ <mark style="color:blue;"><strong>Tutoriel</strong></mark> </h4></td><td><a href="https://www.demarches-simplifiees.fr/">https://www.demarches-simplifiees.fr/</a></td></tr></tbody></table>
 
 Avant de planifier un rendez-vous, les administrations doivent fréquemment collecter des informations auprès des usagers : informations d'un appel à projets, transmission de justificatifs, données pour orientation vers le bon service...&#x20;
 
@@ -64,7 +64,7 @@ Vous gérez ainsi un parcours administratif complet, en tirant parti de deux sol
 
 <details>
 
-<summary>L'Académie de Versailles</summary>
+<summary><strong>L'Académie de Versailles</strong></summary>
 
 <figure><img src="../../.gitbook/assets/rectorat-14946 (1).jpg" alt=""><figcaption></figcaption></figure>
 
@@ -80,7 +80,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <details>
 
-<summary>La Direction Départementale de la Protection des Population du Val-d'Oise</summary>
+<summary><strong>La Direction Départementale de la Protection des Population du Val-d'Oise</strong></summary>
 
 <div align="left" data-full-width="true"><figure><img src="../../.gitbook/assets/ob_362aea_12696496-913601858747077-938741308-o.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -108,6 +108,3 @@ Vous pouvez retrouver le détails des fonctionnalités et les modalités de sa m
 
 
 
-
-
-<figure><img src="../../.gitbook/assets/rectorat-14946.jpg" alt=""><figcaption></figcaption></figure>
