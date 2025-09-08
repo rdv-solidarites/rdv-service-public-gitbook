@@ -32,7 +32,7 @@ Démarches Simplifiées vous proposera de vous connecter à un compte RDV Servic
 {% endstep %}
 
 {% step %}
-**Configurez vos disponiblités sur RDV Service Public**
+**Configurez vos disponiblités sur&#x20;**_**RDV Service Public**_
 
 Vous définissez vos motifs de rendez-vous (nom, durée, en présentiel, par visioconférence ou par téléphone…), vous générez des agendas pour vos agents et vous y associez des disponibilités ponctuelles ou récurrentes.
 {% endstep %}
@@ -40,9 +40,11 @@ Vous définissez vos motifs de rendez-vous (nom, durée, en présentiel, par vis
 {% step %}
 **Planifiez des rendez-vous depuis les réponses du formulaire 🎉**
 
-Vous pouvez ouvrir un module de prise de rendez-vous depuis chaque dossier réceptionné. Le module récupérera les informations de contact du dossier, limitant la double saisie et vous permettra ensuite de planifier un rendez-vous parmis les disponbilité d'un ou plusieurs agendas.&#x20;
+Vous pouvez ouvrir un module de prise de rendez-vous depuis chaque dossier réceptionné. Le module récupérera les informations de contact du dossier, limitant la double saisie et vous permettra ensuite de planifier un rendez-vous parmi les disponbilités d'un ou plusieurs agendas.&#x20;
 {% endstep %}
 {% endstepper %}
+
+Vous gérez ainsi un parcours administratif simplifié, en tirant parti de deux solutions inconnectées, qui facilitent le travail des agents et éliminent la double saisie.
 
 Vous pouvez retrouver le détails des fonctionnalités et les modalités de sa mise en oeuvre depuis le tutoriel :&#x20;
 
