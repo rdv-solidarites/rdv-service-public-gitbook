@@ -16,10 +16,6 @@ _Démarches Simplifiées_ permet aux services publics de créer et publier des d
 
 L’intégration des deux solutions vous offre une gestion fluide du parcours administratif : du dépôt du dossier jusqu’à l’accueil de l’usager en rendez-vous… sans double saisie.&#x20;
 
-_**Démarches simplifiées**_**&#x20;:** vous générez un formulaire et réceptionnez des dossiers.&#x20;
-
-_**RDV Service Public**_**&#x20;:** vous enregistrez vos disponibilités et planifiez des rendez-vous.&#x20;
-
 En 4 étapes clefs :&#x20;
 
 {% stepper %}
@@ -48,13 +44,9 @@ Vous pouvez ouvrir un module de prise de rendez-vous depuis chaque dossier réce
 {% endstep %}
 {% endstepper %}
 
+Vous pouvez retrouver le détails des fonctionnalités et les modalités de sa mise en oeuvre depuis le tutoriel :&#x20;
 
-
-
-
-1. Vous publiez un formulaire sur _Démarches Simplifiés_&#x20;
-2. Vous connectez votre compte _Démarches Simplifiés_ à _RDV Service Public_
-3. Vous instruisez et pmanifiez des rendez-vous
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><mark style="color:blue;"><strong>Tutoriel complet 🧑‍🔧</strong></mark></td></tr></tbody></table>
 
 
 
