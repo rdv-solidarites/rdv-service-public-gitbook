@@ -1,5 +1,24 @@
 ---
 description: RDV Service Public <> Démarches Simplifiés
+cover: ../../.gitbook/assets/Capture d’écran 2025-09-08 à 18.49.50.png
+coverY: -14.886444627192972
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Gérer ses rendez-vous depuis un formulaire
