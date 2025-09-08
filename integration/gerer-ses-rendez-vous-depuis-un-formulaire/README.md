@@ -18,7 +18,7 @@ layout:
 
 # Gérer ses rendez-vous depuis un formulaire
 
-**Besoin de planifier des rendez-vous à partir des informations recueillies d'un formulaire ? Centralisez la gestion des dossiers et la planification des rendez-vous.**
+#### **Besoin de planifier des rendez-vous à partir des informations recueillies d'un formulaire ? Centralisez la gestion des dossiers et la planification des rendez-vous.**
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><h4><mark style="color:blue;"><strong>Tutoriel ⚙️</strong></mark></h4></td><td><a href="https://www.demarches-simplifiees.fr/">https://www.demarches-simplifiees.fr/</a></td></tr></tbody></table>
 
@@ -36,29 +36,67 @@ En 4 étapes clefs :&#x20;
 {% step %}
 **Publiez un formulaire sur&#x20;**_**Démarches Simplifiés**_&#x20;
 
-Vous générez un formulaire complet, intégrant tous les champs nécessaires à un dossier : nom, prénom, e-mail, adresse, zones de texte libre, pièces jointes, etc... Ce formulaire est ensuite facilement accessible pour vos usagers via un lien web
+Vous générez un formulaire complet, intégrant tous les champs nécessaires à un dossier : nom, prénom, e-mail, adresse, zones de texte libre, pièces jointes, etc... Ce formulaire est ensuite facilement accessible pour vos usagers via un lien web.
 {% endstep %}
 
 {% step %}
 **Connectez votre compte&#x20;**_**Démarches Simplifiés**_**&#x20;à&#x20;**_**RDV Service Public**_
 
-Démarches Simplifiées vous proposera de vous connecter à un compte RDV Service Public. Cette connexion facilitée par ProConnect permettra d'activer le module de prise de rendez-vous dans la vue instructeur
+Démarches Simplifiées vous proposera de vous connecter à un compte RDV Service Public. Cette connexion facilitée par ProConnect permettra d'activer le module de prise de rendez-vous dans la vue instructeur.
 {% endstep %}
 
 {% step %}
 **Configurez vos disponiblités sur&#x20;**_**RDV Service Public**_
 
-Vous définissez vos motifs de rendez-vous (nom, durée, en présentiel, par visioconférence ou par téléphone…), vous générez des agendas pour vos agents et vous y associez des disponibilités ponctuelles ou récurrentes
+Vous définissez vos motifs de rendez-vous (nom, durée, en présentiel, par visioconférence ou par téléphone…), vous générez des agendas pour vos agents et vous y associez des disponibilités ponctuelles ou récurrentes.
 {% endstep %}
 
 {% step %}
 **Planifiez des rendez-vous depuis les réponses du formulaire 🎉**
 
-Vous pouvez ouvrir un module de prise de rendez-vous depuis chaque dossier réceptionné. Le module récupérera les informations de contact du dossier et vous permettra de planifier un rendez-vous parmi les disponbilités d'un ou plusieurs agendas
+Vous pouvez ouvrir un module de prise de rendez-vous depuis chaque dossier réceptionné. Le module récupérera les informations de contact du dossier et vous permettra de planifier un rendez-vous parmi les disponbilités d'un ou plusieurs agendas.
 {% endstep %}
 {% endstepper %}
 
 Vous gérez ainsi un parcours administratif complet, en tirant parti de deux solutions inconnectées, qui facilitent le travail des agents et éliminent la double saisie.
+
+#### Découvrez des cas d'usage déployé !&#x20;
+
+<details>
+
+<summary>L'Académie de Versailles</summary>
+
+<figure><img src="../../.gitbook/assets/rectorat-14946 (1).jpg" alt=""><figcaption></figcaption></figure>
+
+bore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#x20;
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+</details>
+
+<details>
+
+<summary>La Direction Départementale de la Protection des Population du Val-d'Oise</summary>
+
+<div align="left" data-full-width="true"><figure><img src="../../.gitbook/assets/ob_362aea_12696496-913601858747077-938741308-o.jpg" alt=""><figcaption></figcaption></figure></div>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#x20;
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+</details>
+
+
+
+
 
 Vous pouvez retrouver le détails des fonctionnalités et les modalités de sa mise en oeuvre depuis le tutoriel :&#x20;
 
@@ -72,3 +110,4 @@ Vous pouvez retrouver le détails des fonctionnalités et les modalités de sa m
 
 
 
+<figure><img src="../../.gitbook/assets/rectorat-14946.jpg" alt=""><figcaption></figcaption></figure>
