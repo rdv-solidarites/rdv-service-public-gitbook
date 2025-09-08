@@ -77,3 +77,7 @@
 
 * [Démarches Simplifiés](interoperabilite/demarches-simplifies.md)
 * [Mo Suivi Social](interoperabilite/mo-suivi-social.md)
+
+## Intégration
+
+* [Un rendez-vous depuis une démarche](integration/un-rendez-vous-depuis-une-demarche.md)
