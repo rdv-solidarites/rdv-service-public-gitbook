@@ -44,7 +44,7 @@ Vous pouvez ouvrir un module de prise de rendez-vous depuis chaque dossier réce
 {% endstep %}
 {% endstepper %}
 
-Vous gérez ainsi un parcours administratif simplifié, en tirant parti de deux solutions inconnectées, qui facilitent le travail des agents et éliminent la double saisie.
+Vous gérez ainsi un parcours administratif complet, en tirant parti de deux solutions inconnectées, qui facilitent le travail des agents et éliminent la double saisie.
 
 Vous pouvez retrouver le détails des fonctionnalités et les modalités de sa mise en oeuvre depuis le tutoriel :&#x20;
 
