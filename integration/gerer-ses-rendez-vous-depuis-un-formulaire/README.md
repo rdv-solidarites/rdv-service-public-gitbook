@@ -6,7 +6,7 @@ description: RDV Service Public <> Démarches Simplifiés
 
 **Besoin de planifier des rendez-vous à partir des informations recueillies d'un formulaire ? Centralisez la gestion des dossiers et la planification des rendez-vous.**
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><mark style="color:blue;"><strong>Tutoriel complet 🧑‍🔧</strong></mark></td><td><a href="https://www.demarches-simplifiees.fr/">https://www.demarches-simplifiees.fr/</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><h2><mark style="color:blue;"><strong>Tutoriel complet 🧑‍🔧</strong></mark></h2></td><td><a href="https://www.demarches-simplifiees.fr/">https://www.demarches-simplifiees.fr/</a></td></tr></tbody></table>
 
 Avant de planifier un rendez-vous, les administrations doivent fréquemment collecter des informations auprès des usagers : informations d'un appel à projets, transmission de justificatifs, données pour orientation vers le bon service...&#x20;
 
@@ -22,7 +22,7 @@ En 4 étapes clefs :&#x20;
 {% step %}
 **Publiez un formulaire sur&#x20;**_**Démarches Simplifiés**_&#x20;
 
-Vous générez un formulaire complet, intégrant tous les champs nécessaires à un dossier : nom, prénom, e-mail, adresse, zones de texte libre, pièces jointes, etc... Ce formulaire est ensuite facilement accessible pour vos usagers via un lien web.
+Vous générez un formulaire complet, intégrant tous les champs nécessaires à un dossier : nom, prénom, e-mail, adresse, zones de texte libre, pièces jointes, etc... Ce formulaire est ensuite facilement accessible pour vos usagers via un lien web
 {% endstep %}
 
 {% step %}
@@ -34,13 +34,13 @@ Démarches Simplifiées vous proposera de vous connecter à un compte RDV Servic
 {% step %}
 **Configurez vos disponiblités sur&#x20;**_**RDV Service Public**_
 
-Vous définissez vos motifs de rendez-vous (nom, durée, en présentiel, par visioconférence ou par téléphone…), vous générez des agendas pour vos agents et vous y associez des disponibilités ponctuelles ou récurrentes.
+Vous définissez vos motifs de rendez-vous (nom, durée, en présentiel, par visioconférence ou par téléphone…), vous générez des agendas pour vos agents et vous y associez des disponibilités ponctuelles ou récurrentes
 {% endstep %}
 
 {% step %}
 **Planifiez des rendez-vous depuis les réponses du formulaire 🎉**
 
-Vous pouvez ouvrir un module de prise de rendez-vous depuis chaque dossier réceptionné. Le module récupérera les informations de contact du dossier, limitant la double saisie et vous permettra ensuite de planifier un rendez-vous parmi les disponbilités d'un ou plusieurs agendas.&#x20;
+Vous pouvez ouvrir un module de prise de rendez-vous depuis chaque dossier réceptionné. Le module récupérera les informations de contact du dossier et vous permettra de planifier un rendez-vous parmi les disponbilités d'un ou plusieurs agendas
 {% endstep %}
 {% endstepper %}
 
@@ -48,7 +48,7 @@ Vous gérez ainsi un parcours administratif simplifié, en tirant parti de deux 
 
 Vous pouvez retrouver le détails des fonctionnalités et les modalités de sa mise en oeuvre depuis le tutoriel :&#x20;
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><mark style="color:blue;"><strong>Tutoriel complet 🧑‍🔧</strong></mark></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><h3><mark style="color:blue;"><strong>Tutoriel complet 🧑‍🔧</strong></mark></h3></td></tr></tbody></table>
 
 
 
