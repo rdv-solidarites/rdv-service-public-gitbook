@@ -28,7 +28,9 @@ Avant de planifier un rendez-vous, les administrations doivent fréquemment coll
 
 Avec notre intégration à _Démarches Simplifieés_ vous pouvez **ajouter un formulaire** à votre **parcours** de prise de rendez-vous.&#x20;
 
+{% hint style="info" %}
 _Démarches Simplifiées_ permet aux services publics de créer et publier des démarches administratives en ligne en quelques minutes, puis de **collecter**, **suivre** et **instruire** les réponses des usagers. Grâce à l'intégration avec _RDV Service Public_, vous pouvez désormais **planifiez des rendez-vous** en aval d'un dossier réceptionné sans quitter la solution _Démarches Simplifiées_. &#x20;
+{% endhint %}
 
 Vous gérez ainsi un parcours administratif complet, en tirant parti de deux solutions interconnectées, qui facilitent le travail des agents et éliminent la double saisie.
 
