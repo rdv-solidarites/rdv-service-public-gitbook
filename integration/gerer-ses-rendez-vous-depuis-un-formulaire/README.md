@@ -4,7 +4,7 @@ description: RDV Service Public <> Démarches Simplifiés
 
 # Gérer ses rendez-vous depuis un formulaire
 
-Besoin de planifier des rendez-vous à partir des informations recueillies d'un formulaire ? Centralisez la gestion des dossiers et la planification des rendez-vous.
+**Besoin de planifier des rendez-vous à partir des informations recueillies d'un formulaire ? Centralisez la gestion des dossiers et la planification des rendez-vous.**
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><mark style="color:blue;"><strong>Tutoriel complet 🧑‍🔧</strong></mark></td><td><a href="https://www.demarches-simplifiees.fr/">https://www.demarches-simplifiees.fr/</a></td></tr></tbody></table>
 
@@ -12,15 +12,15 @@ Avant de planifier un rendez-vous, les administrations doivent fréquemment coll
 
 Avec notre intégration à _Démarches Simplifieés_ vous pouvez **ajouter un formulaire** à votre **parcours** de prise de rendez-vous.&#x20;
 
-_Démarches Simplifiées_ permet aux services publics de créer et publier des démarches administratives en ligne en quelques minutes, puis de **collecter**, **suivre** et **instruire** les réponses des usagers. Grâce à l'intégration avec _RDV Service Public_, vous pouvez désormais **planifiez des rendez-vous** en aval d'un dossier réceptionné sans quitter la solution _Démarches Simplifiées_.  &#x20;
+_Démarches Simplifiées_ permet aux services publics de créer et publier des démarches administratives en ligne en quelques minutes, puis de **collecter**, **suivre** et **instruire** les réponses des usagers. Grâce à l'intégration avec _RDV Service Public_, vous pouvez désormais **planifiez des rendez-vous** en aval d'un dossier réceptionné sans quitter la solution _Démarches Simplifiées_. &#x20;
 
-_Démarches simplifiées_ : vous générez un formulaire et réceptionnez des dossiers.&#x20;
+L’intégration des deux solutions vous offre une gestion fluide du parcours administratif : du dépôt du dossier jusqu’à l’accueil de l’usager en rendez-vous… sans double saisie.&#x20;
 
-_RDV Service Public_ : vous enregistrez vos disponibilités et planifiez des rendez-vous.&#x20;
+_**Démarches simplifiées**_**&#x20;:** vous générez un formulaire et réceptionnez des dossiers.&#x20;
+
+_**RDV Service Public**_**&#x20;:** vous enregistrez vos disponibilités et planifiez des rendez-vous.&#x20;
 
 En 4 étapes clefs :&#x20;
-
-
 
 {% stepper %}
 {% step %}
