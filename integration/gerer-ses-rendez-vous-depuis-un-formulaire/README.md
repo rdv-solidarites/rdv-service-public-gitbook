@@ -62,7 +62,7 @@ Vous gérez ainsi un parcours administratif complet, en tirant parti de deux sol
 
 Vous pouvez retrouver le détails des fonctionnalités et les modalités de sa mise en oeuvre depuis le tutoriel :&#x20;
 
-<table data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><h3><mark style="color:blue;"><strong>Tutoriel ⚙️</strong></mark></h3></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><h4><mark style="color:blue;"><strong>Tutoriel ⚙️</strong></mark></h4></td></tr></tbody></table>
 
 
 
