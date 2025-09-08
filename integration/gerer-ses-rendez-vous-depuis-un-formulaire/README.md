@@ -18,7 +18,9 @@ layout:
 
 # Gérer ses rendez-vous depuis un formulaire
 
-#### **Besoin de planifier des rendez-vous à partir des informations recueillies d'un formulaire ? Centralisez la gestion des dossiers et la planification des rendez-vous.**
+#### **Besoin de planifier des rendez-vous à partir des informations recueillies d'un formulaire ?**&#x20;
+
+Centralisez la gestion des dossiers et la planification des rendez-vous !&#x20;
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><h4><mark style="color:blue;"><strong>Tutoriel ⚙️</strong></mark></h4></td><td><a href="https://www.demarches-simplifiees.fr/">https://www.demarches-simplifiees.fr/</a></td></tr></tbody></table>
 
