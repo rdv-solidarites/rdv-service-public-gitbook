@@ -80,4 +80,5 @@
 
 ## Intégration
 
-* [Un rendez-vous depuis une démarche](integration/un-rendez-vous-depuis-une-demarche.md)
+* [Gérer ses rendez-vous depuis un formulaire](integration/gerer-ses-rendez-vous-depuis-un-formulaire.md)
+* [Les rendez-vous depuis un dossier](integration/les-rendez-vous-depuis-un-dossier.md)
