@@ -8,7 +8,7 @@ Besoin de planifier des rendez-vous à partir des informations recueillies d'un 
 
 Avec notre intégration à _Démarches Simplifieés_ vous pouvez **ajouter un formulaire** à votre **parcours** de prise de rendez-vous.&#x20;
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><mark style="color:blue;"><strong>Tutoriel complet 👐</strong></mark></td><td><a href="https://www.demarches-simplifiees.fr/">https://www.demarches-simplifiees.fr/</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><mark style="color:blue;"><strong>Tutoriel complet 🧑‍🔧</strong></mark></td><td><a href="https://www.demarches-simplifiees.fr/">https://www.demarches-simplifiees.fr/</a></td></tr></tbody></table>
 
 Avant de planifier un rendez-vous, les administrations doivent fréquemment collecter des informations auprès des usagers : dossier d'un appel à projets, transmission de justificatifs, orientation vers le bon service...&#x20;
 
