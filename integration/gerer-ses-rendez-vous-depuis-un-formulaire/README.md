@@ -6,9 +6,15 @@ description: RDV Service Public <> Démarches Simplifiés
 
 Besoin de planifier des rendez-vous à partir des informations recueillies d'un formulaire ? Centralisez ainsi la gestion des dossiers et a planification des rendez-vous.
 
-Avant de planifier un rendez-vous, les administrations doivent fréquemment collecter des informations auprès des usagers : dossier d'un appel à projets, transmission de justificatifs, orientation vers le bon service...&#x20;
-
 Avec notre intégration à _Démarches Simplifieés_ vous pouvez **ajouter un formulaire** à votre **parcours** de prise de rendez-vous.&#x20;
+
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><mark style="color:purple;"><strong>Tutoriel complet 👐</strong></mark></td><td><a href="https://www.demarches-simplifiees.fr/">https://www.demarches-simplifiees.fr/</a></td></tr></tbody></table>
+
+{% content-ref url="tutoriel-complet.md" %}
+[tutoriel-complet.md](tutoriel-complet.md)
+{% endcontent-ref %}
+
+Avant de planifier un rendez-vous, les administrations doivent fréquemment collecter des informations auprès des usagers : dossier d'un appel à projets, transmission de justificatifs, orientation vers le bon service...&#x20;
 
 _Démarches Simplifiées_ permet aux services publics de créer et publier des démarches administratives en ligne en quelques minutes, puis de **collecter**, **suivre** et **instruire** les réponses des usagers. Grâce à l'intégration avec _RDV Service Public_, vous pouvez désormais **planifiez des rendez-vous** en aval d'un dossier réceptionné sans quitter la solution _Démarches Simplifiées_.  &#x20;
 
@@ -22,7 +28,7 @@ _RDV Service Public_ : vous enregistrez vos disponibilités et planifiez des ren
 {% step %}
 **Publiez un formulaire sur&#x20;**_**Démarches Simplifiés**_&#x20;
 
-Démarches Simplifiés vous permet de créer un formulaire complet, intégrant tous les champs nécessaires à un dossier : nom, prénom, e-mail, adresse, zones de texte libre, pièces jointes, etc... Ce formulaire est ensuite facilement accessible pour vos usagers via un lien web.
+Vous générez un formulaire complet, intégrant tous les champs nécessaires à un dossier : nom, prénom, e-mail, adresse, zones de texte libre, pièces jointes, etc... Ce formulaire est ensuite facilement accessible pour vos usagers via un lien web.
 {% endstep %}
 
 {% step %}
@@ -34,13 +40,13 @@ Démarches Simplifiées vous proposera de vous connecter à un compte RDV Servic
 {% step %}
 **Configurez vos disponiblités sur RDV Service Public**
 
-RDV Service Public vous permet de créer vos motifs de rendez-vous (nom, durée, sur place, par visionconférence, pa téléphone etc ...), des agendas&#x20;
+Vous définissez vos motifs de rendez-vous (nom, durée, en présentiel, par visioconférence ou par téléphone…), vous générez des agendas pour vos agents et vous y associez des disponibilités ponctuelles ou récurrentes.
 {% endstep %}
 
 {% step %}
-**Planifiez des rendez-vous depuis les réponse du formulaire**&#x20;
+**Planifiez des rendez-vous depuis les réponses du formulaire 🎉**
 
-
+Vous pouvez ouvrir un module de prise de rendez-vous depuis chaque dossier réceptionné. Le module récupérera les informations de contact du dossier, limitant la double saisie et vous permettra ensuite de planifier un rendez-vous parmis les disponbilité d'un ou plusieurs agendas.&#x20;
 {% endstep %}
 {% endstepper %}
 
