@@ -22,7 +22,7 @@ layout:
 
 Centralisez la gestion des dossiers et la planification des rendez-vous !&#x20;
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><h4><mark style="color:blue;"><strong>Tutoriel ⚙️</strong></mark></h4></td><td><a href="https://www.demarches-simplifiees.fr/">https://www.demarches-simplifiees.fr/</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><h4>Tutoriel ⚙️</h4></td><td><a href="https://www.demarches-simplifiees.fr/">https://www.demarches-simplifiees.fr/</a></td></tr></tbody></table>
 
 Avant de planifier un rendez-vous, les administrations doivent fréquemment collecter des informations auprès des usagers : informations d'un appel à projets, transmission de justificatifs, données pour orientation vers le bon service...&#x20;
 
