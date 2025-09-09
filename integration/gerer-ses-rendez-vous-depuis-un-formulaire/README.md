@@ -42,7 +42,7 @@ Vous générez un formulaire complet, intégrant tous les champs nécessaires à
 {% step %}
 **Connectez votre compte&#x20;**_**Démarches Simplifiés**_**&#x20;à&#x20;**_**RDV Service Public**_
 
-Démarches Simplifiées vous proposera de vous connecter à un compte RDV Service Public. Cette connexion facilitée par ProConnect permettra d'activer le module de prise de rendez-vous dans la vue instructeur.
+_Démarches Simplifiées_ vous proposera de vous connecter à un compte existant ou de créer un compte _RDV Service Public_. Cette connexion facilitée par ProConnect permettra d'activer le module de prise de rendez-vous dans la vue instructeur de _Démarches Simplifiés_.&#x20;
 {% endstep %}
 
 {% step %}
