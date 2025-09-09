@@ -112,7 +112,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Vous pouvez retrouver le détails des fonctionnalités et les modalités de sa mise en oeuvre depuis le tutoriel ci dessous.&#x20;
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><h4><strong>Tutoriel ⚙️</strong></h4></td><td><a href="https://www.canva.com/design/DAGyd65U97M/ltVLzCzeSUqpbKBX2cJL8g/view?utm_content=DAGyd65U97M&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=h60a9e7a6ea">https://www.canva.com/design/DAGyd65U97M/ltVLzCzeSUqpbKBX2cJL8g/view?utm_content=DAGyd65U97M&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=h60a9e7a6ea</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><h4><mark style="color:blue;"><strong>Tutoriel ⚙️</strong></mark></h4></td><td><a href="https://www.canva.com/design/DAGyd65U97M/ltVLzCzeSUqpbKBX2cJL8g/view?utm_content=DAGyd65U97M&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=h60a9e7a6ea">https://www.canva.com/design/DAGyd65U97M/ltVLzCzeSUqpbKBX2cJL8g/view?utm_content=DAGyd65U97M&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=h60a9e7a6ea</a></td></tr></tbody></table>
 
 
 
