@@ -2,12 +2,12 @@
 
 * [Bienvenue](README.md)
 
-## Démarrer sur RDV Service Public
+## DOCUMENTATION UTILISATEUR
 
-* [FAQ](demarrer-sur-rdv-service-public/faq.md)
-* [Configurer son espace](demarrer-sur-rdv-service-public/configurer-son-espace.md)
-* [Configurer son organisation](demarrer-sur-rdv-service-public/configurer-son-organisation.md)
-* [Utiliser son agenda](demarrer-sur-rdv-service-public/utiliser-son-agenda.md)
+* [FAQ](documentation-utilisateur/faq.md)
+* [Configurer son espace](documentation-utilisateur/configurer-son-espace.md)
+* [Configurer son organisation](documentation-utilisateur/configurer-son-organisation.md)
+* [Utiliser son agenda](documentation-utilisateur/utiliser-son-agenda.md)
 
 ## Documentation technique
 
