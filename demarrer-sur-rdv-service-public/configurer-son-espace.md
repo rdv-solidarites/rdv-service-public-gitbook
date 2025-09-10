@@ -2,7 +2,7 @@
 icon: map-location
 ---
 
-# (Léa) Configurer son Espace
+# Configurer son espace
 
 En tant qu’<mark style="color:red;">**Agent Administrateur d’Espace**</mark>, vous disposez d’un accès au menu **Espace**, qui vous permet de paramétrer et administrer votre **espace RDV Service Public**.\
 Ce niveau de configuration vous donne la possibilité de gérer vos organisations, vos services, vos agents et l’ensemble des paramètres généraux.\
@@ -14,7 +14,7 @@ Pour faciliter le déploiement, vous trouverez ci-dessous des informations sur l
 
 <details>
 
-<summary>Agents</summary>
+<summary><strong>Agents</strong></summary>
 
 En tant qu’**Administrateur d’Espace**, vous avez la possibilité d’inviter des agents à rejoindre votre espace RDV Service Public.
 
@@ -46,7 +46,7 @@ Après validation de l’invitation par l’agent, vous pourrez :
 
 <details>
 
-<summary>Webhook </summary>
+<summary><strong>Webhook</strong> </summary>
 
 Les **webhooks** permettent à **RDV Service Public** de communiquer automatiquement avec le système d’information (SI) de votre organisation.
 
@@ -74,7 +74,7 @@ Pour les détails techniques et la mise en place, vous pouvez consulter la docum
 
 <details>
 
-<summary>Fiches usagers</summary>
+<summary><strong>Fiches usagers</strong></summary>
 
 En tant qu’**Administrateur d’Espace**, vous pouvez personnaliser les informations affichées dans les fiches usagers.
 
@@ -95,7 +95,7 @@ Ces ajustements vous permettent d’adapter les fiches aux besoins spécifiques 
 
 <details>
 
-<summary>Fiches RDV </summary>
+<summary><strong>Fiches RDV</strong> </summary>
 
 Vous avez la possibilité de personnaliser l’affichage des **fiches RDV** en activant ou désactivant certains champs selon les besoins de vos organisations.
 
@@ -122,7 +122,7 @@ Vous pouvez également configurer les paramètres liés à la **salle d’attent
 
 <details>
 
-<summary>Motifs </summary>
+<summary><strong>Motifs</strong> </summary>
 
 Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de rendez-vous, d’informer l’agent sur le contenu attendu et d’affiner les options (présentiel, téléphone, visio, option de prise de rendez-vous en ligne).&#x20;
 
@@ -176,7 +176,7 @@ Cette fonctionnalité permet de faire afficher ces instructions :&#x20;
 
 <details>
 
-<summary>Services </summary>
+<summary><strong>Services</strong> </summary>
 
 Vous pouvez gérer les services auxquels vos agents peuvent être affectés dans les différentes organisations.
 
@@ -192,7 +192,7 @@ Vous pouvez également **désactiver un service**. Les agents ne pourront alors 
 
 <details>
 
-<summary>Organisations </summary>
+<summary><strong>Organisations</strong> </summary>
 
 En tant qu’administrateur, vous pouvez accéder à la liste de vos organisations présentes dans votre espace et consulter ou modifier leur configuration.
 

@@ -698,8 +698,6 @@ Les **services** servent à organiser votre espace et vos organisations en sous-
 
 ***
 
-En somme :&#x20;
-
 Sans **services** activés :
 
 * Tous les agents voient l’ensemble des motifs de rendez-vous.
