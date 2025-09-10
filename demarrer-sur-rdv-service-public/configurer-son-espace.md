@@ -202,3 +202,6 @@ Vous avez également la possibilité d’ajouter une nouvelle organisation à vo
 
 </details>
 
+{% hint style="success" %}
+Change hint typeVous trouverez également des informations complémentaires dans la [**Foire Aux Questions**​](../foire-aux-questions/trouver-vos-reponses.md)
+{% endhint %}
