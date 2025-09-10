@@ -12,8 +12,6 @@ En tant qu’_Agent Administrateur_, votre rôle est de configurer votre organis
 
 Votre configuration assure à vos équipes les conditions nécessaires pour travailler simplement et répondre aux besoins des usagers.
 
-***
-
 <details>
 
 <summary><strong>Agents</strong></summary>

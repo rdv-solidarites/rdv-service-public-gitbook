@@ -12,8 +12,6 @@ En tant qu’_Agent Admin d’Espace_, votre rôle est de configurer l’espace 
 
 En d’autres termes, votre rôle d’administrateur vise à offrir aux agents un cadre simple, cohérent et efficace pour simplifier le déploiement et l'utilisation.&#x20;
 
-***
-
 <details>
 
 <summary><strong>Agents</strong></summary>

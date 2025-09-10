@@ -11,8 +11,6 @@ En tant qu’_Agent Basique_, vous disposez d’un compte rattaché à une organ
 
 Autrement dit, la solution est déjà configurée, il ne reste plus qu'à la prendre en main !&#x20;
 
-***
-
 <details>
 
 <summary><strong>Plages d'ouverture</strong></summary>
