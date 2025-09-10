@@ -9,7 +9,7 @@ En tant qu’_Agent Basique_, vous disposez d’un compte RDV Service Public dé
 * d’accéder directement à un espace prêt à l’emploi,
 * d’utiliser votre agenda sans avoir à gérer de paramétrage technique,
 
-Autrement dit, votre esapce est déjà configuré, reste plus qu'à prendre en main la solution !&#x20;
+Autrement dit, la solution est déjà configurée, il ne reste plus qu'à la prendre en main !&#x20;
 
 ***
 

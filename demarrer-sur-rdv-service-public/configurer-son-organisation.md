@@ -10,7 +10,7 @@ En tant qu’_Agent Administrateur_, votre rôle est de configurer votre organis
 * faciliter leur prise en main&#x20;
 * gérer des droits de visibilités et d'accès&#x20;
 
-Votre action assure à vos équipes les conditions nécessaires pour travailler simplement et répondre aux besoins des usagers.
+Votre configuration assure à vos équipes les conditions nécessaires pour travailler simplement et répondre aux besoins des usagers.
 
 ***
 
