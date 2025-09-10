@@ -4,10 +4,6 @@ icon: hand-wave
 
 # Bienvenue
 
-{% hint style="success" %}
-Vous disposez d’une barre de recherche en haut à droite de votre écran !&#x20;
-{% endhint %}
-
 ### Consulter les questions fréquentes :&#x20;
 
 ***
