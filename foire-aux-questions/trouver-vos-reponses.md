@@ -216,6 +216,8 @@ Créez une plage d’ouverture en y associant des motifs configurés pour la ré
 
 Un lien URL est disponible dans le menu _**Réservation en ligne**_. Ce lien permet aux usagers et prescripteurs d’accéder directement à vos disponibilités via un navigateur web. Vous pouvez partager cette URL ou l’intégrer dans différents supports, tels que votre site internet ou une plaquette numérique.
 
+
+
 </details>
 
 <details>
@@ -687,18 +689,52 @@ Pour modifier des motifs en masse :&#x20;
 
 <details>
 
-<summary><strong>Comment activer un nouveau service ?</strong> </summary>
+<summary>À quoi servent les services ? </summary>
 
-Par défaut, lors de la création de votre compte, un seul service sera actif dans votre espace. Vous pourrez activer d'autres services pour y associer des agents selon vos besoins.
+Les **services** servent à organiser votre espace et vos organisations en sous-ensembles distincts, chacun avec ses propres **agents** et **motifs**. Concrètement, ils permettent :
 
-Pour activer un nouveau service :&#x20;
+* **le cloisonnement** : séparer les activités pour que chaque service ait ses propres règles, agents et motifs.&#x20;
+* **la visibilité** : donner à chaque agent une vue adaptée à son service, sans être noyé dans l’ensemble des motifs et informations de toute l'organisation.&#x20;
+
+***
+
+En somme :&#x20;
+
+Sans **services** activés :
+
+* Tous les agents voient l’ensemble des motifs de rendez-vous.
+* Par exemple, un agent de l’état civil pourrait avoir accès à des demandes liées à l’urbanisme ou à la petite enfance, ce qui peut générer de la confusion.
+
+Avec **services** activés :
+
+* Vous pouvez créer un **service État civil**, un **service Urbanisme**, un **service Petite enfance.**&#x20;
+* Chaque service dispose de ses propres **motifs** (par exemple : “Demande de carte d’identité” pour l’État civil, “Permis de construire” pour l’Urbanisme).
+* Vous associez ensuite vos **agents** aux services concernés : les agents de l’État civil ne verront que les motifs qui leur sont liés, et ainsi de suite.
+
+</details>
+
+<details>
+
+<summary><strong>Comment utiliser les services ?</strong> </summary>
+
+Par défaut, lors de la création de votre compte, aucun service ne sera actif dans votre espace.&#x20;
+
+{% hint style="info" %}
+**Seul un agent admin d'espace peut activer les services.** &#x20;
+{% endhint %}
+
+Pour activer les services :&#x20;
 
 * Accéder à votre _**Espace Admin**_&#x20;
-* Sélectionner _**services**_
+* Sélectionner _**Services**_
 * Sélectionner les services que vous souhaitez activer parmi la liste&#x20;
 * Cliquer sur _**enregistrer**_ en bas de page
 
-**Seul un agent admin d'espace peut activer de nouveaux services.** &#x20;
+{% hint style="warning" %}
+Si vous avez déjà créé des motifs et des agents et que vous choisissez désormais un fonctionnement basé sur les services, il faudra associer vos motifs au service nouvellement activé, ainsi que rattacher vos agents aux services correspondants.
+{% endhint %}
+
+En effet, pour profiter des fonctionnalités de cloisonnement et de visibilité, vous devez activer les services, puis répartir vos motifs et vos agents dans les services que vous venez de créer.
 
 </details>
 
