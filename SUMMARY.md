@@ -73,11 +73,6 @@
 
 * [Vous êtes un·e particulier ?](documentation-pour-les-particuliers/vous-etes-un-e-particulier.md)
 
-## Interopérabilité
-
-* [Démarches Simplifiés](interoperabilite/demarches-simplifies.md)
-* [Mo Suivi Social](interoperabilite/mo-suivi-social.md)
-
 ## Intégration
 
 * [Gérer ses rendez-vous depuis un formulaire](integration/gerer-ses-rendez-vous-depuis-un-formulaire.md)
