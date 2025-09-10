@@ -4,7 +4,7 @@ icon: building-columns
 
 # Configurer son organisation
 
-**En tant qu’Agent Administrateur, votre rôle est de configurer votre organisation.** Ce rôle est essentiel, car vos options de configuration sont au plus proche des besoins métiers :
+En tant qu’_Agent Administrateur_, votre rôle est de configurer votre organisation. Ce rôle est essentiel, car vos options de configuration sont au plus proche des besoins métiers :
 
 * mettre en place une structure commune à vos agents
 * faciliter leur prise en main&#x20;

@@ -4,7 +4,7 @@ icon: calendar
 
 # Utiliser son agenda
 
-**En tant qu’Agent Basique, vous disposez d’un compte RDV Service Public déjà configuré par les administrateurs de votre organisation.** Cette configuration préalable vous permet :
+En tant qu’_Agent Basique_, vous disposez d’un compte RDV Service Public déjà configuré par les administrateurs de votre organisation. Cette configuration préalable vous permet :
 
 * d’accéder directement à un espace prêt à l’emploi,
 * d’utiliser votre agenda sans avoir à gérer de paramétrage technique,
