@@ -4,7 +4,7 @@ icon: calendar
 
 # Utiliser son agenda
 
-En tant qu’_Agent Basique_, vous disposez d’un compte RDV Service Public déjà configuré par les administrateurs de votre organisation. Cette configuration préalable vous permet :
+En tant qu’_Agent Basique_, vous disposez d’un compte rattaché à une organisation configurée par des _Agent Admin_. Cette configuration préalable vous permet :
 
 * d’accéder directement à un espace prêt à l’emploi,
 * d’utiliser votre agenda sans avoir à gérer de paramétrage technique,
@@ -17,7 +17,9 @@ Autrement dit, la solution est déjà configurée, il ne reste plus qu'à la pre
 
 <summary><strong>Plages d'ouverture</strong></summary>
 
-Les plages d'ouverture vous permettent de définir vos disponibilités.\
+Les plages d'ouverture vous permettent de définir vos disponibilités.
+
+\
 Ces plages d'ouverture permettent aux autres agents de votre organisation de prendre des rendez-vous pour les usagers sur vos disponibilités via le bouton _**Trouver un RDV**_. Si votre organisation publie ses disponibilités en ligne, ces créneaux seront également visibles pour les usagers.
 
 {% hint style="success" %}
