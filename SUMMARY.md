@@ -17,25 +17,6 @@
 * [API](documentation-technique/api.md)
 * [Dépôt et Architecture](documentation-technique/depot-et-architecture.md)
 
-## Confidentialité et Sécurité
-
-* [Conditions générales d'utilisation](confidentialite-et-securite/conditions-generales-dutilisation.md)
-* [Politique de confidentialité](confidentialite-et-securite/politique-de-confidentialite.md)
-* [Mentions légales](confidentialite-et-securite/mentions-legales.md)
-
-## Archives
-
-* [Problèmes de réception des emails](archives/problemes-de-reception-des-emails.md)
-* [Prendre un rendez-vous](archives/prendre-un-rendez-vous.md)
-* [À quoi ça sert ?](archives/a-quoi-ca-sert.md)
-* [Comprendre les notifications de rendez-vous](archives/comprendre-les-notifications-de-rendez-vous/README.md)
-  * [Exemple notification SMS ](archives/comprendre-les-notifications-de-rendez-vous/exemple-notification-sms.md)
-  * [Exemple notification email](archives/comprendre-les-notifications-de-rendez-vous/exemple-notification-email.md)
-* [Annuler un rendez-vous](archives/annuler-un-rendez-vous/README.md)
-  * [exemple annulation SMS ](archives/annuler-un-rendez-vous/exemple-annulation-sms.md)
-  * [exemple annulation email](archives/annuler-un-rendez-vous/exemple-annulation-email.md)
-* [Transmettre un message ou un document à un agent](archives/transmettre-un-message-ou-un-document-a-un-agent.md)
-
 ## À propos
 
 * [Qui sommes-nous ?](a-propos/qui-sommes-nous.md)

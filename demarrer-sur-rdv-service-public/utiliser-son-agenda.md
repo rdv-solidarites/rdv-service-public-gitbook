@@ -4,11 +4,14 @@ icon: calendar
 
 # Utiliser son agenda
 
-En tant qu'**Agent**, vous avez accès à un compte _RDV Service Public_. La configuration de votre espace a été réalisée par des <mark style="color:blue;">**Agents Admin**</mark> ou des <mark style="color:red;">**Agents Admin d'Espace**</mark>.
+**En tant qu’Agent Basique, vous disposez d’un compte RDV Service Public déjà configuré par les administrateurs de votre organisation.** Cette configuration préalable vous permet :
+
+* d’accéder directement à un espace prêt à l’emploi,
+* d’utiliser votre agenda sans avoir à gérer de paramétrage technique,
+
+Autrement dit, votre esapce est déjà configuré, reste plus qu'à prendre en main la solution !&#x20;
 
 ***
-
-Afin de faciliter votre utilisation de la solution, vous trouverez ci-dessous des informations pour vous permettre de gérer vos disponibilités et vos rendez-vous :&#x20;
 
 <details>
 

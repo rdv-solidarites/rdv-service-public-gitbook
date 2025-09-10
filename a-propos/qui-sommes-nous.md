@@ -4,14 +4,6 @@ icon: people-group
 
 # Qui sommes-nous ?
 
-Vous pouvez **consulter** et **partager** la plaquette de présentation **💡**
-
-```
-https://www.canva.com/design/DAF7cZT3uYc/XO4Gau3d_6OXE1Ip883U0w/view?utm_content=DAF7cZT3uYc&utm_campaign=designshare&utm_medium=link&utm_source=editor
-```
-
-***
-
 ## L’équipe
 
 Nous sommes une équipe de 9 personnes au service du rendez-vous 🗓️

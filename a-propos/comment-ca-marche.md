@@ -4,14 +4,6 @@ icon: gear
 
 # Comment ça marche ?
 
-Vous pouvez **consulter** et **partager** la plaquette de présentation **💡**
-
-```
-https://www.canva.com/design/DAF7cZT3uYc/XO4Gau3d_6OXE1Ip883U0w/view?utm_content=DAF7cZT3uYc&utm_campaign=designshare&utm_medium=link&utm_source=editor
-```
-
-***
-
 Conçue pour s'adapter aux diverses réalités des administrations publiques, RDV Service Public s'articule autour de 3 niveaux d'accès et d'une architecture en 4 concepts.&#x20;
 
 La solution offre une grande liberté : aucune limite n'est imposée quant au nombre de services, d'agents ou d'organisations. De plus, vous disposez d'une totale autonomie pour créer et ajuster chaque configuration. Cela permet notamment un déploiement progressif, que ce soit organisation par organisation ou service par service.

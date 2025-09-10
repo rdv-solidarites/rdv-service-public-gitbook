@@ -4,11 +4,15 @@ icon: building-columns
 
 # Configurer son organisation
 
-Vous êtes <mark style="color:blue;">**Agent Admin**</mark> et disposez alors d'un accès au menu _Configuration_ permettant de paramétrer votre organisation. Ce premier niveau de configuration permettra à tous les [**Agent Basique**](broken-reference) de votre structure d'utiliser leur agenda et de planifier des rendez-vous. &#x20;
+**En tant qu’Agent Administrateur, votre rôle est de configurer votre organisation.** Ce rôle est essentiel, car vos options de configuration sont au plus proche des besoins métiers :
+
+* mettre en place une structure commune à vos agents
+* faciliter leur prise en main&#x20;
+* gérer des droits de visibilités et d'accès&#x20;
+
+Votre action assure à vos équipes les conditions nécessaires pour travailler simplement et répondre aux besoins des usagers.
 
 ***
-
-Pour faciliter le déploiement, vous trouverez ci-dessous des informations sur les options de configuration de votre organisation :&#x20;
 
 <details>
 

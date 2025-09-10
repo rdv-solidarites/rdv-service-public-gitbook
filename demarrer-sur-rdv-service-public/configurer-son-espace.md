@@ -4,13 +4,15 @@ icon: map-location
 
 # Configurer son espace
 
-En tant qu’<mark style="color:red;">**Agent Administrateur d’Espace**</mark>, vous disposez d’un accès au menu **Espace**, qui vous permet de paramétrer et administrer votre **espace RDV Service Public**.\
-Ce niveau de configuration vous donne la possibilité de gérer vos organisations, vos services, vos agents et l’ensemble des paramètres généraux.\
-Il vous permet ainsi de mettre en place les éléments nécessaires pour que tous les agents puissent utiliser leurs agendas et planifier des rendez-vous.
+**En tant qu’Agent Administrateur d’Espace, votre rôle est de configurer l’espace RDV Service Public de manière à ce que vos agents disposent d’une solution numérique adaptée à leurs réalités métier.** Votre action permet :
+
+* d’assurer une structure claire entre organisations, services et agents,
+* de piloter et gérer les droits
+* de simplifier le déploiement&#x20;
+
+En d’autres termes, votre rôle d’administrateur vise à offrir aux agents un cadre simple, cohérent et efficace pour simplifier le déploiement et l'utilisation.&#x20;
 
 ***
-
-Pour faciliter le déploiement, vous trouverez ci-dessous des informations sur les options de configuration de votre espace :&#x20;
 
 <details>
 
