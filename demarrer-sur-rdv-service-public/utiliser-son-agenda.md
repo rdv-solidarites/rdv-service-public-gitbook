@@ -113,5 +113,5 @@ La mise à jour du statut des rendez-vous permet d'avoir des statistiques actual
 </details>
 
 {% hint style="success" %}
-Change hint typeVous trouverez également des informations complémentaires dans la [**Foire Aux Questions**​](../foire-aux-questions/trouver-vos-reponses.md)
+Vous trouverez également des informations complémentaires dans la [**Foire Aux Questions**​](../foire-aux-questions/trouver-vos-reponses.md)
 {% endhint %}
