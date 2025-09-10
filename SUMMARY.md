@@ -4,13 +4,10 @@
 
 ## Démarrer sur RDV Service Public
 
+* [FAQ](demarrer-sur-rdv-service-public/faq.md)
 * [Configurer son espace](demarrer-sur-rdv-service-public/configurer-son-espace.md)
 * [Configurer son organisation](demarrer-sur-rdv-service-public/configurer-son-organisation.md)
 * [Utiliser son agenda](demarrer-sur-rdv-service-public/utiliser-son-agenda.md)
-
-## FOIRE AUX QUESTIONS
-
-* [Trouver vos réponses](foire-aux-questions/trouver-vos-reponses.md)
 
 ## Documentation technique
 

@@ -202,6 +202,6 @@ Vous pouvez diffuser cet URL sur :
 </details>
 
 {% hint style="success" %}
-Vous trouverez également des informations complémentaires dans la [**Foire Aux Questions**](../foire-aux-questions/trouver-vos-reponses.md)
+Vous trouverez également des informations complémentaires dans la [**Foire Aux Questions**](faq.md)
 {% endhint %}
 

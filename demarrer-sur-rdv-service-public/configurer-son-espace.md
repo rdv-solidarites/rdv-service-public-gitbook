@@ -201,5 +201,5 @@ Vous avez également la possibilité d’ajouter une nouvelle organisation à vo
 </details>
 
 {% hint style="success" %}
-Vous trouverez également des informations complémentaires dans la [**Foire Aux Questions**​](../foire-aux-questions/trouver-vos-reponses.md)
+Vous trouverez également des informations complémentaires dans la [**Foire Aux Questions**​](faq.md)
 {% endhint %}

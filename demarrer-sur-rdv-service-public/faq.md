@@ -2,7 +2,7 @@
 icon: message-question
 ---
 
-# Trouver vos réponses
+# FAQ
 
 ## Notifications agent
 
@@ -190,7 +190,7 @@ Le mécanisme de synchronisation le plus répandu est celui utilisant les emails
 
 cf cette question pour apprendre à modifier ces préférences :
 
-[#comment-recevoir-des-notifications-dalertes-de-rendez-vous](trouver-vos-reponses.md#comment-recevoir-des-notifications-dalertes-de-rendez-vous "mention")
+[#comment-recevoir-des-notifications-dalertes-de-rendez-vous](faq.md#comment-recevoir-des-notifications-dalertes-de-rendez-vous "mention")
 
 </details>
 

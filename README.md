@@ -8,7 +8,7 @@ icon: hand-wave
 
 ***
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><mark style="color:blue;"><strong>Foire Aux Questions</strong></mark></td><td><a href="foire-aux-questions/trouver-vos-reponses.md">trouver-vos-reponses.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><mark style="color:blue;"><strong>Foire Aux Questions</strong></mark></td><td><a href="demarrer-sur-rdv-service-public/faq.md">faq.md</a></td></tr></tbody></table>
 
 ### Consulter les guides par statut :&#x20;
 
