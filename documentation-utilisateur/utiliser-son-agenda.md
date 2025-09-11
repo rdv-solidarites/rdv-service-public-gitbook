@@ -16,6 +16,8 @@ En tant qu’_Agent Basique_, vous disposez d’un compte rattaché à une organ
 
 ***
 
+<mark style="color:blue;">Plus de détail sur chaque option :</mark>&#x20;
+
 <details>
 
 <summary><strong>Plages d'ouverture</strong></summary>

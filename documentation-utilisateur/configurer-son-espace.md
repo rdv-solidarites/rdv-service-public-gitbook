@@ -15,6 +15,8 @@ En tant qu’_Agent Admin d’Espace_, votre rôle est de configurer l’espace 
 
 ***
 
+<mark style="color:blue;">Plus de détail sur chaque option :</mark>&#x20;
+
 <details>
 
 <summary><strong>Agents</strong></summary>
