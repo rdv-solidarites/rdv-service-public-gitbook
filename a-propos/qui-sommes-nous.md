@@ -6,17 +6,19 @@ icon: people-group
 
 ## L’équipe
 
-Nous sommes une équipe de 9 personnes au service du rendez-vous 🗓️
+Nous sommes une équipe de11 personnes au service du rendez-vous 🗓️
 
 * **Adrien** · _développeur_
 * **Antoine** _· développeur_
 * **François** · _développeur_
+* **Kevin ·** _intrapreneur_&#x20;
 * **Léa** · _chargée de déploiement_
 * **Matis** · _chargé de déploieme&#x6E;_&#x74;
 * **Mehdi** · _product manager_
 * **Nesserine** · _product owner_
 * **Téodora** · _product designer_
 * **Victor** · _développeur_
+* **Yasmina ·** _intrapreneur_&#x20;
 
 ***
 
