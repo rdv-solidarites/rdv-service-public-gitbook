@@ -16,7 +16,7 @@ En tant qu’_Agent Administrateur_, votre rôle est de configurer votre organis
 
 ***
 
-<mark style="color:blue;">**Plus de détail sur chaque option :**</mark>&#x20;
+<mark style="color:blue;">**Plus de détails sur chaque option :**</mark>&#x20;
 
 <details>
 

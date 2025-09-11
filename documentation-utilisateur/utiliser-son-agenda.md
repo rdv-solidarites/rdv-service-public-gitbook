@@ -16,7 +16,7 @@ En tant qu’_Agent Basique_, vous disposez d’un compte rattaché à une organ
 
 ***
 
-<mark style="color:blue;">**Plus de détail sur chaque option :**</mark>&#x20;
+<mark style="color:blue;">**Plus de détails sur chaque option :**</mark>&#x20;
 
 <details>
 
