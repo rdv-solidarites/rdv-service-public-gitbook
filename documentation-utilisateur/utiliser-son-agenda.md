@@ -4,12 +4,16 @@ icon: calendar
 
 # Utiliser son agenda
 
-En tant qu’_Agent Basique_, vous disposez d’un compte rattaché à une organisation configurée par des _Agent Admin_. Cette configuration préalable vous permet :
+En tant qu’_Agent Basique_, vous disposez d’un compte rattaché à une organisation configurée par des _Agent Admin_. Autrement dit, la solution est déjà configurée, il ne reste plus qu'à la prendre en main !&#x20;
 
-* d’accéder directement à un espace prêt à l’emploi,
-* d’utiliser votre agenda sans avoir à gérer de paramétrage technique,
+***
 
-Autrement dit, la solution est déjà configurée, il ne reste plus qu'à la prendre en main !&#x20;
+* Périmètre d’accès : agendas et usagers de son service au sein de son organisation.&#x20;
+* Périmètre de configuration : Pas d’accès aux paramètres.&#x20;
+* Tâches : créer et modifier des rendez-vous, suivre les rendez-vous et leurs statut, rechercher des créneaux.
+* Ne fait pas : créer des agents, modifier des motifs, des lieux ou l'organisation, accéder à d’autres services et organisations.
+
+
 
 <details>
 

@@ -19,6 +19,6 @@ icon: hand-wave
 
 
 {% hint style="info" %}
-Si vous ne trouvez pas de réponses à vos questions vous souhaitez suggérer des modifications, contactez nous : <mark style="color:blue;">**support@rdv-service-public.fr**</mark>
+Si vous ne trouvez pas de réponses à vos questions vous souhaitez suggérer des modifications, contactez nous : <mark style="color:$primary;">**support@rdv-service-public.fr**</mark>
 {% endhint %}
 
