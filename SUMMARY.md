@@ -53,5 +53,5 @@
 
 ## Intégration
 
-* [Gérer ses rendez-vous depuis un formulaire](integration/gerer-ses-rendez-vous-depuis-un-formulaire.md)
-* [Les rendez-vous depuis un dossier](integration/les-rendez-vous-depuis-un-dossier.md)
+* [Formulaire et RDV Service Public](integration/formulaire-et-rdv-service-public.md)
+* [Dossier et RDV Service Public](integration/dossier-et-rdv-service-public.md)

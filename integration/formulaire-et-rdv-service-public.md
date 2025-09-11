@@ -1,5 +1,5 @@
 ---
-description: RDV Service Public <> Démarches Simplifiés
+description: Démarches Simplifiés <> RDV Service Public
 layout:
   width: default
   title:
@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# Gérer ses rendez-vous depuis un formulaire
+# Formulaire et RDV Service Public
 
 #### **Besoin de planifier des rendez-vous à partir des informations recueillies d'un formulaire ?**&#x20;
 
