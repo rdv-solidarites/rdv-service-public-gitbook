@@ -1,4 +1,5 @@
 ---
+description: Rôle d'un Agent Basique
 icon: calendar
 ---
 
@@ -13,7 +14,7 @@ En tant qu’_Agent Basique_, vous disposez d’un compte rattaché à une organ
 * Tâches : créer et modifier des rendez-vous, suivre les rendez-vous et leurs statut, rechercher des créneaux.
 * Ne fait pas : créer des agents, modifier des motifs, des lieux ou l'organisation, accéder à d’autres services et organisations.
 
-
+***
 
 <details>
 

@@ -1,4 +1,5 @@
 ---
+description: Rôle d'un Agent Admin
 icon: building-columns
 ---
 
@@ -12,6 +13,8 @@ En tant qu’_Agent Administrateur_, votre rôle est de configurer votre organis
 * Périmètre de configuration : accès aux paramètres de l’organisation.
 * Tâches : créer des motifs, lieux, inviter des agents&#x20;
 * Ne fait pas : créer des organisations, activer des services ni gérer l’espace global.
+
+***
 
 <details>
 
