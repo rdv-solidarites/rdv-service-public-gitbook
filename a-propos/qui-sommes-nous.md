@@ -6,7 +6,7 @@ icon: people-group
 
 ## L’équipe
 
-Nous sommes une équipe de11 personnes au service du rendez-vous 🗓️
+Nous sommes une équipe de 11 personnes au service du rendez-vous 🗓️
 
 * **Adrien** · _développeur_
 * **Antoine** _· développeur_

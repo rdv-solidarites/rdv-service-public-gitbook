@@ -780,7 +780,3 @@ Pour créer une nouvelle organisation :&#x20;
 **Seul un agent admin d'espace peut créer des organisations.**&#x20;
 
 </details>
-
-
-
-Statistiques
