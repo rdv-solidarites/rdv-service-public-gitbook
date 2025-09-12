@@ -30,13 +30,11 @@ Avec notre intégration à _Démarches Simplifieés_ vous pouvez **ajouter un fo
 
 _Démarches Simplifiées_ permet aux services publics de créer et publier des démarches administratives en ligne en quelques minutes, puis de **collecter**, **suivre** et **instruire** les réponses des usagers. Grâce à l'intégration avec _RDV Service Public_, vous pouvez désormais **planifiez des rendez-vous** en aval d'un dossier réceptionné sans quitter la solution _Démarches Simplifiées_. &#x20;
 
-{% hint style="success" %}
-Pour utiliser l’intégration, vous devez disposer d’un compte _Démarches Simplifiées_.
-
-Cliquez [ici](https://www.demarches-simplifiees.fr/commencer/demande-d-inscription-a-demarches-simplifiees) pour vous créer un compte.&#x20;
-{% endhint %}
-
 Vous gérez ainsi un parcours administratif complet, en tirant parti de deux solutions interconnectées, qui facilitent le travail des agents et éliminent la double saisie.
+
+{% hint style="success" %}
+Vous devez disposer d’un compte _Démarches Simplifiées_. Cliquez [ici](https://www.demarches-simplifiees.fr/commencer/demande-d-inscription-a-demarches-simplifiees) pour vous créer un compte.&#x20;
+{% endhint %}
 
 ***
 
