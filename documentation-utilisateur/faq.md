@@ -4,7 +4,7 @@ icon: message-question
 
 # FAQ
 
-## Notifications agent
+<h2 align="center">Notifications agent</h2>
 
 <details>
 
@@ -112,7 +112,7 @@ N’hésitez pas à nous contacter à support@rdv-service-public.fr pour que nou
 
 </details>
 
-## Synchronisation calendrier
+<h2 align="center">Synchronisation calendrier</h2>
 
 <details>
 
@@ -194,7 +194,7 @@ cf cette question pour apprendre à modifier ces préférences :
 
 </details>
 
-## Prise de rendez-vous en ligne
+<h2 align="center">Prise de rendez-vous en ligne</h2>
 
 <details>
 
@@ -292,7 +292,7 @@ Des notifications seront envoyées une fois le rendez-vous planifié :&#x20;
 
 </details>
 
-## Notification usagers
+<h2 align="center">Notification usagers</h2>
 
 <details>
 
@@ -351,7 +351,7 @@ Un bouton  _**Annuler le rendez-vous**_ lui permettra d’annuler sans vous cont
 
 </details>
 
-## Les agendas et les rendez-vous
+<h2 align="center">Les agendas et les rendez-vous</h2>
 
 <details>
 
@@ -485,7 +485,7 @@ Si des motifs ouverts aux prescripteurs ont été configurés, vous pouvez accé
 
 </details>
 
-## Les fiches usagers
+<h2 align="center">Les fiches usagers</h2>
 
 <details>
 
@@ -538,7 +538,7 @@ Pour fusionner des fiches usagers :&#x20;
 
 </details>
 
-## Les agents
+<h2 align="center">Les agents</h2>
 
 <details>
 
@@ -643,7 +643,7 @@ Pour supprimer un agent :&#x20;
 
 </details>
 
-## Les motifs
+<h2 align="center">Les motifs</h2>
 
 <details>
 
@@ -685,7 +685,7 @@ Pour modifier des motifs en masse :&#x20;
 
 </details>
 
-## Les services&#x20;
+<h2 align="center">Les services </h2>
 
 <details>
 
@@ -736,7 +736,7 @@ En effet, pour profiter des fonctionnalités de cloisonnement et de visibilité,
 
 </details>
 
-## Les organisations
+<h2 align="center">Les organisations</h2>
 
 <details>
 
