@@ -4,7 +4,7 @@ icon: message-question
 
 # FAQ
 
-<h2 align="center">Notifications agent</h2>
+<h2 align="center">Les notifications agent</h2>
 
 <details>
 
@@ -292,7 +292,7 @@ Des notifications seront envoyées une fois le rendez-vous planifié :&#x20;
 
 </details>
 
-<h2 align="center">Notification usagers</h2>
+<h2 align="center">Les notification usagers</h2>
 
 <details>
 
@@ -351,7 +351,7 @@ Un bouton  _**Annuler le rendez-vous**_ lui permettra d’annuler sans vous cont
 
 </details>
 
-<h2 align="center">Les agendas et les rendez-vous</h2>
+<h2 align="center">Les agendas</h2>
 
 <details>
 
@@ -689,7 +689,7 @@ Pour modifier des motifs en masse :&#x20;
 
 <details>
 
-<summary>À quoi servent les services ? </summary>
+<summary><strong>À quoi servent les services ?</strong> </summary>
 
 Les **services** servent à organiser votre espace et vos organisations en sous-ensembles distincts, chacun avec ses propres **agents** et **motifs**. Concrètement, ils permettent :
 
