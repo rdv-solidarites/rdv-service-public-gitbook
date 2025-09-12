@@ -98,7 +98,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <details>
 
-<summary><strong>Le bidule</strong></summary>
+<summary></summary>
 
 
 
@@ -106,7 +106,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <details>
 
-<summary><strong>Et les chouettes</strong></summary>
+<summary></summary>
 
 
 

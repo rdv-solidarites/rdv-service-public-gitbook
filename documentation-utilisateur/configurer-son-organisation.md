@@ -5,14 +5,14 @@ icon: building-columns
 
 # Configurer son organisation
 
-En tant qu’_Agent Administrateur_, votre rôle est de configurer votre organisation. Ce rôle est essentiel, car vos options de configuration sont au plus proche des besoins métiers. Votre configuration assure à vos équipes les conditions nécessaires pour travailler simplement et répondre aux besoins des usagers.
+En tant qu’_Agent Admin_, votre rôle est de configurer votre organisation. Ce rôle est essentiel, car vos options de configuration sont au plus proche des besoins métiers. Votre configuration assure à vos équipes les conditions nécessaires pour travailler simplement et répondre aux besoins des usagers.
 
 ***
 
 * Périmètre d’accès : tous les services de son organisation&#x20;
-* Périmètre de configuration : accès aux paramètres de l’organisation.
+* Périmètre de configuration : accès aux paramètres de l’organisation
 * Tâches : créer des motifs, lieux, inviter des agents&#x20;
-* Ne fait pas : créer des organisations, activer des services ni gérer l’espace global.
+* Ne fait pas : créer des organisations, activer des services ni gérer l’espace
 
 ***
 

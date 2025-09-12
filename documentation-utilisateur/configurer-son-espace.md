@@ -9,9 +9,9 @@ En tant qu’_Agent Admin d’Espace_, votre rôle est de configurer l’espace 
 
 ***
 
-* Périmètre d’accès : tous les agendas, organisations et services de l’espace
+* Périmètre d’accès : tous les agendas, organisations et services de l’espace&#x20;
 * Périmètre de configuration : espace et toutes les organisations&#x20;
-* Tâches : créer l’espace (auto‑inscription), structurer organisations et services, nommer des Agents Admin, définir les règles globales
+* Tâches : créer l’espace, structurer les organisations et les services, nommer les _Agents Admin_ dans les organisations et nommer d'autres _Agent Admin d'Espace_
 
 ***
 
