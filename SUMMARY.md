@@ -53,5 +53,5 @@
 
 ## Intégration
 
-* [Formulaire et RDV Service Public](integration/formulaire-et-rdv-service-public.md)
+* [Formulaire usager et rendez-vous](integration/formulaire-usager-et-rendez-vous.md)
 * [Dossier et RDV Service Public](integration/dossier-et-rdv-service-public.md)
