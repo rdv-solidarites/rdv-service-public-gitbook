@@ -5,7 +5,7 @@ icon: building-columns
 
 # Configurer son organisation
 
-En tant qu’_Agent Admin_, votre rôle est de configurer votre organisation. Ce rôle est essentiel, car vos options de configuration sont au plus proche des besoins métiers. Votre configuration assure à vos équipes les conditions nécessaires pour travailler simplement et répondre aux besoins des usagers.
+En tant qu’_Agent Admin_, votre rôle est de configurer votre organisation. Vos options de configuration sont au plus proche des besoins métiers. Votre configuration assure à vos équipes les conditions nécessaires pour travailler simplement et répondre aux besoins des usagers.
 
 ***
 

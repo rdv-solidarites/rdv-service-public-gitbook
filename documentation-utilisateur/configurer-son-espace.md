@@ -5,7 +5,7 @@ icon: map-location
 
 # Configurer son espace
 
-En tant qu’_Agent Admin d’Espace_, votre rôle est de configurer l’espace RDV Service Public de manière à ce que vos agents disposent d’une solution adaptée à leurs réalités métier. En d’autres termes, votre rôle d’administrateur vise à offrir aux agents un cadre simple, cohérent et efficace pour simplifier le déploiement et l'utilisation.&#x20;
+En tant qu’_Agent Admin d’Espace_, votre rôle est de configurer l’espace RDV Service Public de manière à ce que vos agents disposent d’une solution adaptée à leurs réalités métier. Votre rôle d’administrateur vise à offrir aux agents un cadre simple, cohérent et efficace pour simplifier le déploiement et l'utilisation.&#x20;
 
 ***
 
