@@ -53,5 +53,5 @@
 
 ## Intégration
 
-* [Questionnaire et rendez-vous](integration/questionnaire-et-rendez-vous.md)
-* [Dossier et RDV Service Public](integration/dossier-et-rdv-service-public.md)
+* [Questionnaire usager et rendez-vous](integration/questionnaire-usager-et-rendez-vous.md)
+* [Dossier usager et rendez-vous](integration/dossier-usager-et-rendez-vous.md)

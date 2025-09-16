@@ -16,9 +16,9 @@ layout:
     visible: true
 ---
 
-# Formulaire et RDV Service Public
+# Questionnaire usager et rendez-vous
 
-#### **Besoin de planifier des rendez-vous à partir des informations recueillies d'un formulaire ?**&#x20;
+#### **Besoin de planifier des rendez-vous à partir des informations recueillies d'un questionnaire ?**&#x20;
 
 Centralisez la gestion des dossiers et la planification des rendez-vous !&#x20;
 
@@ -65,56 +65,6 @@ Vous pouvez ouvrir un module de prise de rendez-vous depuis chaque dossier réce
 {% endstepper %}
 
 ***
-
-#### Découvrez des cas d'usage déployés !&#x20;
-
-<details>
-
-<summary><strong>L'Académie de Versailles</strong></summary>
-
-<figure><img src="../.gitbook/assets/rectorat-14946 (1).jpg" alt=""><figcaption></figcaption></figure>
-
-bore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#x20;
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-
-</details>
-
-<details>
-
-<summary><strong>La Direction Départementale de la Protection des Population du Val-d'Oise</strong></summary>
-
-<div align="left" data-full-width="true"><figure><img src="../.gitbook/assets/ob_362aea_12696496-913601858747077-938741308-o.jpg" alt=""><figcaption></figcaption></figure></div>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#x20;
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-
-</details>
-
-<details>
-
-<summary></summary>
-
-
-
-</details>
-
-<details>
-
-<summary></summary>
-
-
-
-</details>
 
 #### Comment le mettre en place ?&#x20;
 
