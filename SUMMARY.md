@@ -9,6 +9,11 @@
 * [Configurer son organisation](documentation-utilisateur/configurer-son-organisation.md)
 * [Utiliser son agenda](documentation-utilisateur/utiliser-son-agenda.md)
 
+## Intégration
+
+* [Questionnaire usager et rendez-vous](integration/questionnaire-usager-et-rendez-vous.md)
+* [Dossier usager et rendez-vous](integration/dossier-usager-et-rendez-vous.md)
+
 ## Documentation technique
 
 * [API](documentation-technique/api.md)
@@ -50,8 +55,3 @@
 ## Documentation pour les particuliers
 
 * [Vous êtes un·e particulier ?](documentation-pour-les-particuliers/vous-etes-un-e-particulier.md)
-
-## Intégration
-
-* [Questionnaire usager et rendez-vous](integration/questionnaire-usager-et-rendez-vous.md)
-* [Dossier usager et rendez-vous](integration/dossier-usager-et-rendez-vous.md)
