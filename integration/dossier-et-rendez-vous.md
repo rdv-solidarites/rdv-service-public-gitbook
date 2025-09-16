@@ -1,9 +1,10 @@
 ---
 description: Mon Suivi Social <> RDV Service Public
 hidden: true
+icon: folder
 ---
 
-# Dossier usager et rendez-vous
+# Dossier et rendez-vous
 
 #### **Besoin de planifier des rendez-vous directement depuis un dossier usager ?**
 

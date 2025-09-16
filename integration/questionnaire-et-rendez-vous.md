@@ -1,5 +1,6 @@
 ---
 description: Démarches Simplifiés <> RDV Service Public
+icon: list
 layout:
   width: default
   title:
@@ -16,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Questionnaire usager et rendez-vous
+# Questionnaire et rendez-vous
 
 #### **Besoin de planifier des rendez-vous à partir des informations recueillies d'un questionnaire ?**&#x20;
 

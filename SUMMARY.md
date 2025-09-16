@@ -11,8 +11,8 @@
 
 ## Intégration
 
-* [Questionnaire usager et rendez-vous](integration/questionnaire-usager-et-rendez-vous.md)
-* [Dossier usager et rendez-vous](integration/dossier-usager-et-rendez-vous.md)
+* [Questionnaire et rendez-vous](integration/questionnaire-et-rendez-vous.md)
+* [Dossier et rendez-vous](integration/dossier-et-rendez-vous.md)
 
 ## Documentation technique
 
