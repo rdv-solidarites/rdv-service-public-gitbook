@@ -11,7 +11,7 @@
 
 ## Intégration
 
-* [Questionnaire et rendez-vous](integration/questionnaire-et-rendez-vous.md)
+* [Formulaire et rendez-vous](integration/formulaire-et-rendez-vous.md)
 * [Dossier et rendez-vous](integration/dossier-et-rendez-vous.md)
 
 ## Documentation technique

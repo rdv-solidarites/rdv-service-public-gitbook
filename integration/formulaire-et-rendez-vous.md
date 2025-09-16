@@ -17,9 +17,9 @@ layout:
     visible: true
 ---
 
-# Questionnaire et rendez-vous
+# Formulaire et rendez-vous
 
-#### **Besoin de planifier des rendez-vous à partir des informations recueillies d'un questionnaire ?**&#x20;
+#### **Besoin de planifier des rendez-vous à partir des informations recueillies d'un f**ormulaire **?**&#x20;
 
 Centralisez la gestion des dossiers et la planification des rendez-vous !&#x20;
 
