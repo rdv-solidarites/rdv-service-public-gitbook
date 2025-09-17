@@ -1,8 +1,13 @@
 ---
 description: Démarches Simplifiés <> RDV Service Public
 icon: list
+cover: ../.gitbook/assets/post-linkedin-2b.png
+coverY: -16.913319238900634
 layout:
   width: default
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
