@@ -24,7 +24,7 @@ layout:
 
 # Formulaire et rendez-vous
 
-#### **Besoin de planifier des rendez-vous à partir des informations recueillies d'un f**ormulaire **?**&#x20;
+**Besoin de planifier un rendez-vous à partir des réponses d’un formulaire ?**
 
 Centralisez la gestion des dossiers et la planification des rendez-vous !&#x20;
 
@@ -32,7 +32,7 @@ Centralisez la gestion des dossiers et la planification des rendez-vous !&#x20;
 
 Avant de planifier un rendez-vous, les administrations doivent fréquemment collecter des informations auprès des usagers : informations d'un appel à projets, transmission de justificatifs, données pour orientation vers le bon service...&#x20;
 
-Avec notre intégration à _Démarches Simplifieés_ vous pouvez **ajouter un formulaire** à votre **parcours** de prise de rendez-vous.&#x20;
+Avec notre intégration, vous pouvez ajouter de la prise de rendez-vous à votre formulaire _Démarches Simplifiées._
 
 _Démarches Simplifiées_ permet aux services publics de créer et publier des démarches administratives en ligne en quelques minutes, puis de **collecter**, **suivre** et **instruire** les réponses des usagers. Grâce à l'intégration avec _RDV Service Public_, vous pouvez désormais **planifiez des rendez-vous** en aval d'un dossier réceptionné sans quitter la solution _Démarches Simplifiées_. &#x20;
 
