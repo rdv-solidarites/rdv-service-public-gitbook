@@ -34,7 +34,7 @@ _Démarches Simplifiées_ permet aux services publics de créer et publier des d
 Vous gérez ainsi un parcours administratif complet, en tirant parti de deux solutions interconnectées, qui facilitent le travail des agents et éliminent la double saisie.
 
 {% hint style="success" %}
-Vous devez disposer d’un compte _Démarches Simplifiées_. Cliquez [ici](https://www.demarches-simplifiees.fr/commencer/demande-d-inscription-a-demarches-simplifiees) pour vous créer un compte.&#x20;
+Vous devez disposer d’un compte administrateur _Démarches Simplifiées_. Cliquez [ici](https://www.demarches-simplifiees.fr/commencer/demande-d-inscription-a-demarches-simplifiees) pour vous créer un compte.&#x20;
 {% endhint %}
 
 ***
