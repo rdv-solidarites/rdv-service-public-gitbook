@@ -17,9 +17,29 @@ Vous pouvez consulter le tutoriel pas à pas pour configurer votre organisation 
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><h4><mark style="color:blue;">Tutoriel</mark></h4></td><td><a href="https://www.canva.com/design/DAGz5MMraCA/tKSSSeonoaIX5HDmJZTsjA/view?utm_content=DAGz5MMraCA&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=h6bddb23c9b">https://www.canva.com/design/DAGz5MMraCA/tKSSSeonoaIX5HDmJZTsjA/view?utm_content=DAGz5MMraCA&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=h6bddb23c9b</a></td></tr></tbody></table>
 
+
+
+
+
 ***
 
 ## Questions fréquentes
+
+<details>
+
+<summary><strong>Que peut faire ou ne pas faire un agent admin ?</strong> </summary>
+
+Le rôle _Agent Admin_ est un des 3 niveaux d'accès (_Agent Basique_, _Agent Admin_ et _Agent Admin d'Espace_) des comptes agent :&#x20;
+
+* **Périmètre d’accès** : tous les services de son organisation&#x20;
+
+- **Périmètre de configuration** : accès aux paramètres de l’organisation
+
+* **Tâches** : créer des motifs, lieux, inviter des agents&#x20;
+
+- **Ne fait pas** : créer des organisations, activer des services ni gérer l’espace
+
+</details>
 
 <details>
 
@@ -174,7 +194,7 @@ Une fois les lieux créés, les agents pourront **associer leurs plages d’ouve
 
 <details>
 
-<summary>À quoi servent les informations de contact ?  </summary>
+<summary><strong>À quoi servent les informations de contact ?</strong>  </summary>
 
 Cette fonctionnalité répond des usagers qui souhaitent facilement vous contacter en cas de besoin (difficultés à annuler son rendez-vous en autonomie, besoin d'informations complémentaires au rendez-vous, demande de modification de rendez-vous etc ...).&#x20;
 
