@@ -9,7 +9,9 @@ En tant qu’_**Agent Admin**_, votre rôle est de configurer votre organisation
 
 Vous pouvez consulter le tutoriel pas à pas pour configurer votre organisation :&#x20;
 
-## <a href="https://www.canva.com/design/DAGz5MMraCA/tKSSSeonoaIX5HDmJZTsjA/view?utm_content=DAGz5MMraCA&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=h6bddb23c9b" class="button primary">Tutoriel</a>
+## <a href="https://www.canva.com/design/DAGz5MMraCA/tKSSSeonoaIX5HDmJZTsjA/view?utm_content=DAGz5MMraCA&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=h6bddb23c9b" class="button primary">Consulter le guide</a>
+
+
 
 Vous pouvez également consulter les questions fréquentes :&#x20;
 
