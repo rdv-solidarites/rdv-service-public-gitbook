@@ -9,15 +9,11 @@ En tant qu’_**Agent Admin**_, votre rôle est de configurer votre organisation
 
 Vous pouvez consulter le tutoriel pas à pas pour configurer votre organisation :&#x20;
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><h4><mark style="color:blue;">Tutoriel</mark></h4></td><td><a href="https://www.canva.com/design/DAGz5MMraCA/tKSSSeonoaIX5HDmJZTsjA/view?utm_content=DAGz5MMraCA&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=h6bddb23c9b">https://www.canva.com/design/DAGz5MMraCA/tKSSSeonoaIX5HDmJZTsjA/view?utm_content=DAGz5MMraCA&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=h6bddb23c9b</a></td></tr></tbody></table>
-
-Vous pouvez également consulter les questions fréquentes :&#x20;
-
 ## <a href="https://www.canva.com/design/DAGz5MMraCA/tKSSSeonoaIX5HDmJZTsjA/view?utm_content=DAGz5MMraCA&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=h6bddb23c9b" class="button primary" data-icon="up-right-from-square">Tutoriel</a>
 
-<a href="https://www.canva.com/design/DAGz5MMraCA/tKSSSeonoaIX5HDmJZTsjA/view?utm_content=DAGz5MMraCA&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=h6bddb23c9b" class="button primary">New button</a>
 
-* <a href="https://www.canva.com/design/DAGz5MMraCA/tKSSSeonoaIX5HDmJZTsjA/view?utm_content=DAGz5MMraCA&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=h6bddb23c9b" class="button primary">New button</a>
+
+Vous pouvez également consulter les questions fréquentes :&#x20;
 
 <details>
 
