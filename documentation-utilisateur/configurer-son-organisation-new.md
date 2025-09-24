@@ -1,7 +1,6 @@
 ---
 description: Rôle d'un Agent Admin
 hidden: true
-icon: building-columns
 ---
 
 # Configurer son organisation (new)
