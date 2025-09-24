@@ -17,7 +17,7 @@ En tant qu’_Agent Admin_, votre rôle est de configurer votre organisation. Vo
 
 ***
 
-<table data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><h4><mark style="color:blue;"><strong>Agents</strong></mark></h4></td></tr><tr><td align="center"><h4><mark style="color:blue;"><strong>Motifs</strong></mark></h4></td></tr><tr><td align="center"><h4><mark style="color:blue;"><strong>Lieux</strong></mark></h4></td></tr><tr><td align="center"><h4><mark style="color:blue;"><strong>Informations de contacts</strong></mark></h4></td></tr><tr><td align="center"><h4><mark style="color:blue;"><strong>Réservation en ligne</strong></mark></h4></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><h4></h4><h4><mark style="color:blue;"><strong>Agents</strong></mark></h4></td></tr><tr><td align="center"><h4></h4><h4><mark style="color:blue;"><strong>Motifs</strong></mark></h4></td></tr><tr><td align="center"><h4></h4><h4><mark style="color:blue;"><strong>Lieux</strong></mark></h4></td></tr><tr><td align="center"><h4><mark style="color:blue;"><strong>Informations de contacts</strong></mark></h4></td></tr><tr><td align="center"><h4></h4><h4><mark style="color:blue;"><strong>Réservation en ligne</strong></mark></h4></td></tr></tbody></table>
 
 
 
