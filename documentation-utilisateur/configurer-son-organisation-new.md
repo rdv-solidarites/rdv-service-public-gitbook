@@ -17,25 +17,9 @@ En tant qu’_Agent Admin_, votre rôle est de configurer votre organisation. Vo
 
 ***
 
-{% stepper %}
-{% step %}
-### Créer des motifs&#x20;
+## Les premiers pas
 
-
-{% endstep %}
-
-{% step %}
-### Créer un lieux
-
-
-{% endstep %}
-
-{% step %}
-### Inviter des agents&#x20;
-
-
-{% endstep %}
-{% endstepper %}
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><h4><mark style="color:blue;">Tutoriel</mark></h4></td><td><a href="https://www.canva.com/design/DAGz5MMraCA/tKSSSeonoaIX5HDmJZTsjA/view?utm_content=DAGz5MMraCA&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=h6bddb23c9b">https://www.canva.com/design/DAGz5MMraCA/tKSSSeonoaIX5HDmJZTsjA/view?utm_content=DAGz5MMraCA&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=h6bddb23c9b</a></td></tr></tbody></table>
 
 ***
 
@@ -194,7 +178,7 @@ Une fois les lieux créés, les agents pourront **associer leurs plages d’ouve
 
 <details>
 
-<summary><strong>Comment puis-je renseigner mes informations de contact ?</strong> </summary>
+<summary>À quoi servent les informations de contact ?  </summary>
 
 Cette fonctionnalité répond des usagers qui souhaitent facilement vous contacter en cas de besoin (difficultés à annuler son rendez-vous en autonomie, besoin d'informations complémentaires au rendez-vous, demande de modification de rendez-vous etc ...).&#x20;
 
