@@ -13,6 +13,12 @@ Vous pouvez consulter le tutoriel pas à pas pour configurer votre organisation 
 
 Vous pouvez également consulter les questions fréquentes :&#x20;
 
+## <a href="https://www.canva.com/design/DAGz5MMraCA/tKSSSeonoaIX5HDmJZTsjA/view?utm_content=DAGz5MMraCA&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=h6bddb23c9b" class="button primary" data-icon="up-right-from-square">Tutoriel</a>
+
+<a href="https://www.canva.com/design/DAGz5MMraCA/tKSSSeonoaIX5HDmJZTsjA/view?utm_content=DAGz5MMraCA&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=h6bddb23c9b" class="button primary">New button</a>
+
+* <a href="https://www.canva.com/design/DAGz5MMraCA/tKSSSeonoaIX5HDmJZTsjA/view?utm_content=DAGz5MMraCA&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=h6bddb23c9b" class="button primary">New button</a>
+
 <details>
 
 <summary><strong>Que peut faire ou ne pas faire un agent admin ?</strong> </summary>
