@@ -17,7 +17,11 @@ En tant qu’_Agent Admin_, votre rôle est de configurer votre organisation. Vo
 
 ***
 
-<mark style="color:blue;">**Plus de détails sur chaque option :**</mark>&#x20;
+<table data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><mark style="color:blue;"><strong>Agents</strong></mark></td></tr><tr><td align="center"><mark style="color:blue;"><strong>Motifs</strong></mark></td></tr><tr><td align="center"><mark style="color:blue;"><strong>Lieux</strong></mark></td></tr><tr><td align="center"><mark style="color:blue;"><strong>Informations de contacts</strong></mark></td></tr><tr><td align="center"><mark style="color:blue;"><strong>Réservation en ligne-</strong></mark></td></tr></tbody></table>
+
+
+
+#### <mark style="color:$info;">**Questions fréquentes**</mark>&#x20;
 
 <details>
 
