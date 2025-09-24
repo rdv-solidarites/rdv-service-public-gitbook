@@ -17,15 +17,33 @@ En tant qu’_Agent Admin_, votre rôle est de configurer votre organisation. Vo
 
 ***
 
-<table data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><h4></h4><h4><mark style="color:blue;"><strong>Agents</strong></mark></h4></td></tr><tr><td align="center"><h4></h4><h4><mark style="color:blue;"><strong>Motifs</strong></mark></h4></td></tr><tr><td align="center"><h4></h4><h4><mark style="color:blue;"><strong>Lieux</strong></mark></h4></td></tr><tr><td align="center"><h4><mark style="color:blue;"><strong>Informations de contacts</strong></mark></h4></td></tr><tr><td align="center"><h4></h4><h4><mark style="color:blue;"><strong>Réservation en ligne</strong></mark></h4></td></tr></tbody></table>
+{% stepper %}
+{% step %}
+### Créer des motifs&#x20;
 
 
+{% endstep %}
 
-#### <mark style="color:$info;">**Questions fréquentes**</mark>&#x20;
+{% step %}
+### Créer un lieux
+
+
+{% endstep %}
+
+{% step %}
+### Inviter des agents&#x20;
+
+
+{% endstep %}
+{% endstepper %}
+
+***
+
+## Questions fréquentes
 
 <details>
 
-<summary><strong>Agents</strong></summary>
+<summary><strong>Comment gérer les droits d'accès des agents ?</strong> </summary>
 
 Vous pouvez ouvrir des accès aux agents de votre administration. Les agents pourront alors disposer d'un compte RDV Service Public on se connectant via un email et un mot de passe ou en utilisant [ProConnect](https://www.proconnect.gouv.fr).&#x20;
 
@@ -95,7 +113,7 @@ Si un changement est nécessaire :
 
 <details>
 
-<summary><strong>Motifs de rendez-vous</strong></summary>
+<summary><strong>Comment créer et gérer mes motifs ?</strong> </summary>
 
 Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de rendez-vous, d’informer l’agent sur le contenu attendu et d’affiner les options (présentiel, téléphone, visio, option de prise de rendez-vous en ligne).&#x20;
 
@@ -155,7 +173,7 @@ Cette fonctionnalité permet de faire afficher ces instructions :&#x20;
 
 <details>
 
-<summary><strong>Lieux</strong></summary>
+<summary><strong>Comment configurer les lieux ?</strong> </summary>
 
 Les lieux permettent d'associer les disponiblités des plages d'ouvertures des agents à des adresses de rendez-vous.&#x20;
 
@@ -176,7 +194,7 @@ Une fois les lieux créés, les agents pourront **associer leurs plages d’ouve
 
 <details>
 
-<summary><strong>Informations de contacts</strong></summary>
+<summary><strong>Comment puis-je renseigner mes informations de contact ?</strong> </summary>
 
 Cette fonctionnalité répond des usagers qui souhaitent facilement vous contacter en cas de besoin (difficultés à annuler son rendez-vous en autonomie, besoin d'informations complémentaires au rendez-vous, demande de modification de rendez-vous etc ...).&#x20;
 
@@ -186,7 +204,7 @@ Ces informations apparaîtront ainsi dans les récapitulatif de rendez-vous acce
 
 <details>
 
-<summary><strong>Réservation en ligne</strong></summary>
+<summary><strong>Comment mettre en place la prise de rendez-vous en ligne ?</strong> </summary>
 
 Cette fonctionnalité permet à vos usagers de planifier des rendez-vous en autonomie depuis leur ordinateur ou téléphone avec vos services.&#x20;
 
@@ -215,4 +233,10 @@ Vous pouvez diffuser cet URL sur :
 {% hint style="success" %}
 Vous trouverez également des informations complémentaires dans la [**Foire Aux Questions**](faq.md)
 {% endhint %}
+
+
+
+#### Questions fréquentes&#x20;
+
+
 
