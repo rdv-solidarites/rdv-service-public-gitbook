@@ -6,18 +6,16 @@ icon: building-columns
 
 # Configurer son organisation (new)
 
-En tant qu’_Agent Admin_, votre rôle est de configurer votre organisation. Vos options de configuration sont au plus proche des besoins métiers. Votre configuration assure à vos équipes les conditions nécessaires pour travailler simplement et répondre aux besoins des usagers.
+En tant qu’_Agent Admin_, votre rôle est de configurer votre organisation. Vos options de configuration sont au plus proche des besoins métiers. Votre configuration assure à vos équipes les conditions nécessaires pour travailler simplement et répondre aux besoins des usagers. En bref :&#x20;
+
+* **Périmètre d’accès** : tous les services de son organisation&#x20;
+* **Périmètre de configuration** : accès aux paramètres de l’organisation
+* **Tâches** : créer des motifs, lieux, inviter des agents&#x20;
+* **Ne fait pas** : créer des organisations, activer des services ni gérer l’espace
 
 ***
 
-* Périmètre d’accès : tous les services de son organisation&#x20;
-* Périmètre de configuration : accès aux paramètres de l’organisation
-* Tâches : créer des motifs, lieux, inviter des agents&#x20;
-* Ne fait pas : créer des organisations, activer des services ni gérer l’espace
-
-***
-
-## Les premiers pas
+Vous pouvez consulter le tutoriel pas à pas pour configurer votre organisation :&#x20;
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><h4><mark style="color:blue;">Tutoriel</mark></h4></td><td><a href="https://www.canva.com/design/DAGz5MMraCA/tKSSSeonoaIX5HDmJZTsjA/view?utm_content=DAGz5MMraCA&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=h6bddb23c9b">https://www.canva.com/design/DAGz5MMraCA/tKSSSeonoaIX5HDmJZTsjA/view?utm_content=DAGz5MMraCA&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=h6bddb23c9b</a></td></tr></tbody></table>
 
