@@ -1,6 +1,20 @@
 ---
 description: Rôle d'un Agent Admin
 hidden: true
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Configurer son organisation (new)
