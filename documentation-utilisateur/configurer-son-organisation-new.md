@@ -5,7 +5,7 @@ hidden: true
 
 # Configurer son organisation (new)
 
-En tant qu’_Agent Admin_, votre rôle est de configurer votre organisation. Vos options de configuration sont au plus proche des besoins métiers. Votre configuration assure à vos équipes les conditions nécessaires pour travailler simplement et répondre aux besoins des usagers.&#x20;
+En tant qu’_**Agent Admin**_, votre rôle est de configurer votre organisation. Vos options de configuration sont au plus proche des besoins métiers. Votre configuration assure à vos équipes les conditions nécessaires pour travailler simplement et répondre aux besoins des usagers.&#x20;
 
 Vous pouvez consulter le tutoriel pas à pas pour configurer votre organisation :&#x20;
 
@@ -17,15 +17,15 @@ Vous pouvez également consulter les questions fréquentes :&#x20;
 
 <summary><strong>Que peut faire ou ne pas faire un agent admin ?</strong> </summary>
 
-Le rôle _Agent Admin_ est un des 3 niveaux d'accès (_Agent Basique_, _Agent Admin_ et _Agent Admin d'Espace_) des comptes agent :&#x20;
+Le rôle _**Agent Admin**_ est un des 3 niveaux d'accès (_Agent Basique_, _Agent Admin_ et _Agent Admin d'Espace_) des comptes agent. Vous trouverez un résumé des rôles et permissions d'un _**Agent Admin**_ :&#x20;
 
-* **Périmètre d’accès** : tous les services de son organisation&#x20;
+* Périmètre d’accès : tous les services de son organisation&#x20;
 
-- **Périmètre de configuration** : accès aux paramètres de l’organisation
+- Périmètre de configuration : accès aux paramètres de l’organisation
 
-* **Tâches** : créer des motifs, lieux, inviter des agents&#x20;
+* Tâches : créer des motifs, lieux, inviter des agents&#x20;
 
-- **Ne fait pas** : créer des organisations, activer des services ni gérer l’espace
+- Ne fait pas : créer des organisations, activer des services ni gérer l’espace
 
 </details>
 
