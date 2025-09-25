@@ -236,9 +236,5 @@ Vous pouvez diffuser cet URL sur :
 Vous trouverez également des informations complémentaires dans la [**Foire Aux Questions**](faq.md)
 {% endhint %}
 
-<table data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><mark style="color:blue;"><strong>Utiliser son agenda</strong></mark></td></tr><tr><td align="center"><mark style="color:blue;"><strong>Configurer son organisation</strong></mark></td></tr><tr><td align="center"><mark style="color:blue;"><strong>Configurer son agenda</strong></mark></td></tr></tbody></table>
-
-#### Questions fréquentes&#x20;
-
 
 
