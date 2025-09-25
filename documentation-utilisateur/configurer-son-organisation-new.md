@@ -236,7 +236,7 @@ Vous pouvez diffuser cet URL sur :
 Vous trouverez également des informations complémentaires dans la [**Foire Aux Questions**](faq.md)
 {% endhint %}
 
-
+<table data-view="cards"><thead><tr><th align="center"></th><th><select multiple><option value="m608Zk9GBaWk" label="Agent Basique" color="blue"></option><option value="tqkajyqgTtKu" label="Agent Admin" color="blue"></option><option value="BpcpibuGDxh9" label="Agent Admin d&#x27;Esapce" color="blue"></option><option value="uaUUzGLO4EHK" label="Agent Admin d&#x27;Espace" color="blue"></option></select></th></tr></thead><tbody><tr><td align="center"><mark style="color:blue;"><strong>Utiliser son agenda</strong></mark></td><td><span data-option="tqkajyqgTtKu">Agent Admin, </span><span data-option="m608Zk9GBaWk">Agent Basique, </span><span data-option="uaUUzGLO4EHK">Agent Admin d'Espace</span></td></tr><tr><td align="center"><mark style="color:blue;"><strong>Configurer son organisation</strong></mark></td><td><span data-option="tqkajyqgTtKu">Agent Admin, </span><span data-option="BpcpibuGDxh9">Agent Admin d'Esapce</span></td></tr><tr><td align="center"><mark style="color:blue;"><strong>Configurer son agenda</strong></mark></td><td><span data-option="BpcpibuGDxh9">Agent Admin d'Esapce</span></td></tr></tbody></table>
 
 #### Questions fréquentes&#x20;
 
