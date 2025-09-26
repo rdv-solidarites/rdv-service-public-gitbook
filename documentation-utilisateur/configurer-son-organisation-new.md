@@ -1,5 +1,6 @@
 ---
 hidden: true
+icon: building
 layout:
   width: default
   title:
@@ -18,7 +19,7 @@ layout:
 
 # Configurer son organisation (new)
 
-{% hint style="info" %}
+{% hint style="success" %}
 Uniquement les _agent admin_ et _agent admin d'espace_ peuvent configurer une organisation
 {% endhint %}
 
@@ -234,10 +235,4 @@ Vous pouvez diffuser cet URL sur :
 
 
 </details>
-
-{% hint style="success" %}
-Vous trouverez également des informations complémentaires dans la [**Foire Aux Questions**](faq.md)
-{% endhint %}
-
-
 
