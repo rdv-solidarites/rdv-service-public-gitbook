@@ -1,5 +1,4 @@
 ---
-description: Rôle d'un Agent Admin
 hidden: true
 layout:
   width: default
@@ -19,7 +18,11 @@ layout:
 
 # Configurer son organisation (new)
 
-En tant qu’_**Agent Admin**_, votre rôle est de configurer votre organisation. Vos options de configuration sont au plus proche des besoins métiers. Votre configuration assure à vos équipes les conditions nécessaires pour travailler simplement et répondre aux besoins des usagers.&#x20;
+{% hint style="info" %}
+Uniquement les _agent admin_ et _agent admin d'espace_ peuvent configurer une organisation
+{% endhint %}
+
+Les options de configuration d'une organisation sont au plus proche des besoins métiers. Votre configuration assure à vos équipes les conditions nécessaires pour travailler simplement et répondre aux besoins des usagers.&#x20;
 
 Vous pouvez consulter le tutoriel pas à pas pour configurer votre organisation :&#x20;
 
