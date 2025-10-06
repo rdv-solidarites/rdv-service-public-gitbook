@@ -1,6 +1,6 @@
 # Prescription
 
-### Qu’est-ce qu’est la prescription ?
+## Qu’est-ce qu’est la prescription ?
 
 <div align="left"><figure><img src="../.gitbook/assets/image (5).png" alt="" width="128"><figcaption></figcaption></figure></div>
 
@@ -16,7 +16,7 @@ Globalement, la **prescription interne** concerne les agents utilisateurs de RDV
 
 Quant à la **prescription externe**, elle s'adresse aux agents qui n'ont pas de compte RDV Solidarités mais qui sont amenés à planifier des rendez-vous de manière régulière pour les usagers en fonction des disponibilités des agents utilisateurs de RDV Solidarités.
 
-### En tant qu’administrateur, comment rendre les créneaux de réservation en ligne disponibles pour les prescripteurs ?
+## En tant qu’administrateur, comment rendre les créneaux de réservation en ligne disponibles pour les prescripteurs ?
 
 <div align="left"><figure><img src="../.gitbook/assets/image.png" alt="" width="128"><figcaption></figcaption></figure></div>
 
@@ -25,11 +25,11 @@ Tout comme l’ouverture en ligne aux usagers, proposer des créneaux de prise d
 * motif ouvert en ligne : Veuillez suivre le chemin suivant : Paramètres → Motifs → Éditer ou créer un motif → Onglet "Réservation en ligne" → Cochez la deuxième proposition dans l'encadré "Réservation en ligne".
 * plage d’ouverture : Définissez la plage d'ouverture durant laquelle le prescripteur peut planifier un rendez-vous pour l'usager. Pour ce faire, suivez le chemin suivant : Plages d'ouverture → Éditer ou créer une plage d'ouverture → Sélectionnez un motif avec la pastille "En ligne".
 
-### En tant que prescripteur, comment planifier un rendez-vous pour un usager ?
+## En tant que prescripteur, comment planifier un rendez-vous pour un usager ?
 
-#### Je suis un agent ayant un compte RDVS et je souhaite planifier un rendez-vous sein d’une organisation de mon territoire (prescription interne)
+### Je suis un agent ayant un compte RDVS et je souhaite planifier un rendez-vous sein d’une organisation de mon territoire (prescription interne)
 
-**Je souhaite faire de la prescription interne pour un usager identifié 👇**
+#### **Je souhaite faire de la prescription interne pour un usager identifié 👇**
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FCZACpx16wwY8yODH1YeI%2Fuploads%2FnFOLvM6JphSLygk0uMId%2Ftest.mp4?alt=media&token=505c02b5-61c4-4396-ac6f-5af8ef9e47a3" %}
 
@@ -41,9 +41,7 @@ Identifier un usager → Trouver un RDV → Cliquer sur “élargir votre recher
 Nous vous encourageons à privilégier ce chemin lorsqu'un motif est soumis à une sectorisation
 {% endhint %}
 
-
-
-**Je souhaite faire de la prescription interne pour un usager non-identifié 👇**
+#### **Je souhaite faire de la prescription interne pour un usager non-identifié 👇**
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FCZACpx16wwY8yODH1YeI%2Fuploads%2FR7lSbQLXElbCWk74E9pY%2F2.mp4?alt=media&token=8128ac9a-e443-4259-be4f-1156dcd79b4f" %}
 
@@ -55,9 +53,7 @@ Dirigez-vous vers le bouton “Trouver un RDV” → cliquez sur “élargir vot
 Nous vous encourageons à privilégier ce chemin pour offrir des disponibilités plus rapidement
 {% endhint %}
 
-
-
-**Je souhaite planifier un rendez-vous pour un usager depuis un lien prescripteur 👇**&#x20;
+#### **Je souhaite planifier un rendez-vous pour un usager depuis un lien prescripteur 👇**&#x20;
 
 {% hint style="success" %}
 Nouveauté ✨
@@ -73,9 +69,9 @@ Vous serez alors redirigé vers une page qui conserve les informations préalabl
 Nous vous encourageons à privilégier ce chemin lorsque vous êtes déjà connecté sur RDV. En etant authentifié sur votre espace, vous n’aurez plus besoin d’indiquer vos coordonnées
 {% endhint %}
 
-#### Je suis un agent sans compte RDVS et je souhaite planifier un rendez-vous auprès une organisation utilisatrice de RDVS
+### Je suis un agent sans compte RDVS et je souhaite planifier un rendez-vous auprès une organisation utilisatrice de RDVS
 
-**Je souhaite planifier un rendez-vous auprès d’une organisation utilisatrice de RDVS 👇**
+#### **Je souhaite planifier un rendez-vous auprès d’une organisation utilisatrice de RDVS 👇**
 
 En tant qu’agent d’une organisation utilisatrice de RDVS, vous pouvez planifier des rendez-vous selon les disponibilités des agents RDVS pour les usagers.
 
@@ -94,9 +90,9 @@ Ensuite, il est nécessaire de renseigner les coordonnées de l'usager et confir
 
 
 
-### F.A.Q
+## F.A.Q
 
-#### Qui reçoit les notifications pour les prise de rendez-vous par prescription ?
+### Qui reçoit les notifications pour les prise de rendez-vous par prescription ?
 
 La prescription implique trois acteurs : le prescripteur, l’usager et l’agent. Tous ces acteurs sont informés du rendez-vous par notifications.
 
@@ -104,11 +100,11 @@ La prescription implique trois acteurs : le prescripteur, l’usager et l’agen
 * Le patient reçoit une confirmation de rendez-vous ainsi qu'un rappel 48 heures avant le rendez-vous avec le professionnel.
 * Le professionnel voit le rendez-vous apparaître directement dans son agenda. Selon la configuration de synchronisation, il peut également recevoir un e-mail ou voir le rendez-vous être importé automatiquement dans son agenda externe.
 
-#### Est-il possible pour un prescripteur d’annuler ou de modifier un RDV ?
+### Est-il possible pour un prescripteur d’annuler ou de modifier un RDV ?
 
 Une fois le rendez-vous planifié, le prescripteur n’intervient plus dans la gestion de celui-ci. L'annulation ou la modification d'un rendez-vous peut être initiée par les parties concernées, à savoir l’agent et l’usager.
 
-#### Est-il possible de contacter un prescripteur ?
+### Est-il possible de contacter un prescripteur ?
 
 Dans le cas où l'agent a besoin de plus d'informations sur le contexte de la prise de rendez-vous, il peut contacter le prescripteur en utilisant les informations laissées par ce dernier (au minimum, son adresse e-mail professionnelle, et idéalement, son numéro de téléphone). L'agent peut retrouver les coordonnées du prescripteur en suivant ce chemin :
 
