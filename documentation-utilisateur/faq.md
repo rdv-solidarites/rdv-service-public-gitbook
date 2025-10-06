@@ -14,7 +14,7 @@ Cette fonctionnalité permet de recevoir des notifications par email lorsqu’un
 
 Vous pouvez personnaliser vos préférences de notification dans l’onglet _**Mon Compte**_, accessible en cliquant sur votre prénom en haut à droite de votre calendrier.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Chaque email contient une pièce jointe au format **ICS**, compatible avec la plupart des logiciels de calendrier. Votre calendrier externe reconnaîtra automatiquement ces mises à jour, bien que certains logiciels demandent une validation manuelle des modifications.
 

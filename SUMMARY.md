@@ -52,6 +52,7 @@
 * [Planifier un rendez vous](toutes-les-notions/planifier-un-rendez-vous.md)
 * [Trouver une disponibilité](toutes-les-notions/trouver-une-disponibilite.md)
 * [Utiliser la prescription interne](toutes-les-notions/utiliser-la-prescription-interne.md)
+* [Prescription](toutes-les-notions/prescription.md)
 
 ## Documentation pour les particuliers
 
