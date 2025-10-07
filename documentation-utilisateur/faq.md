@@ -41,7 +41,7 @@ Le domaine RDV Service Public peut être bloqué par un outil de protection des 
 * Cliquez sur l’icône de droite et autorisez les adresses du domaine @rdv-solidarites.fr / @rdv-service-public.fr / @rdv-aide-numerique.fr
 * Confirmez en validant le message "Autoriser les messages de ces domaines".
 
-Cette autorisation est appliquée à titre individuel et vos collègues auront potentiellement le même problème. Vous pouvez suggérer au responsable technique de votre administration de consulter [cette page](../toutes-les-notions/informations-pour-les-dsi.md) pour corriger ce problème pour tout le monde.
+Cette autorisation est appliquée à titre individuel et vos collègues auront potentiellement le même problème. Vous pouvez suggérer au responsable technique de votre administration de consulter [cette page](broken-reference) pour corriger ce problème pour tout le monde.
 
 ### Un problème temporaire sur les serveurs de RDV Service Public empêche l’envoi des emails
 
@@ -116,7 +116,7 @@ N’hésitez pas à nous contacter à support@rdv-service-public.fr pour que nou
 
 <details>
 
-<summary>Synchronisation Outlook (Microsoft 365)</summary>
+<summary><strong>Synchronisation Outlook (Microsoft 365)</strong></summary>
 
 #### Distinction des versions d’Outlook <a href="#distinction-des-versions-doutlook" id="distinction-des-versions-doutlook"></a>
 
@@ -195,9 +195,7 @@ Vous pouvez modifier vos préférences de notifications email dans l’espace «
 
 Une application Microsoft 365 permet de synchroniser vos RDV vers votre agenda Outlook. Cette application ne fonctionne que pour les versions d’Outlook hébergées par Microsoft, pas pour les versions hébergées sur site.
 
-Vous trouverez plus d’informations sur cette page :&#x20;
-
-[synchronisation-outlook-microsoft-365.md](../toutes-les-notions/synchronisation-outlook-microsoft-365.md "mention")
+Vous trouverez plus d’informations sur [ici](faq.md).
 
 #### **Synchronisation Webcal**
 
@@ -843,7 +841,7 @@ Pour créer une nouvelle organisation :&#x20;
 
 <details>
 
-<summary>Comment utiliser la prescription externe ? </summary>
+<summary><strong>Comment utiliser la prescription externe ?</strong> </summary>
 
 La fonctionnalité prescripteur permet à un partenaire extérieur à votre organisation (une association, une administration, une collectivité) de planifier un rendez-vous pour un usager dans vos disponibilités. Cette fonctionnalité a été développée pour permettre à des entités administratives différentes de rediriger des usagers d'un rendez-vous à l'autre. L'objectif est de **faciliter** et **accélérer** le parcours des usagers.
 
@@ -890,7 +888,7 @@ Après avoir choisi le motif et le créneau, le prescripteur doit cliquer sur _*
 
 <details>
 
-<summary>Comment utiliser la prescription interne ? </summary>
+<summary><strong>Comment utiliser la prescription interne ?</strong> </summary>
 
 La prescription interne permet aux agents de partager leurs disponibilités et de planifier des rendez-vous dans toutes les organisations de votre espace.
 
