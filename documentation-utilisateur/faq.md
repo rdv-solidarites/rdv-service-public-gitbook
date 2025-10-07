@@ -116,6 +116,62 @@ N’hésitez pas à nous contacter à support@rdv-service-public.fr pour que nou
 
 <details>
 
+<summary>Synchronisation Outlook (Microsoft 365)</summary>
+
+#### Distinction des versions d’Outlook <a href="#distinction-des-versions-doutlook" id="distinction-des-versions-doutlook"></a>
+
+Il existe deux versions d’Outlook :
+
+1. Outlook hébergé à distance (Microsoft 365)
+2. Outlook hébergé sur place par l’administration (Microsoft Exchange)
+
+{% hint style="warning" %}
+**Nous proposons une solution de synchronisation uniquement pour la première version : Outlook hébergé à distance (Microsoft 365)**.
+{% endhint %}
+
+Ce guide décrit cette solution. N’hésitez pas à nous contacter si vous avez besoin d’aide pour la mettre en place sur votre espace.
+
+RDV Service Public ne propose pour l’instant pas de solution de synchronisation clé en main pour Outlook hébergé sur place. Certaines structures utilisant RDV Service Public et ce type d’Outlook ont mis en place des solutions via webhooks, qui nécessitent du développement en interne.
+
+#### Fonctionnement <a href="#fonctionnement" id="fonctionnement"></a>
+
+Une application Microsoft Outlook 365 permet aux agents de synchroniser leur agenda RDV Service Public avec leur agenda Microsoft Outlook.
+
+Cette application requiert les droits d’écriture sur les calendriers Outlook.
+
+Elle utilise l’API de Microsoft pour créer et mettre à jour des événements correspondants aux RDV pris dans RDV Service Public.
+
+#### Procédure à suivre <a href="#procedure-a-suivre" id="procedure-a-suivre"></a>
+
+Pour que les agents puissent utiliser l’application Microsoft 365, un·e administrateur·ice du compte Outlook du département doit au préalable l’autoriser via un flux OAuth.
+
+{% hint style="info" %}
+Cette procédure doit être effectuée une seule fois pour tout un compte Microsoft 365
+{% endhint %}
+
+**Étape 1** : L’administrateur·ice Outlook du département doit être invité à créer un compte sur RDV Service Public.
+
+**Étape 2** : Une fois connecté·e sur RDV Service Public, l’administrateur·ice doit cliquer sur son nom en haut à droite > Mon Compte > Synchronisation d’agenda > Connexion Outlook > Se connecter avec Microsoft
+
+![Chemin à suivre pour la connexion Outlook](https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/padnumerique/uploads/874bafcf-66ea-4a17-b07f-23b1406d3c1b.png)
+
+**Étape 3** : L’administrateur·ice doit accepter les permissions. Il faut nécessairement cocher la case **“Consentement pour le compte de votre organisation”** pour que les agents non-administrateur·ices puissent à leur tour utiliser l’application.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p><em>L’application Oauth est actuellement indiquée comme “non vérifiée” car le processus de validation avec Microsoft n’a pas encore été finalisé.</em></p></figcaption></figure>
+
+#### Sécurité et code source <a href="#securite-et-code-source" id="securite-et-code-source"></a>
+
+Pour des raisons de sécurité et de confidentialité, les événements créés dans Outlook ne contiennent pas d’informations personnelles sur les usagers. Ils contiennent uniquement un lien vers RDV Service Public. Ce lien permet à l’agent, une fois authentifié et autorisé, d’accéder aux détails du rendez-vous.
+
+Le code source de RDV Service Public est accessible en open source sur [GitHub (betagouv/rdv-solidarites.fr)](https://github.com/betagouv/rdv-solidarites.fr) :
+
+* **Configuration du client OAuth** : [https://github.com/betagouv/rdv-service-public/blob/production/config/initializers/omniauth.rb#L6](https://github.com/betagouv/rdv-service-public/blob/production/config/initializers/omniauth.rb#L6)
+* **Code du client REST** : [https://github.com/betagouv/rdv-service-public/blob/production/app/models/outlook/api\_client.rb](https://github.com/betagouv/rdv-service-public/blob/production/app/models/outlook/api_client.rb)
+
+</details>
+
+<details>
+
 <summary><strong>Comment synchroniser les rendez-vous avec mon agenda ?</strong></summary>
 
 Cette fonctionnalité permet d'envoyer les informations des rendez-vous planifié dans un agenda extérieur à RDV Service Public. Elle répond au besoin de faire afficher les rendez-vous planifié dans un agenda du quotidien, souvent utilisé dans les administrations pour gérer leur quotidien métier en dehors des rendez-vous (réunion d'équipe etc ...)
@@ -778,5 +834,86 @@ Pour créer une nouvelle organisation :&#x20;
 * Cet agent admin pourra ensuite inviter d'autres agents dans cette organisation si nécessaire.
 
 **Seul un agent admin d'espace peut créer des organisations.**&#x20;
+
+</details>
+
+<h2 align="center">La prescription</h2>
+
+
+
+<details>
+
+<summary>Comment utiliser la prescription externe ? </summary>
+
+La fonctionnalité prescripteur permet à un partenaire extérieur à votre organisation (une association, une administration, une collectivité) de planifier un rendez-vous pour un usager dans vos disponibilités. Cette fonctionnalité a été développée pour permettre à des entités administratives différentes de rediriger des usagers d'un rendez-vous à l'autre. L'objectif est de **faciliter** et **accélérer** le parcours des usagers.
+
+Concrètement, un agent d'une structure X peut planifier un rendez-vous directement dans vos disponibilités. Vous pouvez alors informer vos structures partenaires qu'elles ont la possibilité de planifier des rendez-vous sur vos créneaux disponibles.
+
+{% hint style="info" %}
+**Par exemple, vous pouvez en informer la mairie de votre commune. Les secrétaires et agents d'accueil en contact avec des usagers pourront ainsi les rediriger vers un rendez-vous dans vos disponibilités.**
+{% endhint %}
+
+#### Comment l’utiliser ?
+
+***
+
+La première étape consiste à configurer des motifs de rendez-vous ouverts à la réservation en ligne dans vos plages de disponibilités. Pour plus d'informations, consultez Activer la prise de rendez-vous en ligne.
+
+Ensuite, il vous suffit de partager l'URL de prise de _**rendez-vous en ligne**_ avec les administrations de votre choix. Celles-ci pourront alors suivre le parcours prescripteur pour planifier des rendez-vous dans vos disponibilités.
+
+Si l'agent a besoin de plus d'informations sur le contexte du rendez-vous, il peut contacter le prescripteur en utilisant les coordonnées laissées par ce dernier. Ces informations sont accessibles depuis la fiche du rendez-vous.
+
+Les trois acteurs sont informés du rendez-vous par notifications :
+
+* Le prescripteur reçoit un e-mail confirmant le rendez-vous pour l'usager.
+* L'usager reçoit une confirmation de rendez-vous ainsi qu'un rappel 48 heures avant la rencontre avec le professionnel.
+* Le professionnel voit le rendez-vous apparaître directement dans son agenda. Selon la configuration de synchronisation, il peut également recevoir un e-mail ou voir le rendez-vous s'importer automatiquement dans son agenda externe.
+
+#### Que doit faire un prescripteur ?
+
+***
+
+Un prescripteur aura accès aux disponibilités de l'organisation via le parcours de prise de rendez-vous en ligne _**(plus d'informations Activer la prise de rendez-vous en ligne).**_
+
+Pour prendre rendez-vous pour un usager, le prescripteur devra sélectionner :
+
+* un **motif** de rendez-vous
+* un **créneau** de rendez-vous
+
+Après avoir choisi le motif et le créneau, le prescripteur doit cliquer sur _**« Je suis un prescripteur qui oriente un bénéficiaire »**_. Il sera ensuite invité à saisir ses coordonnées, puis celles de l'usager. Une fois toutes ces informations renseignées, il pourra _**confirmer le rendez-vous**_. Un récapitulatif du rendez-vous sera généré à la fin du processus.
+
+{% hint style="info" %}
+**Une fois le rendez-vous planifié, le prescripteur n'intervient plus dans sa gestion. L'annulation ou la modification d'un rendez-vous peut être initiée uniquement par les parties concernées, à savoir l'agent et l'usager.**
+{% endhint %}
+
+</details>
+
+<details>
+
+<summary>Comment utiliser la prescription interne ? </summary>
+
+La prescription interne permet aux agents de partager leurs disponibilités et de planifier des rendez-vous dans toutes les organisations de votre espace.
+
+{% hint style="warning" %}
+**Par défaut, un agent peut planifier des rendez-vous uniquement dans les plannings des agents de son service**&#x20;
+{% endhint %}
+
+Par exemple, si votre espace dispose de deux organisations — _**MDS de Beaulieu**_ et _**MDS de Boudon**_ — les agents pourront planifier des rendez-vous dans ces deux organisations.
+
+#### Comment l’utiliser ?
+
+***
+
+{% hint style="success" %}
+**Ce parcours est possible si vos motifs sont ouverts aux prescripteurs. Cette configuration est accessible depuis la modification de vos motifs.**&#x20;
+{% endhint %}
+
+Vous pouvez accéder aux disponibilités des agents d'une autre organisation depuis le bouton _**Trouver un rendez-vous**_ :
+
+**→ Cliquez sur&#x20;**_**Élargir votre recherche**_
+
+**→ Sélectionnez les informations du rendez-vous (motif, lieu, créneaux et usagers)**
+
+**→ Validez le rendez-vous en cliquant sur « Confirmer le RDV »**
 
 </details>
