@@ -8,12 +8,10 @@
 * [Configurer son espace](documentation-utilisateur/configurer-son-espace.md)
 * [Configurer son organisation](documentation-utilisateur/configurer-son-organisation.md)
 * [Utiliser son agenda](documentation-utilisateur/utiliser-son-agenda.md)
-* [Configurer son organisation (new)](documentation-utilisateur/configurer-son-organisation-new.md)
 
 ## Intégration
 
 * [Formulaire et rendez-vous](integration/formulaire-et-rendez-vous.md)
-* [Dossier et rendez-vous](integration/dossier-et-rendez-vous.md)
 
 ## Documentation technique
 
