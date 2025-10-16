@@ -3,19 +3,21 @@ hidden: true
 icon: calendar
 ---
 
-# Utiliser son agenda (new)
+# Utiliser son agenda 2
 
 En tant qu’_Agent Basique_, vous disposez d’un compte rattaché à une organisation configurée par des _Agent Admin_. Autrement dit, la solution est déjà configurée, il ne reste plus qu'à la prendre en main !&#x20;
 
-<h4 align="center"><a href="https://www.canva.com/design/DAG12n5tsJk/4DdLZlT4eyfrV6nUboI5mQ/view?utm_content=DAG12n5tsJk&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=ha4d852eef7" class="button primary">Consulter le guide !</a></h4>
+***
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><mark style="color:blue;">Consulter le guide !</mark> </td><td>Un tutoriel pas à pas pour comprendre les bases de la solution</td><td><a href="../.gitbook/assets/Capture d’écran 2025-10-16 à 09.29.44.png">Capture d’écran 2025-10-16 à 09.29.44.png</a></td></tr></tbody></table>
 
 ***
 
-<mark style="color:blue;">**Plus de détails sur chaque option :**</mark>&#x20;
+Vous trouverez également les questions fréquentes et leurs solutions des utilisateurs :&#x20;
 
 <details>
 
-<summary><strong>Plages d'ouverture</strong></summary>
+<summary><strong>Comment .... etc ?</strong></summary>
 
 Les plages d'ouverture vous permettent de définir vos disponibilités.
 
@@ -35,7 +37,7 @@ Vous pouvez créer :
 
 <details>
 
-<summary><strong>Indisponibilités</strong></summary>
+<summary><strong>Comment .... etc ?</strong></summary>
 
 Les indisponibilités vous permettent de fermer vos permanences de manière ponctuelle, par exemple en cas de congés, de formation ou d'absence exceptionnelle.
 
@@ -55,7 +57,7 @@ Vous avez également la possibilité de programmer des indisponibilités récurr
 
 <details>
 
-<summary><strong>Trouver un rendez-vous</strong> </summary>
+<summary><strong>Comment .... etc ?</strong></summary>
 
 Pour prendre un rendez-vous pour un usager, cliquez sur le bouton _**Trouver un RDV**_ depuis l'interface.
 
@@ -76,7 +78,7 @@ Cette fonctionnalité vous permet d'accéder aux créneaux disponibles dans d'au
 
 <details>
 
-<summary><strong>Usagers</strong></summary>
+<summary><strong>Comment .... etc ?</strong></summary>
 
 Le menu _Usagers_ vous permet de rechercher, par nom, les usagers ayant eu ou ayant un rendez-vous à venir au sein de votre service.
 
@@ -91,7 +93,7 @@ En accédant à la fiche d’un usager, vous pourrez consulter :
 
 <details>
 
-<summary><strong>Liste des RDV</strong></summary>
+<summary><strong>Comment .... etc ?</strong></summary>
 
 En tant qu’agent, vous avez accès à deux types de rendez-vous :
 

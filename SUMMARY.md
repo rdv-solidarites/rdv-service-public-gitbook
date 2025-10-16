@@ -8,11 +8,12 @@
 * [Configurer son espace](documentation-utilisateur/configurer-son-espace.md)
 * [Configurer son organisation](documentation-utilisateur/configurer-son-organisation.md)
 * [Utiliser son agenda](documentation-utilisateur/utiliser-son-agenda.md)
-* [Utiliser son agenda (new)](documentation-utilisateur/utiliser-son-agenda-new.md)
+* [Utiliser son agenda 2](documentation-utilisateur/utiliser-son-agenda-2.md)
 
 ## Intégration
 
 * [Formulaire et rendez-vous](integration/formulaire-et-rendez-vous.md)
+* [Titres Sécurisés et rendez-vous](integration/titres-securises-et-rendez-vous.md)
 
 ## Documentation technique
 
