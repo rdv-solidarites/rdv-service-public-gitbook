@@ -1,6 +1,8 @@
 ---
 hidden: true
 icon: calendar
+cover: ../.gitbook/assets/Capture d’écran 2025-10-16 à 13.15.48.png
+coverY: 0
 ---
 
 # Utiliser son agenda 2
