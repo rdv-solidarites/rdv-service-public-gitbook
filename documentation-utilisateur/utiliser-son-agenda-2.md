@@ -9,7 +9,7 @@ En tant qu’_Agent Basique_, vous disposez d’un compte rattaché à une organ
 
 ***
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><mark style="color:blue;">Consulter le guide !</mark> </td><td>Un tutoriel pas à pas pour comprendre les bases de la solution</td><td><a href="../.gitbook/assets/Capture d’écran 2025-10-16 à 09.29.44.png">Capture d’écran 2025-10-16 à 09.29.44.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4><mark style="color:blue;"><strong>Consulter le guide !</strong></mark> </h4></td><td>Un tutoriel pas à pas pour comprendre les bases de la solution</td><td><a href="../.gitbook/assets/Capture d’écran 2025-10-16 à 09.29.44.png">Capture d’écran 2025-10-16 à 09.29.44.png</a></td></tr></tbody></table>
 
 ***
 
