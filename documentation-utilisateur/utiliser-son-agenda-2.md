@@ -35,7 +35,7 @@ Vous pouvez créer :
 
 <details>
 
-<summary><strong>Comment gérer mon agenda en cas dune indisponiblité ponctuelle ?</strong> </summary>
+<summary><strong>Comment gérer mon agenda en cas d'une indisponiblité ponctuelle ?</strong> </summary>
 
 Les indisponibilités vous permettent de fermer vos permanences de manière ponctuelle, par exemple en cas de congés, de formation ou d'absence exceptionnelle.
 
@@ -61,7 +61,7 @@ Vous pouvez configurer vos préférences de notification depuis la configuration
 
 Depuis ce menu, vous pouvez configurer vos préférences de notiffication. Plusieurs options s'offrent à vous. Vous pouvez recevoir des notifications par email lorsqu’un rendez-vous est ajouté, modifié ou annulé dans un agenda. Elle répond au besoin des agents souhaitant être alertés en cas de changement dans leur planning.
 
-Chaque email contient une pièce jointe au format **ICS**, compatible avec la plupart des logiciels de calendrier. Votre calendrier externe reconnaîtra automatiquement ces mises à jour, bien que certains logiciels demandent une validation manuelle des modifications.
+Chaque email contient une pièce jointe au format `.xls`, compatible avec la plupart des logiciels de calendrier. Votre calendrier externe reconnaîtra automatiquement ces mises à jour, bien que certains logiciels demandent une validation manuelle des modifications.
 
 </details>
 
