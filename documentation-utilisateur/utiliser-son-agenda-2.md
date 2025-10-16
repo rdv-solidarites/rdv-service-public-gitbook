@@ -5,7 +5,7 @@ icon: calendar
 
 # Utiliser son agenda 2
 
-En tant qu’_Agent Basique_, vous disposez d’un compte rattaché à une organisation configurée par des _Agent Admin_. Autrement dit, la solution est déjà configurée, il ne reste plus qu'à la prendre en main !&#x20;
+Tous les agents de la solution peuvent utiliser les fonctionnalités de gestion et de prise de rendez-vous. Cette page est donc à destination de tous les utilisateurs RDV Service Public ! Vous trouverez ici une aide et des explications sur les fonctionnalités de bases de la solution.&#x20;
 
 ***
 
@@ -13,7 +13,7 @@ En tant qu’_Agent Basique_, vous disposez d’un compte rattaché à une organ
 
 ***
 
-Vous trouverez également les questions fréquentes et leurs solutions des utilisateurs :&#x20;
+### Questions Fréquentes :&#x20;
 
 <details>
 
