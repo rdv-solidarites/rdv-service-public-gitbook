@@ -5,11 +5,9 @@ icon: calendar
 
 # Utiliser son agenda 2
 
-Tous les agents de la solution peuvent utiliser les fonctionnalités de gestion et de prise de rendez-vous. Cette page est donc à destination de tous les utilisateurs RDV Service Public ! Vous trouverez ici une aide et des explications sur les fonctionnalités de la solution.&#x20;
+Tous les agents de la solution peuvent utiliser les fonctionnalités de gestion et de prise de rendez-vous. Cette page est donc à destination de tous les utilisateurs RDV Service Public ! Vous trouverez ici une aide et des explications sur les fonctionnalités de la solution. Vous pouvez consultez le guide ou les questions fréquentes.&#x20;
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><mark style="color:blue;"><strong>Consulter le guide !</strong></mark> </h4></td><td>Un tutoriel pas à pas pour comprendre les fonctionnalités essentielles.</td><td><a href="../.gitbook/assets/Capture d’écran 2025-10-16 à 09.29.44.png">Capture d’écran 2025-10-16 à 09.29.44.png</a></td><td><a href="https://www.canva.com/design/DAG12n5tsJk/4DdLZlT4eyfrV6nUboI5mQ/view?utm_content=DAG12n5tsJk&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=ha4d852eef7">https://www.canva.com/design/DAG12n5tsJk/4DdLZlT4eyfrV6nUboI5mQ/view?utm_content=DAG12n5tsJk&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=ha4d852eef7</a></td></tr></tbody></table>
-
-### Questions Fréquentes :&#x20;
 
 <details>
 
