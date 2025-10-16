@@ -23,6 +23,8 @@ layout:
 
 Centralisez la gestion des dossiers et la planification des rendez-vous !&#x20;
 
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4><mark style="color:blue;">Tutoriel</mark></h4></td><td>Comprendre pas à pas la mise en place de l'intégration ! </td><td><a href="https://www.canva.com/design/DAGyd65U97M/ltVLzCzeSUqpbKBX2cJL8g/view?utm_content=DAGyd65U97M&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=h60a9e7a6ea">https://www.canva.com/design/DAGyd65U97M/ltVLzCzeSUqpbKBX2cJL8g/view?utm_content=DAGyd65U97M&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=h60a9e7a6ea</a></td><td><a href="../.gitbook/assets/Capture d’écran 2025-10-16 à 14.22.59.png">Capture d’écran 2025-10-16 à 14.22.59.png</a></td></tr></tbody></table>
+
 Avant de planifier un rendez-vous, les administrations doivent fréquemment collecter des informations auprès des usagers : informations d'un appel à projets, transmission de justificatifs, données pour orientation vers le bon service...&#x20;
 
 Avec notre intégration, vous pouvez ajouter de la prise de rendez-vous à votre formulaire _Démarches Simplifiées._
@@ -36,8 +38,6 @@ Vous devez disposer d’un compte administrateur _Démarches Simplifiées_.&#x20
 
 Cliquez [ici](https://www.demarches-simplifiees.fr/commencer/demande-d-inscription-a-demarches-simplifiees) pour vous créer un compte.&#x20;
 {% endhint %}
-
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4><mark style="color:blue;">Tutoriel</mark></h4></td><td>Comprendre pas à pas la mise en place de l'intégration ! </td><td><a href="https://www.canva.com/design/DAGyd65U97M/ltVLzCzeSUqpbKBX2cJL8g/view?utm_content=DAGyd65U97M&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=h60a9e7a6ea">https://www.canva.com/design/DAGyd65U97M/ltVLzCzeSUqpbKBX2cJL8g/view?utm_content=DAGyd65U97M&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=h60a9e7a6ea</a></td><td><a href="../.gitbook/assets/Capture d’écran 2025-10-16 à 14.22.59.png">Capture d’écran 2025-10-16 à 14.22.59.png</a></td></tr></tbody></table>
 
 ***
 
