@@ -8,7 +8,7 @@
 * [Configurer son espace](documentation-utilisateur/configurer-son-espace.md)
 * [Configurer son organisation](documentation-utilisateur/configurer-son-organisation.md)
 * [Utiliser son agenda](documentation-utilisateur/utiliser-son-agenda.md)
-* [Utiliser son agenda 2](documentation-utilisateur/utiliser-son-agenda-2.md)
+* [Gérer et planifier des rendez-vous](documentation-utilisateur/gerer-et-planifier-des-rendez-vous.md)
 
 ## Intégration
 
