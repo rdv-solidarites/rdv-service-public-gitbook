@@ -103,11 +103,17 @@ Une fois les lieux créés, les agents pourront **associer leurs plages d’ouve
 
 <details>
 
-<summary><strong>Puis-je définir des informations de contact accessible aux usagers ?</strong> </summary>
+<summary><strong>À quoi sert la configuration des informations de l'organisation ?</strong> </summary>
 
-Cette fonctionnalité répond des usagers qui souhaitent facilement vous contacter en cas de besoin (difficultés à annuler son rendez-vous en autonomie, besoin d'informations complémentaires au rendez-vous, demande de modification de rendez-vous etc ...).&#x20;
+Depuis le menu **Configuration**, les agents administrateurs peuvent accéder à la section **Informations de l’organisation** et y compléter plusieurs champs.
 
-Ces informations apparaîtront ainsi dans les récapitulatif de rendez-vous accessible depuis les notifications **email** ou **SMS.**&#x20;
+Une fois renseignées, ces informations seront **mises à disposition des usagers**, notamment en cas de :
+
+* difficulté à annuler leur rendez-vous en autonomie,
+* besoin d’informations complémentaires,
+* demande de modification, etc.
+
+Ces éléments seront ensuite visibles dans les **récapitulatifs de rendez-vous**, accessibles depuis les **notifications email ou SMS**, afin de faciliter la prise de contact si nécessaire.
 
 </details>
 
@@ -148,6 +154,34 @@ Seul un agent admin d'espace peut modifier le service d'un agent. En effet, l'in
 * Accéder à son _**Espace Admin**_
 * Cliquer sur _**agent**_ et sélectionner _**modifier**_
 * Associer l'agent à un ou plusieurs services pour définir ses droits d'accès
+
+</details>
+
+<details>
+
+<summary>À quoi servent les services et comment les activer ? </summary>
+
+Les **services** servent à organiser votre espace et vos organisations en sous-ensembles distincts, chacun avec ses propres **agents** et **motifs**. Concrètement, ils permettent :
+
+* **le cloisonnement** : séparer les activités pour que chaque service ait ses propres règles, agents et motifs.
+* **la visibilité** : donner à chaque agent une vue adaptée à son service, sans être noyé dans l’ensemble des motifs et informations de toute l'organisation.
+
+{% hint style="warning" %}
+Seul un agent admin d'espace peut activer les services. Il devra les configurer depuis son Espace Admin.&#x20;
+{% endhint %}
+
+***
+
+Sans **services** activés :
+
+* Tous les agents voient l’ensemble des motifs de rendez-vous.
+* Par exemple, un agent de l’état civil pourrait avoir accès à des demandes liées à l’urbanisme ou à la petite enfance, ce qui peut générer de la confusion.
+
+Avec **services** activés :
+
+* Vous pouvez créer un **service État civil**, un **service Urbanisme**, un **service Petite enfance.**
+* Chaque service dispose de ses propres **motifs** (par exemple : “Demande de carte d’identité” pour l’État civil, “Permis de construire” pour l’Urbanisme).
+* Vous associez ensuite vos **agents** aux services concernés : les agents de l’État civil ne verront que les motifs qui leur sont liés, et ainsi de suite.
 
 </details>
 
