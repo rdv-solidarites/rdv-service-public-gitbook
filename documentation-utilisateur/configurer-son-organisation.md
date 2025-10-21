@@ -159,7 +159,7 @@ Seul un agent admin d'espace peut modifier le service d'un agent. En effet, l'in
 
 <details>
 
-<summary>À quoi servent les services et comment les activer ? </summary>
+<summary><strong>À quoi servent les services et comment les activer ?</strong> </summary>
 
 Les **services** servent à organiser votre espace et vos organisations en sous-ensembles distincts, chacun avec ses propres **agents** et **motifs**. Concrètement, ils permettent :
 
