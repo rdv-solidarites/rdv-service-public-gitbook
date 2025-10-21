@@ -103,7 +103,7 @@ Une fois les lieux créés, les agents pourront **associer leurs plages d’ouve
 
 <details>
 
-<summary>Puis-je définir des informations de contact accessible aux usagers ? </summary>
+<summary><strong>Puis-je définir des informations de contact accessible aux usagers ?</strong> </summary>
 
 Cette fonctionnalité répond des usagers qui souhaitent facilement vous contacter en cas de besoin (difficultés à annuler son rendez-vous en autonomie, besoin d'informations complémentaires au rendez-vous, demande de modification de rendez-vous etc ...).&#x20;
 
@@ -113,7 +113,7 @@ Ces informations apparaîtront ainsi dans les récapitulatif de rendez-vous acce
 
 <details>
 
-<summary>La prise de rendez-vous en ligne est-elle obligatoire ? </summary>
+<summary><strong>La prise de rendez-vous en ligne est-elle obligatoire ?</strong> </summary>
 
 Vous gardez la main sur l'ouverture ou non de la prise de rendez-vous en ligne par vos usagers.&#x20;
 
@@ -139,7 +139,18 @@ Vous pouvez diffuser cet URL sur :
 
 </details>
 
+<details>
+
+<summary><strong>Comment modifier le service d'un agent ?</strong> </summary>
+
+Seul un agent admin d'espace peut modifier le service d'un agent. En effet, l'invitation est possible pour un agent admin. Mais la modification, pour sécuriser l'accès aux données des usagers, est restreinte au rôle agent admin d'espace. Votre référent agent admin d'espace pourra :alors &#x20;
+
+* Accéder à son _**Espace Admin**_
+* Cliquer sur _**agent**_ et sélectionner _**modifier**_
+* Associer l'agent à un ou plusieurs services pour définir ses droits d'accès
+
+</details>
+
 {% hint style="success" %}
 Vous trouverez également des informations complémentaires dans la [**Foire Aux Questions**](faq.md)
 {% endhint %}
-
