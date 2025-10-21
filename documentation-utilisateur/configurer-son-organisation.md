@@ -1,5 +1,4 @@
 ---
-description: Rôle d'un Agent Admin
 icon: building-columns
 ---
 
@@ -7,20 +6,13 @@ icon: building-columns
 
 En tant qu’_Agent Admin_, votre rôle est de configurer votre organisation. Vos options de configuration sont au plus proche des besoins métiers. Votre configuration assure à vos équipes les conditions nécessaires pour travailler simplement et répondre aux besoins des usagers.
 
-***
+Vous trouverez ici une aide et des explications sur la configuration d'une organisation. Vous pouvez consultez le **guide** ou les **questions fréquentes**.&#x20;
 
-* Périmètre d’accès : tous les services de son organisation&#x20;
-* Périmètre de configuration : accès aux paramètres de l’organisation
-* Tâches : créer des motifs, lieux, inviter des agents&#x20;
-* Ne fait pas : créer des organisations, activer des services ni gérer l’espace
-
-***
-
-<mark style="color:blue;">**Plus de détails sur chaque option :**</mark>&#x20;
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><mark style="color:blue;">Consulter le guide !</mark> </h4></td><td>Découvrez étape par étape les options de configuration d'une organisation. </td><td><a href="../.gitbook/assets/Capture d’écran 2025-10-21 à 15.49.47.png">Capture d’écran 2025-10-21 à 15.49.47.png</a></td><td><a href="https://www.canva.com/design/DAGz5MMraCA/tKSSSeonoaIX5HDmJZTsjA/view?utm_content=DAGz5MMraCA&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=h6bddb23c9b">https://www.canva.com/design/DAGz5MMraCA/tKSSSeonoaIX5HDmJZTsjA/view?utm_content=DAGz5MMraCA&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=h6bddb23c9b</a></td></tr></tbody></table>
 
 <details>
 
-<summary><strong>Agents</strong></summary>
+<summary><strong>Quels sont les différents niveaux d'accès ?</strong> </summary>
 
 Vous pouvez ouvrir des accès aux agents de votre administration. Les agents pourront alors disposer d'un compte RDV Service Public on se connectant via un email et un mot de passe ou en utilisant [ProConnect](https://www.proconnect.gouv.fr).&#x20;
 
@@ -90,67 +82,7 @@ Si un changement est nécessaire :
 
 <details>
 
-<summary><strong>Motifs de rendez-vous</strong></summary>
-
-Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de rendez-vous, d’informer l’agent sur le contenu attendu et d’affiner les options (présentiel, téléphone, visio, option de prise de rendez-vous en ligne).&#x20;
-
-Vous trouverez des options de configurations organisées sous 3 onglets :&#x20;
-
-***
-
-#### **Information générale**&#x20;
-
-Un motif est avant tout un objet de rendez-vous qui se configure par un nom, une durée par défaut, un type et un service associé.&#x20;
-
-{% hint style="success" %}
-**Vos motifs seront accessibles par les agents des services associés**
-{% endhint %}
-
-Les agents pourront créer des plages de disponibilités avec des motifs configurés et ainsi faciliter la recherche de créneaux dans votre organisation et planifier des rendez-vous.
-
-Si vous souhaitez proposer plusieurs modalités de rendez-vous (sur place, par téléphone, par visioconférence ou à domicile) ou plusieurs durée par défaut (30 minutes ou 60 minutes) pour un même motif, il sera nécessaire de dupliquer et créer plusieurs motifs.&#x20;
-
-***
-
-#### **Réservation en ligne**&#x20;
-
-Un motif peut-être ouvert ou non à la prise de rendez-vous en ligne. Vous pouvez sélectionner cette option depuis l'onglet _**réservation en ligne**_ de l'écran de configuration des motifs. Vous devez cocher la case _ouvert aux usagers_.&#x20;
-
-{% hint style="success" %}
-**Une pastille&#x20;**_**en ligne**_**&#x20;s'affichera pour chaque motif.**&#x20;
-{% endhint %}
-
-Dès lors que vous ouvrez la prise de rendez-vous en ligne pour un motif, vous accéderez à des options de configurations supplémentaires liées au **délais minimum et maximum de réservation**. En configurant ces options, vous pouvez limiter la visibilités des disponibilités des plages de disponibilités des agents dans le parcours de prise de rendez-vous en ligne.
-
-Aussi, vous pouvez offrir la possibilité à vos usagers de **modifier leur créneau de rendez-vous en autonomie**. Un bouton déplacer le RDV s'affichera depuis leur récapitulatif de rendez-vous accessible depuis les notifications email et SMS.&#x20;
-
-
-
-Si votre organisation est dispose d'un **Dispositif de Recueil**, vous pouvez également raccorder vos disponibilités au moteur [France Titres](https://rendezvouspasseport.ants.gouv.fr/) (ANTS).&#x20;
-
-Un menu déroulant intitulé _**catégorie**_ vous permet de sélectionner le motif du rendez-vous (CNI, Passeport ou CNI + Passeport). Une fois la catégorie choisie et les modifications enregistrées, les administrés pourront prendre rendez-vous directement via le moteur France Titres.
-
-{% hint style="warning" %}
-**Cette fonctionnalité est disponible uniquement si votre organisation dispose d’un Dispositif de Recueil (DR). Elle est activée lors de la création de votre compte. Si ce n’est pas le cas, n’hésitez pas à contacter notre équipe pour en demander l’activation.**
-{% endhint %}
-
-***
-
-#### **Instruction et notification**
-
-Vous pouvez personnaliser des instructions de rendez-vous, motif par motif. Vous pouvez personnaliser ces instructions depuis l'onglet _**notification et instruction.**_&#x20;
-
-Cette fonctionnalité permet de faire afficher ces instructions :&#x20;
-
-* **Avant le rendez-vous** : dans le parcours en ligne, avant qu'un usager sélectionne un créneau
-
-- **Après le rendez-vous** : dans l'écran de confirmation du rendez-vous ainsi que dans la notification SMS, via l'URL _info/annulation_ et dans la notification email, via le champ _information supplémentaires_
-
-</details>
-
-<details>
-
-<summary><strong>Lieux</strong></summary>
+<summary><strong>Puis-je configurer plusieurs lieux ?</strong> </summary>
 
 Les lieux permettent d'associer les disponiblités des plages d'ouvertures des agents à des adresses de rendez-vous.&#x20;
 
@@ -158,7 +90,7 @@ Les lieux permettent d'associer les disponiblités des plages d'ouvertures des a
 **L'adresse du rendez-vous est communiquée dans chaque notification SMS et emails**
 {% endhint %}
 
-Vous pouvez créer **autant de lieux que nécessaire** pour votre organisation. Cette fonctionnalité vous permet d’ajouter des lieux **supplémentaires**, en plus du **lieu principal** déjà défini lors de la création de votre compte.&#x20;
+Vous pouvez créer **autant de lieux que nécessaire** pour votre organisation. Cette fonctionnalité vous permet d’ajouter des lieux **supplémentaires**, en plus du **lieu principal.**
 
 Cela est particulièrement utile si :
 
@@ -171,7 +103,7 @@ Une fois les lieux créés, les agents pourront **associer leurs plages d’ouve
 
 <details>
 
-<summary><strong>Informations de contacts</strong></summary>
+<summary>Puis-je définir des informations de contact accessible aux usagers ? </summary>
 
 Cette fonctionnalité répond des usagers qui souhaitent facilement vous contacter en cas de besoin (difficultés à annuler son rendez-vous en autonomie, besoin d'informations complémentaires au rendez-vous, demande de modification de rendez-vous etc ...).&#x20;
 
@@ -181,9 +113,9 @@ Ces informations apparaîtront ainsi dans les récapitulatif de rendez-vous acce
 
 <details>
 
-<summary><strong>Réservation en ligne</strong></summary>
+<summary>La prise de rendez-vous en ligne est-elle obligatoire ? </summary>
 
-Cette fonctionnalité permet à vos usagers de planifier des rendez-vous en autonomie depuis leur ordinateur ou téléphone avec vos services.&#x20;
+Vous gardez la main sur l'ouverture ou non de la prise de rendez-vous en ligne par vos usagers.&#x20;
 
 {% hint style="success" %}
 **Cette fonctionnalité est désactivée par défaut. Vous pouvez l'activer motif par motif.**&#x20;
