@@ -3,7 +3,7 @@ description: Rôle d'un Agent Basique
 icon: calendar
 ---
 
-# Utiliser son agenda
+# Gérer et planifier des rendez-vous
 
 En tant qu’_Agent Basique_, vous disposez d’un compte rattaché à une organisation configurée par des _Agent Admin_. Autrement dit, la solution est déjà configurée, il ne reste plus qu'à la prendre en main !&#x20;
 
@@ -16,11 +16,9 @@ En tant qu’_Agent Basique_, vous disposez d’un compte rattaché à une organ
 
 ***
 
-<mark style="color:blue;">**Plus de détails sur chaque option :**</mark>&#x20;
-
 <details>
 
-<summary><strong>Plages d'ouverture</strong></summary>
+<summary><strong>À quoi servent les plages d'ouvertures ?</strong> </summary>
 
 Les plages d'ouverture vous permettent de définir vos disponibilités.
 
@@ -28,7 +26,7 @@ Les plages d'ouverture vous permettent de définir vos disponibilités.
 Ces plages d'ouverture permettent aux autres agents de votre organisation de prendre des rendez-vous pour les usagers sur vos disponibilités via le bouton _**Trouver un RDV**_. Si votre organisation publie ses disponibilités en ligne, ces créneaux seront également visibles pour les usagers.
 
 {% hint style="success" %}
-Chaque plage d'ouverture doit être associée à un ou plusieurs motifs de rendez-vous préalablement créés par les <mark style="color:blue;">**Agents Administrateurs**</mark> liés à votre service.
+Chaque plage d'ouverture doit être associée à un ou plusieurs motifs de rendez-vous préalablement créés par les <mark style="color:blue;">**Agents Admin**</mark> liés à votre service.
 {% endhint %}
 
 Vous pouvez créer :
@@ -40,7 +38,7 @@ Vous pouvez créer :
 
 <details>
 
-<summary><strong>Indisponibilités</strong></summary>
+<summary><strong>Comment gérer mon agenda en cas d'une indisponiblité ponctuelle ?</strong> </summary>
 
 Les indisponibilités vous permettent de fermer vos permanences de manière ponctuelle, par exemple en cas de congés, de formation ou d'absence exceptionnelle.
 
@@ -60,28 +58,19 @@ Vous avez également la possibilité de programmer des indisponibilités récurr
 
 <details>
 
-<summary><strong>Trouver un rendez-vous</strong> </summary>
+<summary><strong>Comment recevoir des alertes de prise de rendez-vous dans mon agenda ?</strong> </summary>
 
-Pour prendre un rendez-vous pour un usager, cliquez sur le bouton _**Trouver un RDV**_ depuis l'interface.
+Vous pouvez configurer vos préférences de notification depuis la configuration de votre compte. En cliquant sur votre nom et prénom en haut à droite, vous accéderez à votre espace _**Mon compte**_.&#x20;
 
-Ce parcours vous permet d'accéder aux disponibilités de l'ensemble des agents pour un motif de rendez-vous donné.\
-Vous pouvez affiner votre recherche à l'aide des filtres disponibles (agents, lieux, dates, etc.).
+Depuis ce menu, vous pouvez configurer vos préférences de notiffication. Plusieurs options s'offrent à vous. Vous pouvez recevoir des notifications par email lorsqu’un rendez-vous est ajouté, modifié ou annulé dans un agenda. Elle répond au besoin des agents souhaitant être alertés en cas de changement dans leur planning.
 
-Lors de la prise de rendez-vous :
-
-* Si le rendez-vous concerne un nouvel usager, vous devez "_Créer un usager_".
-* Si l'usager existe déjà, vous pouvez le retrouver en effectuant une recherche par nom ou une information de contact.&#x20;
-
-Pour que l'usager reçoive les notifications de rendez-vous (par SMS et par email), assurez-vous que ses coordonnées sont correctement renseignées.
-
-Si vous souhaitez poser un rendez-vous dans l'agenda d'un agent qui ne fait pas partie de votre service, utilisez l'option "_Élargir la recherche_".\
-Cette fonctionnalité vous permet d'accéder aux créneaux disponibles dans d'autres services de votre organisation.
+Chaque email contient une pièce jointe au format `.xls`, compatible avec la plupart des logiciels de calendrier. Votre calendrier externe reconnaîtra automatiquement ces mises à jour, bien que certains logiciels demandent une validation manuelle des modifications.
 
 </details>
 
 <details>
 
-<summary><strong>Usagers</strong></summary>
+<summary><strong>Comment retrouver l'historique de rendez-vous d'un usager ?</strong> </summary>
 
 Le menu _Usagers_ vous permet de rechercher, par nom, les usagers ayant eu ou ayant un rendez-vous à venir au sein de votre service.
 
@@ -96,24 +85,92 @@ En accédant à la fiche d’un usager, vous pourrez consulter :
 
 <details>
 
-<summary><strong>Liste des RDV</strong></summary>
+<summary><strong>Comment exporter une liste de rendez-vous ?</strong> </summary>
 
-En tant qu’agent, vous avez accès à deux types de rendez-vous :
+En tant qu’agent, vous pouvez exporter les rendez-vous :&#x20;
 
-* Les rendez-vous associés à votre service.
-* Les rendez-vous auxquels vous êtes personnellement assigné.
+* associés à votre service.
+* auxquels vous êtes personnellement assigné.
 
-La liste des rendez-vous peut être filtrée selon plusieurs critères : agent, motif, période, etc.\
-Vous avez également la possibilité d’exporter la liste au format `.xls`. Les fichiers générés sont accessibles dans l’onglet **"**_**Mon compte**_**"**.
+Ces exports sont possibles depuis le menu _**Liste des RDV**_. La liste des rendez-vous peut être filtrée selon plusieurs critères : agent, motif, période ... Une fois le filtre appliqué, vous pouvez exporter la liste au format `.xls` ou au format `.pdf` .&#x20;
 
-Le jour du rendez-vous, son statut passe automatiquement de **"Rendez-vous à venir"** à **"À renseigner"**.\
-Il est alors nécessaire de mettre à jour ce statut manuellement, en choisissant l’une des options suivantes :
+Les fichiers générés sont accessibles dans l’onglet _**Mon compte**_.\
 
-* **Rendez-vous honoré**
-* **Absence non excusée**
-* **Annulé**&#x20;
 
-La mise à jour du statut des rendez-vous permet d'avoir des statistiques actualisées qui sont accessibles dans l'onglet "_Statistiques_".&#x20;
+</details>
+
+<details>
+
+<summary><strong>Comment les usagers prennent-il rendez-vous ?</strong></summary>
+
+Les usagers peuvent prendre rendez-vous en ligne si cette option est activée et que vous avez partagé votre lien de réservation. Ce lien peut être diffusé sur votre site web ou tout autre support.
+
+Une fois sur la plateforme, ils pourront :
+
+* Choisir un service et un motif de rendez-vous.&#x20;
+* Sélectionner un créneau disponible
+* S’identifier pour confirmer leur rendez-vous.
+
+Deux options d’identification :
+
+1. **FranceConnect** : les informations de contact sont récupérées automatiquement. C'est le parcours le plus rapide et sécurisé.&#x20;
+2. **Création de compte** : si l’usager ne passe pas par FranceConnect, il doit renseigner son nom, prénom, email et (optionnellement) son numéro de téléphone. Un email de vérification lui sera envoyé, et en cliquant sur le lien de vérificatio présent dans le mail, il sera redirigé vers son parcours et pourra finaliser son rendez-vous.&#x20;
+
+</details>
+
+<details>
+
+<summary><strong>Qui peut voir et modifier mon agenda ?</strong> </summary>
+
+Par défaut, seuls les agents de votre service et de votre organisation peuvent consulter et planifier des rendez-vous dans votre agenda. Un agent admin pourra quant à lui visualiser et modifier tous les agendas de tous les services d'une organisation.&#x20;
+
+{% hint style="success" %}
+**Si vous devez partager votre agenda avec un agent d'un autre service, un agent admin devra lui donner accès à votre service.**&#x20;
+{% endhint %}
+
+</details>
+
+<details>
+
+<summary><strong>Comment trouver une disponibilité auprès d'un agent ?</strong> </summary>
+
+Le bouton _**Trouver un rendez-vous**_ permet de rechercher rapidement des disponibilités dans votre organisation ou service, évitant ainsi une consultation manuelle des agendas.
+
+Pour utiliser cette fonctionnalité :
+
+* Cliquez sur _**Trouver un rendez-vous**_ pour accéder au moteur de recherche.
+* Spécifiez vos critères : service, motif, agent, lieu et date.
+* Cliquez sur _**Afficher les créneaux**_ pour voir les disponibilités correspondantes.
+
+Conditions d’accès :
+
+* Disponible uniquement si les agents ont configuré leurs plages d’ouverture.
+* **Administrateurs et secrétariats** : accès à toutes les disponibilités.
+* **Agents simples** : accès uniquement aux créneaux de leur service.
+
+Si plusieurs agents sont disponibles sur le même créneau et motif, la première disponibilité enregistrée sera sélectionnée.
+
+</details>
+
+<details>
+
+<summary><strong>Comment gérer un doublon de fiche usager ?</strong> </summary>
+
+Les doublons peuvent apparaître lorsque :
+
+* Un professionnel crée une fiche **sans e-mail**, puis l’usager crée un compte avec une adresse e-mail.
+* Une faute de frappe lors d’une recherche fait croire qu’aucune fiche n’existe.
+
+**L’outil ne fusionne pas automatiquement les fiches, car l’unicité repose uniquement sur l’e-mail.**&#x20;
+
+Pour fusionner des fiches usagers :
+
+* Accéder au menu _**Usagers**_.
+* Cliquer sur _**Fusionner deux usagers**_.
+* Entrer le nom de l’usager en double dans chaque colonne.
+* Comparez les fiches : **Différences en orange**, **similitudes en vert**.
+* Sélectionnez les informations à conserver.
+* Validez pour créer une **fiche unique fusionnée**.
 
 </details>
 
