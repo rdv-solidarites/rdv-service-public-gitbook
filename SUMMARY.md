@@ -4,7 +4,7 @@
 
 ## Accompagner le changement
 
-* [Étape par étape](accompagner-le-changement/etape-par-etape.md)
+* [Étape par étape](accompagner-le-changement/guide-des-etapes.md)
 
 ## DOCUMENTATION UTILISATEUR
 

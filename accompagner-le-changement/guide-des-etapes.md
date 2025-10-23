@@ -2,7 +2,7 @@
 icon: arrow-progress
 ---
 
-# Guide des étapes
+# Étape par étape
 
 Changer d’outil, ce n’est pas seulement une configuration technique, c’est une transformation des pratiques au service d’un meilleur service aux usagers. Voilà quelques étapes conseillées pour déployer notre solution dans votre administration.&#x20;
 
@@ -26,7 +26,7 @@ Les raison d'un changement peuvent variés selon vos cas d'usage. Il est essenti
 
 _Qui est responsable de quoi dans ce changement ?_&#x20;
 
-l'impulsion du changement peut venir d'une direction ou des agents métiers confrontés directement aux problématiques. Chacun participera à son niveau au changement !&#x20;
+L'impulsion du changement peut venir d'une direction ou des agents métiers confrontés directement aux problématiques. Chacun participera à son niveau au changement !&#x20;
 
 Les agents métiers : ils auront un rôle essentiel car ils sont au coeur des problématiques métiers et dans le quotidien de l'utilisation. Ils seront alors les meilleurs alliés pour définir les besoins métiers précis et ainsi configurer la solution dans la bonne direction !&#x20;
 
