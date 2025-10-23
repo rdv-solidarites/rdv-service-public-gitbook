@@ -6,7 +6,7 @@
 
 Vous souhaitez déployer notre solution dans votre équipe ? Pour bien démarrer, nous vous recommandons de lire les bonnes pratiques du déploiement. Changer d’outil, ce n’est pas seulement une configuration technique, c’est aussi une transformation des pratiques quotidiennes !&#x20;
 
-<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><h4><mark style="color:$primary;">Étape par étape</mark></h4></td><td>Quelques conseils et bonnes pratiques pour le déploiement</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><mark style="color:$primary;">Étape par étape</mark></h4></td><td>Quelques conseils et bonnes pratiques pour le déploiement</td><td><a href="accompagner-le-changement/guide-des-etapes.md">guide-des-etapes.md</a></td></tr></tbody></table>
 
 ***
 
