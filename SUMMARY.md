@@ -10,6 +10,10 @@
 * [Gérer et planifier des rendez-vous](documentation-utilisateur/gerer-et-planifier-des-rendez-vous.md)
 * [Gérer et planifier des rendez-vous (test)](documentation-utilisateur/gerer-et-planifier-des-rendez-vous-test.md)
 
+## Accompagner le changement
+
+* [Étape par étape](accompagner-le-changement/etape-par-etape.md)
+
 ## Intégration
 
 * [Formulaire](integration/formulaire.md)
