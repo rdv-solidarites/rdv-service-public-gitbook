@@ -8,7 +8,7 @@ Changer d’outil, ce n’est pas seulement une configuration technique, c’est
 
 {% stepper %}
 {% step %}
-### Partager l'ambition à vos équipes 🎯
+### Partager l'ambition à l'équipe 🎯
 
 &#x20;Pourquoi on change ? Les raison d'un changement peuvent variés selon vos cas d'usage. Il est essentiel de partir d'un constat commun et partager par toute l'équipe pour faciliter l'adoption au changement.&#x20;
 
@@ -46,7 +46,7 @@ C’est également une excellente manière de tester l’outil, d’en mesurer l
 {% endstep %}
 
 {% step %}
-### Former et rassurer les équipes&#x20;
+### Former et rassurer les équipes 🎓
 
 Comment ça marche ? Il est fréquent, et tout à fait naturel, que les agents se demandent comment utiliser un nouvel outil. Comme pour toute solution numérique, la meilleure formation reste la pratique : se connecter, explorer l’interface, tester, se tromper… puis réussir ! Aucune formation magistrale ne pourra remplacer l’expérimentation réelle.
 
