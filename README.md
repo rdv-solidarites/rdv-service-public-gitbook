@@ -4,7 +4,7 @@ icon: hand-wave
 
 # Bienvenue
 
-### Pour bien démarer&#x20;
+#### Pour bien démarer 🌱
 
 Vous venez de créer un compte **RDV Service Public** ? Pour bien démarrer, nous vous invitons à consulter nos **guides par rôle** ci-dessous. Ils regroupent : des tutoriels pas-à-pas, des réponses aux questions les plus fréquentes, des explications adaptées à votre profil d’utilisateur. Idéal pour faire vos **premiers pas sereinement** dans la solution !&#x20;
 
@@ -12,7 +12,7 @@ Vous venez de créer un compte **RDV Service Public** ? Pour bien démarrer, nou
 
 ***
 
-#### Pour aller plus loin&#x20;
+#### Pour aller plus loin 🙌
 
 Vous disposez déjà d’un compte et souhaitez **aller plus loin grâce à une intégration** ? Vous pouvez consulter nos **guides et tutoriels dédiés** pour vous accompagner pas à pas dans la mise en place et l’utilisation de ces fonctionnalités avancées.
 
