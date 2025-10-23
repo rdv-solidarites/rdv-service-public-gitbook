@@ -72,6 +72,8 @@ Cet accompagnement combiné permet de lever les appréhensions et de favoriser u
 {% step %}
 ### Mesurer et améliorer 📊
 
+_Est-ce utile ?_&#x20;
+
 Il est essentiel de planifier des points d’étape réguliers afin d’évaluer la pertinence de l’outil dans le quotidien des agents métiers. Parfois, une simple question comme _« Tout se passe bien ? »_ permet de révéler des irritants ou frustrations qui seraient restés invisibles.\
 Ces retours sont précieux : ils permettent d’ajuster progressivement la configuration de la solution pour qu’elle réponde au mieux aux besoins réels des agents.
 {% endstep %}
