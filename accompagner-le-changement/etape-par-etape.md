@@ -10,7 +10,9 @@ Changer d’outil, ce n’est pas seulement une configuration technique, c’est
 {% step %}
 ### Partager l'ambition à l'équipe 🎯
 
-&#x20;Pourquoi on change ? Les raison d'un changement peuvent variés selon vos cas d'usage. Il est essentiel de partir d'un constat commun et partager par toute l'équipe pour faciliter l'adoption au changement.&#x20;
+_Pourquoi changer ?_&#x20;
+
+Les raison d'un changement peuvent variés selon vos cas d'usage. Il est essentiel de partir d'un constat commun et partager par toute l'équipe pour faciliter l'adoption au changement.&#x20;
 
 * Simplifier la gestion des rendez-vous ?&#x20;
 * Réduire les appels entrants ?&#x20;
@@ -20,7 +22,9 @@ Changer d’outil, ce n’est pas seulement une configuration technique, c’est
 {% step %}
 ### Identifier des référents 👤
 
-Qui est responsable de quoi dans ce changement ? l'impulsion du changement peut venir d'une direction ou des agents métiers confrontés directement aux problématiques. Chacun participera à son niveau au changement !&#x20;
+_Qui est responsable de quoi dans ce changement ?_&#x20;
+
+l'impulsion du changement peut venir d'une direction ou des agents métiers confrontés directement aux problématiques. Chacun participera à son niveau au changement !&#x20;
 
 Les agents métiers : ils auront un rôle essentiel car ils sont au coeur des problématiques métiers et dans le quotidien de l'utilisation. Ils seront alors les meilleurs alliés pour définir les besoins métiers précis et ainsi configurer la solution dans la bonne direction !&#x20;
 
@@ -30,7 +34,9 @@ Un référent outil : Il devra présenter et proposer un premier niveau de suppo
 {% step %}
 ### Identifier les besoins avant de paramétrer 🔎
 
-Qui gère des rendez-vous et quels sont les besoins ? Il est également essentiel de bien définir les besoins des agents. Plusieurs questions peuvent aider à identifier finement les besoins métiers :&#x20;
+_Qui gère des rendez-vous et quels sont les besoins ?_&#x20;
+
+Il est également essentiel de bien définir les besoins des agents. Plusieurs questions peuvent aider à identifier finement les besoins métiers :&#x20;
 
 * Quels services prennent des rendez-vous ?
 * Quels types de RDV existent ?
@@ -41,16 +47,20 @@ Qui gère des rendez-vous et quels sont les besoins ? Il est également essentie
 {% step %}
 ### &#x20;Déployer progressivement ☕️
 
-Qui est volontaire ? Il est préférable d’amorcer le déploiement progressivement, en commençant par des équipes motivées et prêtes à s’engager dans le changement. Ces premières équipes pourront ensuite devenir de véritables ambassadeurs de la solution au sein de votre administration. \
+_Qui est volontaire ?_&#x20;
+
+Il est préférable d’amorcer le déploiement progressivement, en commençant par des équipes motivées et prêtes à s’engager dans le changement. Ces premières équipes pourront ensuite devenir de véritables ambassadeurs de la solution au sein de votre administration. \
 C’est également une excellente manière de tester l’outil, d’en mesurer l’impact et d’ajuster si nécessaire avant une généralisation. Il vaut toujours mieux ajuster à petite échelle que devoir revenir en arrière après être allé trop loin trop vite.
 {% endstep %}
 
 {% step %}
 ### Former et rassurer les équipes 🎓
 
-Comment ça marche ? Il est fréquent, et tout à fait naturel, que les agents se demandent comment utiliser un nouvel outil. Comme pour toute solution numérique, la meilleure formation reste la pratique : se connecter, explorer l’interface, tester, se tromper… puis réussir ! Aucune formation magistrale ne pourra remplacer l’expérimentation réelle.
+_Comment ça marche ?_&#x20;
 
-Cependant, il est fortement recommandé de proposer un accompagnement progressif sous différentes formes :
+Il est fréquent, et tout à fait naturel, que les agents se demandent comment utiliser un nouvel outil. Comme pour toute solution numérique, la meilleure formation reste la pratique : se connecter, explorer l’interface, tester, se tromper… puis réussir ! Aucune formation magistrale ne pourra remplacer l’expérimentation réelle.
+
+Cependant, il est recommandé de proposer un accompagnement progressif sous différentes formes :
 
 * **Une présentation générale** pour rassurer et donner une vision d’ensemble ;
 * **Des ateliers pratiques par profil d’usage** (prise de RDV, gestion de planning, etc.) ;
