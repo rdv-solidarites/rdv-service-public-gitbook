@@ -10,7 +10,7 @@ icon: hand-wave
 
 #### Pour configurer une intégration :&#x20;
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><mark style="color:$primary;">Démarche Simplifiée</mark></h4></td><td>Associer des formulaires à la gestion des rendez-vous </td><td><a href=".gitbook/assets/Capture d’écran 2025-10-23 à 14.35.41.png">Capture d’écran 2025-10-23 à 14.35.41.png</a></td><td><a href="integration/formulaire.md">formulaire.md</a></td></tr><tr><td><h4><mark style="color:$primary;">France Titres</mark></h4></td><td>Brancher vos disponiblités au moteur de recherche national</td><td><a href=".gitbook/assets/Capture d’écran 2025-10-23 à 14.36.19.png">Capture d’écran 2025-10-23 à 14.36.19.png</a></td><td><a href="integration/titres-securises.md">titres-securises.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><mark style="color:$primary;">Démarche Simplifiée</mark></h4></td><td>Associer des formulaires à la gestion des rendez-vous </td><td></td><td><a href="integration/formulaire.md">formulaire.md</a></td></tr><tr><td><h4><mark style="color:$primary;">France Titres</mark></h4></td><td>Brancher vos disponiblités au moteur de recherche national</td><td></td><td><a href="integration/titres-securises.md">titres-securises.md</a></td></tr></tbody></table>
 
 ***
 
