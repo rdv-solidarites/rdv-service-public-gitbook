@@ -10,7 +10,7 @@ Changer d’outil, ce n’est pas seulement une configuration technique, c’est
 
 {% stepper %}
 {% step %}
-### Partager l'ambition à l'équipe 🎯
+#### Partager l'ambition à l'équipe 🎯
 
 _Pourquoi changer ?_&#x20;
 
@@ -22,7 +22,7 @@ Les raison d'un changement peuvent variés selon vos cas d'usage. Il est essenti
 {% endstep %}
 
 {% step %}
-### Identifier des référents 👤
+#### Identifier des référents 👤
 
 _Qui est responsable de quoi dans ce changement ?_&#x20;
 
@@ -34,7 +34,7 @@ Un référent outil : Il devra présenter et proposer un premier niveau de suppo
 {% endstep %}
 
 {% step %}
-### Identifier les besoins avant de paramétrer 🔎
+#### Identifier les besoins avant de paramétrer 🔎
 
 _Qui gère des rendez-vous et quels sont les besoins ?_&#x20;
 
@@ -47,7 +47,7 @@ Il est également essentiel de bien définir les besoins des agents. Plusieurs q
 {% endstep %}
 
 {% step %}
-### Déployer progressivement ☕️
+#### Déployer progressivement ☕️
 
 _Qui est volontaire ?_&#x20;
 
@@ -56,7 +56,7 @@ C’est également une excellente manière de tester l’outil, d’en mesurer l
 {% endstep %}
 
 {% step %}
-### Former et rassurer les équipes 🎓
+#### Former et rassurer les équipes 🎓
 
 _Comment ça marche ?_&#x20;
 
@@ -72,7 +72,7 @@ Cet accompagnement combiné permet de lever les appréhensions et de favoriser u
 {% endstep %}
 
 {% step %}
-### Mesurer et améliorer 📊
+#### Mesurer et améliorer 📊
 
 _Est-ce utile ?_&#x20;
 
