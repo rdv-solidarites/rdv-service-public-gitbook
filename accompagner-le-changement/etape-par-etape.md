@@ -4,7 +4,7 @@ icon: arrow-progress
 
 # Étape par étape
 
-Changer d’outil, ce n’est pas seulement une configuration technique, c’est une transformation des pratiques au service d’un meilleur service aux usagers. Voici les 7 étapes essentielles pour réussir votre déploiement.
+Changer d’outil, ce n’est pas seulement une configuration technique, c’est une transformation des pratiques au service d’un meilleur service aux usagers.&#x20;
 
 {% stepper %}
 {% step %}
