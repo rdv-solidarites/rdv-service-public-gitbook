@@ -5,7 +5,7 @@ icon: address-card
 
 # Titres Sécurisés
 
-**Besoin d'apparaître sur le moteur de recherche nationale France Titres ?**&#x20;
+**Besoin d'apparaître sur le moteur de recherche national France Titres ?**&#x20;
 
 Vous êtes probablement une commune équipée d’un ou plusieurs dispositifs de recueil. Notre solution est compatible avec le moteur de recherche national **France Titres** et en facilite l’intégration.
 
