@@ -1,5 +1,7 @@
 # Bienvenue
 
+***
+
 #### Pour bien démarrer 🌱
 
 Vous venez de créer un compte **RDV Service Public** ? Pour bien démarrer, nous vous invitons à consulter nos **guides par rôle** ci-dessous. Ils regroupent : des tutoriels pas-à-pas, des réponses aux questions les plus fréquentes, des explications adaptées à votre profil d’utilisateur. Idéal pour faire vos **premiers pas sereinement** dans la solution !&#x20;
