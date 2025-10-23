@@ -10,13 +10,11 @@ Changer d’outil, ce n’est pas seulement une configuration technique, c’est
 {% step %}
 ### Partager l'ambition à vos équipes 🎯
 
-&#x20;Pourquoi on change ? Les raison d'un changement peuvent variés selon vos cas d'usage.&#x20;
+&#x20;Pourquoi on change ? Les raison d'un changement peuvent variés selon vos cas d'usage. Il est essentiel de partir d'un constat commun et partager par toute l'équipe pour faciliter l'adoption au changement.&#x20;
 
 * Simplifier la gestion des rendez-vous ?&#x20;
 * Réduire les appels entrants ?&#x20;
 * Améliorer la satisfaction des agents et des usagers ?&#x20;
-
-Il est essentiel de partir d'un constat commun et partager par toute l'équipe pour faciliter l'adoption au changement.&#x20;
 {% endstep %}
 
 {% step %}
@@ -24,7 +22,7 @@ Il est essentiel de partir d'un constat commun et partager par toute l'équipe p
 
 Qui est responsable de quoi dans ce changement ? l'impulsion du changement peut venir d'une direction ou des agents métiers confrontés directement aux problématiques. Chacun participera à son niveau au changement !&#x20;
 
-Les agents métiers : ils auront un rôle essentiel car ils sont au coeur des problématiques métiers et dans le quotidien de l'utilisation. Ils seront alors les meilleurs alliés pour définir les besoins métiers précis.&#x20;
+Les agents métiers : ils auront un rôle essentiel car ils sont au coeur des problématiques métiers et dans le quotidien de l'utilisation. Ils seront alors les meilleurs alliés pour définir les besoins métiers précis et ainsi configurer la solution dans la bonne direction !&#x20;
 
 Un référent outil : Il devra présenter et proposer un premier niveau de support aux agents métiers. Il est parfois plus simple de poser une question à un ou une collègue du couloir que d'écrire un mot au support de l'équipe produit ! Pour faciliter le déploiement, il est alors recommander d'identifier une personne référente au sein de votre équipe. Cette personne pourra assister à des sessions de formation et présentation collective régulièrement organisées par nos équipes !&#x20;
 {% endstep %}
@@ -32,7 +30,7 @@ Un référent outil : Il devra présenter et proposer un premier niveau de suppo
 {% step %}
 ### Identifier les besoins avant de paramétrer 🔎
 
-Qui gère des rendez-vous et quels sont les besoins ?&#x20;
+Qui gère des rendez-vous et quels sont les besoins ? Il est également essentiel de bien définir les besoins des agents. Plusieurs questions peuvent aider à identifier finement les besoins métiers :&#x20;
 
 * Quels services prennent des rendez-vous ?
 * Quels types de RDV existent ?
