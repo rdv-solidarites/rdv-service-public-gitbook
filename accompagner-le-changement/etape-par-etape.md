@@ -62,9 +62,9 @@ Il est fréquent, et tout à fait naturel, que les agents se demandent comment u
 
 Cependant, il est recommandé de proposer un accompagnement progressif sous différentes formes :
 
-* **Une présentation générale** pour rassurer et donner une vision d’ensemble ;
-* **Des ateliers pratiques par profil d’usage** (prise de RDV, gestion de planning, etc.) ;
-* **Un accès direct à la documentation d’aide en ligne** pour favoriser l’autonomie.
+* Une présentation générale pour rassurer et donner une vision d’ensemble ;
+* Des ateliers pratiques par profil d’usage (prise de RDV, gestion de planning, etc.) ;
+* Un accès direct à la documentation d’aide en ligne pour favoriser l’autonomie.
 
 Cet accompagnement combiné permet de lever les appréhensions et de favoriser une montée en compétence efficace et sereine.
 {% endstep %}
