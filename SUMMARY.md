@@ -12,8 +12,8 @@
 
 ## Intégration
 
-* [Formulaire et rendez-vous](integration/formulaire-et-rendez-vous.md)
-* [Titres Sécurisés et rendez-vous](integration/titres-securises-et-rendez-vous.md)
+* [Formulaire](integration/formulaire.md)
+* [Titres Sécurisés](integration/titres-securises.md)
 
 ## Documentation technique
 
