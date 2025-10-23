@@ -14,7 +14,7 @@ Changer d’outil, ce n’est pas seulement une configuration technique, c’est
 
 _Pourquoi changer ?_&#x20;
 
-Les raison d'un changement peuvent variés selon vos cas d'usage. Il est essentiel de partir d'un constat commun et partager par toute l'équipe pour faciliter l'adoption au changement.&#x20;
+Les raison d'un changement peuvent variés selon vos cas d'usage. Il est essentiel de partir d'un constat commun, partagé par toute l'équipe, pour faciliter l'adoption au changement.&#x20;
 
 * Simplifier la gestion des rendez-vous ?&#x20;
 * Réduire les appels entrants ?&#x20;
