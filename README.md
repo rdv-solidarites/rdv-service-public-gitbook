@@ -1,7 +1,3 @@
----
-icon: hand-wave
----
-
 # Bienvenue
 
 #### Pour bien démarer 🌱
