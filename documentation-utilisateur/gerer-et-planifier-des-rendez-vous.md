@@ -1,5 +1,6 @@
 ---
 description: Rôle d'un Agent Basique
+hidden: true
 icon: calendar
 ---
 

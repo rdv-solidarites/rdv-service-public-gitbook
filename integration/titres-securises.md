@@ -1,5 +1,6 @@
 ---
 description: France Titres <> RDV Service Public
+hidden: true
 icon: address-card
 ---
 
