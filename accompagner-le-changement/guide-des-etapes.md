@@ -2,9 +2,11 @@
 icon: arrow-progress
 ---
 
-# Étape par étape
+# Guide des étapes
 
-Changer d’outil, ce n’est pas seulement une configuration technique, c’est une transformation des pratiques au service d’un meilleur service aux usagers.&#x20;
+Changer d’outil, ce n’est pas seulement une configuration technique, c’est une transformation des pratiques au service d’un meilleur service aux usagers. Voilà quelques étapes conseillées pour déployer notre solution dans votre administration.&#x20;
+
+***
 
 {% stepper %}
 {% step %}
@@ -45,7 +47,7 @@ Il est également essentiel de bien définir les besoins des agents. Plusieurs q
 {% endstep %}
 
 {% step %}
-### &#x20;Déployer progressivement ☕️
+### Déployer progressivement ☕️
 
 _Qui est volontaire ?_&#x20;
 
@@ -79,3 +81,10 @@ Ces retours sont précieux : ils permettent d’ajuster progressivement la confi
 {% endstep %}
 {% endstepper %}
 
+***
+
+#### Nous pouvons vous aider !&#x20;
+
+Nous pouvons, lors d'un temps d'échange individuel, vous accompagner dans la mise en place de la solution ! L'occasion de nous présenter vos besoins et de vous aider à la configuration et au déploiement de RDV Service Public dans le quotidien de votre équipe.  &#x20;
+
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><h4><mark style="color:blue;">Rencontrer l'équipe <strong>↗</strong></mark></h4></td><td><a href="https://cal.com/team/rdv-service-public/accompagnement">https://cal.com/team/rdv-service-public/accompagnement</a></td></tr></tbody></table>

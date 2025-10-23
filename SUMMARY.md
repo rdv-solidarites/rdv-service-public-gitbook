@@ -2,6 +2,10 @@
 
 * [Bienvenue](README.md)
 
+## Accompagner le changement
+
+* [Guide des étapes](accompagner-le-changement/guide-des-etapes.md)
+
 ## DOCUMENTATION UTILISATEUR
 
 * [FAQ](documentation-utilisateur/faq.md)
@@ -9,10 +13,6 @@
 * [Configurer son organisation](documentation-utilisateur/configurer-son-organisation.md)
 * [Gérer et planifier des rendez-vous](documentation-utilisateur/gerer-et-planifier-des-rendez-vous.md)
 * [Gérer et planifier des rendez-vous (test)](documentation-utilisateur/gerer-et-planifier-des-rendez-vous-test.md)
-
-## Accompagner le changement
-
-* [Étape par étape](accompagner-le-changement/etape-par-etape.md)
 
 ## Intégration
 
