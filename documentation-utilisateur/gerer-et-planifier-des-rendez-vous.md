@@ -1,5 +1,4 @@
 ---
-description: Rôle d'un Agent Basique
 icon: calendar
 ---
 

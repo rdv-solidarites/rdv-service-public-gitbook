@@ -12,7 +12,6 @@
 * [Configurer son espace](documentation-utilisateur/configurer-son-espace.md)
 * [Configurer son organisation](documentation-utilisateur/configurer-son-organisation.md)
 * [Gérer et planifier des rendez-vous](documentation-utilisateur/gerer-et-planifier-des-rendez-vous.md)
-* [Gérer et planifier des rendez-vous (test)](documentation-utilisateur/gerer-et-planifier-des-rendez-vous-test.md)
 
 ## Intégration
 

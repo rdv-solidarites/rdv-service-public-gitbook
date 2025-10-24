@@ -1,5 +1,4 @@
 ---
-description: Rôle d'un Agent Admin d'Espace
 icon: map-location
 ---
 
