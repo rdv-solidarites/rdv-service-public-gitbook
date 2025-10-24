@@ -5,16 +5,11 @@ icon: calendar
 
 # Gérer et planifier des rendez-vous
 
-En tant qu’_Agent Basique_, vous disposez d’un compte rattaché à une organisation configurée par des _Agent Admin_. Autrement dit, la solution est déjà configurée, il ne reste plus qu'à la prendre en main !&#x20;
+Tous les agents de la solution peuvent utiliser les fonctionnalités de gestion et de prise de rendez-vous. Cette page est donc à destination de tous les utilisateurs RDV Service Public !&#x20;
 
-***
+Vous trouverez ici une aide et des explications sur les fonctionnalités de la solution. Vous pouvez consultez le **guide** ou les **questions fréquentes**.&#x20;
 
-* Périmètre d’accès : agendas et usagers de son service au sein de son organisation.&#x20;
-* Périmètre de configuration : Pas d’accès aux paramètres.&#x20;
-* Tâches : créer et modifier des rendez-vous, suivre les rendez-vous et leurs statut, rechercher des créneaux.
-* Ne fait pas : créer des agents, modifier des motifs, des lieux ou l'organisation, accéder à d’autres services et organisations.
-
-***
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><mark style="color:blue;"><strong>Tutoriel ↗</strong></mark></h4></td><td>Un tutoriel pas à pas pour comprendre les fonctionnalités essentielles</td><td><a href="../.gitbook/assets/Capture d’écran 2025-10-16 à 09.29.44.png">Capture d’écran 2025-10-16 à 09.29.44.png</a></td><td><a href="https://www.canva.com/design/DAG12n5tsJk/4DdLZlT4eyfrV6nUboI5mQ/view?utm_content=DAG12n5tsJk&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=ha4d852eef7">https://www.canva.com/design/DAG12n5tsJk/4DdLZlT4eyfrV6nUboI5mQ/view?utm_content=DAG12n5tsJk&#x26;utm_campaign=designshare&#x26;utm_medium=link2&#x26;utm_source=uniquelinks&#x26;utlId=ha4d852eef7</a></td></tr></tbody></table>
 
 <details>
 
@@ -173,7 +168,3 @@ Pour fusionner des fiches usagers :
 * Validez pour créer une **fiche unique fusionnée**.
 
 </details>
-
-{% hint style="success" %}
-Vous trouverez également des informations complémentaires dans la [**Foire Aux Questions**​](faq.md)
-{% endhint %}
