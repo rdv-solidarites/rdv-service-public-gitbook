@@ -92,7 +92,7 @@ Ensuite, il est nécessaire de renseigner les coordonnées de l'usager et confir
 
 ## F.A.Q
 
-### Qui reçoit les notifications pour les prise de rendez-vous par prescription ?
+### Qui reçoit les notifications pour les prises de rendez-vous par prescription ?
 
 La prescription implique trois acteurs : le prescripteur, l’usager et l’agent. Tous ces acteurs sont informés du rendez-vous par notifications.
 
@@ -102,13 +102,22 @@ La prescription implique trois acteurs : le prescripteur, l’usager et l’agen
 
 ### Est-il possible pour un prescripteur d’annuler ou de modifier un RDV ?
 
-Une fois le rendez-vous planifié, le prescripteur n’intervient plus dans la gestion de celui-ci. L'annulation ou la modification d'un rendez-vous peut être initiée par les parties concernées, à savoir l’agent et l’usager.
+Une fois le rendez-vous planifié, le prescripteur peut annuler le rendez-vous :&#x20;
+
+* Directement sur la page de confirmation s'il se rend compte qu’il a fait une erreur
+* En suivant le lien qui lui a été transmis par mail
+
+{% hint style="info" %}
+Le prescripteur agissant pour le compte de l’usager, les conditions d’annulations sont les mêmes que quand l’usager annule de lui même.
+{% endhint %}
+
+La modification d'un rendez-vous n’est actuellement pas possible pour les prescripteurs.
 
 ### Est-il possible de contacter un prescripteur ?
 
 Dans le cas où l'agent a besoin de plus d'informations sur le contexte de la prise de rendez-vous, il peut contacter le prescripteur en utilisant les informations laissées par ce dernier (au minimum, son adresse e-mail professionnelle, et idéalement, son numéro de téléphone). L'agent peut retrouver les coordonnées du prescripteur en suivant ce chemin :
 
-Sélectionner le rendez-vous (soit en double-cliquant sur l’agenda, soit depuis la liste des RDV) → Dirigez vous vers “Rendez-vous pris par” et cliquez sur le nom du prescripteur. Vous retrouver l’identité ainsi que les informations pour contacter le prescripteur
+Sélectionner le rendez-vous (soit en double-cliquant sur l’agenda, soit depuis la liste des RDV) → Dirigez-vous vers “Rendez-vous pris par” et cliquez sur le nom du prescripteur. Vous retrouvez l’identité ainsi que les informations pour contacter le prescripteur
 
 <details>
 
