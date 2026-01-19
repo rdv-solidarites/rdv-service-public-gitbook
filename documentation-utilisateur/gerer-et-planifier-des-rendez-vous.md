@@ -88,8 +88,7 @@ En tant qu’agent, vous pouvez exporter les rendez-vous :&#x20;
 
 Ces exports sont possibles depuis le menu _**Liste des RDV**_. La liste des rendez-vous peut être filtrée selon plusieurs critères : agent, motif, période ... Une fois le filtre appliqué, vous pouvez exporter la liste au format `.xls` ou au format `.pdf` .&#x20;
 
-Les fichiers générés sont accessibles dans le menu _**Mon compte**_.\
-
+Les fichiers générés sont accessibles dans le menu _**Mon compte**_.<br>
 
 </details>
 

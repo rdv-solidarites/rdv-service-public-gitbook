@@ -41,7 +41,7 @@ Le domaine RDV Service Public peut être bloqué par un outil de protection des 
 * Cliquez sur l’icône de droite et autorisez les adresses du domaine @rdv-solidarites.fr / @rdv-service-public.fr / @rdv-aide-numerique.fr
 * Confirmez en validant le message "Autoriser les messages de ces domaines".
 
-Cette autorisation est appliquée à titre individuel et vos collègues auront potentiellement le même problème. Vous pouvez suggérer au responsable technique de votre administration de consulter [cette page](broken-reference) pour corriger ce problème pour tout le monde.
+Cette autorisation est appliquée à titre individuel et vos collègues auront potentiellement le même problème. Vous pouvez suggérer au responsable technique de votre administration de consulter [cette page](/broken/pages/B6Alt0LSsmM3qHXxtr0j) pour corriger ce problème pour tout le monde.
 
 ### Un problème temporaire sur les serveurs de RDV Service Public empêche l’envoi des emails
 
@@ -167,6 +167,72 @@ Le code source de RDV Service Public est accessible en open source sur [GitHub (
 
 * **Configuration du client OAuth** : [https://github.com/betagouv/rdv-service-public/blob/production/config/initializers/omniauth.rb#L6](https://github.com/betagouv/rdv-service-public/blob/production/config/initializers/omniauth.rb#L6)
 * **Code du client REST** : [https://github.com/betagouv/rdv-service-public/blob/production/app/models/outlook/api\_client.rb](https://github.com/betagouv/rdv-service-public/blob/production/app/models/outlook/api_client.rb)
+
+</details>
+
+<details>
+
+<summary><strong>Synchronisation avec la Suite Numérique (CalDAV)</strong></summary>
+
+La synchronisation CalDAV est actuellement en bêta de notre côté. Elle a été principalement testée avec le calendrier de la Suite Numérique, mais reste compatible avec l’ensemble des agendas utilisant le standard CalDAV.
+
+#### Étape 1 : création d’un mot de passe dédié à la synchronisation
+
+Afin d’effectuer la synchronisation avec La Suite, il est nécessaire de créer un mot de passe dédié.
+
+Il faut d'abord se rendre dans les paramètres de Messagerie, qui est l’agenda de la Suite Numérique :
+
+```
+Réglages → Sécurité → Mots de passe d’applications.
+```
+
+Dans la section _« Ajouter des mots de passe »_ sélectionnez _« Client d’agenda (CalDAV) »_ puis donnez un nom de votre choix au mot de passe.
+
+<figure><img src="../.gitbook/assets/520aed14-b71a-42ac-acea-81f792b90030.png" alt=""><figcaption></figcaption></figure>
+
+Conservez le mot de passe généré.
+
+{% hint style="info" %}
+Si vous avez perdu le mot de passe généré, supprimez le dans Mots de passe existants et recréez en un nouveau.
+{% endhint %}
+
+#### Étape 2 : récupération du lien du calendrier à synchroniser
+
+Allez dans les propriétés de votre calendrier
+
+<figure><img src="../.gitbook/assets/29c6f23b-468e-4ac7-b73c-d157649a02c0.png" alt=""><figcaption></figcaption></figure>
+
+
+
+Puis copiez l’URL CalDAV
+
+<figure><img src="../.gitbook/assets/8f91b34d-2c06-40e1-b51a-42f2c5909445.png" alt=""><figcaption></figcaption></figure>
+
+
+
+#### Étape 3 : configuration de la synchronisation dans RDV Service Public
+
+Sur RDV Service Public, cliquez sur votre nom en haut à droite, ouvrez « _Mon compte_ », puis sélectionnez « _Synchronisation d’agenda_ ».
+
+<figure><img src="../.gitbook/assets/762bb42a-264f-4a17-a3c6-58633b9b2fba.png" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../.gitbook/assets/52ac213d-0356-458b-8507-a0c64301667c (1).png" alt=""><figcaption></figcaption></figure>
+
+Cliquez sur « _Caldav_ ».
+
+{% hint style="info" %}
+💡Si vous ne voyez pas le menu ci-après, rendez-vous directement sur cette page : [https://rdv.anct.gouv.fr/agents/calendar\_sync/caldav\_sync](https://rdv.anct.gouv.fr/agents/calendar_sync/caldav_sync)
+{% endhint %}
+
+Dans le formulaire qui s’affiche, renseignez les informations suivantes :
+
+* **Nom d’utilisateur** : votre adresse email utilisée pour la connexion à votre compte la suite.
+* **Mot de passe** : le mot de passe généré dans l'étape 1.
+* **URL de l’agenda Caldav** : l’URL copiée à l’étape 2.
+
+Si vous avez saisi les bonnes informations, tous vos rendez-vous à partir de la date du jour seront automatiquement envoyé dans le calendrier choisi.
 
 </details>
 
