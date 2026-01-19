@@ -174,7 +174,9 @@ Le code source de RDV Service Public est accessible en open source sur [GitHub (
 
 <summary><strong>Synchronisation avec la Suite Numérique (CalDAV)</strong></summary>
 
-La synchronisation CalDAV est actuellement en bêta de notre côté. Elle a été principalement testée avec le calendrier de la Suite Numérique, mais reste compatible avec l’ensemble des agendas utilisant le standard CalDAV.
+La synchronisation CalDAV est actuellement en bêta de notre côté. Elle a été principalement testée avec le calendrier de la Suite Numérique, mais reste compatible avec l’ensemble des agendas utilisant le standard CalDAV.\
+\
+Elle permet de synchroniser les événements de votre agenda RDV Service Public avec l’agenda de la Suite, dans les deux sens. Ainsi, un rendez-vous créé dans la Suite peut apparaître comme une indisponibilité dans RDV Service Public, empêchant les usagers de prendre rendez-vous sur ce créneau.
 
 #### Étape 1 : création d’un mot de passe dédié à la synchronisation
 
@@ -220,7 +222,7 @@ Sur RDV Service Public, cliquez sur votre nom en haut à droite, ouvrez « _Mon 
 
 <figure><img src="../.gitbook/assets/52ac213d-0356-458b-8507-a0c64301667c (1).png" alt=""><figcaption></figcaption></figure>
 
-Cliquez sur « _Caldav_ ».
+Cliquez sur « _CalDAV_ ».
 
 {% hint style="info" %}
 💡Si vous ne voyez pas le menu ci-après, rendez-vous directement sur cette page : [https://rdv.anct.gouv.fr/agents/calendar\_sync/caldav\_sync](https://rdv.anct.gouv.fr/agents/calendar_sync/caldav_sync)
@@ -230,7 +232,7 @@ Dans le formulaire qui s’affiche, renseignez les informations suivantes :
 
 * **Nom d’utilisateur** : votre adresse email utilisée pour la connexion à votre compte la suite.
 * **Mot de passe** : le mot de passe généré dans l'étape 1.
-* **URL de l’agenda Caldav** : l’URL copiée à l’étape 2.
+* **URL de l’agenda CalDAV** : l’URL copiée à l’étape 2.
 
 Si vous avez saisi les bonnes informations, tous vos rendez-vous à partir de la date du jour seront automatiquement envoyé dans le calendrier choisi.
 
