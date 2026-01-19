@@ -172,17 +172,17 @@ Le code source de RDV Service Public est accessible en open source sur [GitHub (
 
 <details>
 
-<summary><strong>Synchronisation avec la Suite Numérique (CalDAV)</strong></summary>
+<summary><strong>Synchronisation avec La Suite numérique (CalDAV)</strong></summary>
 
-La synchronisation CalDAV est actuellement en bêta de notre côté. Elle a été principalement testée avec le calendrier de la Suite Numérique, mais reste compatible avec l’ensemble des agendas utilisant le standard CalDAV.\
+La synchronisation CalDAV est actuellement en bêta de notre côté. Elle a été principalement testée avec le calendrier de La Suite numérique, mais reste compatible avec l’ensemble des agendas utilisant le standard CalDAV.\
 \
-Elle permet de synchroniser les événements de votre agenda RDV Service Public avec l’agenda de la Suite, dans les deux sens. Ainsi, un rendez-vous créé dans la Suite peut apparaître comme une indisponibilité dans RDV Service Public, empêchant les usagers de prendre rendez-vous sur ce créneau.
+Elle permet de synchroniser les événements de votre agenda RDV Service Public avec l’agenda de La Suite, dans les deux sens. Ainsi, un rendez-vous créé dans La Suite peut apparaître comme une indisponibilité dans RDV Service Public, empêchant les usagers de prendre rendez-vous sur ce créneau.
 
 #### Étape 1 : création d’un mot de passe dédié à la synchronisation
 
 Afin d’effectuer la synchronisation avec La Suite, il est nécessaire de créer un mot de passe dédié.
 
-Il faut d'abord se rendre dans les paramètres de Messagerie, qui est l’agenda de la Suite Numérique :
+Il faut d'abord se rendre dans les paramètres de Messagerie, qui est l’agenda de La Suite Numérique :
 
 ```
 Réglages → Sécurité → Mots de passe d’applications.
@@ -230,7 +230,7 @@ Cliquez sur « _CalDAV_ ».
 
 Dans le formulaire qui s’affiche, renseignez les informations suivantes :
 
-* **Nom d’utilisateur** : votre adresse email utilisée pour la connexion à votre compte la suite.
+* **Nom d’utilisateur** : votre adresse email utilisée pour la connexion à votre compte de La Suite.
 * **Mot de passe** : le mot de passe généré dans l'étape 1.
 * **URL de l’agenda CalDAV** : l’URL copiée à l’étape 2.
 
