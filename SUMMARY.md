@@ -37,3 +37,4 @@
 * [Utiliser la prescription interne](toutes-les-notions/utiliser-la-prescription-interne.md)
 * [Prescription](toutes-les-notions/prescription.md)
 * [Activation de la double authentification](toutes-les-notions/activation-de-la-double-authentification.md)
+* [Connexion via ProConnect](toutes-les-notions/connexion-via-proconnect.md)
