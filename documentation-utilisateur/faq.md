@@ -163,6 +163,8 @@ Cette procédure doit être effectuée une seule fois pour tout un compte Micros
 
 Pour des raisons de sécurité et de confidentialité, les événements créés dans Outlook ne contiennent pas d’informations personnelles sur les usagers. Ils contiennent uniquement un lien vers RDV Service Public. Ce lien permet à l’agent, une fois authentifié et autorisé, d’accéder aux détails du rendez-vous.
 
+Notre application Microsoft demande les permissions suivantes : `Calendars.ReadWrite` et `User.read` [voir la documentation Microsoft](https://learn.microsoft.com/en-us/graph/permissions-reference#calendarsreadwrite).
+
 Le code source de RDV Service Public est accessible en open source sur [GitHub (betagouv/rdv-solidarites.fr)](https://github.com/betagouv/rdv-solidarites.fr) :
 
 * **Configuration du client OAuth** : [https://github.com/betagouv/rdv-service-public/blob/production/config/initializers/omniauth.rb#L6](https://github.com/betagouv/rdv-service-public/blob/production/config/initializers/omniauth.rb#L6)
