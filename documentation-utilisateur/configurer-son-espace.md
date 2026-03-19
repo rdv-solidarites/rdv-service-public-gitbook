@@ -101,7 +101,21 @@ Ces ajustements vous permettent d’adapter les fiches aux besoins spécifiques 
 
 <summary><strong>Fiches RDV</strong> </summary>
 
-Vous avez la possibilité de personnaliser l’affichage des **fiches RDV** en activant ou désactivant certains champs selon les besoins de vos organisations.
+En tant qu’**Administrateur d’Espace**, vous avez la possibilité de personnaliser l’affichage des **fiches RDV** en activant ou désactivant certains champs selon les besoins de vos organisations.
+
+Pour ce faire, cliquez sur votre nom en haut à droite, puis « Paramètres de mon espace ».&#x20;
+
+<figure><img src="../.gitbook/assets/Sans titre.png" alt=""><figcaption></figcaption></figure>
+
+Cliquez ensuite sur la tuile « Fiches rendez-vous ».
+
+<figure><img src="../.gitbook/assets/Sans titre 2.png" alt=""><figcaption></figcaption></figure>
+
+Vous pourrez ensuite activer ou désactiver votre les différentes options décrites ci-après.
+
+{% hint style="info" %}
+Si vous ne voyez pas « Paramètre de mon espace », c’est que vous n’êtes pas administrateur de celui-ci. Nous vous invitons donc à contacter votre administrateur d’espace.
+{% endhint %}
 
 **Champ Contexte**
 
@@ -173,8 +187,7 @@ Vous pouvez personnaliser des instructions de rendez-vous, motif par motif. Vous
 Cette fonctionnalité permet de faire afficher ces instructions :&#x20;
 
 * **Avant le rendez-vous** : dans le parcours en ligne, avant qu'un usager sélectionne un créneau
-
-- **Après le rendez-vous** : dans l'écran de confirmation du rendez-vous ainsi que dans la notification SMS, via l'URL _info/annulation_ et dans la notification email, via le champ _information supplémentaires_
+* **Après le rendez-vous** : dans l'écran de confirmation du rendez-vous ainsi que dans la notification SMS, via l'URL _info/annulation_ et dans la notification email, via le champ _information supplémentaires_
 
 </details>
 
