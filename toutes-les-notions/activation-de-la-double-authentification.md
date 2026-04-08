@@ -26,7 +26,7 @@ Tous les agents ne sont pas concernés. Les agents concernés voient un bandeau 
 
 <details>
 
-<summary>Cette mesure sera-t-elle étendue</summary>
+<summary>Cette mesure sera-t-elle étendue ?</summary>
 
 Oui. Afin de garantir la sécurité des données, nous allons peu à peu étendre ce dispositif d’authentification à deux facteurs.
 
