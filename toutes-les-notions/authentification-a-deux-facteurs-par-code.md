@@ -6,7 +6,7 @@ icon: input-password
 
 Afin de protéger l’accès à votre compte RDV Service Public, ainsi qu’aux données personnelles des usagers et des agents, nous vous demandons désormais de vérifier votre identité à chaque connexion.
 
-Cette vérification se fait à l’aide d’un code à 6 chiffres qui vous ait envoyé par email.
+Cette vérification se fait à l’aide d’un code à 6 chiffres qui vous est envoyé par email.
 
 Il vous suffit donc de consulter votre boîte mail et de copier le code qui vous a été envoyé et de le reporter dans le champ prévu à cet effet.
 
