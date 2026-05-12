@@ -481,7 +481,7 @@ Un bouton  _**Annuler le rendez-vous**_ lui permettra d’annuler sans vous cont
 
 <summary><strong>Qui peut voir et modifier mon agenda ?</strong> </summary>
 
-Par défaut, seuls les agents de votre service et de votre organisation peuvent consulter et planifier des rendez-vous dans votre agenda. De plus, les agents du service secrétariat de votre organisation ont un accès étendu : ils peuvent voir, modifier et planifier des rendez-vous de tous les agendas.&#x20;
+Par défaut, seuls les agents de votre service et de votre organisation peuvent consulter et planifier des rendez-vous dans votre agenda. De plus, les agents d’accueils (anciennement agents affectés au service secrétariat) de votre organisation ont un accès étendu : ils peuvent voir, modifier et planifier des rendez-vous de tous les agendas.&#x20;
 
 </details>
 
@@ -542,7 +542,7 @@ Pour utiliser cette fonctionnalité :&#x20;
 Conditions d’accès :
 
 * Disponible uniquement si les agents ont configuré leurs plages d’ouverture.
-* **Administrateurs et secrétariats** : accès à toutes les disponibilités.
+* **Administrateurs et agents d’accueil** : accès à toutes les disponibilités.
 * **Agents simples** : accès uniquement aux créneaux de leur service.
 
 Si plusieurs agents sont disponibles sur le même créneau et motif, la première disponibilité enregistrée sera sélectionnée.
@@ -710,15 +710,15 @@ L'**Agent Admin d'Espace** a une **visibilité totale** sur tous les agendas de 
 
 **Plusieurs Agents Admin d'Espace peuvent être définis.**&#x20;
 
-#### **Agent Secrétariat**
+#### **Agent d’accueil**
 
-Un **Agent du service secrétariat** bénéficie de droits de visibilité supérieurs. Il peut :
+Un **Agent d’accueil** (anciennement agent affecté au service secrétariat) bénéficie de droits de visibilité supérieurs. Il peut :
 
 * Rechercher des disponibilités sur tous les agendas de l'organisation mais avec des droits d'un agent basique.&#x20;
 * Planifier des rendez-vous dans n'importe quel agenda de l'organisation (tous services confondus).\
   Sa principale fonction est de planifier des rendez-vous, mais il peut aussi planifier dans son propre agenda.
 
-**Un Agent Admin doit ouvrir les motifs de prise de rendez-vous pour les agents du service secrétariat s'ils doivent réaliser des rendez-vous.**&#x20;
+**Un Agent Admin doit ouvrir les motifs de prise de rendez-vous pour les agents d’accueil s'ils doivent réaliser des rendez-vous.**&#x20;
 
 </details>
 

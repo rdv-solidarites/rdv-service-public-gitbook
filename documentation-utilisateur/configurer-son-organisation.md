@@ -59,6 +59,17 @@ Ce statut est idéal pour des **partenaires externes** effectuant des permanence
 
 ***
 
+#### Permissions supplémentaires
+
+**Agent d’accueil**
+
+Un agent d’accueil (anciennement agent étant effecté au service secrétariat), peut :&#x20;
+
+* Accéder à l’agenda **de tous les agents** de l’organisation, quel que soit leur service ;
+* **Gérer les rendez-vous de tous les agents** de l’organisation.
+
+***
+
 #### **Services**
 
 Après avoir défini le niveau de droit et renseigné l’adresse e-mail ou un nom, vous devez l’associer au service auquel il est rattaché. Rattacher un agent à un service, c'est lui donner accès aux motifs et aux agendas agents associés à ce service.&#x20;
