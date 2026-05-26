@@ -29,6 +29,7 @@
 * [Qui nous utilise ?](a-propos/qui-nous-utilise.md)
 * [Comment ça marche ?](a-propos/comment-ca-marche.md)
 * [Qui finance ?](a-propos/qui-finance.md)
+* [Nouveautés et feuille de route](a-propos/nouveautes-et-feuille-de-route.md)
 
 ## Toutes les notions
 
