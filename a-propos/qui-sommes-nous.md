@@ -13,7 +13,6 @@ Nous sommes une équipe de 11 personnes au service du rendez-vous 🗓️
 * **François** · _développeur_
 * **Kevin ·** _intrapreneur_&#x20;
 * **Léa** · _chargée de déploiement_
-* **Matis** · _chargé de déploieme&#x6E;_&#x74;
 * **Mehdi** · _product manager_
 * **Nesserine** · _product owner_
 * **Téodora** · _product designer_
