@@ -217,6 +217,18 @@ Vous avez également la possibilité d’ajouter une nouvelle organisation à vo
 
 </details>
 
+<details>
+
+<summary>Calendrier</summary>
+
+Par défaut, les dimanches sont cachés du calendrier et les jours fériés sont automatiquement considérés comme des jours où tous les agents sont indisponibles.
+
+Cependant, si votre service travaille le dimanche et/ou les jours fériés, vous pouvez activer l'option de ce menu pour que les dimanches et les jours fériés soient considérés comme des jours normaux.
+
+Vos agents pourront alors ouvrir des créneaux sur ces jours.
+
+</details>
+
 {% hint style="success" %}
 Vous trouverez également des informations complémentaires dans la [**Foire Aux Questions**​](faq.md)
 {% endhint %}
