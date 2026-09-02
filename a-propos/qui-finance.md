@@ -22,10 +22,18 @@ La solution est gratuite pour les **administrations de l’État** ainsi que pou
 
 ## Grande administration
 
-Là aussi, les financements interministériels des deux sponsors **DINUM** et **ANCT** garantissent la pérennité et la gratuité pour les administrations utilisatrices concernant les coût d’investissement. Toutefois, à partir d’un certain volume de rendez-vous (10 000 rendez-vous par an) une participation financière est demandée pour contribuer au fond de concours commun finançant les coût de fonctionnement notamment ceux liés au coût des SMS envoyés par la solution. Cette participation au frais de fonctionnement engagera la signature d'une convention pour définir le montant annuel.&#x20;
+Les financements interministériels des deux sponsors DINUM et ANCT contribuent à la pérennité du service.
 
-* Pas de frais d’**investissement** ❌
-* Des frais de **fonctionnement** ✅
+Pour les grandes administrations de l’État, des frais de fonctionnement sont demandés, notamment pour couvrir les coûts liés aux SMS envoyés par la solution. Une participation au commun numérique peut également être souhaitée en fonction de l’ampleur du déploiement, du niveau d’accompagnement nécessaire et des éventuels travaux ou évolutions produit spécifiques réalisés pour répondre aux besoins de l’administration concernée.
+
+Cette participation contribue au financement des investissements nécessaires au maintien, à l’évolution et à l’enrichissement du commun numérique au bénéfice de l’ensemble de ses utilisateurs.
+
+Pour les Conseils départementaux, les France Services et les OPSN, qui bénéficient d’un accès dérogatoire au service, une participation financière est demandée afin de contribuer aux coûts d’investissement et de fonctionnement du commun numérique, notamment ceux liés aux SMS envoyés par la solution.
+
+Cette participation fait l’objet d’une convention définissant les modalités et le montant de la contribution annuelle.
+
+* Pour les grandes administrations de l’État : des frais de fonctionnement, notamment liés aux SMS, auxquels peut s’ajouter une participation au commun numérique selon l’ampleur du déploiement et les besoins spécifiques ✅
+* Pour les Conseils départementaux, les France Services et les OPSN bénéficiant d’un accès dérogatoire : des frais d’investissement et de fonctionnement, notamment liés aux SMS ✅
 
 {% hint style="info" %}
 Pour simuler les coûts de fonctionnement de votre administration, vous pouvez multiplier le coût SMS d’un rendez-vous (environ 0,12€) par le nombre de rendez-vous planifiés par votre administration par an.
