@@ -13,7 +13,9 @@ RDV Service Public est une solution numérique portée et financée par la [Dire
 
 ## **Petite administration**
 
-Les financements interministériels des deux sponsors **DINUM** et **ANCT** garantissent la pérennité et la gratuité pour les administrations utilisatrices concernant les coût de fonctionnement et d’investissement. La solution est entièrement gratuite pour une utilisation en l'état de la solution par les collectivités territoriales, les opérateurs et les services de l'État.
+Les financements interministériels des deux sponsors **DINUM** et **ANCT** garantissent la pérennité du service et prennent en charge les coûts de fonctionnement et d’investissement pour les administrations utilisatrices.
+
+La solution est gratuite pour les **administrations de l’État** ainsi que pour les **collectivités éligibles** : communes de moins de **3 500 habitants** et intercommunalités de moins de **15 000 habitants**, disposant d’un **dispositif de recueil (DR)** et assurant des **missions régaliennes**.
 
 * Pas de frais d’**investissement** ❌
 * Pas de frais de **fonctionnement** ❌
