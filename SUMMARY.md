@@ -37,5 +37,4 @@
 * [Synchronisation Outlook (Microsoft 365)](toutes-les-notions/synchronisation-outlook-microsoft-365.md)
 * [Utiliser la prescription interne](toutes-les-notions/utiliser-la-prescription-interne.md)
 * [Prescription](toutes-les-notions/prescription.md)
-* [Activation de la double authentification](toutes-les-notions/activation-de-la-double-authentification.md)
 * [Authentification à deux facteurs par code](toutes-les-notions/authentification-a-deux-facteurs-par-code.md)
