@@ -32,8 +32,8 @@ Pour les Conseils départementaux, les France Services et les OPSN, qui bénéfi
 
 Cette participation fait l’objet d’une convention définissant les modalités et le montant de la contribution annuelle.
 
-* Pour les grandes administrations de l’État : des frais de fonctionnement, notamment liés aux SMS, auxquels peut s’ajouter une participation au commun numérique selon l’ampleur du déploiement et les besoins spécifiques ✅
-* Pour les Conseils départementaux, les France Services et les OPSN bénéficiant d’un accès dérogatoire : des frais d’investissement et de fonctionnement, notamment liés aux SMS ✅
+* **Pour les grandes administrations de l’État :** des frais de fonctionnement, notamment liés aux SMS, auxquels peut s’ajouter une participation au commun numérique selon l’ampleur du déploiement et les besoins spécifiques ✅
+* **Pour les Conseils départementaux, les France Services et les OPSN bénéficiant d’un accès dérogatoire :** des frais d’investissement et de fonctionnement, notamment liés aux SMS ✅
 
 {% hint style="info" %}
 Pour simuler les coûts de fonctionnement de votre administration, vous pouvez multiplier le coût SMS d’un rendez-vous (environ 0,12€) par le nombre de rendez-vous planifiés par votre administration par an.
