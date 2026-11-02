@@ -434,7 +434,7 @@ Cette fonctionnalité permet d'automatiser les informations de rendez-vous à vo
 
 Plusieurs actions déclenchent l'envoi de SMS :&#x20;
 
-* Une notification de **confirmation** est envoyée immédiatement après la création du rendez-vous.
+* Une notification de **confirmation** est envoyée immédiatement après la création du rendez-vous, sauf si c'est l'usager qui prend RDV en autonomie et que le RDV a lieu dans moins de 48h.
 * Une notification de **rappel** est envoyée à l'usager 48h avant le rendez-vous (hors jours fériés et dimanches).
 * Une notification de **rendez-vous modifié** : l'usager reçoit immédiatement une notification en cas de modification du rendez-vous.
 * Une notification de **rendez-vous annulé** : l'usager reçoit immédiatement une notification en cas d'annulation du rendez-vous. Si l'usager est à l'origine de l'annulation, il doit le faire au moins 4 heures avant l'heure prévue du rendez-vous.
