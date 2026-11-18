@@ -6,7 +6,7 @@
 
 * [Étape par étape](accompagner-le-changement/guide-des-etapes.md)
 
-## DOCUMENTATION UTILISATEUR
+## Documentation utilisateur
 
 * [FAQ](documentation-utilisateur/faq.md)
 * [Configurer son espace](documentation-utilisateur/configurer-son-espace.md)
