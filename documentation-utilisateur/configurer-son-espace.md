@@ -33,7 +33,7 @@ Pour inviter un agent :
 {% hint style="danger" %}
 **Vous devez inviter les agents individuellement. Il n'est pas possible d'envoyer des invitations à plusieurs adresses e-mail simultanément.**
 
-**L’invitation doit être validée par l’agent dans un délai de 48 heures (je sais plus). Passé ce délai, vous devrez procéder à une nouvelle invitation.**
+**L’invitation doit être validée par l’agent dans un délai de 48 heures. Passé ce délai, vous devrez procéder à une nouvelle invitation.**
 {% endhint %}
 
 Une fois l’invitation envoyée, l’agent recevra un e-mail contenant un lien lui permettant de rejoindre votre espace.\
