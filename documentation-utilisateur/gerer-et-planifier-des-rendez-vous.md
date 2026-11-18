@@ -54,7 +54,7 @@ Vous avez également la possibilité de programmer des indisponibilités récurr
 
 <summary><strong>Comment recevoir des alertes de prise de rendez-vous dans mon agenda ?</strong></summary>
 
-Vous pouvez configurer vos préférences de notification depuis la configuration de votre compte. En cliquant sur votre nom et prénom en haut à droite, vous accéderez à votre espace _**Mon compte**_.
+Vous pouvez configurer vos préférences de notification en cliquant sur votre nom en haut à droite, puis sur _**Préférences de notifications**_.
 
 Depuis ce menu, vous pouvez configurer vos préférences de notiffication. Plusieurs options s'offrent à vous. Vous pouvez recevoir des notifications par email lorsqu’un rendez-vous est ajouté, modifié ou annulé dans un agenda. Elle répond au besoin des agents souhaitant être alertés en cas de changement dans leur planning.
 
@@ -88,7 +88,7 @@ En tant qu’agent, vous pouvez exporter les rendez-vous :
 
 Ces exports sont possibles depuis le menu _**Liste des RDV**_. La liste des rendez-vous peut être filtrée selon plusieurs critères : agent, motif, période ... Une fois le filtre appliqué, vous pouvez exporter la liste au format `.xls`.
 
-Les fichiers générés sont accessibles dans le menu _**Mon compte**_.<br>
+Les fichiers générés sont accessibles dans le menu _**Vos exports**_, en cliquant sur votre nom en haut à droite.<br>
 
 </details>
 
@@ -140,7 +140,7 @@ Pour utiliser cette fonctionnalité :
 Conditions d’accès :
 
 * Disponible uniquement si les agents ont configuré leurs plages d’ouverture.
-* **Administrateurs et secrétariats** : accès à toutes les disponibilités.
+* **Administrateurs et agents d’accueil** : accès à toutes les disponibilités.
 * **Agents simples** : accès uniquement aux créneaux de leur service.
 
 Si plusieurs agents sont disponibles sur le même créneau et motif, la première disponibilité enregistrée sera sélectionnée.

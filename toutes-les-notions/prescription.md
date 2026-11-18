@@ -22,8 +22,8 @@ Quant à la **prescription externe**, elle s'adresse aux agents qui n'ont pas de
 
 Tout comme l’ouverture en ligne aux usagers, proposer des créneaux de prise de rendez-vous aux prescripteurs nécessites deux conditions :
 
-* motif ouvert en ligne : Veuillez suivre le chemin suivant : Paramètres → Motifs → Éditer ou créer un motif → Onglet "Réservation en ligne" → Cochez la deuxième proposition dans l'encadré "Réservation en ligne".
-* plage d’ouverture : Définissez la plage d'ouverture durant laquelle le prescripteur peut planifier un rendez-vous pour l'usager. Pour ce faire, suivez le chemin suivant : Plages d'ouverture → Éditer ou créer une plage d'ouverture → Sélectionnez un motif avec la pastille "En ligne".
+* motif ouvert aux prescripteurs : Veuillez suivre le chemin suivant : Configuration → Motifs de rendez-vous → Ouvrir ou créer un motif → Section "Options avancées" → Modifier la section → Cochez "Autoriser les prescripteurs à prendre rendez-vous pour ce motif". Un motif ouvert à la réservation en ligne est automatiquement ouvert aux prescripteurs.
+* plage d’ouverture : Définissez la plage d'ouverture durant laquelle le prescripteur peut planifier un rendez-vous pour l'usager. Pour ce faire, suivez le chemin suivant : Planning → Plages d'ouverture → Éditer ou créer une plage d'ouverture → Sélectionnez un motif avec la pastille "En ligne".
 
 ## En tant que prescripteur, comment planifier un rendez-vous pour un usager ?
 
@@ -53,7 +53,7 @@ Dirigez-vous vers le bouton “Trouver un RDV” → cliquez sur “élargir vot
 Nous vous encourageons à privilégier ce chemin pour offrir des disponibilités plus rapidement
 {% endhint %}
 
-#### **Je souhaite planifier un rendez-vous pour un usager depuis un lien prescripteur 👇**&#x20;
+#### **Je souhaite planifier un rendez-vous pour un usager depuis un lien prescripteur 👇**
 
 {% hint style="success" %}
 Nouveauté ✨
@@ -84,11 +84,9 @@ Il existe deux entrés pour accéder au parcours prise de rendez-vous :
 
 Une fois que vous avez reçu le lien, sélectionnez les éléments du rendez-vous dans cet ordre : le service, le motif, le lien, puis le créneau.
 
-Lors de l'identification, cliquez sur "**Je suis un prescripteur orientant un bénéficiaire**" via ce lien. Ensuite, veuillez renseigner vos coordonnées. Le nom, le prénom et l'adresse e-mail professionnel sont des champs obligatoires. Quant au numéro de téléphone, il est fortement recommandé. Ces informations seront visibles par l'agent chargé de la gestion du rendez-vous, lui permettant ainsi de revenir vers le prescripteur en cas de questions sur le contexte du rendez-vous, par exemple.
+Lors de l'identification, cliquez sur "**Je suis un prescripteur qui oriente un bénéficiaire**" via ce lien. Ensuite, veuillez renseigner vos coordonnées. Le nom, le prénom et l'adresse e-mail professionnel sont des champs obligatoires. Quant au numéro de téléphone, il est fortement recommandé. Ces informations seront visibles par l'agent chargé de la gestion du rendez-vous, lui permettant ainsi de revenir vers le prescripteur en cas de questions sur le contexte du rendez-vous, par exemple.
 
 Ensuite, il est nécessaire de renseigner les coordonnées de l'usager et confirmer le rendez-vous. Une fois confirmé, vous recevrez une notification par e-mail pour confirmer cette mise en relation
-
-
 
 ## F.A.Q
 
@@ -102,7 +100,7 @@ La prescription implique trois acteurs : le prescripteur, l’usager et l’agen
 
 ### Est-il possible pour un prescripteur d’annuler ou de modifier un RDV ?
 
-Une fois le rendez-vous planifié, le prescripteur peut annuler le rendez-vous :&#x20;
+Une fois le rendez-vous planifié, le prescripteur peut annuler le rendez-vous :
 
 * Directement sur la page de confirmation s'il se rend compte qu’il a fait une erreur
 * En suivant le lien qui lui a été transmis par mail

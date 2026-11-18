@@ -12,7 +12,7 @@ icon: message-question
 
 Cette fonctionnalité permet de recevoir des notifications par email lorsqu’un rendez-vous est ajouté, modifié ou annulé dans un agenda. Elle répond au besoin des agents souhaitant être alertés en cas de changement dans leur planning.
 
-Vous pouvez personnaliser vos préférences de notification dans l’onglet _**Mon Compte**_, accessible en cliquant sur votre prénom en haut à droite de votre calendrier.
+Vous pouvez personnaliser vos préférences de notification dans le menu _**Préférences de notifications**_, accessible en cliquant sur votre nom en haut à droite de l’écran.
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -151,7 +151,7 @@ Cette procédure doit être effectuée une seule fois pour tout un compte Micros
 
 **Étape 1** : L’administrateur·ice Outlook du département doit être invité à créer un compte sur RDV Service Public.
 
-**Étape 2** : Une fois connecté·e sur RDV Service Public, l’administrateur·ice doit cliquer sur son nom en haut à droite > Mon Compte > Synchronisation d’agenda > Connexion Outlook > Se connecter avec Microsoft
+**Étape 2** : Une fois connecté·e sur RDV Service Public, l’administrateur·ice doit cliquer sur son nom en haut à droite > _Synchronisation d’agenda_ > _Connecter mon compte Outlook (Microsoft 365)_
 
 ![Chemin à suivre pour la connexion Outlook](https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/padnumerique/uploads/874bafcf-66ea-4a17-b07f-23b1406d3c1b.png)
 
@@ -212,13 +212,13 @@ Puis copiez l’URL CalDAV
 
 #### Étape 3 : configuration de la synchronisation dans RDV Service Public
 
-Sur RDV Service Public, cliquez sur votre nom en haut à droite, ouvrez « _Mon compte_ », puis sélectionnez « _Synchronisation d’agenda_ ».
+Sur RDV Service Public, cliquez sur votre nom en haut à droite, puis sélectionnez « _Synchronisation d’agenda_ ».
 
 <figure><img src="../.gitbook/assets/762bb42a-264f-4a17-a3c6-58633b9b2fba.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/52ac213d-0356-458b-8507-a0c64301667c (1).png" alt=""><figcaption></figcaption></figure>
 
-Cliquez sur « _CalDAV_ ».
+Cliquez sur « _Connecter mon agenda via CalDAV_ ».
 
 {% hint style="info" %}
 💡Si vous ne voyez pas le menu ci-après, rendez-vous directement sur cette page : [https://rdv.anct.gouv.fr/agents/calendar\_sync/caldav\_sync](https://rdv.anct.gouv.fr/agents/calendar_sync/caldav_sync)
@@ -253,7 +253,7 @@ Cette synchronisation envoie un email pour chaque création, modification ou ann
 
 Chaque email contient une pièce jointe au format ICS, un format largement supporté. Votre logiciel de calendrier externe reconnaîtra ces emails et mettra automatiquement à jour les évènements dans votre calendrier. Certains logiciels de calendrier demandent « d’accepter » chaque modification.
 
-Vous pouvez modifier vos préférences de notifications email dans l’espace « Mon Compte » accessible en cliquant sur votre prénom en haut à droite depuis votre vue calendrier.
+Vous pouvez modifier vos préférences de notifications email dans le menu « Préférences de notifications », accessible en cliquant sur votre nom en haut à droite de l’écran.
 
 #### **Synchronisation Outlook (Microsoft 365)**
 
@@ -265,7 +265,7 @@ Vous trouverez plus d’informations sur [ici](faq.md).
 
 Webcal est un protocole largement supporté par les logiciels de calendrier.
 
-Nous vous fournissons une URL individuelle fournissant le contenu de votre agenda au format ICS. Cette URL peut être récupérée depuis dans l’espace « Mon Compte » accessible en cliquant sur votre prénom en haut à droite depuis votre vue calendrier. Il suffit de copier cette URL dans votre logiciel de calendrier externe et la synchronisation se fera automatiquement.
+Nous vous fournissons une URL individuelle fournissant le contenu de votre agenda au format ICS. Cette URL est disponible dans le menu « Synchronisation d’agenda » (bouton « Synchronisation par lien Webcal »), accessible en cliquant sur votre nom en haut à droite de l’écran. Il suffit de copier cette URL dans votre logiciel de calendrier externe et la synchronisation se fera automatiquement.
 
 Si vous synchronisez votre agenda RDV Solidarités avec Google Agenda, la mise à jour peut prendre jusqu'à 12 heures. Avec le calendrier Outlook, l'affichage est plus rapide, généralement dans l'heure suivant la prise de rendez-vous.
 
@@ -324,7 +324,7 @@ Pour activer cette option, trois étapes sont nécessaires :
 
 * **Configurer des motifs ouverts à la réservation en ligne**
 
-Dans les paramètres des motifs, sélectionnez au moins un motif et activez l’option _**Ouvert aux agents, aux prescripteurs et aux usagers**_. Vous pouvez également définir un délai minimum et maximum de réservation et ajouter des instructions personnalisées dans l’onglet _**Instruction et notification**_.
+Depuis le menu _**Réservation en ligne**_ (menu de gauche), sélectionnez au moins un motif et cliquez sur _**Ouvrir à la réservation en ligne**_. Depuis la page du motif, vous pouvez également définir un délai minimum et maximum de réservation (section _**Options de réservation**_) et ajouter des consignes personnalisées (section _**Consignes pour les usagers**_).
 
 * **Configurer une plage d’ouverture**
 
@@ -344,9 +344,9 @@ Il n'est pas possible d'intégrer de formulaire ou de questionnaire en amont du 
 
 Pour ajouter un message d'instruction :
 
-* Sélectionner un motif à modifier depuis _**paramètre**_ puis _**motif**_
-* Accéder à l'onglet _**notifications et instructions**_
-* Compléter le champ _**instructions affichées avant la prise de rendez-vous**_
+* Ouvrir le motif depuis _**Configuration**_ puis _**Motifs de rendez-vous**_
+* Dans la section _**Consignes à destination de l’usager**_, cliquer sur _**Modifier la section**_
+* Compléter le champ _**Instructions à accepter avant la prise du rendez-vous**_
 
 Ces informations apparaîtront entre la sélection du lieu de rendez-vous et du créneau de rendez-vous dans le parcours en ligne.
 
@@ -443,9 +443,9 @@ Vous pouvez ajouter des instructions dans les notifications emails que recevront
 
 Pour ajouter des instructions dans les notification email :
 
-* Sélectionner un motif à modifier depuis _**paramètre**_ puis _**motif**_
-* Accéder à l'onglet _**notifications et instructions**_
-* Compléter le champ _**instructions affichées après la prise de rendez-vous**_
+* Ouvrir le motif depuis _**Configuration**_ puis _**Motifs de rendez-vous**_
+* Dans la section _**Consignes à destination de l’usager**_, cliquer sur _**Modifier la section**_
+* Compléter le champ _**Indications affichées après la confirmation du rendez-vous**_
 
 Ces informations apparaîtront à 3 niveaux :
 
@@ -575,7 +575,7 @@ Le **statut d’agent administrateur** permet d’extraire les statistiques de v
 * Compléter les différents champ pour affiner les critères de votre export
 * Cliquer sur _**rafraichir la liste**_
 * Cliquez sur _**Exporter**_ après avoir renseigné vos critères.
-* Retrouvez vos exports dans la page _**Vos exports**_, accessible depuis votre compte (en haut à droite).
+* Retrouvez vos exports dans la page _**Vos exports**_, accessible en cliquant sur votre nom en haut à droite.
 
 **L’extraction se fait par organisation. Si vous en gérez plusieurs, vous devez effectuer une exportation pour chacune.**
 
@@ -591,7 +591,7 @@ Elle permet aux agents de partager leurs disponibilités et de planifier des ren
 
 Pour configurer :
 
-Il est nécessaire de configurer vos motifs _**ouvert aux prescripteur**_ depuis l'écran de configuration des motifs. Plus précisément, depuis l'onglet _**réservation en ligne**_ présent dans l'écran de configuration des motifs.
+Il est nécessaire d’ouvrir vos motifs aux prescripteurs : depuis la page du motif, section _**Options avancées**_, cliquez sur _**Modifier la section**_ et cochez _**Autoriser les prescripteurs à prendre rendez-vous pour ce motif**_. Un motif ouvert à la réservation en ligne est automatiquement ouvert aux prescripteurs.
 
 Pour l’utiliser :
 
@@ -666,8 +666,8 @@ Un agent peut être associé à plusieurs organisations. Cette association lui d
 
 Pour ajouter un agent à plusieurs organisations :
 
-* Accéder à votre _**Espace Admin**_
-* Sélectionner _**Agent**_
+* Cliquer sur votre nom en haut à droite, puis sur _**Paramètres de \[nom de votre espace]**_
+* Sélectionner _**Agents**_
 * Choisissez l'agent à modifier. Vous trouverez en bas de page les options d'affectations à de nouvelles organisations.
 
 </details>
@@ -692,7 +692,7 @@ L'**Agent Basique** a accès aux fonctionnalités de planification de rendez-vou
 L'**Agent Admin** a une **visibilité étendue** sur toutes les organisations auxquelles il est associé. Il peut :
 
 * Rechercher des disponibilités dans tous les services de son organisation,
-* Accéder à l'onglet **Paramètres** pour créer des motifs, lieux et inviter des agents,
+* Accéder au menu **Configuration** pour créer des motifs, lieux et inviter des agents,
 * Être associé à plusieurs organisations.
 
 #### **Agent Admin d'Espace**
@@ -722,7 +722,7 @@ Un **Agent d’accueil** (anciennement agent affecté au service secrétariat) b
 
 Pour inviter un agent :
 
-* Allez dans _**Paramètres**_ puis _**Agents**_
+* Allez dans _**Configuration**_ puis _**Agents**_
 * Cliquez sur _**Inviter un agent**_
 * Choisissez un niveau d'accès
 * Entrez l’adresse e-mail de l'agent
@@ -739,8 +739,8 @@ Pour inviter un agent :
 
 Pour modifier le service d'un agent :
 
-* Accéder à votre _**Espace Admin**_
-* Cliquer sur _**agent**_ et sélectionner _**modifier**_
+* Cliquer sur votre nom en haut à droite, puis sur _**Paramètres de \[nom de votre espace]**_
+* Cliquer sur _**Agents**_ et sélectionner _**modifier**_
 * Associer l'agent à un ou plusieurs services pour définir ses droits d'accès
 
 **Seul un agent admin d'espace pour modifier les services d'un agent.**
@@ -753,7 +753,7 @@ Pour modifier le service d'un agent :
 
 Pour supprimer un agent :
 
-* Allez dans _**Paramètres**_ puis _**Agents**_.
+* Allez dans _**Configuration**_ puis _**Agents**_.
 * Cliquez sur l’icône _**Supprimer**_ à côté de l'agent.
 * Si l'agent a des rendez-vous à venir, une alerte vous empêchera de le supprimer. Vous devrez réaffecter ces rendez-vous avant de supprimer l'agent.
 
@@ -779,7 +779,7 @@ Vous pouvez dupliquer des motifs déjà créé dans une autre organisation. Cett
 
 Pour dupliquer un motif :
 
-* Accéder à vos motifs depuis _**paramètres**_ puis _**motifs**_
+* Accéder à vos motifs depuis _**Configuration**_ puis _**Motifs de rendez-vous**_
 * Cliquer sur l'émoticône _**dupliquer**_ à droite de chaque motif
 * Sélectionner l'organisation dans laquelle dupliquer le motif
 * Au besoin, modifier des configurations du motif
@@ -794,8 +794,8 @@ Vous pouvez modifier des par lot. Cette fonctionnalité permet de changer des co
 
 Pour modifier des motifs en masse :
 
-* Accéder à votre _**Espace Admin**_
-* Sélectionner _**motif**_
+* Cliquer sur votre nom en haut à droite, puis sur _**Paramètres de \[nom de votre espace]**_
+* Sélectionner _**Motifs**_
 * Filtrer et rechercher les motifs à modifier et sélectionner les par lot.
 * Cliquer sur _**modifier les motifs**_
 
@@ -841,7 +841,7 @@ Par défaut, lors de la création de votre compte, aucun service ne sera actif d
 
 Pour activer les services :
 
-* Accéder à votre _**Espace Admin**_
+* Cliquer sur votre nom en haut à droite, puis sur _**Paramètres de \[nom de votre espace]**_
 * Sélectionner _**Services**_
 * Sélectionner les services que vous souhaitez activer parmi la liste
 * Cliquer sur _**enregistrer**_ en bas de page
@@ -888,7 +888,7 @@ Ces éléments seront ensuite visibles dans les **récapitulatifs de rendez-vous
 
 Pour créer une nouvelle organisation :
 
-* Allez dans le menu _**Espace Admin**_
+* Cliquer sur votre nom en haut à droite, puis sur _**Paramètres de \[nom de votre espace]**_
 * Cliquez sur _**Organisations**_ puis sur _**Créer une organisation**_.
 * L'agent admin d'espace qui crée l'organisation devient automatiquement le premier agent associé.
 * Cet agent admin pourra ensuite inviter d'autres agents dans cette organisation si nécessaire.

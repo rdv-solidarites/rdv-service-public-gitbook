@@ -101,7 +101,7 @@ Ces ajustements vous permettent d’adapter les fiches aux besoins spécifiques 
 
 En tant qu’**Administrateur d’Espace**, vous avez la possibilité de personnaliser l’affichage des **fiches RDV** en activant ou désactivant certains champs selon les besoins de vos organisations.
 
-Pour ce faire, cliquez sur votre nom en haut à droite, puis « Paramètres de mon espace ».
+Pour ce faire, cliquez sur votre nom en haut à droite, puis « Paramètres de \[nom de votre espace] ».
 
 <figure><img src="../.gitbook/assets/Sans titre.png" alt=""><figcaption></figcaption></figure>
 
@@ -112,7 +112,7 @@ Cliquez ensuite sur la tuile « Fiches rendez-vous ».
 Vous pourrez ensuite activer ou désactiver votre les différentes options décrites ci-après.
 
 {% hint style="info" %}
-Si vous ne voyez pas « Paramètre de mon espace », c’est que vous n’êtes pas administrateur de celui-ci. Nous vous invitons donc à contacter votre administrateur d’espace.
+Si vous ne voyez pas « Paramètres de \[nom de votre espace] », c’est que vous n’êtes pas administrateur de celui-ci. Nous vous invitons donc à contacter votre administrateur d’espace.
 {% endhint %}
 
 **Champ Contexte**
@@ -146,7 +146,7 @@ En tant qu’Administrateur, vous pouvez créer des **motifs à l’échelle de 
 
 Lors de la création, vous pouvez sélectionner les **organisations concernées** par ce motif.
 
-La configuration d’un motif s’effectue via 3 onglets :
+La page de détails d’un motif (menu _**Configuration**_ > _**Motifs de rendez-vous**_) est organisée en plusieurs sections :
 
 ***
 
@@ -166,26 +166,26 @@ Si vous souhaitez proposer plusieurs modalités de rendez-vous (sur place, par t
 
 #### **Réservation en ligne**
 
-Un motif peut-être ouvert ou non à la prise de rendez-vous en ligne. Vous pouvez sélectionner cette option depuis l'onglet _**réservation en ligne**_ de l'écran de configuration des motifs. Vous devez cocher la case _ouvert aux usagers_.
+Un motif peut-être ouvert ou non à la prise de rendez-vous en ligne. Vous pouvez gérer cette option depuis le menu _**Réservation en ligne**_ (menu de gauche) ou depuis la page de détails du motif, avec le bouton _**Ouvrir à la réservation en ligne**_.
 
 {% hint style="success" %}
 **Une pastille&#x20;**_**en ligne**_**&#x20;s'affichera pour chaque motif.**
 {% endhint %}
 
-Dès lors que vous ouvrez la prise de rendez-vous en ligne pour un motif, vous accéderez à des options de configurations supplémentaires liées au **délais minimum et maximum de réservation**. En configurant ces options, vous pouvez limiter la visibilités des disponibilités des plages de disponibilités des agents dans le parcours de prise de rendez-vous en ligne.
+Dès lors que vous ouvrez la prise de rendez-vous en ligne pour un motif, vous accéderez à des options de configurations supplémentaires liées au **délais minimum et maximum de réservation** (section _**Options de réservation**_). En configurant ces options, vous pouvez limiter la visibilités des disponibilités des plages de disponibilités des agents dans le parcours de prise de rendez-vous en ligne.
 
 Aussi, vous pouvez offrir la possibilité à vos usagers de **modifier leur créneau de rendez-vous en autonomie**. Un bouton déplacer le RDV s'affichera depuis leur récapitulatif de rendez-vous accessible depuis les notifications email et SMS.
 
 ***
 
-#### **Instruction et notification**
+#### **Consignes à destination de l’usager**
 
-Vous pouvez personnaliser des instructions de rendez-vous, motif par motif. Vous pouvez personnaliser ces instructions depuis l'onglet _**notification et instruction.**_
+Vous pouvez personnaliser des instructions de rendez-vous, motif par motif. Vous pouvez personnaliser ces consignes depuis la section _**Consignes à destination de l’usager**_ de la page du motif, en cliquant sur _**Modifier la section**_.
 
 Cette fonctionnalité permet de faire afficher ces instructions :
 
-* **Avant le rendez-vous** : dans le parcours en ligne, avant qu'un usager sélectionne un créneau
-* **Après le rendez-vous** : dans l'écran de confirmation du rendez-vous ainsi que dans la notification SMS, via l'URL _info/annulation_ et dans la notification email, via le champ _information supplémentaires_
+* **Avant le rendez-vous** (champ _Instructions à accepter avant la prise du rendez-vous_) : dans le parcours en ligne, avant qu'un usager sélectionne un créneau
+* **Après le rendez-vous** (champ _Indications affichées après la confirmation du rendez-vous_) : dans l'écran de confirmation du rendez-vous ainsi que dans la notification SMS, via l'URL _info/annulation_ et dans la notification email, via le champ _information supplémentaires_
 
 </details>
 
