@@ -4,17 +4,17 @@ icon: map-location
 
 # Configurer son espace
 
-En tant qu’_Agent Admin d’Espace_, votre rôle est de configurer l’espace RDV Service Public de manière à ce que vos agents disposent d’une solution adaptée à leurs réalités métier. Votre rôle d’administrateur vise à offrir aux agents un cadre simple, cohérent et efficace pour simplifier le déploiement et l'utilisation.&#x20;
+En tant qu’_Agent Admin d’Espace_, votre rôle est de configurer l’espace RDV Service Public de manière à ce que vos agents disposent d’une solution adaptée à leurs réalités métier. Votre rôle d’administrateur vise à offrir aux agents un cadre simple, cohérent et efficace pour simplifier le déploiement et l'utilisation.
 
 ***
 
-* Périmètre d’accès : tous les agendas, organisations et services de l’espace&#x20;
-* Périmètre de configuration : espace et toutes les organisations&#x20;
+* Périmètre d’accès : tous les agendas, organisations et services de l’espace
+* Périmètre de configuration : espace et toutes les organisations
 * Tâches : créer l’espace, structurer les organisations et les services, nommer les _Agents Admin_ dans les organisations et nommer d'autres _Agent Admin d'Espace_
 
 ***
 
-<mark style="color:blue;">**Plus de détails sur chaque option :**</mark>&#x20;
+<mark style="color:blue;">**Plus de détails sur chaque option :**</mark>
 
 <details>
 
@@ -33,7 +33,7 @@ Pour inviter un agent :
 {% hint style="danger" %}
 **Vous devez inviter les agents individuellement. Il n'est pas possible d'envoyer des invitations à plusieurs adresses e-mail simultanément.**
 
-**L’invitation doit être validée par l’agent dans un délai de 48 heures. Passé ce délai, vous devrez procéder à une nouvelle invitation.**
+**L’invitation doit être validée par l’agent dans un délai d’une semaine. Passé ce délai, vous devrez procéder à une nouvelle invitation.**
 {% endhint %}
 
 Une fois l’invitation envoyée, l’agent recevra un e-mail contenant un lien lui permettant de rejoindre votre espace.\
@@ -50,11 +50,11 @@ Après validation de l’invitation par l’agent, vous pourrez :
 
 <details>
 
-<summary><strong>Webhook</strong> </summary>
+<summary><strong>Webhook</strong></summary>
 
 Les **webhooks** permettent à **RDV Service Public** de communiquer automatiquement avec le système d’information (SI) de votre organisation.
 
-&#x20;**RDV Service Public peut envoyer des notifications à votre SI lorsqu’un événement a lieu**, comme :
+**RDV Service Public peut envoyer des notifications à votre SI lorsqu’un événement a lieu**, comme :
 
 * La création d’un rendez-vous.
 * La modification d’un rendez-vous.
@@ -93,17 +93,15 @@ Ces ajustements vous permettent d’adapter les fiches aux besoins spécifiques 
 **Les modifications que vous apportez s’appliqueront à l’ensemble des organisations et des services de votre espace.**
 {% endhint %}
 
-
-
 </details>
 
 <details>
 
-<summary><strong>Fiches RDV</strong> </summary>
+<summary><strong>Fiches RDV</strong></summary>
 
 En tant qu’**Administrateur d’Espace**, vous avez la possibilité de personnaliser l’affichage des **fiches RDV** en activant ou désactivant certains champs selon les besoins de vos organisations.
 
-Pour ce faire, cliquez sur votre nom en haut à droite, puis « Paramètres de mon espace ».&#x20;
+Pour ce faire, cliquez sur votre nom en haut à droite, puis « Paramètres de mon espace ».
 
 <figure><img src="../.gitbook/assets/Sans titre.png" alt=""><figcaption></figcaption></figure>
 
@@ -140,11 +138,11 @@ Vous pouvez également configurer les paramètres liés à la **salle d’attent
 
 <details>
 
-<summary><strong>Motifs</strong> </summary>
+<summary><strong>Motifs</strong></summary>
 
-Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de rendez-vous, d’informer l’agent sur le contenu attendu et d’affiner les options (présentiel, téléphone, visio, option de prise de rendez-vous en ligne).&#x20;
+Le motif est la raison du rendez-vous. Il permet de catégoriser les prises de rendez-vous, d’informer l’agent sur le contenu attendu et d’affiner les options (présentiel, téléphone, visio, option de prise de rendez-vous en ligne).
 
-En tant qu’Administrateur, vous pouvez créer des **motifs à l’échelle de votre espace**. Cela vous permet de mutualiser les motifs entre plusieurs organisations, sans avoir à les recréer pour chacune.&#x20;
+En tant qu’Administrateur, vous pouvez créer des **motifs à l’échelle de votre espace**. Cela vous permet de mutualiser les motifs entre plusieurs organisations, sans avoir à les recréer pour chacune.
 
 Lors de la création, vous pouvez sélectionner les **organisations concernées** par ce motif.
 
@@ -152,9 +150,9 @@ La configuration d’un motif s’effectue via 3 onglets :
 
 ***
 
-#### **Information générale**&#x20;
+#### **Information générale**
 
-Un motif est avant tout un objet de rendez-vous qui se configure par un nom, une durée par défaut, un type et un service associé.&#x20;
+Un motif est avant tout un objet de rendez-vous qui se configure par un nom, une durée par défaut, un type et un service associé.
 
 {% hint style="success" %}
 **Vos motifs seront accessibles par les agents des services associés**
@@ -162,29 +160,29 @@ Un motif est avant tout un objet de rendez-vous qui se configure par un nom, une
 
 Les agents pourront créer des plages de disponibilités avec des motifs configurés et ainsi faciliter la recherche de créneaux dans votre organisation et planifier des rendez-vous.
 
-Si vous souhaitez proposer plusieurs modalités de rendez-vous (sur place, par téléphone, par visioconférence ou à domicile) ou plusieurs durée par défaut (30 minutes ou 60 minutes) pour un même motif, il sera nécessaire de dupliquer et créer plusieurs motifs.&#x20;
+Si vous souhaitez proposer plusieurs modalités de rendez-vous (sur place, par téléphone, par visioconférence ou à domicile) ou plusieurs durée par défaut (30 minutes ou 60 minutes) pour un même motif, il sera nécessaire de dupliquer et créer plusieurs motifs.
 
 ***
 
-#### **Réservation en ligne**&#x20;
+#### **Réservation en ligne**
 
-Un motif peut-être ouvert ou non à la prise de rendez-vous en ligne. Vous pouvez sélectionner cette option depuis l'onglet _**réservation en ligne**_ de l'écran de configuration des motifs. Vous devez cocher la case _ouvert aux usagers_.&#x20;
+Un motif peut-être ouvert ou non à la prise de rendez-vous en ligne. Vous pouvez sélectionner cette option depuis l'onglet _**réservation en ligne**_ de l'écran de configuration des motifs. Vous devez cocher la case _ouvert aux usagers_.
 
 {% hint style="success" %}
-**Une pastille&#x20;**_**en ligne**_**&#x20;s'affichera pour chaque motif.**&#x20;
+**Une pastille&#x20;**_**en ligne**_**&#x20;s'affichera pour chaque motif.**
 {% endhint %}
 
 Dès lors que vous ouvrez la prise de rendez-vous en ligne pour un motif, vous accéderez à des options de configurations supplémentaires liées au **délais minimum et maximum de réservation**. En configurant ces options, vous pouvez limiter la visibilités des disponibilités des plages de disponibilités des agents dans le parcours de prise de rendez-vous en ligne.
 
-Aussi, vous pouvez offrir la possibilité à vos usagers de **modifier leur créneau de rendez-vous en autonomie**. Un bouton déplacer le RDV s'affichera depuis leur récapitulatif de rendez-vous accessible depuis les notifications email et SMS.&#x20;
+Aussi, vous pouvez offrir la possibilité à vos usagers de **modifier leur créneau de rendez-vous en autonomie**. Un bouton déplacer le RDV s'affichera depuis leur récapitulatif de rendez-vous accessible depuis les notifications email et SMS.
 
 ***
 
 #### **Instruction et notification**
 
-Vous pouvez personnaliser des instructions de rendez-vous, motif par motif. Vous pouvez personnaliser ces instructions depuis l'onglet _**notification et instruction.**_&#x20;
+Vous pouvez personnaliser des instructions de rendez-vous, motif par motif. Vous pouvez personnaliser ces instructions depuis l'onglet _**notification et instruction.**_
 
-Cette fonctionnalité permet de faire afficher ces instructions :&#x20;
+Cette fonctionnalité permet de faire afficher ces instructions :
 
 * **Avant le rendez-vous** : dans le parcours en ligne, avant qu'un usager sélectionne un créneau
 * **Après le rendez-vous** : dans l'écran de confirmation du rendez-vous ainsi que dans la notification SMS, via l'URL _info/annulation_ et dans la notification email, via le champ _information supplémentaires_
@@ -193,7 +191,7 @@ Cette fonctionnalité permet de faire afficher ces instructions :&#x20;
 
 <details>
 
-<summary><strong>Services</strong> </summary>
+<summary><strong>Services</strong></summary>
 
 Vous pouvez gérer les services auxquels vos agents peuvent être affectés dans les différentes organisations.
 
@@ -209,7 +207,7 @@ Vous pouvez également **désactiver un service**. Les agents ne pourront alors 
 
 <details>
 
-<summary><strong>Organisations</strong> </summary>
+<summary><strong>Organisations</strong></summary>
 
 En tant qu’administrateur, vous pouvez accéder à la liste de vos organisations présentes dans votre espace et consulter ou modifier leur configuration.
 

@@ -22,7 +22,7 @@ La criticité des accès est déterminée par notre équipe, en fonction de votr
 
 <summary>Mes collègues sont-ils concernés ?</summary>
 
-Tous les agents ne sont pas concernés. Les agents concernés voient un bandeau en haut de leur écran RDV Service Public.
+Tous les agents ne sont pas concernés : seuls ceux dont le compte donne accès à un volume important de rendez-vous le sont.
 
 </details>
 
