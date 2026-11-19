@@ -41,7 +41,7 @@ Le domaine RDV Service Public peut être bloqué par un outil de protection des 
 * Cliquez sur l’icône de droite et autorisez les adresses du domaine @rdv-solidarites.fr / @rdv-service-public.fr / @rdv-aide-numerique.fr
 * Confirmez en validant le message "Autoriser les messages de ces domaines".
 
-Cette autorisation est appliquée à titre individuel et vos collègues auront potentiellement le même problème. Vous pouvez suggérer au responsable technique de votre administration de consulter [cette page](/broken/pages/B6Alt0LSsmM3qHXxtr0j) pour corriger ce problème pour tout le monde.
+Cette autorisation est appliquée à titre individuel et vos collègues auront potentiellement le même problème. Vous pouvez suggérer au responsable technique de votre administration de consulter la section « Les emails de RDV Service Public ne sont pas reçus par les agents » ci-dessous pour corriger ce problème pour tout le monde.
 
 ### Un problème temporaire sur les serveurs de RDV Service Public empêche l’envoi des emails
 
@@ -165,9 +165,9 @@ Pour des raisons de sécurité et de confidentialité, les événements créés 
 
 Notre application Microsoft demande les permissions suivantes : `Calendars.ReadWrite` et `User.read` [voir la documentation Microsoft](https://learn.microsoft.com/en-us/graph/permissions-reference#calendarsreadwrite).
 
-Le code source de RDV Service Public est accessible en open source sur [GitHub (betagouv/rdv-solidarites.fr)](https://github.com/betagouv/rdv-solidarites.fr) :
+Le code source de RDV Service Public est accessible en open source sur [GitHub (betagouv/rdv-service-public)](https://github.com/betagouv/rdv-service-public) :
 
-* **Configuration du client OAuth** : [https://github.com/betagouv/rdv-service-public/blob/production/config/initializers/omniauth.rb#L6](https://github.com/betagouv/rdv-service-public/blob/production/config/initializers/omniauth.rb#L6)
+* **Configuration du client OAuth** : [https://github.com/betagouv/rdv-service-public/blob/production/config/initializers/omniauth.rb#L4](https://github.com/betagouv/rdv-service-public/blob/production/config/initializers/omniauth.rb#L4)
 * **Code du client REST** : [https://github.com/betagouv/rdv-service-public/blob/production/app/models/outlook/api\_client.rb](https://github.com/betagouv/rdv-service-public/blob/production/app/models/outlook/api_client.rb)
 
 </details>
@@ -259,7 +259,7 @@ Vous pouvez modifier vos préférences de notifications email dans le menu « Pr
 
 Une application Microsoft 365 permet de synchroniser vos RDV vers votre agenda Outlook. Cette application ne fonctionne que pour les versions d’Outlook hébergées par Microsoft, pas pour les versions hébergées sur site.
 
-Vous trouverez plus d’informations sur [ici](faq.md).
+Vous trouverez plus d’informations dans la question [Synchronisation Outlook (Microsoft 365)](faq.md#synchronisation-outlook-microsoft-365).
 
 #### **Synchronisation Webcal**
 
@@ -267,11 +267,9 @@ Webcal est un protocole largement supporté par les logiciels de calendrier.
 
 Nous vous fournissons une URL individuelle fournissant le contenu de votre agenda au format ICS. Cette URL est disponible dans le menu « Synchronisation d’agenda » (bouton « Synchronisation par lien Webcal »), accessible en cliquant sur votre nom en haut à droite de l’écran. Il suffit de copier cette URL dans votre logiciel de calendrier externe et la synchronisation se fera automatiquement.
 
-Si vous synchronisez votre agenda RDV Solidarités avec Google Agenda, la mise à jour peut prendre jusqu'à 12 heures. Avec le calendrier Outlook, l'affichage est plus rapide, généralement dans l'heure suivant la prise de rendez-vous.
-
 La synchronisation WebCal n’est pas instantanée.\
 \
-La fréquence de mise à jour dépend de chaque logiciel de calendrier externe. Avec Google Agenda par exemple, la mise à jour peut prendre jusqu’à 12h. Avec Outlook, cette fréquence est généralement d’environ une heure mais chaque logiciel peut se comporter différemment.
+La fréquence de mise à jour dépend de chaque logiciel de calendrier externe. Avec Google Agenda par exemple, la mise à jour peut prendre jusqu’à 12h. Avec Outlook, cette fréquence est généralement d’environ une heure, mais chaque logiciel peut se comporter différemment.
 
 #### Synchronisation spécifique Outlook
 

@@ -4,17 +4,17 @@
 
 <div align="left"><figure><img src="../.gitbook/assets/image (5).png" alt="" width="128"><figcaption></figcaption></figure></div>
 
-RDV Solidarités a pour objectif de faciliter la mise en relation entre les usagers et les agents, ainsi qu'entre les agents de différentes structures et entités administratives. C’est dans ce contexte que la fonctionnalité de prescription a été pensée.
+RDV Service Public a pour objectif de faciliter la mise en relation entre les usagers et les agents, ainsi qu'entre les agents de différentes structures et entités administratives. C’est dans ce contexte que la fonctionnalité de prescription a été pensée.
 
-La prescription permet à un agent externe à l'organisation de planifier rendez-vous au nom de l’usager, en fonction des disponibilités de l'agent RDV Solidarités
+La prescription permet à un agent externe à l'organisation de planifier rendez-vous au nom de l’usager, en fonction des disponibilités de l'agent RDV Service Public
 
-À titre d'exemple, la prescription offre la possibilité à un agent de médiathèque (le prescripteur) à prendre rendez-vous pour un apprenant avec un conseiller numérique (l’agent RDV Solidarités).
+À titre d'exemple, la prescription offre la possibilité à un agent de médiathèque (le prescripteur) à prendre rendez-vous pour un apprenant avec un conseiller numérique (l’agent RDV Service Public).
 
 Dans cette logique de mise en relation, la prescription peut prendre deux formes : la prescription interne et la prescription externe.
 
-Globalement, la **prescription interne** concerne les agents utilisateurs de RDV Solidarités (ayant un compte) qui souhaitent orienter un usager vers une structure à laquelle l'agent planifiant le rendez-vous n'appartient pas.
+Globalement, la **prescription interne** concerne les agents utilisateurs de RDV Service Public (ayant un compte) qui souhaitent orienter un usager vers une structure à laquelle l'agent planifiant le rendez-vous n'appartient pas.
 
-Quant à la **prescription externe**, elle s'adresse aux agents qui n'ont pas de compte RDV Solidarités mais qui sont amenés à planifier des rendez-vous de manière régulière pour les usagers en fonction des disponibilités des agents utilisateurs de RDV Solidarités.
+Quant à la **prescription externe**, elle s'adresse aux agents qui n'ont pas de compte RDV Service Public mais qui sont amenés à planifier des rendez-vous de manière régulière pour les usagers en fonction des disponibilités des agents utilisateurs de RDV Service Public.
 
 ## En tant qu’administrateur, comment rendre les créneaux de réservation en ligne disponibles pour les prescripteurs ?
 
@@ -27,7 +27,7 @@ Tout comme l’ouverture en ligne aux usagers, proposer des créneaux de prise d
 
 ## En tant que prescripteur, comment planifier un rendez-vous pour un usager ?
 
-### Je suis un agent ayant un compte RDVS et je souhaite planifier un rendez-vous sein d’une organisation de mon territoire (prescription interne)
+### Je suis un agent ayant un compte RDV Service Public et je souhaite planifier un rendez-vous sein d’une organisation de mon territoire (prescription interne)
 
 #### **Je souhaite faire de la prescription interne pour un usager identifié 👇**
 
@@ -61,7 +61,7 @@ Nouveauté ✨
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FCZACpx16wwY8yODH1YeI%2Fuploads%2FMsnRJ4XM3Qns27yjixs6%2F3.mp4?alt=media&token=6daf58c1-df06-4e8f-832e-2cb3de8bd2cd" %}
 
-À partir du lien prescripteur ([https://www.rdv-solidarites.fr/prendre\_rdv?prescripteur=1](https://www.rdv-solidarites.fr/prendre_rdv?prescripteur=1)), vous avez également la possibilité de planifier un rendez-vous par prescription. Pour ce faire, il vous suffit d'entrer l'adresse postale de l'usager. Une fois cette adresse indiquée, sélectionnez le service, le motif, le lien et le créneau de rendez-vous. Après avoir saisi toutes ces informations, un bandeau vert vous propose de finaliser la prise de rendez-vous en cliquant sur "cliquez ici ».Cette proposition n'apparaît que lorsque vous êtes connecté à votre compte agent et vous permet de vous identifier directement.
+À partir du lien prescripteur ([https://rdv.anct.gouv.fr/prendre\_rdv?prescripteur=1](https://rdv.anct.gouv.fr/prendre_rdv?prescripteur=1)), vous avez également la possibilité de planifier un rendez-vous par prescription. Pour ce faire, il vous suffit d'entrer l'adresse postale de l'usager. Une fois cette adresse indiquée, sélectionnez le service, le motif, le lien et le créneau de rendez-vous. Après avoir saisi toutes ces informations, un bandeau vert vous propose de finaliser la prise de rendez-vous en cliquant sur "cliquez ici ».Cette proposition n'apparaît que lorsque vous êtes connecté à votre compte agent et vous permet de vous identifier directement.
 
 Vous serez alors redirigé vers une page qui conserve les informations préalablement sélectionnées, et vous pourrez clôturer la prise de rendez-vous en identifiant l'usager. Confirmez le rendez-vous.
 
@@ -69,18 +69,18 @@ Vous serez alors redirigé vers une page qui conserve les informations préalabl
 Nous vous encourageons à privilégier ce chemin lorsque vous êtes déjà connecté sur RDV. En etant authentifié sur votre espace, vous n’aurez plus besoin d’indiquer vos coordonnées
 {% endhint %}
 
-### Je suis un agent sans compte RDVS et je souhaite planifier un rendez-vous auprès une organisation utilisatrice de RDVS
+### Je suis un agent sans compte RDV Service Public et je souhaite planifier un rendez-vous auprès une organisation utilisatrice de RDV Service Public
 
-#### **Je souhaite planifier un rendez-vous auprès d’une organisation utilisatrice de RDVS 👇**
+#### **Je souhaite planifier un rendez-vous auprès d’une organisation utilisatrice de RDV Service Public 👇**
 
-En tant qu’agent d’une organisation utilisatrice de RDVS, vous pouvez planifier des rendez-vous selon les disponibilités des agents RDVS pour les usagers.
+En tant qu’agent d’une organisation utilisatrice de RDV Service Public, vous pouvez planifier des rendez-vous selon les disponibilités des agents RDV Service Public pour les usagers.
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FCZACpx16wwY8yODH1YeI%2Fuploads%2F6LqpkBISSeVJQjpAqaQk%2F4.mp4?alt=media&token=44a641dc-c71a-45e4-99ef-ef0b81eb9de3" %}
 
 Il existe deux entrés pour accéder au parcours prise de rendez-vous :
 
 * le lien propre à l’organisation que l’agent peut vous communiquer
-* lien prescripteur : [https://www.rdv-solidarites.fr/prendre\_rdv?prescripteur=1](https://www.rdv-solidarites.fr/prendre_rdv?prescripteur=1)
+* lien prescripteur : [https://rdv.anct.gouv.fr/prendre\_rdv?prescripteur=1](https://rdv.anct.gouv.fr/prendre_rdv?prescripteur=1)
 
 Une fois que vous avez reçu le lien, sélectionnez les éléments du rendez-vous dans cet ordre : le service, le motif, le lien, puis le créneau.
 
